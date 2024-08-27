@@ -1,0 +1,2042 @@
+{
+  "name": "Murang'A",
+  "type": "County",
+  "code": "021",
+  "constituencies": {
+    "104": {
+      "name": "Kangema",
+      "wards": {
+        "0516": {
+          "name": "Kanyenya-Ini",
+          "pollingStations": {
+            "10591": {
+              "name": "Kiruri Pr. Sch."
+            },
+            "10592": {
+              "name": "Karurumo Pr. Sch."
+            },
+            "10593": {
+              "name": "Ichichi Pr. Sch."
+            },
+            "10594": {
+              "name": "Karura Pr. Sch."
+            },
+            "10595": {
+              "name": "Kanyenyaini Pr. Sch."
+            },
+            "10596": {
+              "name": "Ngoeini Pr. Sch."
+            },
+            "10597": {
+              "name": "Gitugu Pr. Sch."
+            },
+            "10598": {
+              "name": "Kibutha Pr. Sch."
+            },
+            "10599": {
+              "name": "Githiga Pr. Sch."
+            },
+            "10600": {
+              "name": "Kanyenya-Ini Tea Factory"
+            },
+            "10601": {
+              "name": "Gatang Ara Nursery Sch."
+            },
+            "10602": {
+              "name": "Holy Rosary Pr. Sch."
+            },
+            "10603": {
+              "name": "Nduini Pr. Sch."
+            },
+            "10604": {
+              "name": "Karunga Tea Buying Centre"
+            }
+          }
+        },
+        "0517": {
+          "name": "Muguru",
+          "pollingStations": {
+            "10605": {
+              "name": "Kangema Pr. Sch."
+            },
+            "10606": {
+              "name": "Karuri Pr. Sch"
+            },
+            "10607": {
+              "name": "Kiairathe Pr. Sch."
+            },
+            "10608": {
+              "name": "Muguru Pr. Sch."
+            },
+            "10609": {
+              "name": "Marimira Coffee Factory"
+            },
+            "10610": {
+              "name": "Watuha Pr. Sch."
+            },
+            "10611": {
+              "name": "Kiangunyi Pr. Sch."
+            },
+            "10612": {
+              "name": "Ihiga Pr. Sch."
+            },
+            "10613": {
+              "name": "Kiawairegi Pr. Sch."
+            },
+            "10614": {
+              "name": "Iyego Pr. Sch."
+            },
+            "10615": {
+              "name": "Thirikwa Pr. Sch."
+            },
+            "10616": {
+              "name": "Gacharaigu Pr. Sch."
+            },
+            "10617": {
+              "name": "Gatunduini Pr. Sch."
+            },
+            "10618": {
+              "name": "Nyakahura Pr. Sch."
+            },
+            "10619": {
+              "name": "Njii Ithatu Pr. Sch."
+            },
+            "10620": {
+              "name": "Mukarara Pr. Sch."
+            },
+            "10621": {
+              "name": "Kangema Social Hall"
+            },
+            "10622": {
+              "name": "Kahiti Ack Nur. Sch."
+            },
+            "10623": {
+              "name": "Ngooro Ack Pr. Sch."
+            },
+            "10624": {
+              "name": "Kahiti Pr. Sch."
+            },
+            "10625": {
+              "name": "Mugechi Kaboro Pr. Sch."
+            },
+            "10626": {
+              "name": "Kahuhu Nur. Sch."
+            }
+          }
+        },
+        "0518": {
+          "name": "Rwathia",
+          "pollingStations": {
+            "10627": {
+              "name": "Wanjerere Pr. Sch."
+            },
+            "10628": {
+              "name": "Nyagatugu Pr. Sch."
+            },
+            "10629": {
+              "name": "Kihoya Pr. Sch."
+            },
+            "10630": {
+              "name": "Kayu Pr. Sch."
+            },
+            "10631": {
+              "name": "Kiawambogo Pr. Sch."
+            },
+            "10632": {
+              "name": "Kanguru Pr. Sch."
+            },
+            "10633": {
+              "name": "Rwathia Pr. Sch."
+            },
+            "10634": {
+              "name": "Kenya Njeru Pr. Sch."
+            },
+            "10635": {
+              "name": "Tuthu Pr. Sch."
+            },
+            "10636": {
+              "name": "Gachogi Pr.Sch"
+            },
+            "10637": {
+              "name": "Karima Tbc"
+            }
+          }
+        }
+      }
+    },
+    "105": {
+      "name": "Mathioya",
+      "wards": {
+        "0519": {
+          "name": "Gitugi",
+          "pollingStations": {
+            "10638": {
+              "name": "Wambwe   Primary  School"
+            },
+            "10639": {
+              "name": "Njumbi  Primary  School"
+            },
+            "10640": {
+              "name": "Gikoe  Primary   School"
+            },
+            "10641": {
+              "name": "Ngutu  Primary  School"
+            },
+            "10642": {
+              "name": "Kanjahi  Primary  School"
+            },
+            "10643": {
+              "name": "Karung E   Primary  School"
+            },
+            "10644": {
+              "name": "Mihuti   Primary   School"
+            },
+            "10645": {
+              "name": "Gitugi   Primary  School"
+            },
+            "10646": {
+              "name": "Gakambura   Primary  School"
+            },
+            "10647": {
+              "name": "Chui   Primary   School"
+            },
+            "10648": {
+              "name": "Kambara   Primary School"
+            },
+            "10649": {
+              "name": "Nyangiti  Primary  School"
+            },
+            "10650": {
+              "name": "Yakarengo   Primary  School"
+            },
+            "10651": {
+              "name": "Kanoro  Primary  School"
+            },
+            "10652": {
+              "name": "Kirimahiga  Primary  School"
+            },
+            "10653": {
+              "name": "Nyakianga  Primary  School"
+            },
+            "10654": {
+              "name": "Gataragwa   Nursery  School"
+            },
+            "10655": {
+              "name": "Ruiru   Primary  School"
+            },
+            "10656": {
+              "name": "Kairi-Ini Nursery  School"
+            },
+            "10657": {
+              "name": "Kiganjo  Nursery  School"
+            },
+            "10658": {
+              "name": "Kirimiga   Nursery  School"
+            },
+            "10659": {
+              "name": "Githendu   Primary  School"
+            },
+            "10660": {
+              "name": "Kiuu  Primary   School"
+            },
+            "10661": {
+              "name": "Mutitu Youth Polytechnic"
+            },
+            "10662": {
+              "name": "Ireke Tea Collection Centre"
+            }
+          }
+        },
+        "0520": {
+          "name": "Kiru",
+          "pollingStations": {
+            "10663": {
+              "name": "Kairo   Primary  School"
+            },
+            "10664": {
+              "name": "Kihari  Primary  School"
+            },
+            "10665": {
+              "name": "Kiambuthia  Primary  School"
+            },
+            "10666": {
+              "name": "Gachiriro  Primary  School"
+            },
+            "10667": {
+              "name": "Kiria-Ini  Primary  School"
+            },
+            "10668": {
+              "name": "Umbui  Primary  School"
+            },
+            "10669": {
+              "name": "Kiru  Primary  School"
+            },
+            "10670": {
+              "name": "Kagumo-Ini  Primary  School"
+            },
+            "10671": {
+              "name": "Kiriko  Primary  School"
+            },
+            "10672": {
+              "name": "Warugara   Primary  School"
+            },
+            "10673": {
+              "name": "Mananga  Primary  School"
+            },
+            "10674": {
+              "name": "Kiamuturi  Primary  School"
+            },
+            "10675": {
+              "name": "Muthangari  Primary  School"
+            },
+            "10676": {
+              "name": "Mioro   Primary  School"
+            },
+            "10677": {
+              "name": "Kagongo Tea Collection Centre"
+            },
+            "10678": {
+              "name": "Gititu  Primary  School"
+            },
+            "10679": {
+              "name": "Nguru-Ini   Primary  School"
+            },
+            "10680": {
+              "name": "Ruru  Primary   School"
+            },
+            "10681": {
+              "name": "Kiangima   Nursery  School"
+            },
+            "10682": {
+              "name": "Mwangathia   Tea  Collection Centre"
+            },
+            "10683": {
+              "name": "Kagio-Ini   Primary  School"
+            },
+            "10684": {
+              "name": "Kora  Primary  School"
+            },
+            "10685": {
+              "name": "Kiruru Coffee Factory"
+            },
+            "10686": {
+              "name": "Ngoe-Ini Tea Collection Centre"
+            },
+            "10687": {
+              "name": "Thagama Tea Collection Centre"
+            },
+            "10688": {
+              "name": "Kiangugi Tea Collection Centre"
+            },
+            "10689": {
+              "name": "Kamagoko Tea Collection Centre"
+            },
+            "10690": {
+              "name": "Kaharo Tea Collection Centre"
+            }
+          }
+        },
+        "0521": {
+          "name": "Kamacharia",
+          "pollingStations": {
+            "10691": {
+              "name": "Kiriithiru  Primary School"
+            },
+            "10692": {
+              "name": "Gikindu  Primary  School"
+            },
+            "10693": {
+              "name": "Kamune  Primary  School"
+            },
+            "10694": {
+              "name": "Wahundura  Primary  School"
+            },
+            "10695": {
+              "name": "Ngamba  Primary  School"
+            },
+            "10696": {
+              "name": "Kihuro  Primary  School"
+            },
+            "10697": {
+              "name": "Kairi  Primary  School"
+            },
+            "10698": {
+              "name": "Iruri  Primary  School"
+            },
+            "10699": {
+              "name": "Thuita  Primary  School"
+            },
+            "10700": {
+              "name": "Kaganjo  Primary  School"
+            },
+            "10701": {
+              "name": "Kang Ong I   Primary  School"
+            },
+            "10702": {
+              "name": "Gaithunu  Primary  School"
+            },
+            "10703": {
+              "name": "Mukui  Primary  School"
+            },
+            "10704": {
+              "name": "Ngechu  Primary  School"
+            },
+            "10705": {
+              "name": "Karugiro  Primary  School"
+            },
+            "10706": {
+              "name": "J. J. Kamotho Primary School"
+            },
+            "10707": {
+              "name": "Kirungu Primary School"
+            },
+            "10708": {
+              "name": "Kagwanja Primary School"
+            }
+          }
+        }
+      }
+    },
+    "106": {
+      "name": "Kiharu",
+      "wards": {
+        "0522": {
+          "name": "Wangu",
+          "pollingStations": {
+            "10709": {
+              "name": "Koimbi Primary School"
+            },
+            "10710": {
+              "name": "Gitweku Primary School"
+            },
+            "10711": {
+              "name": "Weithaga Primary School."
+            },
+            "10712": {
+              "name": "Kianderi Primary School"
+            },
+            "10713": {
+              "name": "Wanjengi Primary School"
+            },
+            "10714": {
+              "name": "Gitige Primary School."
+            },
+            "10715": {
+              "name": "Gitie Pprimary School"
+            },
+            "10716": {
+              "name": "Kahuti Youth Polytechnic"
+            },
+            "10717": {
+              "name": "Gituto Primary School"
+            },
+            "10718": {
+              "name": "Kirogo Primary School"
+            },
+            "10719": {
+              "name": "Kahuhia Primary School"
+            },
+            "10720": {
+              "name": "Mukangu Primary School"
+            },
+            "10721": {
+              "name": "Gitui Primary School"
+            },
+            "10722": {
+              "name": "Gatheru Primary School"
+            },
+            "10723": {
+              "name": "Gathinja Primary School"
+            },
+            "10724": {
+              "name": "Ithiki Primary School"
+            },
+            "10725": {
+              "name": "Mukangu Vocational Training Centre"
+            },
+            "10726": {
+              "name": "Karingu Primary School"
+            }
+          }
+        },
+        "0523": {
+          "name": "Mugoiri",
+          "pollingStations": {
+            "10727": {
+              "name": "Kiumu Primary School"
+            },
+            "10728": {
+              "name": "Kiboi Primary School"
+            },
+            "10729": {
+              "name": "Kiaguthu Secondary School"
+            },
+            "10730": {
+              "name": "Gitiri Primary School"
+            },
+            "10731": {
+              "name": "Murai Primary School"
+            },
+            "10732": {
+              "name": "Kari Primary School"
+            },
+            "10733": {
+              "name": "Gitaro Primary School"
+            },
+            "10734": {
+              "name": "Mbari Ya Hiti Primary School"
+            },
+            "10735": {
+              "name": "Githagara Primary School"
+            },
+            "10736": {
+              "name": "Gathiru Primary School"
+            },
+            "10737": {
+              "name": "Mirichu Primary School"
+            },
+            "10738": {
+              "name": "Kiyu Primary School"
+            },
+            "10739": {
+              "name": "Ya Mugwe Primary School"
+            },
+            "10740": {
+              "name": "Kagumo Primary School"
+            },
+            "10741": {
+              "name": "Ndutumi Primary School"
+            },
+            "10742": {
+              "name": "Ngaru Primary School"
+            },
+            "10743": {
+              "name": "Kiguru Primary School"
+            },
+            "10744": {
+              "name": "Kamaguta Primary School"
+            },
+            "10745": {
+              "name": "Muthiria Primary School"
+            },
+            "10746": {
+              "name": "Munyutha Primary School"
+            },
+            "10747": {
+              "name": "Irewa Nursery School"
+            }
+          }
+        },
+        "0524": {
+          "name": "Mbiri",
+          "pollingStations": {
+            "10748": {
+              "name": "Gikandu Primary School"
+            },
+            "10749": {
+              "name": "Kiawambeu Primary School"
+            },
+            "10750": {
+              "name": "Muchungucha Primary School"
+            },
+            "10751": {
+              "name": "Gaitega Primary School"
+            },
+            "10752": {
+              "name": "Ndikwe Primary School"
+            },
+            "10753": {
+              "name": "Kiangochi Primary School"
+            },
+            "10754": {
+              "name": "Githuguya Primary School"
+            },
+            "10755": {
+              "name": "Maragi Primary School"
+            },
+            "10756": {
+              "name": "Githuri Primary School"
+            },
+            "10757": {
+              "name": "Thangathi Primary School"
+            },
+            "10758": {
+              "name": "Kambirwa Primary School"
+            },
+            "10759": {
+              "name": "Muthigiriri Primary School"
+            },
+            "10760": {
+              "name": "Mirira Primary School"
+            },
+            "10761": {
+              "name": "Gikuu Primary School"
+            },
+            "10762": {
+              "name": "Marewa Primary School"
+            },
+            "10763": {
+              "name": "Matithi Primary School"
+            },
+            "10764": {
+              "name": "Kiangatia Primary School"
+            },
+            "10765": {
+              "name": "Gitungano Primary School"
+            }
+          }
+        },
+        "0525": {
+          "name": "Township",
+          "pollingStations": {
+            "10766": {
+              "name": "Kiangage Primary School"
+            },
+            "10767": {
+              "name": "St Mary Primary School"
+            },
+            "10768": {
+              "name": "Vidhu Ramji Primary School"
+            },
+            "10769": {
+              "name": "Technology Primary School"
+            },
+            "10770": {
+              "name": "Murang'A Municipal Social Hall"
+            },
+            "10771": {
+              "name": "Vidhu Ramji Secondary School"
+            },
+            "10772": {
+              "name": "Kongo-Ini Primary School"
+            },
+            "10773": {
+              "name": "Mbiri Primary School"
+            },
+            "10774": {
+              "name": "Mjini Primary School"
+            },
+            "10775": {
+              "name": "Mukuyu Ecde Centre"
+            },
+            "10776": {
+              "name": "Ihura Stadium"
+            }
+          }
+        },
+        "0526": {
+          "name": "Murarandia",
+          "pollingStations": {
+            "10777": {
+              "name": "Murarandia Primary School"
+            },
+            "10778": {
+              "name": "Mukumu Primary School"
+            },
+            "10779": {
+              "name": "Mukumu Tea Buying Center"
+            },
+            "10780": {
+              "name": "Matharite Primary School"
+            },
+            "10781": {
+              "name": "Kahatia Primary School"
+            },
+            "10782": {
+              "name": "Gathamba Tea Buying Center"
+            },
+            "10783": {
+              "name": "Theri Primary School"
+            },
+            "10784": {
+              "name": "Inoi Tea Buying Center"
+            },
+            "10785": {
+              "name": "Kahithe Primary School"
+            },
+            "10786": {
+              "name": "Kairichi Primary School"
+            },
+            "10787": {
+              "name": "Gatuya Primary School"
+            },
+            "10788": {
+              "name": "Maria-Ini Primary School"
+            },
+            "10789": {
+              "name": "Gathaithi Upper Primary School"
+            },
+            "10790": {
+              "name": "Kionjo-Ini Primary School"
+            },
+            "10791": {
+              "name": "Gathiru Nursery School"
+            },
+            "10792": {
+              "name": "Gatara Primary School"
+            },
+            "10793": {
+              "name": "Kaganda Primary School"
+            },
+            "10794": {
+              "name": "Thenge -Ini Primary School"
+            }
+          }
+        },
+        "0527": {
+          "name": "Gaturi",
+          "pollingStations": {
+            "10795": {
+              "name": "Gaitheri Primary School"
+            },
+            "10796": {
+              "name": "Gakurwe Primary School"
+            },
+            "10797": {
+              "name": "Kiambugi Primary School"
+            },
+            "10798": {
+              "name": "Gaturi Primary School"
+            },
+            "10799": {
+              "name": "Githanga Primary School"
+            },
+            "10800": {
+              "name": "Gakuyu Primary School"
+            },
+            "10801": {
+              "name": "Kabui Primary School"
+            },
+            "10802": {
+              "name": "Kiamuri Primary School"
+            },
+            "10803": {
+              "name": "Gathuki - Ini Primary School"
+            },
+            "10804": {
+              "name": "Mweru Primary School"
+            },
+            "10805": {
+              "name": "Muringa Primary School"
+            },
+            "10806": {
+              "name": "Kibuu Nursery School"
+            },
+            "10807": {
+              "name": "Karinga Nursery School"
+            },
+            "10808": {
+              "name": "Nyakihai Primary School"
+            },
+            "10809": {
+              "name": "Ititu Primary School"
+            },
+            "10810": {
+              "name": "Githundi Primary School"
+            },
+            "10811": {
+              "name": "Kambwe Primary School"
+            },
+            "10812": {
+              "name": "Gituri Primary School"
+            },
+            "10813": {
+              "name": "Kigongo Primary School"
+            },
+            "10814": {
+              "name": "Kimathi Primary School"
+            },
+            "10815": {
+              "name": "Rurii Primary School"
+            },
+            "10816": {
+              "name": "Kangure Primary School"
+            },
+            "10817": {
+              "name": "Kaigwa Primary School"
+            },
+            "10818": {
+              "name": "Rutune Primary School"
+            },
+            "10819": {
+              "name": "Matongu Primary School"
+            }
+          }
+        }
+      }
+    },
+    "107": {
+      "name": "Kigumo",
+      "wards": {
+        "0528": {
+          "name": "Kahumbu",
+          "pollingStations": {
+            "10820": {
+              "name": "Kahariro Primary School"
+            },
+            "10821": {
+              "name": "Kahumbu Primary School"
+            },
+            "10822": {
+              "name": "Gathima-Ini Primary School"
+            },
+            "10823": {
+              "name": "Mugumo-Ini Primary School"
+            },
+            "10824": {
+              "name": "Mbogo-Ini Primary School"
+            },
+            "10825": {
+              "name": "Ndonga Primary School"
+            },
+            "10826": {
+              "name": "Kandani Primary School"
+            },
+            "10827": {
+              "name": "Mumbu Primary School"
+            },
+            "10828": {
+              "name": "Gakarati Primary School"
+            },
+            "10829": {
+              "name": "Githembe Srcondary School"
+            },
+            "10830": {
+              "name": "Kagwathi Sda Primary School"
+            },
+            "10831": {
+              "name": "Kahuho Primary School"
+            },
+            "10832": {
+              "name": "Mwema Nursery School"
+            }
+          }
+        },
+        "0529": {
+          "name": "Muthithi",
+          "pollingStations": {
+            "10833": {
+              "name": "Gikondi Primary School"
+            },
+            "10834": {
+              "name": "Njora Primary School"
+            },
+            "10835": {
+              "name": "Kiugu Primary School"
+            },
+            "10836": {
+              "name": "Thamara  Primary School"
+            },
+            "10837": {
+              "name": "Wamahiga Primary School"
+            },
+            "10838": {
+              "name": "Gachathi-Ini Nursary School"
+            },
+            "10839": {
+              "name": "Muthithi Primary School"
+            },
+            "10840": {
+              "name": "Irigiro Primary School"
+            },
+            "10841": {
+              "name": "Gakeu Primary School"
+            },
+            "10842": {
+              "name": "Kiahiti Primary School"
+            },
+            "10843": {
+              "name": "Ngaburi Nursery School"
+            }
+          }
+        },
+        "0530": {
+          "name": "Kigumo",
+          "pollingStations": {
+            "10844": {
+              "name": "Karega  Primary School"
+            },
+            "10845": {
+              "name": "Kirere Primary School"
+            },
+            "10846": {
+              "name": "Karia -Ini Primary School"
+            },
+            "10847": {
+              "name": "Turuturu Primary School"
+            },
+            "10848": {
+              "name": "Kiriangoro Youth Polytechnic"
+            },
+            "10849": {
+              "name": "Githima Primary School"
+            },
+            "10850": {
+              "name": "Mathare -Ini Primary School"
+            },
+            "10851": {
+              "name": "Kaimairi Primary School"
+            },
+            "10852": {
+              "name": "Nguku Primary School"
+            },
+            "10853": {
+              "name": "Mutunguru Primary School"
+            },
+            "10854": {
+              "name": "Kigumo Primary School"
+            },
+            "10855": {
+              "name": "Marumi Primary School"
+            },
+            "10856": {
+              "name": "Gakoe-Ini Primary School"
+            },
+            "10857": {
+              "name": "Kihoko Tea Buying Centre"
+            },
+            "10858": {
+              "name": "Kahethu Nursery School"
+            }
+          }
+        },
+        "0531": {
+          "name": "Kangari",
+          "pollingStations": {
+            "10859": {
+              "name": "Mairi Primary School"
+            },
+            "10860": {
+              "name": "Mwarano Primary School"
+            },
+            "10861": {
+              "name": "Ngurwe-Ini Primary School"
+            },
+            "10862": {
+              "name": "Gatimu Primary School"
+            },
+            "10863": {
+              "name": "Makomboki Primary School"
+            },
+            "10864": {
+              "name": "Kanderendu Primary School"
+            },
+            "10865": {
+              "name": "Kimotho Primary School"
+            },
+            "10866": {
+              "name": "Mareira Primary School"
+            },
+            "10867": {
+              "name": "Ikumbi Primary School"
+            },
+            "10868": {
+              "name": "Wakibugi Tea Buying Centre"
+            },
+            "10869": {
+              "name": "Mareira Secondary School"
+            },
+            "10870": {
+              "name": "Kangari Youth Polytechnic"
+            },
+            "10871": {
+              "name": "Gatia-Ini Primary School"
+            },
+            "10872": {
+              "name": "Aberdare Peak Primary School"
+            },
+            "10873": {
+              "name": "Kahuho Tea Buying Centre"
+            },
+            "10874": {
+              "name": "Kahiga Tea Buying Centre"
+            },
+            "10875": {
+              "name": "Irima Tea Buying Centre"
+            },
+            "10876": {
+              "name": "Ngecha Primary School"
+            },
+            "10877": {
+              "name": "Nyatarugu Tea Buying Centre"
+            },
+            "10878": {
+              "name": "Gatitu Tea Buying Centre"
+            },
+            "10879": {
+              "name": "Kiritu Tea Buying Centre"
+            }
+          }
+        },
+        "0532": {
+          "name": "Kinyona",
+          "pollingStations": {
+            "10880": {
+              "name": "Gikigie Primary School"
+            },
+            "10881": {
+              "name": "Muiria Primary School"
+            },
+            "10882": {
+              "name": "Boro Primary School"
+            },
+            "10883": {
+              "name": "Kinyona Primary School"
+            },
+            "10884": {
+              "name": "Karinga Primary School"
+            },
+            "10885": {
+              "name": "Matandara Primary School"
+            },
+            "10886": {
+              "name": "Kamukabi Primary School"
+            },
+            "10887": {
+              "name": "Matu Primary School"
+            },
+            "10888": {
+              "name": "Kiangai Primary School"
+            },
+            "10889": {
+              "name": "Kiamaingi Primary School"
+            },
+            "10890": {
+              "name": "Rarakwa Secondary School"
+            },
+            "10891": {
+              "name": "Irati Tea Buying Centre"
+            },
+            "10892": {
+              "name": "Mununga Nursery School"
+            },
+            "10893": {
+              "name": "Ndugamano Primary School"
+            },
+            "10894": {
+              "name": "Gatumbi Primary School"
+            },
+            "10895": {
+              "name": "Gachocho Primary School"
+            },
+            "10896": {
+              "name": "Kamung'Ang'A Primary School"
+            },
+            "10897": {
+              "name": "Acc&S Gichuka Primary School"
+            },
+            "10898": {
+              "name": "Mucagatha Nursery School"
+            },
+            "10899": {
+              "name": "Kamwario Tea Buying Centre"
+            }
+          }
+        }
+      }
+    },
+    "108": {
+      "name": "Maragwa",
+      "wards": {
+        "0533": {
+          "name": "Kimorori/Wempa",
+          "pollingStations": {
+            "10900": {
+              "name": "Kabati  Polytechnic"
+            },
+            "10901": {
+              "name": "Methi  Nursery School"
+            },
+            "10902": {
+              "name": "Kangangu Primary School"
+            },
+            "10903": {
+              "name": "Mangoto   Nursery School"
+            },
+            "10904": {
+              "name": "Kimorori   Primary School"
+            },
+            "10905": {
+              "name": "Karung'Ang'I     Primary School"
+            },
+            "10906": {
+              "name": "Kagaa   Primary School"
+            },
+            "10907": {
+              "name": "Athaara   Primary School"
+            },
+            "10908": {
+              "name": "Gichohi   Primary School"
+            },
+            "10909": {
+              "name": "P.K   Primary School"
+            },
+            "10910": {
+              "name": "Thangira Sec School"
+            },
+            "10911": {
+              "name": "Githanji   Primary School"
+            },
+            "10912": {
+              "name": "Gathungururu   Primary School"
+            },
+            "10913": {
+              "name": "Thangira   Primary School"
+            }
+          }
+        },
+        "0534": {
+          "name": "Makuyu",
+          "pollingStations": {
+            "10914": {
+              "name": "Mutithi Primary School"
+            },
+            "10915": {
+              "name": "Maji Kiboko Primary School"
+            },
+            "10916": {
+              "name": "Gaichanjiru  Nursery"
+            },
+            "10917": {
+              "name": "Kirimiri   Primary School"
+            },
+            "10918": {
+              "name": "Mithini   Primary School"
+            },
+            "10919": {
+              "name": "Kinoo   Primary School"
+            },
+            "10920": {
+              "name": "Makuyu Town Council  Nursery"
+            },
+            "10921": {
+              "name": "Mugira   Primary School"
+            },
+            "10922": {
+              "name": "Ndera   Primary School"
+            },
+            "10923": {
+              "name": "Punda Milia   Primary School"
+            },
+            "10924": {
+              "name": "Marura   Primary School"
+            },
+            "10925": {
+              "name": "Murang'A College   Primary School"
+            },
+            "10926": {
+              "name": "Kihara   Primary School"
+            },
+            "10927": {
+              "name": "Makuyu   Primary School"
+            }
+          }
+        },
+        "0535": {
+          "name": "Kambiti",
+          "pollingStations": {
+            "10928": {
+              "name": "Kambiti   Primary School"
+            },
+            "10929": {
+              "name": "Gathanga   Primary School"
+            },
+            "10930": {
+              "name": "Mathengeta   Primary School"
+            },
+            "10931": {
+              "name": "Kiambaa   Primary School"
+            },
+            "10932": {
+              "name": "Kitune   Primary School"
+            },
+            "10933": {
+              "name": "Kiuguini   Primary School"
+            },
+            "10934": {
+              "name": "Kiambamba   Primary School"
+            },
+            "10935": {
+              "name": "Mihang'O   Primary School"
+            },
+            "10936": {
+              "name": "Huhoini   Primary School"
+            },
+            "10937": {
+              "name": "Maranjau   Primary School"
+            },
+            "10938": {
+              "name": "Kamuiru   Primary School"
+            },
+            "10939": {
+              "name": "Kawamanda   Primary School"
+            },
+            "10940": {
+              "name": "Matanya   Primary School"
+            },
+            "10941": {
+              "name": "Mumbi Nursery"
+            },
+            "10942": {
+              "name": "Kiyo   Primary School"
+            },
+            "10943": {
+              "name": "Muchagara   Primary School"
+            },
+            "10944": {
+              "name": "Marema   Primary School"
+            }
+          }
+        },
+        "0536": {
+          "name": "Kamahuha",
+          "pollingStations": {
+            "10945": {
+              "name": "Thaara Primary School"
+            },
+            "10946": {
+              "name": "Ndorome   Primary School"
+            },
+            "10947": {
+              "name": "Kahaini   Primary School"
+            },
+            "10948": {
+              "name": "Nyati   Primary School"
+            },
+            "10949": {
+              "name": "Kaharati   Primary School"
+            },
+            "10950": {
+              "name": "Sabasaba   Primary School"
+            },
+            "10951": {
+              "name": "Gathuri   Primary School"
+            },
+            "10952": {
+              "name": "Wathiani   Primary School"
+            },
+            "10953": {
+              "name": "Maganjo   Primary School"
+            },
+            "10954": {
+              "name": "Igikiro  Primary School"
+            },
+            "10955": {
+              "name": "Iganjo   Primary School"
+            }
+          }
+        },
+        "0537": {
+          "name": "Ichagaki",
+          "pollingStations": {
+            "10956": {
+              "name": "Mariiki Nursery School"
+            },
+            "10957": {
+              "name": "Munguini Primary School"
+            },
+            "10958": {
+              "name": "Wairuri   Primary School"
+            },
+            "10959": {
+              "name": "Kianjiruini   Primary School"
+            },
+            "10960": {
+              "name": "Githuya   Primary School"
+            },
+            "10961": {
+              "name": "Mugumo   Primary School"
+            },
+            "10962": {
+              "name": "Ichagaki   Primary School"
+            },
+            "10963": {
+              "name": "Gikomora   Primary School"
+            },
+            "10964": {
+              "name": "Itaara   Primary School"
+            },
+            "10965": {
+              "name": "Maragwa Central Business Market"
+            }
+          }
+        },
+        "0538": {
+          "name": "Nginda",
+          "pollingStations": {
+            "10966": {
+              "name": "Itaaga   Primary School"
+            },
+            "10967": {
+              "name": "Nyagachugu   Primary School"
+            },
+            "10968": {
+              "name": "Irembu   Primary School"
+            },
+            "10969": {
+              "name": "Ihumbu   Primary School"
+            },
+            "10970": {
+              "name": "Gathera   Primary School"
+            },
+            "10971": {
+              "name": "Gathera Acc&S Nursery"
+            },
+            "10972": {
+              "name": "Kaharo   Primary School"
+            },
+            "10973": {
+              "name": "Kirimaini   Primary School"
+            },
+            "10974": {
+              "name": "Nginda   Primary School"
+            },
+            "10975": {
+              "name": "Ihigaini   Primary School"
+            },
+            "10976": {
+              "name": "Gakoigo   Primary School"
+            },
+            "10977": {
+              "name": "Gakoigo Show Ground"
+            },
+            "10978": {
+              "name": "Ikundu   Primary School"
+            },
+            "10979": {
+              "name": "Maragua   Primary School"
+            },
+            "10980": {
+              "name": "Maragua Muslim . Madarasa"
+            }
+          }
+        }
+      }
+    },
+    "109": {
+      "name": "Kandara",
+      "wards": {
+        "0539": {
+          "name": "Ng'Araria",
+          "pollingStations": {
+            "10981": {
+              "name": "Mugaa-Ini Primary School"
+            },
+            "10982": {
+              "name": "Naaro Primary School"
+            },
+            "10983": {
+              "name": "Mahutia Primary  School"
+            },
+            "10984": {
+              "name": "Ng'Araria Primary School"
+            },
+            "10985": {
+              "name": "Waitua Primary School"
+            },
+            "10986": {
+              "name": "Kawendo Primary  School"
+            },
+            "10987": {
+              "name": "Muiri-Ini Primary School"
+            },
+            "10988": {
+              "name": "Kaburugi Primary School"
+            },
+            "10989": {
+              "name": "Mugecha Primary School"
+            },
+            "10990": {
+              "name": "Kibuu Nursery School"
+            }
+          }
+        },
+        "0540": {
+          "name": "Muruka",
+          "pollingStations": {
+            "10991": {
+              "name": "Makindi Primary School"
+            },
+            "10992": {
+              "name": "Karumu Primary School"
+            },
+            "10993": {
+              "name": "Rukira Primary School"
+            },
+            "10994": {
+              "name": "Muruka Primary School"
+            },
+            "10995": {
+              "name": "Gatitu Primary  School"
+            },
+            "10996": {
+              "name": "Kiawambutu Primary School"
+            },
+            "10997": {
+              "name": "Mutundu-Ini Primary School"
+            },
+            "10998": {
+              "name": "Kiranga Primary School"
+            },
+            "10999": {
+              "name": "Kanyiri-Ini Primary School"
+            },
+            "11000": {
+              "name": "Nguthuru Primary School"
+            },
+            "11001": {
+              "name": "Kariko Primary School"
+            },
+            "11002": {
+              "name": "Rukira Nursery School"
+            },
+            "11003": {
+              "name": "Rurii Catholic Hall"
+            }
+          }
+        },
+        "0541": {
+          "name": "Kagundu-Ini",
+          "pollingStations": {
+            "11004": {
+              "name": "Kabati Coffee Factory"
+            },
+            "11005": {
+              "name": "Mukerenju Primary School"
+            },
+            "11006": {
+              "name": "Riandegwa Primary School"
+            },
+            "11007": {
+              "name": "Karigu-Ini Primary School"
+            },
+            "11008": {
+              "name": "St Mary'S A.C.K Kenol"
+            },
+            "11009": {
+              "name": "Kirirwa Primary School"
+            },
+            "11010": {
+              "name": "Mairungi Primary School"
+            },
+            "11011": {
+              "name": "Ngaa-Ini Primary School"
+            },
+            "11012": {
+              "name": "Kagundu-Ini Primary School"
+            },
+            "11013": {
+              "name": "Githunguri Primary School"
+            },
+            "11014": {
+              "name": "Machegeca Primary School"
+            },
+            "11015": {
+              "name": "Gathige Primary School"
+            },
+            "11016": {
+              "name": "Mahuria Primary School"
+            }
+          }
+        },
+        "0542": {
+          "name": "Gaichanjiru",
+          "pollingStations": {
+            "11017": {
+              "name": "Kihuru-Ini Primary School"
+            },
+            "11018": {
+              "name": "Karugia Primary School"
+            },
+            "11019": {
+              "name": "Manjuu Primary School"
+            },
+            "11020": {
+              "name": "Wangai Primary School"
+            },
+            "11021": {
+              "name": "Gaichanjiru High Sch"
+            },
+            "11022": {
+              "name": "Gakoigo Primary School"
+            },
+            "11023": {
+              "name": "Githigi Pryimary School"
+            },
+            "11024": {
+              "name": "Kawanjeru Primary School"
+            },
+            "11025": {
+              "name": "Thagari Primary School"
+            },
+            "11026": {
+              "name": "Gaichanjiru Primary School"
+            },
+            "11027": {
+              "name": "Kagira Primary School"
+            },
+            "11028": {
+              "name": "Kagira Nursery School"
+            },
+            "11029": {
+              "name": "Gatitu-Ini Primary School"
+            },
+            "11030": {
+              "name": "Kariua Primary School"
+            },
+            "11031": {
+              "name": "Kiharo Primary School"
+            },
+            "11032": {
+              "name": "Githaiti Primary School"
+            }
+          }
+        },
+        "0543": {
+          "name": "Ithiru",
+          "pollingStations": {
+            "11033": {
+              "name": "Kabati Youth Polytechnic"
+            },
+            "11034": {
+              "name": "Kaguthi Primary School"
+            },
+            "11035": {
+              "name": "Karembu-Ini Primary School"
+            },
+            "11036": {
+              "name": "Kirigithu Primary School"
+            },
+            "11037": {
+              "name": "Kiguoya Primary School"
+            },
+            "11038": {
+              "name": "Githuya Primary School"
+            },
+            "11039": {
+              "name": "Kandara Primary School"
+            },
+            "11040": {
+              "name": "Kiiri Primary School"
+            },
+            "11041": {
+              "name": "Kagongo Primary School"
+            },
+            "11042": {
+              "name": "Kandara Childrens' Home"
+            },
+            "11043": {
+              "name": "Mutitu Primary School"
+            },
+            "11044": {
+              "name": "Kamoro Nursery School"
+            },
+            "11045": {
+              "name": "Gakui Primary School"
+            },
+            "11046": {
+              "name": "Matira-Ini Primary School"
+            },
+            "11047": {
+              "name": "Karimamwaro Primary School"
+            },
+            "11048": {
+              "name": "Gathugu Primary School"
+            },
+            "11049": {
+              "name": "Gakarara Primary School"
+            },
+            "11050": {
+              "name": "Kirunguru Primary School"
+            },
+            "11051": {
+              "name": "Njogu-Ini Nursery School"
+            }
+          }
+        },
+        "0544": {
+          "name": "Ruchu",
+          "pollingStations": {
+            "11052": {
+              "name": "Mung'Aria Primary School"
+            },
+            "11053": {
+              "name": "Rwathe Primary School"
+            },
+            "11054": {
+              "name": "Gitare Primary School"
+            },
+            "11055": {
+              "name": "Githigia Primary School"
+            },
+            "11056": {
+              "name": "Kangui Primary School"
+            },
+            "11057": {
+              "name": "Kahiga Pryimary School"
+            },
+            "11058": {
+              "name": "Githumu Primary School"
+            },
+            "11059": {
+              "name": "Gituru Primary School"
+            },
+            "11060": {
+              "name": "Gichagi-Ini Primary School"
+            },
+            "11061": {
+              "name": "Wahu Primary School"
+            },
+            "11062": {
+              "name": "Kiawangenye T/B Centre"
+            },
+            "11063": {
+              "name": "Kiangari Primary School"
+            },
+            "11064": {
+              "name": "Nduti Tea Buying Centre"
+            },
+            "11065": {
+              "name": "Kamichee Primary School"
+            },
+            "11066": {
+              "name": "Gathage Primary School"
+            },
+            "11067": {
+              "name": "Ruona Primary School"
+            },
+            "11068": {
+              "name": "Mukuria Primary School"
+            },
+            "11069": {
+              "name": "Gacharage Primary School"
+            },
+            "11070": {
+              "name": "Mutheru Primary School"
+            },
+            "11071": {
+              "name": "Muigariua Tea Buying Center"
+            },
+            "11072": {
+              "name": "Karangi Collection Center"
+            },
+            "11073": {
+              "name": "Kairi Tea Buying Center"
+            }
+          }
+        }
+      }
+    },
+    "110": {
+      "name": "Gatanga",
+      "wards": {
+        "0545": {
+          "name": "Ithanga",
+          "pollingStations": {
+            "11074": {
+              "name": "Thungururu Pry Sch."
+            },
+            "11075": {
+              "name": "Ngelelia Pry Sch."
+            },
+            "11076": {
+              "name": "Kaliala Pry Sch."
+            },
+            "11077": {
+              "name": "Mugumo Pry Sch."
+            },
+            "11078": {
+              "name": "Mianyani Pry Sch"
+            },
+            "11079": {
+              "name": "Kyaume Pry Sch"
+            },
+            "11080": {
+              "name": "Mwania Mbogo Pry Sch"
+            },
+            "11081": {
+              "name": "Kanduri Pry Sch"
+            },
+            "11082": {
+              "name": "St Teresa Pry Sch"
+            },
+            "11083": {
+              "name": "Ngurunga Pry Sch"
+            },
+            "11084": {
+              "name": "Ithanga Pry Sch"
+            },
+            "11085": {
+              "name": "Ithanga Sec Sch"
+            }
+          }
+        },
+        "0546": {
+          "name": "Kakuzi/Mitubiri",
+          "pollingStations": {
+            "11086": {
+              "name": "Ngatho Pry Sch."
+            },
+            "11087": {
+              "name": "Rubiro Pry Sch."
+            },
+            "11088": {
+              "name": "Matunda Pry Sch."
+            },
+            "11089": {
+              "name": "Silanga Pry Sch."
+            },
+            "11090": {
+              "name": "Muti Pry Sch."
+            },
+            "11091": {
+              "name": "Makutano Pry"
+            },
+            "11092": {
+              "name": "Iembeni Pry Sch."
+            },
+            "11093": {
+              "name": "Cannary Social Hall"
+            },
+            "11094": {
+              "name": "Kihunguro Pry Sch."
+            },
+            "11095": {
+              "name": "Mwana-Wi-Kio Pry Sch."
+            },
+            "11096": {
+              "name": "Chui Rapids Social Hall"
+            },
+            "11097": {
+              "name": "Swani Pry Sch"
+            },
+            "11098": {
+              "name": "Mt. Olive Pry Sch."
+            },
+            "11099": {
+              "name": "Greystone Nur. Sch."
+            },
+            "11100": {
+              "name": "Nanga Pry Sch."
+            },
+            "11101": {
+              "name": "Nginyi Nur. Sch."
+            },
+            "11102": {
+              "name": "Gatwikira Nur.Sch."
+            },
+            "11103": {
+              "name": "Kinyangi Pry Sch"
+            },
+            "11104": {
+              "name": "Kitito Pry Sch"
+            },
+            "11105": {
+              "name": "Kakuzi Pry Sch"
+            }
+          }
+        },
+        "0547": {
+          "name": "Mugumo-Ini",
+          "pollingStations": {
+            "11106": {
+              "name": "Gakurari Sec Sch."
+            },
+            "11107": {
+              "name": "Giatutu Pry Sch."
+            },
+            "11108": {
+              "name": "Kigio Sec Sch."
+            },
+            "11109": {
+              "name": "Kigio Pry Sch."
+            },
+            "11110": {
+              "name": "Muthuri Pry Sch."
+            },
+            "11111": {
+              "name": "Gathambara Pry Sch."
+            },
+            "11112": {
+              "name": "Gakurari Pry Sch."
+            },
+            "11113": {
+              "name": "Mithandukuini Nur Sch."
+            },
+            "11114": {
+              "name": "Gatunyu Pry Sch."
+            },
+            "11115": {
+              "name": "Rwaitira Pry Sch."
+            },
+            "11116": {
+              "name": "Ithang'Arari Pry. Sch"
+            },
+            "11117": {
+              "name": "Gaitegi Nur. Sch"
+            },
+            "11118": {
+              "name": "Thamuru Pry Sch."
+            },
+            "11119": {
+              "name": "Makongo Pry Sch."
+            },
+            "11120": {
+              "name": "Mwiting'Iri Pry Sch."
+            },
+            "11121": {
+              "name": "Horticultural Ctr."
+            },
+            "11122": {
+              "name": "Muteria Pry Sch."
+            },
+            "11123": {
+              "name": "Kiama Pry Sch."
+            }
+          }
+        },
+        "0548": {
+          "name": "Kihumbu-Ini",
+          "pollingStations": {
+            "11124": {
+              "name": "Kiunyu Pry Sch."
+            },
+            "11125": {
+              "name": "Elijah Kagiri Nur. Sch."
+            },
+            "11126": {
+              "name": "Gituamba Pry Sch."
+            },
+            "11127": {
+              "name": "Kiawaihiga Nur. Sch."
+            },
+            "11128": {
+              "name": "Rugaita Nur. Sch."
+            },
+            "11129": {
+              "name": "Watuku Nur. Sch."
+            },
+            "11130": {
+              "name": "Nyaga Pry Sch."
+            },
+            "11131": {
+              "name": "Paul Mbiyu Pry Sch"
+            },
+            "11132": {
+              "name": "Thuita Pry Sch."
+            },
+            "11133": {
+              "name": "Githambia Pry Sch."
+            },
+            "11134": {
+              "name": "Njaini Nur. Sch."
+            },
+            "11135": {
+              "name": "Mukarara Nur. Sch."
+            },
+            "11136": {
+              "name": "Mbari Ya Ruga Pry Sch."
+            },
+            "11137": {
+              "name": "Kahethu Nur. Sch."
+            },
+            "11138": {
+              "name": "Kibaaka Pry Sch."
+            },
+            "11139": {
+              "name": "Kihumbu-Ini Pry Sch"
+            },
+            "11140": {
+              "name": "Gati-Iguru Pry Sch."
+            }
+          }
+        },
+        "0549": {
+          "name": "Gatanga",
+          "pollingStations": {
+            "11141": {
+              "name": "Kirwara Polytechnic"
+            },
+            "11142": {
+              "name": "Gichumbu Pry Sch."
+            },
+            "11143": {
+              "name": "Mabanda Nursery Sch."
+            },
+            "11144": {
+              "name": "Mabanda Pry Sch."
+            },
+            "11145": {
+              "name": "Gatanga Pry Sch."
+            },
+            "11146": {
+              "name": "Rwegetha Pry Sch."
+            },
+            "11147": {
+              "name": "Mabae Pry Sch."
+            },
+            "11148": {
+              "name": "Chomo Pry Sch"
+            },
+            "11149": {
+              "name": "Umbui Nur Sch."
+            },
+            "11150": {
+              "name": "Ngungugu Pry Sch."
+            },
+            "11151": {
+              "name": "Kirwara Pry Sch."
+            },
+            "11152": {
+              "name": "Gakoe Nur. Sch"
+            },
+            "11153": {
+              "name": "Gathanji Pry Sch."
+            },
+            "11154": {
+              "name": "Gathuthu Pry Sch."
+            },
+            "11155": {
+              "name": "Thare Pry Sch."
+            },
+            "11156": {
+              "name": "Mureke Nur Sch."
+            },
+            "11157": {
+              "name": "Gatha-Ini Pry Sch."
+            }
+          }
+        },
+        "0550": {
+          "name": "Kariara",
+          "pollingStations": {
+            "11158": {
+              "name": "Iganjo Pry Sch."
+            },
+            "11159": {
+              "name": "Mwagu Pry Sch."
+            },
+            "11160": {
+              "name": "Kiarutara Pry Sch."
+            },
+            "11161": {
+              "name": "Gataka-Ini Pry Sch."
+            },
+            "11162": {
+              "name": "Karangi Pry Sch."
+            },
+            "11163": {
+              "name": "Kagarii Pry Sch."
+            },
+            "11164": {
+              "name": "Karega Pry Sch."
+            },
+            "11165": {
+              "name": "Mbugiti Pry Sch."
+            },
+            "11166": {
+              "name": "Elimambo Pry Sch."
+            },
+            "11167": {
+              "name": "Gatura Pry Sch."
+            },
+            "11168": {
+              "name": "Gatunguru Sec. Sch."
+            },
+            "11169": {
+              "name": "Gatunguru Pry Sch."
+            },
+            "11170": {
+              "name": "Wanduhi Nur. Sch."
+            },
+            "11171": {
+              "name": "Kimandi T.B.C"
+            },
+            "11172": {
+              "name": "Kimandi Pry Sch."
+            },
+            "11173": {
+              "name": "Wanyaga Pry Sch."
+            },
+            "11174": {
+              "name": "Karia-Ini T.B.C"
+            },
+            "11175": {
+              "name": "Ithanji T.B.C"
+            },
+            "11176": {
+              "name": "Wang'Ang'A T.B.C"
+            },
+            "11177": {
+              "name": "Gitiri Pry Sch."
+            },
+            "11178": {
+              "name": "Ndunyu Chege Craft Ctr."
+            },
+            "11179": {
+              "name": "Ndunyu Chege Pry Sch."
+            },
+            "11180": {
+              "name": "Kamunyaka Kiumu Pry Sch."
+            },
+            "11181": {
+              "name": "Kiangige Nur. Sch."
+            },
+            "11182": {
+              "name": "Kanunga Pry Sch."
+            },
+            "11183": {
+              "name": "Giachuki Pry Sch."
+            },
+            "11184": {
+              "name": "Kigoro Nur. Sch."
+            },
+            "11185": {
+              "name": "Mwea Nur. Sch."
+            },
+            "11186": {
+              "name": "Giteme Pry Sch."
+            },
+            "11187": {
+              "name": "Ndaka-Ini Pry Sch."
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Gatanga",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Kahuro",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Kandara",
+      "type": "Subcounty"
+    },
+    "004": {
+      "name": "Kangema",
+      "type": "Subcounty"
+    },
+    "005": {
+      "name": "Kigumo",
+      "type": "Subcounty"
+    },
+    "006": {
+      "name": "Mathioya",
+      "type": "Subcounty"
+    },
+    "007": {
+      "name": "Murang'a East",
+      "type": "Subcounty"
+    },
+    "008": {
+      "name": "Murang'a South",
+      "type": "Subcounty"
+    }
+  }
+}

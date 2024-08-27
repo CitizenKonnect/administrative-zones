@@ -1,0 +1,1195 @@
+{
+  "name": "Marsabit",
+  "type": "County",
+  "code": "010",
+  "constituencies": {
+    "045": {
+      "name": "Moyale",
+      "wards": {
+        "0221": {
+          "name": "Butiye",
+          "pollingStations": {
+            "03376": {
+              "name": "Bori Primary School"
+            },
+            "03377": {
+              "name": "Kate Primary School"
+            },
+            "03378": {
+              "name": "Somare Primary School"
+            },
+            "03379": {
+              "name": "Butiye Primary School"
+            },
+            "03380": {
+              "name": "Moyale Boys' Secondary School"
+            },
+            "03381": {
+              "name": "Dadacha Lakole Primary School"
+            },
+            "03382": {
+              "name": "Kuraa Manyatta Centre"
+            },
+            "03383": {
+              "name": "Malka Dhoke Mobile"
+            },
+            "03384": {
+              "name": "Qilta Primary School"
+            },
+            "03385": {
+              "name": "Butiye Nursery School"
+            },
+            "03386": {
+              "name": "Teso Primary School"
+            },
+            "03387": {
+              "name": "Arosa Primary School"
+            },
+            "03388": {
+              "name": "Manqatta Mobile"
+            },
+            "03389": {
+              "name": "Maeyi Nursery"
+            }
+          }
+        },
+        "0222": {
+          "name": "Sololo",
+          "pollingStations": {
+            "03390": {
+              "name": "Sololo Primary School"
+            },
+            "03391": {
+              "name": "Mado Adi Primary School"
+            },
+            "03392": {
+              "name": "Waye-Godha Primary School"
+            },
+            "03393": {
+              "name": "Anona Primary School"
+            },
+            "03394": {
+              "name": "Sololo Secondary School"
+            },
+            "03395": {
+              "name": "Ramole Primary School"
+            },
+            "03396": {
+              "name": "Sololo Women Group Centre"
+            },
+            "03397": {
+              "name": "Goda Loko Village Centre"
+            },
+            "03398": {
+              "name": "Mata Saden Mobile"
+            },
+            "03399": {
+              "name": "Abbo Manyatta Centre"
+            },
+            "03400": {
+              "name": "Anona Nursery School"
+            },
+            "03401": {
+              "name": "Sololo Madrasa"
+            },
+            "03402": {
+              "name": "Aria Mobile"
+            },
+            "03403": {
+              "name": "Dr. Guracha Memorial Girls School"
+            },
+            "03404": {
+              "name": "Obbu Technical"
+            }
+          }
+        },
+        "0223": {
+          "name": "Heillu/Manyatta",
+          "pollingStations": {
+            "03405": {
+              "name": "Manyatta Burji Madrassa"
+            },
+            "03406": {
+              "name": "St.Mary'S Primary School"
+            },
+            "03407": {
+              "name": "Heilu Primary School"
+            },
+            "03408": {
+              "name": "Mansile Primary School"
+            },
+            "03409": {
+              "name": "Kinisa Primary School"
+            },
+            "03410": {
+              "name": "K/Rashidin Primary School"
+            },
+            "03411": {
+              "name": "Heilu Nursery School"
+            },
+            "03412": {
+              "name": "Manyatta Primary School"
+            },
+            "03413": {
+              "name": "Fatul Bahri Madrasa"
+            },
+            "03414": {
+              "name": "Heilu Social Hall"
+            },
+            "03415": {
+              "name": "Moyale Girls Secondary School"
+            },
+            "03416": {
+              "name": "Funan Dimo Manyatta Centre"
+            }
+          }
+        },
+        "0224": {
+          "name": "Golbo",
+          "pollingStations": {
+            "03417": {
+              "name": "Odda Primary School"
+            },
+            "03418": {
+              "name": "Hadesa Nursery School"
+            },
+            "03419": {
+              "name": "Funan Nyatta Primary School"
+            },
+            "03420": {
+              "name": "Nana Primary School"
+            },
+            "03421": {
+              "name": "Yabalo Primary School"
+            },
+            "03422": {
+              "name": "Godoma Primary School"
+            },
+            "03423": {
+              "name": "Godoma Diko Primary School"
+            },
+            "03424": {
+              "name": "Golla Centre"
+            },
+            "03425": {
+              "name": "Dabel Primary School"
+            },
+            "03426": {
+              "name": "Dirr Dima Primary School"
+            },
+            "03427": {
+              "name": "Odda Dispensary"
+            },
+            "03428": {
+              "name": "Funan Nyatta Water Point"
+            },
+            "03429": {
+              "name": "Nana Bore Hole"
+            },
+            "03430": {
+              "name": "Walensu Taka Mobile"
+            },
+            "03431": {
+              "name": "Guyo Timo Nursery School"
+            },
+            "03432": {
+              "name": "Dabel Water Point"
+            },
+            "03433": {
+              "name": "Iladu Nursery School"
+            },
+            "03434": {
+              "name": "Watiti Primary School"
+            },
+            "03435": {
+              "name": "Qalaliwe Centre"
+            },
+            "03436": {
+              "name": "Missa Centre"
+            },
+            "03437": {
+              "name": "Qomqom Primary School"
+            },
+            "03438": {
+              "name": "Garse Nursery School"
+            },
+            "03439": {
+              "name": "Godhe Nursery School"
+            },
+            "03440": {
+              "name": "Qoloba Primary School"
+            }
+          }
+        },
+        "0225": {
+          "name": "Moyale Township",
+          "pollingStations": {
+            "03441": {
+              "name": "Moyale Primary School"
+            },
+            "03442": {
+              "name": "Al Huda Primary School"
+            },
+            "03443": {
+              "name": "Old Hospital Hall"
+            },
+            "03444": {
+              "name": "Baraza Park"
+            },
+            "03445": {
+              "name": "Itisam Madrasa"
+            },
+            "03446": {
+              "name": "Moyale Madrasa"
+            },
+            "03447": {
+              "name": "Sessi Primary School"
+            },
+            "03448": {
+              "name": "Muslim Primary School"
+            },
+            "03449": {
+              "name": "Al Amin Madrasa"
+            },
+            "03450": {
+              "name": "Taqwa Madrasa"
+            },
+            "03451": {
+              "name": "Gurumesa Dispensary"
+            }
+          }
+        },
+        "0226": {
+          "name": "Uran",
+          "pollingStations": {
+            "03452": {
+              "name": "Walda Primary School"
+            },
+            "03453": {
+              "name": "Rawana Primary School"
+            },
+            "03454": {
+              "name": "Elle Bora Primary School"
+            },
+            "03455": {
+              "name": "Uran Nursery School"
+            },
+            "03456": {
+              "name": "Uran Primary School"
+            },
+            "03457": {
+              "name": "Golole Primary School"
+            },
+            "03458": {
+              "name": "Karbururi Nursery School"
+            },
+            "03459": {
+              "name": "Yasare Mobile"
+            },
+            "03460": {
+              "name": "Dadach Elele Primary School"
+            },
+            "03461": {
+              "name": "Buti Mobile"
+            },
+            "03462": {
+              "name": "Funan Qumbi Primary School"
+            },
+            "03463": {
+              "name": "Banale Water Point"
+            },
+            "03464": {
+              "name": "Helle Dimtu Mobile"
+            },
+            "03465": {
+              "name": "Uran Godha Primary School"
+            },
+            "03466": {
+              "name": "Badanota Centre"
+            },
+            "03467": {
+              "name": "Qicha Primary School"
+            },
+            "03468": {
+              "name": "Mado Adi Mobile"
+            },
+            "03469": {
+              "name": "Golole Nursery School"
+            },
+            "03470": {
+              "name": "Karbururi Primary School"
+            },
+            "03471": {
+              "name": "Qonqoma Mobile"
+            },
+            "03472": {
+              "name": "Dirmetti Nursery School"
+            },
+            "03473": {
+              "name": "Uran Dida Centre"
+            },
+            "03474": {
+              "name": "Qiltipe Centre"
+            },
+            "03475": {
+              "name": "Gawale Mobile"
+            }
+          }
+        },
+        "0227": {
+          "name": "Obbu",
+          "pollingStations": {
+            "03476": {
+              "name": "Sololo Makutano Primary School"
+            },
+            "03477": {
+              "name": "Dibu-Dadacha Mobile"
+            },
+            "03478": {
+              "name": "Hambalo Dispensary"
+            },
+            "03479": {
+              "name": "Dambala Fachana Primary School"
+            },
+            "03480": {
+              "name": "Garba Mobile"
+            },
+            "03481": {
+              "name": "Hoga Mobile"
+            },
+            "03482": {
+              "name": "Badan Rero Community Hall"
+            },
+            "03483": {
+              "name": "Mukh Gurra Primary School"
+            },
+            "03484": {
+              "name": "Shinyile Mobile"
+            },
+            "03485": {
+              "name": "Maram Mobile"
+            },
+            "03486": {
+              "name": "Mable Balle Mobile"
+            },
+            "03487": {
+              "name": "Kuku Bar Mobile"
+            },
+            "03488": {
+              "name": "Dabiyu Manyatta Centre"
+            },
+            "03489": {
+              "name": "Gadha Korma Centre"
+            },
+            "03490": {
+              "name": "Wayaam Centre"
+            }
+          }
+        }
+      }
+    },
+    "046": {
+      "name": "North Horr",
+      "wards": {
+        "0228": {
+          "name": "Dukana",
+          "pollingStations": {
+            "03491": {
+              "name": "Dukana Pr. Sch"
+            },
+            "03492": {
+              "name": "Eljibo Water Hole"
+            },
+            "03493": {
+              "name": "Balessaru Ctr"
+            },
+            "03494": {
+              "name": "Sabare Ctr"
+            },
+            "03495": {
+              "name": "Arabtris Ap Post"
+            },
+            "03496": {
+              "name": "Bulluk Ap Post"
+            },
+            "03497": {
+              "name": "El-Hadi Pry"
+            },
+            "03498": {
+              "name": "Dibandiba Manyatta"
+            },
+            "03499": {
+              "name": "Rara Manyatta"
+            },
+            "03500": {
+              "name": "Balesa Pr. Sch."
+            },
+            "03501": {
+              "name": "Dosa Afurtole Manyatta"
+            },
+            "03502": {
+              "name": "Konye Manyatta"
+            },
+            "03503": {
+              "name": "Garwole Pry"
+            },
+            "03504": {
+              "name": "Rejicha Manyatta"
+            },
+            "03505": {
+              "name": "Kubi Adi Nursery"
+            },
+            "03506": {
+              "name": "Dololo Boji Manyatta"
+            },
+            "03507": {
+              "name": "Goff Dukana"
+            },
+            "03508": {
+              "name": "Diid Golla Mobile"
+            },
+            "03509": {
+              "name": "Yaa Algana"
+            },
+            "03510": {
+              "name": "Baranbate Balesa Centre"
+            },
+            "03511": {
+              "name": "Kilkile Manyatta"
+            },
+            "03512": {
+              "name": "Dukana Girls Primary School"
+            },
+            "03513": {
+              "name": "Kalesa Manyatta"
+            }
+          }
+        },
+        "0229": {
+          "name": "Maikona",
+          "pollingStations": {
+            "03514": {
+              "name": "Lag Loko Mobile"
+            },
+            "03515": {
+              "name": "Hurri Hills Pr. Sch."
+            },
+            "03516": {
+              "name": "Burarat Manyatta"
+            },
+            "03517": {
+              "name": "Borr Mobile"
+            },
+            "03518": {
+              "name": "Kalacha Pr. Sch."
+            },
+            "03519": {
+              "name": "Karawe Wells"
+            },
+            "03520": {
+              "name": "Hilder Nursery"
+            },
+            "03521": {
+              "name": "El Gade Pry"
+            },
+            "03522": {
+              "name": "Rage Pry"
+            },
+            "03523": {
+              "name": "Tulu Dimtu Mobile"
+            },
+            "03524": {
+              "name": "Ramata Robi Manyatta"
+            },
+            "03525": {
+              "name": "Maikona Pr. Sch."
+            },
+            "03526": {
+              "name": "Hiyole Manyatta"
+            },
+            "03527": {
+              "name": "Arano Dam"
+            },
+            "03528": {
+              "name": "Bisik Mobile"
+            },
+            "03529": {
+              "name": "Forole Pry"
+            },
+            "03530": {
+              "name": "Sasala Manyatta"
+            },
+            "03531": {
+              "name": "El Bor Centre"
+            },
+            "03532": {
+              "name": "Shankira Nursery"
+            },
+            "03533": {
+              "name": "Toricha Nursery"
+            },
+            "03534": {
+              "name": "Warra Manyatta"
+            },
+            "03535": {
+              "name": "Selle Haroresa Mobile"
+            },
+            "03536": {
+              "name": "St Mary Primary School(Hurri Hills)"
+            },
+            "03537": {
+              "name": "Kuraa Wells"
+            },
+            "03538": {
+              "name": "Dakane Mobile"
+            },
+            "03539": {
+              "name": "Chalbi Pr.Sch"
+            },
+            "03540": {
+              "name": "Gandile Nursery"
+            },
+            "03541": {
+              "name": "Bas Balesa Nusery"
+            },
+            "03542": {
+              "name": "Ali Boru Nursery"
+            }
+          }
+        },
+        "0230": {
+          "name": "Turbi",
+          "pollingStations": {
+            "03543": {
+              "name": "Turbi Pr. Sch."
+            },
+            "03544": {
+              "name": "Burgabo Pry"
+            },
+            "03545": {
+              "name": "Tigo Satelitte"
+            },
+            "03546": {
+              "name": "Boji Manayatta"
+            },
+            "03547": {
+              "name": "Bubisa Pr. Sch."
+            },
+            "03548": {
+              "name": "Shura Water Pry"
+            },
+            "03549": {
+              "name": "Lagawachu Mobile"
+            },
+            "03550": {
+              "name": "Wolena Baye Manyatta"
+            },
+            "03551": {
+              "name": "Sapansa-Awal-Dilo-Mobile"
+            },
+            "03552": {
+              "name": "Horrenderi Manyatta"
+            },
+            "03553": {
+              "name": "Dakanti Mobile"
+            },
+            "03554": {
+              "name": "Dhekuku Mobile"
+            },
+            "03555": {
+              "name": "Yaa Galbo Mobile"
+            },
+            "03556": {
+              "name": "Muthe Centre"
+            },
+            "03557": {
+              "name": "Kambi Nyoka Centre"
+            },
+            "03558": {
+              "name": "Demo Nursery"
+            },
+            "03559": {
+              "name": "Kukub Fami Nursery"
+            },
+            "03560": {
+              "name": "Awaye Mobile"
+            },
+            "03561": {
+              "name": "Yaa Odhola Mobile"
+            },
+            "03562": {
+              "name": "Chafa Chachane Mobile"
+            }
+          }
+        },
+        "0231": {
+          "name": "North Horr",
+          "pollingStations": {
+            "03563": {
+              "name": "Gas Pr. Sch."
+            },
+            "03564": {
+              "name": "Eltokoch Water Hole"
+            },
+            "03565": {
+              "name": "Sarimo Manyatta"
+            },
+            "03566": {
+              "name": "Koromto Mobile"
+            },
+            "03567": {
+              "name": "Kete Manyatta"
+            },
+            "03568": {
+              "name": "North Horr Pr. Sch."
+            },
+            "03569": {
+              "name": "Uran Ura Manyatta"
+            },
+            "03570": {
+              "name": "Wormo Nursery"
+            },
+            "03571": {
+              "name": "El-Beso Pry"
+            },
+            "03572": {
+              "name": "Darade Ap Post"
+            },
+            "03573": {
+              "name": "Karsa Gate"
+            },
+            "03574": {
+              "name": "Horri Gunda Nursery"
+            },
+            "03575": {
+              "name": "Gorich Nursery"
+            },
+            "03576": {
+              "name": "El-Boru Magado Centre"
+            },
+            "03577": {
+              "name": "Malabot Pry"
+            },
+            "03578": {
+              "name": "Korka Pry"
+            },
+            "03579": {
+              "name": "Sarimo Mobile (Darade)"
+            },
+            "03580": {
+              "name": "Barchum Gos Mobile"
+            },
+            "03581": {
+              "name": "El-Isacko Mala Pry"
+            },
+            "03582": {
+              "name": "Ruso Primary School"
+            }
+          }
+        },
+        "0232": {
+          "name": "Illeret",
+          "pollingStations": {
+            "03583": {
+              "name": "Illeret Pr. Sch."
+            },
+            "03584": {
+              "name": "Alia Bay Wildlife P. Hqs."
+            },
+            "03585": {
+              "name": "Koobi Fora Camp."
+            },
+            "03586": {
+              "name": "Telesgayi Manyatta"
+            },
+            "03587": {
+              "name": "Ololo Manyatta"
+            },
+            "03588": {
+              "name": "Ilkimire Manyatta"
+            },
+            "03589": {
+              "name": "Elbokoch Pry"
+            },
+            "03590": {
+              "name": "Dura Mobile"
+            },
+            "03591": {
+              "name": "Kokoi Mobile"
+            }
+          }
+        }
+      }
+    },
+    "047": {
+      "name": "Saku",
+      "wards": {
+        "0233": {
+          "name": "Sagante/Jaldesa",
+          "pollingStations": {
+            "03592": {
+              "name": "Manyatta Jillo Pr. Sch"
+            },
+            "03593": {
+              "name": "St. Peters Pr. Sch"
+            },
+            "03594": {
+              "name": "Goro Rukesa Pr. Sch."
+            },
+            "03595": {
+              "name": "Gar Qarsa Pr. Sch"
+            },
+            "03596": {
+              "name": "Dirib Gombo Pr. Sch"
+            },
+            "03597": {
+              "name": "Hekima Pr. Sch"
+            },
+            "03598": {
+              "name": "Boru Haro Pr. Sch"
+            },
+            "03599": {
+              "name": "Badasa Pr. Sch"
+            },
+            "03600": {
+              "name": "Scheme Nur Sch"
+            },
+            "03601": {
+              "name": "Matamuka  Pri. Sch"
+            },
+            "03602": {
+              "name": "Gof Chopa Mobile"
+            },
+            "03603": {
+              "name": "Mwangaza Pr. Sch"
+            },
+            "03604": {
+              "name": "Dida Adi Nur Sch"
+            },
+            "03605": {
+              "name": "Kubi Qallo Mobile"
+            },
+            "03606": {
+              "name": "Qachacha Pri Sch"
+            },
+            "03607": {
+              "name": "Kubi Bagasa Pr. Sch"
+            },
+            "03608": {
+              "name": "Jaldesa One Borehole"
+            },
+            "03609": {
+              "name": "Ola Yaa Nur Sch"
+            },
+            "03610": {
+              "name": "Dub Gindole Nur Sch"
+            },
+            "03611": {
+              "name": "Dibayu Nur Sch"
+            },
+            "03612": {
+              "name": "Manyatta Haro Huka Ap Post."
+            },
+            "03613": {
+              "name": "Manyatta Guyo Arero"
+            },
+            "03614": {
+              "name": "Manyatta Ilman Molu"
+            },
+            "03615": {
+              "name": "Manyatta Gilla Nur Sch"
+            },
+            "03616": {
+              "name": "Saku Centre Of Exellency"
+            },
+            "03617": {
+              "name": "Dokatu Bore Hall"
+            },
+            "03618": {
+              "name": "Wasafi Manyatta"
+            }
+          }
+        },
+        "0234": {
+          "name": "Karare",
+          "pollingStations": {
+            "03619": {
+              "name": "Hula Hula Pr. Sch."
+            },
+            "03620": {
+              "name": "Karantina Nur Sch."
+            },
+            "03621": {
+              "name": "Karare Pr. Sch"
+            },
+            "03622": {
+              "name": "Parkishon Pr. Sch"
+            },
+            "03623": {
+              "name": "Kituruni Pr. Sch."
+            },
+            "03624": {
+              "name": "Songa Pr. Sch."
+            },
+            "03625": {
+              "name": "Leyai Pr. Sch."
+            },
+            "03626": {
+              "name": "Lpus Nur Pr. Sch"
+            },
+            "03627": {
+              "name": "Nasikakwe Mobile"
+            },
+            "03628": {
+              "name": "Lakartinya Pri.Sch"
+            },
+            "03629": {
+              "name": "Karare Mix Sch."
+            },
+            "03630": {
+              "name": "S.K Wings Pr.Schl"
+            },
+            "03631": {
+              "name": "Loruko Pr.Schl"
+            }
+          }
+        },
+        "0235": {
+          "name": "Marsabit Central",
+          "pollingStations": {
+            "03632": {
+              "name": "Fathi Madrassa"
+            },
+            "03633": {
+              "name": "Sakuu Pr. Sch."
+            },
+            "03634": {
+              "name": "Kiwanja Ndege Pr. Sch."
+            },
+            "03635": {
+              "name": "Ola Daaba Pri. Sch."
+            },
+            "03636": {
+              "name": "Marsabit Full Pr. Sch."
+            },
+            "03637": {
+              "name": "Complex Social Hall"
+            },
+            "03638": {
+              "name": "St. Johns  Pr. Sch."
+            },
+            "03639": {
+              "name": "S.K.M Pr. Sch."
+            },
+            "03640": {
+              "name": "Alhidaya Pri. Sch."
+            },
+            "03641": {
+              "name": "Comboni Nur. Sch"
+            },
+            "03642": {
+              "name": "Members Club"
+            },
+            "03643": {
+              "name": "Fr. John Memorial Pr.Schl"
+            },
+            "03644": {
+              "name": "Taqwa Integrated Madrassa"
+            },
+            "03645": {
+              "name": "Nagayo Chief'S Office"
+            },
+            "03646": {
+              "name": "Manyatta Mato Community Hall"
+            },
+            "03647": {
+              "name": "Mountain Chiefs' Office"
+            },
+            "03648": {
+              "name": "Shegel Pr.Schl"
+            },
+            "03649": {
+              "name": "Pefa Church Nur.Schl"
+            },
+            "03650": {
+              "name": "Manyatta Kartasi Madrassa"
+            },
+            "03651": {
+              "name": "Saku Youth Empowerment Center"
+            },
+            "03652": {
+              "name": "Dakabaricha Dispensary"
+            }
+          }
+        }
+      }
+    },
+    "048": {
+      "name": "Laisamis",
+      "wards": {
+        "0236": {
+          "name": "Loiyangalani",
+          "pollingStations": {
+            "03653": {
+              "name": "Olturot Primary Sch."
+            },
+            "03654": {
+              "name": "Gatab Primary Sch."
+            },
+            "03655": {
+              "name": "Arapal Nur. School"
+            },
+            "03656": {
+              "name": "Larachi Centre"
+            },
+            "03657": {
+              "name": "Moite Primary"
+            },
+            "03658": {
+              "name": "Gas Mobile"
+            },
+            "03659": {
+              "name": "Elmolo Pri. Sch"
+            },
+            "03660": {
+              "name": "Loiyangalani Pri.  Sch."
+            },
+            "03661": {
+              "name": "Serima Mobile"
+            },
+            "03662": {
+              "name": "Luai Water Point"
+            },
+            "03663": {
+              "name": "Losikiriash Pri.  Sch"
+            },
+            "03664": {
+              "name": "Ngororoi Pry. Sch."
+            },
+            "03665": {
+              "name": "Pallo Mobile"
+            },
+            "03666": {
+              "name": "Santur Pry School"
+            },
+            "03667": {
+              "name": "Titus Memorial Pry"
+            },
+            "03668": {
+              "name": "Mbarnat Nursery"
+            },
+            "03669": {
+              "name": "Two Sisters Primary School"
+            }
+          }
+        },
+        "0237": {
+          "name": "Kargi/South Horr",
+          "pollingStations": {
+            "03670": {
+              "name": "Kargi Soc. Hall"
+            },
+            "03671": {
+              "name": "Segel Mobile"
+            },
+            "03672": {
+              "name": "Ogishu Mobile"
+            },
+            "03673": {
+              "name": "Kurkum Pry"
+            },
+            "03674": {
+              "name": "South Horr T. Centre"
+            },
+            "03675": {
+              "name": "Tunguu Nur. School"
+            },
+            "03676": {
+              "name": "Kurungu Primary Sch."
+            },
+            "03677": {
+              "name": "Koros Water Point"
+            },
+            "03678": {
+              "name": "Arge Mobile"
+            },
+            "03679": {
+              "name": "Gangeisa Primary Sch."
+            },
+            "03680": {
+              "name": "Gorle Nur. School"
+            },
+            "03681": {
+              "name": "Kambinye Mobile"
+            }
+          }
+        },
+        "0238": {
+          "name": "Korr/Ngurunit",
+          "pollingStations": {
+            "03682": {
+              "name": "Ngurunit Primary Sch."
+            },
+            "03683": {
+              "name": "Lepebendera Mobile"
+            },
+            "03684": {
+              "name": "Namarei Primary Sch."
+            },
+            "03685": {
+              "name": "Lengima Primary"
+            },
+            "03686": {
+              "name": "Farakore Pry"
+            },
+            "03687": {
+              "name": "Illaut Mobile"
+            },
+            "03688": {
+              "name": "Korr Primary School"
+            },
+            "03689": {
+              "name": "Balah Primary School"
+            },
+            "03690": {
+              "name": "Halisirwa Mobile"
+            },
+            "03691": {
+              "name": "Mpakas Pry"
+            },
+            "03692": {
+              "name": "Dadabo Agudhan Mob."
+            },
+            "03693": {
+              "name": "Tirrim Pry"
+            },
+            "03694": {
+              "name": "Burri Haramia Mobile"
+            },
+            "03695": {
+              "name": "Sunyuro Mobile"
+            },
+            "03696": {
+              "name": "Lekuchula Primary"
+            },
+            "03697": {
+              "name": "Sarai Manyatta"
+            },
+            "03698": {
+              "name": "Nomads Primary"
+            },
+            "03699": {
+              "name": "Ilmodhi Nursery School"
+            }
+          }
+        },
+        "0239": {
+          "name": "Logo Logo",
+          "pollingStations": {
+            "03700": {
+              "name": "Sanchir Waterpoint"
+            },
+            "03701": {
+              "name": "Marti Nursery"
+            },
+            "03702": {
+              "name": "Log Logo Primary"
+            },
+            "03703": {
+              "name": "Lokileleng Nursery"
+            },
+            "03704": {
+              "name": "Elbaarok Primary School"
+            },
+            "03705": {
+              "name": "Kamboe Primary Sch."
+            },
+            "03706": {
+              "name": "Catholic Nursery"
+            },
+            "03707": {
+              "name": "Lesitima Borehole"
+            }
+          }
+        },
+        "0240": {
+          "name": "Laisamis",
+          "pollingStations": {
+            "03708": {
+              "name": "Laisamis Primary Sch."
+            },
+            "03709": {
+              "name": "Silipani Primary School"
+            },
+            "03710": {
+              "name": "Sakaldara Primary Sch"
+            },
+            "03711": {
+              "name": "Tirgamo Nursery"
+            },
+            "03712": {
+              "name": "Halugunder Nur. Sch."
+            },
+            "03713": {
+              "name": "Lontolio Primary Sch."
+            },
+            "03714": {
+              "name": "Losidan Primary School"
+            },
+            "03715": {
+              "name": "Merille Primary Sch."
+            },
+            "03716": {
+              "name": "Kamotonyi Primary School"
+            },
+            "03717": {
+              "name": "Salt Lick Centre"
+            },
+            "03718": {
+              "name": "Ambara Mobile"
+            },
+            "03719": {
+              "name": "Soweto Nursery"
+            },
+            "03720": {
+              "name": "Ulauli School"
+            },
+            "03721": {
+              "name": "Nairibi Primary"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Loiyangalani",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Marsabit Central",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Marsabit North",
+      "type": "Subcounty"
+    },
+    "004": {
+      "name": "Marsabit South",
+      "type": "Subcounty"
+    },
+    "005": {
+      "name": "Moyale",
+      "type": "Subcounty"
+    },
+    "006": {
+      "name": "North Horr",
+      "type": "Subcounty"
+    },
+    "007": {
+      "name": "Sololo",
+      "type": "Subcounty"
+    }
+  }
+}

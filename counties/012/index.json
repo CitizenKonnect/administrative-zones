@@ -1,0 +1,3452 @@
+{
+  "name": "Meru",
+  "type": "County",
+  "code": "012",
+  "constituencies": {
+    "051": {
+      "name": "Igembe South",
+      "wards": {
+        "0251": {
+          "name": "Maua",
+          "pollingStations": {
+            "03880": {
+              "name": "Maua Stadium"
+            },
+            "03881": {
+              "name": "Maua Girls High School"
+            },
+            "03882": {
+              "name": "Maua Tea Banda"
+            },
+            "03883": {
+              "name": "Maua Primary School"
+            },
+            "03884": {
+              "name": "Kilalai Primary School"
+            },
+            "03885": {
+              "name": "Gitura Primary School"
+            },
+            "03886": {
+              "name": "Kathima Primary School"
+            },
+            "03887": {
+              "name": "Kithetu Primary School"
+            },
+            "03888": {
+              "name": "Ankurani Primary School"
+            },
+            "03889": {
+              "name": "Makutano Nursery School"
+            },
+            "03890": {
+              "name": "Kithaene Nursery School"
+            },
+            "03891": {
+              "name": "Ubaaya Nursery School"
+            },
+            "03892": {
+              "name": "Kithetu Open Air Market"
+            },
+            "03893": {
+              "name": "Maua Cereals And Produce Board Compound"
+            },
+            "03894": {
+              "name": "Maua Methodist Hospital Compound"
+            },
+            "03895": {
+              "name": "Kiluli Voice Of Salvation Church"
+            },
+            "03896": {
+              "name": "Maua Youth Empowerment Centre"
+            },
+            "03897": {
+              "name": "Methodist Church Of Kenya Maua Academy"
+            }
+          }
+        },
+        "0252": {
+          "name": "Kiegoi/Antubochiu",
+          "pollingStations": {
+            "03898": {
+              "name": "Ntingirai Tea Buying Centre"
+            },
+            "03899": {
+              "name": "Kiegoi Tea Buying Centre"
+            },
+            "03900": {
+              "name": "Ndume Tea Buying Centre"
+            },
+            "03901": {
+              "name": "Kandu Tea Buying Centre"
+            },
+            "03902": {
+              "name": "Lubuene Tea Buying Centre"
+            },
+            "03903": {
+              "name": "Kanthiari Coffee Factory"
+            },
+            "03904": {
+              "name": "Itumbi Primary School"
+            },
+            "03905": {
+              "name": "Gitumi Primary School"
+            },
+            "03906": {
+              "name": "Kiegoi Primary School"
+            },
+            "03907": {
+              "name": "Kibilaku Primary School"
+            },
+            "03908": {
+              "name": "Ntingirai Primary School"
+            },
+            "03909": {
+              "name": "Mpurine Primary School"
+            },
+            "03910": {
+              "name": "Kinyanka Primary School"
+            },
+            "03911": {
+              "name": "Auki Primary School"
+            },
+            "03912": {
+              "name": "Luluma Primary School"
+            },
+            "03913": {
+              "name": "Ura Primary School"
+            },
+            "03914": {
+              "name": "Antubochiu Tea Buying Centre"
+            },
+            "03915": {
+              "name": "Antubochiu Primary School"
+            },
+            "03916": {
+              "name": "Makiri Coffee Factory"
+            },
+            "03917": {
+              "name": "Kiome Eapc Church Compound"
+            },
+            "03918": {
+              "name": "Maua Youth Polytechnic"
+            },
+            "03919": {
+              "name": "Giteretu Eapc"
+            },
+            "03920": {
+              "name": "Ngawene  Tbc"
+            },
+            "03921": {
+              "name": "Nkaa Tbc"
+            },
+            "03922": {
+              "name": "Atuli Tbc"
+            }
+          }
+        },
+        "0253": {
+          "name": "Athiru Gaiti",
+          "pollingStations": {
+            "03923": {
+              "name": "Kaniechunge Nursery School"
+            },
+            "03924": {
+              "name": "Gantutune Nursery School"
+            },
+            "03925": {
+              "name": "Antubankui Primary School"
+            },
+            "03926": {
+              "name": "Murumune Nursery School"
+            },
+            "03927": {
+              "name": "Nkaria Primary School"
+            },
+            "03928": {
+              "name": "Kiguma Ciiri Primary School"
+            },
+            "03929": {
+              "name": "Athiru Gaiti Primary School"
+            },
+            "03930": {
+              "name": "Akui Primary School"
+            },
+            "03931": {
+              "name": "Karurune Primary  School"
+            },
+            "03932": {
+              "name": "Ikingo Primary  School"
+            },
+            "03933": {
+              "name": "Karembwine Primary School"
+            },
+            "03934": {
+              "name": "Lakathi Primary School"
+            },
+            "03935": {
+              "name": "Kilili Primary School"
+            },
+            "03936": {
+              "name": "Thubai Primary School"
+            },
+            "03937": {
+              "name": "Ngongo Kalama Nursery"
+            },
+            "03938": {
+              "name": "Kaluli Open Air Market"
+            },
+            "03939": {
+              "name": "Kithanga Primary School"
+            },
+            "03940": {
+              "name": "Athiru Gaiti Open Air Market"
+            },
+            "03941": {
+              "name": "Anjaru Nursery School"
+            },
+            "03942": {
+              "name": "Kiraone Health Centre Compound"
+            },
+            "03943": {
+              "name": "Kiamiringa Open Air Market"
+            },
+            "03944": {
+              "name": "Kindani Open Air Market"
+            },
+            "03945": {
+              "name": "Nguruma Assistant Chiefs' Office"
+            },
+            "03946": {
+              "name": "Thuria Methodist Church Of Kenya"
+            },
+            "03947": {
+              "name": "Kathangaline New Apostolic Church"
+            },
+            "03948": {
+              "name": "Iruma  New Apostolic Church"
+            }
+          }
+        },
+        "0254": {
+          "name": "Akachiu",
+          "pollingStations": {
+            "03949": {
+              "name": "Kambene Primary School"
+            },
+            "03950": {
+              "name": "Riaki Primary School"
+            },
+            "03951": {
+              "name": "Amwamba Primary School"
+            },
+            "03952": {
+              "name": "Nceme Primary School"
+            },
+            "03953": {
+              "name": "Kamburu Primary School"
+            },
+            "03954": {
+              "name": "Ryenya Primary School"
+            },
+            "03955": {
+              "name": "Athi Primary School"
+            },
+            "03956": {
+              "name": "Muthiru Primary School"
+            },
+            "03957": {
+              "name": "Tiira Primary School"
+            },
+            "03958": {
+              "name": "Amunju Primary School"
+            },
+            "03959": {
+              "name": "Giika Primary School"
+            },
+            "03960": {
+              "name": "Ugoti Primary School"
+            },
+            "03961": {
+              "name": "Riigi Primary School"
+            },
+            "03962": {
+              "name": "Kalamene Health Centre"
+            },
+            "03963": {
+              "name": "Mutiokiama Health Center"
+            },
+            "03964": {
+              "name": "Ura Tea Buying Centre"
+            },
+            "03965": {
+              "name": "Amunju Methodist Church Compound"
+            },
+            "03966": {
+              "name": "Choi Tea Buying Center"
+            },
+            "03967": {
+              "name": "Antuamuo  Tea Buying Center"
+            },
+            "03968": {
+              "name": "Nkinja Primary School"
+            },
+            "03969": {
+              "name": "Munyariki Primary School"
+            },
+            "03970": {
+              "name": "Amwamba S.D.A Primary School"
+            },
+            "03971": {
+              "name": "Kiale T.B.C"
+            },
+            "03972": {
+              "name": "Gatai T.B.C"
+            }
+          }
+        },
+        "0255": {
+          "name": "Kanuni",
+          "pollingStations": {
+            "03973": {
+              "name": "Amung'Enti Primary School"
+            },
+            "03974": {
+              "name": "Murua Primary School"
+            },
+            "03975": {
+              "name": "Abuuri Primary School"
+            },
+            "03976": {
+              "name": "Karumaru Primary School"
+            },
+            "03977": {
+              "name": "Athimba Primary School"
+            },
+            "03978": {
+              "name": "Antuambui Primary School"
+            },
+            "03979": {
+              "name": "Nkiene Primary School"
+            },
+            "03980": {
+              "name": "Kianda Primary School"
+            },
+            "03981": {
+              "name": "Thaicu Primary School"
+            },
+            "03982": {
+              "name": "Igembe Secondary School"
+            },
+            "03983": {
+              "name": "Kathambi Primary School"
+            },
+            "03984": {
+              "name": "Kizimani Primary School"
+            },
+            "03985": {
+              "name": "Antubeiga Nursery School"
+            },
+            "03986": {
+              "name": "Kiguru Primary School"
+            },
+            "03987": {
+              "name": "Ntherone Primary School"
+            },
+            "03988": {
+              "name": "Kanuni Open Air Market."
+            },
+            "03989": {
+              "name": "Mukweone Eapc Church Compound"
+            },
+            "03990": {
+              "name": "Matangine Annointed Generation Church"
+            },
+            "03991": {
+              "name": "Tumtum Eapc"
+            }
+          }
+        }
+      }
+    },
+    "052": {
+      "name": "Igembe Central",
+      "wards": {
+        "0256": {
+          "name": "Akirang'Ondu",
+          "pollingStations": {
+            "03992": {
+              "name": "Kathelwa Primary School"
+            },
+            "03993": {
+              "name": "K.K. Nanga Primary School"
+            },
+            "03994": {
+              "name": "Nkoe Primary  School"
+            },
+            "03995": {
+              "name": "Limbuku Primary School"
+            },
+            "03996": {
+              "name": "Machungulu Primary School"
+            },
+            "03997": {
+              "name": "Muringinene Primary School"
+            },
+            "03998": {
+              "name": "Mwerene Primary School"
+            },
+            "03999": {
+              "name": "Tuuru Primary School"
+            },
+            "04000": {
+              "name": "Mwerongai Primary School"
+            },
+            "04001": {
+              "name": "Nguthuki Primary School"
+            },
+            "04002": {
+              "name": "St. Mary S Primary School"
+            },
+            "04003": {
+              "name": "Mukorene Primary School"
+            },
+            "04004": {
+              "name": "Gituine Tea B.Ctr"
+            },
+            "04005": {
+              "name": "Karama Antuamuo Primary School"
+            },
+            "04006": {
+              "name": "Mporoko Primary School"
+            },
+            "04007": {
+              "name": "Limbuku Nursery School"
+            },
+            "04008": {
+              "name": "Irindii Baptist Nursery School"
+            },
+            "04009": {
+              "name": "Kathelwa Catholic Nursery School"
+            },
+            "04010": {
+              "name": "Gituine Aipca Nursery School"
+            },
+            "04011": {
+              "name": "Kiani Kia Muuti Open Air Market"
+            },
+            "04012": {
+              "name": "K.K Mwere Primary School"
+            },
+            "04013": {
+              "name": "Akirang'Ondu Boys Secondary School"
+            },
+            "04014": {
+              "name": "K.K Cattle Dip"
+            }
+          }
+        },
+        "0257": {
+          "name": "Athiru Ruujine",
+          "pollingStations": {
+            "04015": {
+              "name": "Kiani Kia Aaru Primary School"
+            },
+            "04016": {
+              "name": "Kalankware Primary School"
+            },
+            "04017": {
+              "name": "Kanathu Primary School"
+            },
+            "04018": {
+              "name": "Thimbili Primary School"
+            },
+            "04019": {
+              "name": "Athiru Ruujine Primary School"
+            },
+            "04020": {
+              "name": "Kaluchu Nursery School"
+            },
+            "04021": {
+              "name": "Kibuline Nursery School"
+            },
+            "04022": {
+              "name": "Karama Tea B.Ctr"
+            },
+            "04023": {
+              "name": "Matirine Primary School"
+            },
+            "04024": {
+              "name": "Baibariu Primary School"
+            },
+            "04025": {
+              "name": "Kathithine Primary School"
+            },
+            "04026": {
+              "name": "Kawiru Primary School"
+            },
+            "04027": {
+              "name": "Kamiruru Primary School"
+            },
+            "04028": {
+              "name": "Akuune Primary School"
+            },
+            "04029": {
+              "name": "Kabukuro Primary School"
+            },
+            "04030": {
+              "name": "Murera Primary School"
+            },
+            "04031": {
+              "name": "Nkanga Primary School"
+            },
+            "04032": {
+              "name": "Kalui Primary School"
+            },
+            "04033": {
+              "name": "Thimbili Secondary School"
+            },
+            "04034": {
+              "name": "Thitha Secondary School"
+            },
+            "04035": {
+              "name": "Kawiru Secondary School"
+            },
+            "04036": {
+              "name": "Kiutine Open Air Market"
+            },
+            "04037": {
+              "name": "Kaluluu Primary School"
+            },
+            "04038": {
+              "name": "Malaene Primary School"
+            },
+            "04039": {
+              "name": "Ntukai Nursery School"
+            }
+          }
+        },
+        "0258": {
+          "name": "Igembe East",
+          "pollingStations": {
+            "04040": {
+              "name": "Matiandui Primary School"
+            },
+            "04041": {
+              "name": "Kimutubua Primary School"
+            },
+            "04042": {
+              "name": "Mpinda Primary School"
+            },
+            "04043": {
+              "name": "Miori Primary School"
+            },
+            "04044": {
+              "name": "Nthare Primary School"
+            },
+            "04045": {
+              "name": "Kaurine Primary School"
+            },
+            "04046": {
+              "name": "Kariru Primary School"
+            },
+            "04047": {
+              "name": "Nthambiro Primary School"
+            },
+            "04048": {
+              "name": "Kabuito Primary School"
+            },
+            "04049": {
+              "name": "Kanjoo Primary School"
+            },
+            "04050": {
+              "name": "Nankenge Nursery  School"
+            },
+            "04051": {
+              "name": "Kalimikuu Primary School"
+            },
+            "04052": {
+              "name": "Ngujuju Primary School"
+            },
+            "04053": {
+              "name": "Mutuatine Primary School"
+            },
+            "04054": {
+              "name": "Kathathene Primary School"
+            },
+            "04055": {
+              "name": "Ntuene Primary School"
+            },
+            "04056": {
+              "name": "Ithanja Nursery School"
+            },
+            "04057": {
+              "name": "Amaku Nursery School"
+            },
+            "04058": {
+              "name": "Andiala Nursery School"
+            },
+            "04059": {
+              "name": "Kirindara Nursery School"
+            },
+            "04060": {
+              "name": "Makutano Primary School"
+            },
+            "04061": {
+              "name": "Mwomwere Primary School"
+            },
+            "04062": {
+              "name": "Kiengu Open Air Market"
+            },
+            "04063": {
+              "name": "Kiengu Methodist Church Compound"
+            },
+            "04064": {
+              "name": "Nthambiro Health Centre"
+            },
+            "04065": {
+              "name": "Kanyankine Methodist Church Compound"
+            },
+            "04066": {
+              "name": "Muuru Pentecost Church Compound"
+            },
+            "04067": {
+              "name": "Maukune Methodist Church Compound"
+            },
+            "04068": {
+              "name": "Muuriine Pentecost Church Compound"
+            },
+            "04069": {
+              "name": "Kiborione Nursery School"
+            },
+            "04070": {
+              "name": "Nark Nkiri Primary School"
+            },
+            "04071": {
+              "name": "Miori Chief'S Camp"
+            }
+          }
+        },
+        "0259": {
+          "name": "Njia",
+          "pollingStations": {
+            "04072": {
+              "name": "Muumone Primary School"
+            },
+            "04073": {
+              "name": "Mpitha Primary School"
+            },
+            "04074": {
+              "name": "Kamuya Nursery School"
+            },
+            "04075": {
+              "name": "Mbayo Nursery School"
+            },
+            "04076": {
+              "name": "Limoro Primary School"
+            },
+            "04077": {
+              "name": "Kiolo Kia Muuti Primary School"
+            },
+            "04078": {
+              "name": "Kiujuline Nursery School"
+            },
+            "04079": {
+              "name": "Njia Secondary School"
+            },
+            "04080": {
+              "name": "Thumbereria Primary School"
+            },
+            "04081": {
+              "name": "Ikombo Nursery School"
+            },
+            "04082": {
+              "name": "Ntuui Nursery  School"
+            },
+            "04083": {
+              "name": "Churui Primary School"
+            },
+            "04084": {
+              "name": "Kaumone Primary School"
+            },
+            "04085": {
+              "name": "Kithare Primary School"
+            },
+            "04086": {
+              "name": "Muiyo Tea Buying Centre"
+            },
+            "04087": {
+              "name": "Muringene Tea Buying Centre"
+            },
+            "04088": {
+              "name": "Thamare Primary School"
+            },
+            "04089": {
+              "name": "Ncunguru Primary School"
+            },
+            "04090": {
+              "name": "Mwiriene Nursery School"
+            },
+            "04091": {
+              "name": "Maili Tatu Tea Buying Centre"
+            },
+            "04092": {
+              "name": "Burieruri Secondary School"
+            },
+            "04093": {
+              "name": "Mporoko Nursery School"
+            },
+            "04094": {
+              "name": "Mwomalui Primary School"
+            },
+            "04095": {
+              "name": "Thuuru Primary School"
+            },
+            "04096": {
+              "name": "Nkalune Nursery School"
+            },
+            "04097": {
+              "name": "Kiujuline Primary School"
+            },
+            "04098": {
+              "name": "Kaongo Ka Maugu Primary School"
+            },
+            "04099": {
+              "name": "Kithare Mwiriene C.M.M.Church Compound."
+            }
+          }
+        },
+        "0260": {
+          "name": "Kangeta",
+          "pollingStations": {
+            "04100": {
+              "name": "Kanikarui Primary School"
+            },
+            "04101": {
+              "name": "Mukululu Primary School"
+            },
+            "04102": {
+              "name": "Gituene Primary School"
+            },
+            "04103": {
+              "name": "Nkongune Primary School"
+            },
+            "04104": {
+              "name": "Mbaranga Nursery School"
+            },
+            "04105": {
+              "name": "Njia Primary School"
+            },
+            "04106": {
+              "name": "Kieya Primary School"
+            },
+            "04107": {
+              "name": "Ntuti Primary School"
+            },
+            "04108": {
+              "name": "Kandubai Primary School"
+            },
+            "04109": {
+              "name": "Likiau Primary School"
+            },
+            "04110": {
+              "name": "Kiani Kiraya Primary School"
+            },
+            "04111": {
+              "name": "Laikumukumu Nursery School"
+            },
+            "04112": {
+              "name": "Nkinyang'A Primary School"
+            },
+            "04113": {
+              "name": "Kangeta Primary School"
+            },
+            "04114": {
+              "name": "Nkinyang'A Dispensary"
+            },
+            "04115": {
+              "name": "Kathima Coffee Factory"
+            },
+            "04116": {
+              "name": "Nturuba Secondary School"
+            },
+            "04117": {
+              "name": "C.C.M Machenge Nursery School"
+            },
+            "04118": {
+              "name": "Aipcea Liburu Nursery School"
+            },
+            "04119": {
+              "name": "Kangeta Open Air Market"
+            },
+            "04120": {
+              "name": "St.Thomas Catholic Nursery School"
+            },
+            "04121": {
+              "name": "Ntuti Cattle Dip"
+            },
+            "04122": {
+              "name": "Nkinyanga Aipcea  Church Compound"
+            },
+            "04123": {
+              "name": "Kaithicia Tea Buying Centre"
+            }
+          }
+        }
+      }
+    },
+    "053": {
+      "name": "Igembe North",
+      "wards": {
+        "0261": {
+          "name": "Antuambui",
+          "pollingStations": {
+            "04124": {
+              "name": "Mea Primary School"
+            },
+            "04125": {
+              "name": "Ndumuru Nursery School"
+            },
+            "04126": {
+              "name": "Athawene Nursery School"
+            },
+            "04127": {
+              "name": "Kiolo Nursery School"
+            },
+            "04128": {
+              "name": "K.K. Baituiri Nursery School"
+            },
+            "04129": {
+              "name": "Kangenyone Primary School"
+            },
+            "04130": {
+              "name": "Kautine Nursery School"
+            },
+            "04131": {
+              "name": "Mwerongundu Primary School"
+            },
+            "04132": {
+              "name": "Lukununu Primary School"
+            },
+            "04133": {
+              "name": "Miuine Primary School"
+            },
+            "04134": {
+              "name": "Nkiriana Primary School"
+            },
+            "04135": {
+              "name": "K.K. Etama Primary School"
+            },
+            "04136": {
+              "name": "K.K. Kiula Primary School"
+            },
+            "04137": {
+              "name": "Lubua Primary School"
+            },
+            "04138": {
+              "name": "Laare Social Hall"
+            },
+            "04139": {
+              "name": "Mwerongundu Secondary School"
+            },
+            "04140": {
+              "name": "Kaoronene Primary School"
+            },
+            "04141": {
+              "name": "Antuambui Secondary School"
+            },
+            "04142": {
+              "name": "Nkanda Secondary School"
+            },
+            "04143": {
+              "name": "Kirama Aipca Nursery School"
+            },
+            "04144": {
+              "name": "Kamaringa Primary School"
+            },
+            "04145": {
+              "name": "Mulika Nursery School"
+            },
+            "04146": {
+              "name": "Mithiaru Primary School"
+            }
+          }
+        },
+        "0262": {
+          "name": "Ntunene",
+          "pollingStations": {
+            "04147": {
+              "name": "Linjoka Primary School"
+            },
+            "04148": {
+              "name": "Kileera Primary School"
+            },
+            "04149": {
+              "name": "Mariri Primary School"
+            },
+            "04150": {
+              "name": "Kirindara Primary School"
+            },
+            "04151": {
+              "name": "Murungene Primary School"
+            },
+            "04152": {
+              "name": "Ntobuine Nursery School"
+            },
+            "04153": {
+              "name": "Linjoka Catholic Church Nursery School"
+            },
+            "04154": {
+              "name": "Ntunene Coffee Factory"
+            },
+            "04155": {
+              "name": "Kiriba Primary School"
+            },
+            "04156": {
+              "name": "Muurune Aipca Nursery School"
+            },
+            "04157": {
+              "name": "Tuanda Nursery School"
+            },
+            "04158": {
+              "name": "Mariri Nursery School"
+            },
+            "04159": {
+              "name": "Ntunene Girls'Secondary School"
+            },
+            "04160": {
+              "name": "Laare Catholic Church"
+            },
+            "04161": {
+              "name": "Kimachia Methodist Church"
+            }
+          }
+        },
+        "0263": {
+          "name": "Antubetwe Kiongo",
+          "pollingStations": {
+            "04162": {
+              "name": "Kamuwe Primary School"
+            },
+            "04163": {
+              "name": "Nairuru Primary School"
+            },
+            "04164": {
+              "name": "Kithanga Nursery School"
+            },
+            "04165": {
+              "name": "Ntanki Secondary School"
+            },
+            "04166": {
+              "name": "Ndoleli Primary School"
+            },
+            "04167": {
+              "name": "Karichu Primary School"
+            },
+            "04168": {
+              "name": "Kathatene Primary School"
+            },
+            "04169": {
+              "name": "Kiromwathi Primary School"
+            },
+            "04170": {
+              "name": "Anjalu Primary School"
+            },
+            "04171": {
+              "name": "Theera Primary School"
+            },
+            "04172": {
+              "name": "Kiani Primary School"
+            },
+            "04173": {
+              "name": "Luciuti Primary School"
+            },
+            "04174": {
+              "name": "Miriki Primary School"
+            },
+            "04175": {
+              "name": "Mutiorui Nursery School"
+            },
+            "04176": {
+              "name": "Antubetwe Secondary School"
+            },
+            "04177": {
+              "name": "Malaene Primary School"
+            },
+            "04178": {
+              "name": "Luciuti Social Hall"
+            },
+            "04179": {
+              "name": "Marere Polytechnic"
+            },
+            "04180": {
+              "name": "Kalerene Nursery School"
+            },
+            "04181": {
+              "name": "Kibutu Nursery School"
+            },
+            "04182": {
+              "name": "Eapc Thaicui Mwanganthia"
+            },
+            "04183": {
+              "name": "Mpeketoni Police Post"
+            },
+            "04184": {
+              "name": "Kina Meru"
+            }
+          }
+        },
+        "0264": {
+          "name": "Naathu",
+          "pollingStations": {
+            "04185": {
+              "name": "Mutuati Primary School"
+            },
+            "04186": {
+              "name": "Kibuchwa Nursery School"
+            },
+            "04187": {
+              "name": "Kanthali Primary School"
+            },
+            "04188": {
+              "name": "Thirua Primary School"
+            },
+            "04189": {
+              "name": "Ndunyu Nursery School"
+            },
+            "04190": {
+              "name": "Ndulu Nursery School"
+            },
+            "04191": {
+              "name": "Mbayo Primary School"
+            },
+            "04192": {
+              "name": "Kalembuine Nursery School"
+            },
+            "04193": {
+              "name": "K.K. Baithai Primary School"
+            },
+            "04194": {
+              "name": "Mweromutua Primary School"
+            },
+            "04195": {
+              "name": "Mutuati Secondary School"
+            },
+            "04196": {
+              "name": "Naathu Primary School"
+            },
+            "04197": {
+              "name": "Naathu Secondary  School"
+            },
+            "04198": {
+              "name": "Mbayo Secondary School"
+            },
+            "04199": {
+              "name": "Naikuriu Primary School"
+            },
+            "04200": {
+              "name": "Tamani Pentecostal Primary School"
+            },
+            "04201": {
+              "name": "Latuani Primary School"
+            },
+            "04202": {
+              "name": "Kamukunji Church On The Rock"
+            },
+            "04203": {
+              "name": "Liundu Mck Primary"
+            }
+          }
+        },
+        "0265": {
+          "name": "Amwathi",
+          "pollingStations": {
+            "04204": {
+              "name": "Mutuati Methodist Nursery School"
+            },
+            "04205": {
+              "name": "Mburanjiru Primary School"
+            },
+            "04206": {
+              "name": "Leeta Primary School"
+            },
+            "04207": {
+              "name": "Ambaru Primary School"
+            },
+            "04208": {
+              "name": "Nthangarine Primary School"
+            },
+            "04209": {
+              "name": "Barenta Primary School"
+            },
+            "04210": {
+              "name": "Kamweline Primary School"
+            },
+            "04211": {
+              "name": "Nkamathi Primary School"
+            },
+            "04212": {
+              "name": "Murweti Primary School"
+            },
+            "04213": {
+              "name": "Kiolo Primary School"
+            },
+            "04214": {
+              "name": "Meeria Primary School"
+            },
+            "04215": {
+              "name": "Kaungu Primary School"
+            },
+            "04216": {
+              "name": "Kinisa Nursery School"
+            },
+            "04217": {
+              "name": "Kiegoi Nursery School"
+            },
+            "04218": {
+              "name": "Murunya Nursery Sch"
+            },
+            "04219": {
+              "name": "Murara Primary School"
+            },
+            "04220": {
+              "name": "Kathanga Primary School"
+            },
+            "04221": {
+              "name": "Aithu Primary School"
+            },
+            "04222": {
+              "name": "Mbiriata Primary School"
+            },
+            "04223": {
+              "name": "Kamboo Primary School"
+            },
+            "04224": {
+              "name": "Ngitana Primary School"
+            },
+            "04225": {
+              "name": "Ngukwine Primary School"
+            },
+            "04226": {
+              "name": "Kachiuru Primary School"
+            },
+            "04227": {
+              "name": "Nkamathi Secondary School"
+            },
+            "04228": {
+              "name": "St. Anthony Ng'Inyo Nursery School"
+            },
+            "04229": {
+              "name": "Aithu Nursery School"
+            },
+            "04230": {
+              "name": "Kabachi Multipurpose Hall"
+            },
+            "04231": {
+              "name": "Tiri Primary School"
+            },
+            "04232": {
+              "name": "Mck Ngaya"
+            }
+          }
+        }
+      }
+    },
+    "054": {
+      "name": "Tigania West",
+      "wards": {
+        "0266": {
+          "name": "Athwana",
+          "pollingStations": {
+            "04233": {
+              "name": "Limoro Primary School"
+            },
+            "04234": {
+              "name": "Maitha Primary School"
+            },
+            "04235": {
+              "name": "Mwanika Primary School"
+            },
+            "04236": {
+              "name": "Kibiru Primary School"
+            },
+            "04237": {
+              "name": "Mweronkoro Primary School"
+            },
+            "04238": {
+              "name": "K.K Nkengechia Primary School"
+            },
+            "04239": {
+              "name": "Twarama Kenya Assembly Of God Nursery School"
+            },
+            "04240": {
+              "name": "Laciathuriu Primary School"
+            },
+            "04241": {
+              "name": "Athwana Secondary School"
+            },
+            "04242": {
+              "name": "Kamanoro Primary School"
+            },
+            "04243": {
+              "name": "Nkiluthu Primary School"
+            },
+            "04244": {
+              "name": "1. Kadebene Livestock Market"
+            },
+            "04245": {
+              "name": "Muluta Dispensary"
+            },
+            "04246": {
+              "name": "Kiare Primary School"
+            }
+          }
+        },
+        "0267": {
+          "name": "Akithii",
+          "pollingStations": {
+            "04247": {
+              "name": "Kimuthii Primary School"
+            },
+            "04248": {
+              "name": "Ntiba Primary School"
+            },
+            "04249": {
+              "name": "Kitheo Primary School"
+            },
+            "04250": {
+              "name": "K.K Tharaine Primary School"
+            },
+            "04251": {
+              "name": "Mucuune Primary School"
+            },
+            "04252": {
+              "name": "Kamarima Primary School"
+            },
+            "04253": {
+              "name": "Kalimba Primary School"
+            },
+            "04254": {
+              "name": "Mweronkanga Primary School"
+            },
+            "04255": {
+              "name": "K.K Lumbi Primary School"
+            },
+            "04256": {
+              "name": "Twale Primary School"
+            },
+            "04257": {
+              "name": "Manyiri Primary School"
+            },
+            "04258": {
+              "name": "Ithatene Primary School"
+            },
+            "04259": {
+              "name": "Limbine Primary School"
+            },
+            "04260": {
+              "name": "Nkurare Primary School"
+            },
+            "04261": {
+              "name": "Mwili Primary School"
+            },
+            "04262": {
+              "name": "Mwerondu Primary School"
+            },
+            "04263": {
+              "name": "Thinyaine Primary School"
+            },
+            "04264": {
+              "name": "Maathii Primary School"
+            },
+            "04265": {
+              "name": "Karii Primary School"
+            },
+            "04266": {
+              "name": "Murichia Primary  School"
+            },
+            "04267": {
+              "name": "Barau Baptist Church"
+            },
+            "04268": {
+              "name": "Accs Office Ngudune"
+            },
+            "04269": {
+              "name": "Nchurai Mck Church"
+            },
+            "04270": {
+              "name": "Kathinge Catholic Church"
+            },
+            "04271": {
+              "name": "Amukoi Ass Chief Office"
+            }
+          }
+        },
+        "0268": {
+          "name": "Kianjai",
+          "pollingStations": {
+            "04272": {
+              "name": "Urru County Council Hall"
+            },
+            "04273": {
+              "name": "Kithiru Primary School"
+            },
+            "04274": {
+              "name": "Mbaarua Primary School"
+            },
+            "04275": {
+              "name": "Nairiri Primary  School"
+            },
+            "04276": {
+              "name": "Machaku Primary School"
+            },
+            "04277": {
+              "name": "Kianjai Primary School"
+            },
+            "04278": {
+              "name": "Mutionjuri Primary School"
+            },
+            "04279": {
+              "name": "Amatu Primary School"
+            },
+            "04280": {
+              "name": "Kanjalu Primary School"
+            },
+            "04281": {
+              "name": "Rwongo Rwa Nyanki Primary School"
+            },
+            "04282": {
+              "name": "Antubeiga Primary School"
+            },
+            "04283": {
+              "name": "Kiandiu Primary School"
+            },
+            "04284": {
+              "name": "Ithamare Primary School"
+            },
+            "04285": {
+              "name": "Luuria Primary School"
+            },
+            "04286": {
+              "name": "Rei Primary School"
+            },
+            "04287": {
+              "name": "Mumui Primary School"
+            },
+            "04288": {
+              "name": "Lairang'I Primary School"
+            },
+            "04289": {
+              "name": "Thau Primary School"
+            },
+            "04290": {
+              "name": "Ntalami Primary School"
+            },
+            "04291": {
+              "name": "Mituntu Primary School"
+            },
+            "04292": {
+              "name": "Muramba Primary  School"
+            },
+            "04293": {
+              "name": "Urru Primary School"
+            },
+            "04294": {
+              "name": "Kirukire Primary School"
+            },
+            "04295": {
+              "name": "Kianjai Chiefs Camp"
+            },
+            "04296": {
+              "name": "Maili Tatu Police Post"
+            },
+            "04297": {
+              "name": "Rwanderi Full Gospel Church"
+            },
+            "04298": {
+              "name": "Ack Ngaitethia Pry School"
+            },
+            "04299": {
+              "name": "Mugae Catholic Church"
+            }
+          }
+        },
+        "0269": {
+          "name": "Nkomo",
+          "pollingStations": {
+            "04300": {
+              "name": "Rwanjoe Primary School"
+            },
+            "04301": {
+              "name": "Kamitongu Primary School"
+            },
+            "04302": {
+              "name": "Gimpine Primary School"
+            },
+            "04303": {
+              "name": "Kanjai Primary School"
+            },
+            "04304": {
+              "name": "Mwithanga Primary School"
+            },
+            "04305": {
+              "name": "Amwari Primary School"
+            },
+            "04306": {
+              "name": "Kimachia Primary School"
+            },
+            "04307": {
+              "name": "Kamaroo Primary School"
+            },
+            "04308": {
+              "name": "Ntoombo Primary Shool"
+            },
+            "04309": {
+              "name": "Kithiiri Primary School"
+            },
+            "04310": {
+              "name": "Uringu Primary School"
+            },
+            "04311": {
+              "name": "Lubunu Primary School"
+            },
+            "04312": {
+              "name": "Kunene Primary School"
+            },
+            "04313": {
+              "name": "St.Rita Primary School"
+            },
+            "04314": {
+              "name": "Kanthiari Primary School"
+            },
+            "04315": {
+              "name": "Kamaruki Pry School"
+            },
+            "04316": {
+              "name": "Kunene Health Centre"
+            },
+            "04317": {
+              "name": "Mwathene Dispensary"
+            }
+          }
+        },
+        "0270": {
+          "name": "Mbeu",
+          "pollingStations": {
+            "04318": {
+              "name": "Makandi Primary School"
+            },
+            "04319": {
+              "name": "Baraimu Primary School"
+            },
+            "04320": {
+              "name": "Kibuline Primary School"
+            },
+            "04321": {
+              "name": "Kaliati Primary School"
+            },
+            "04322": {
+              "name": "Kimirii Primary School"
+            },
+            "04323": {
+              "name": "Kieru Primary School"
+            },
+            "04324": {
+              "name": "Kibuline Secondary School"
+            },
+            "04325": {
+              "name": "Mailu Nursery School"
+            },
+            "04326": {
+              "name": "Chaikuru Primary School"
+            },
+            "04327": {
+              "name": "Thanantu Primary School"
+            },
+            "04328": {
+              "name": "Kaamu Primary School"
+            },
+            "04329": {
+              "name": "Mukindu  Primary School"
+            },
+            "04330": {
+              "name": "Kamuthanga Pry School"
+            },
+            "04331": {
+              "name": "Aipca Church Machegene"
+            },
+            "04332": {
+              "name": "Bright Future Academy"
+            },
+            "04333": {
+              "name": "St Johns Kagaene Catholic Church"
+            }
+          }
+        }
+      }
+    },
+    "055": {
+      "name": "Tigania East",
+      "wards": {
+        "0271": {
+          "name": "Thangatha",
+          "pollingStations": {
+            "04334": {
+              "name": "Ankamia Primary School"
+            },
+            "04335": {
+              "name": "Antuathenge Primary School"
+            },
+            "04336": {
+              "name": "Kamunjine Primary School"
+            },
+            "04337": {
+              "name": "Kaathi Primary School"
+            },
+            "04338": {
+              "name": "Amugaa Primary School"
+            },
+            "04339": {
+              "name": "Irindiro Primary School"
+            },
+            "04340": {
+              "name": "Kaluli Primary School"
+            },
+            "04341": {
+              "name": "Rarimbu Primary School"
+            },
+            "04342": {
+              "name": "Karurune Primary School"
+            },
+            "04343": {
+              "name": "Miurine Primary School"
+            },
+            "04344": {
+              "name": "Kirumone Evangelism Church"
+            },
+            "04345": {
+              "name": "Ikana Primary School"
+            },
+            "04346": {
+              "name": "Katithine Primary School"
+            },
+            "04347": {
+              "name": "Ngongoaka Primary School"
+            },
+            "04348": {
+              "name": "Mukunga Primary"
+            },
+            "04349": {
+              "name": "Thai Disciples Christ Church"
+            },
+            "04350": {
+              "name": "Rurii Primary School"
+            },
+            "04351": {
+              "name": "Ngage Secondary School"
+            },
+            "04352": {
+              "name": "Kalantina Primary School"
+            },
+            "04353": {
+              "name": "Thathi Primary School"
+            },
+            "04354": {
+              "name": "Ngutu Primary School"
+            },
+            "04355": {
+              "name": "Kiguma Primary School"
+            },
+            "04356": {
+              "name": "Lwanjilu Primary School"
+            },
+            "04357": {
+              "name": "Antuarimata Primary School"
+            },
+            "04358": {
+              "name": "Kathanene Primary School"
+            },
+            "04359": {
+              "name": "Kiarao Primary School"
+            },
+            "04360": {
+              "name": "Gakiama Primary School"
+            },
+            "04361": {
+              "name": "Umoja Primary School"
+            }
+          }
+        },
+        "0272": {
+          "name": "Mikinduri",
+          "pollingStations": {
+            "04362": {
+              "name": "Mikinduri Primary School"
+            },
+            "04363": {
+              "name": "Kiriene Primary School"
+            },
+            "04364": {
+              "name": "Ruuju Primary School"
+            },
+            "04365": {
+              "name": "St.Stephen Catholic Church"
+            },
+            "04366": {
+              "name": "Kiamikuu Primary School"
+            },
+            "04367": {
+              "name": "Marega Primary School"
+            },
+            "04368": {
+              "name": "Kiguru Primary School"
+            },
+            "04369": {
+              "name": "Kang Ethia Women Hall"
+            },
+            "04370": {
+              "name": "Thuuri Primary School"
+            },
+            "04371": {
+              "name": "Mukono Primary School"
+            },
+            "04372": {
+              "name": "Athwana Primary School"
+            },
+            "04373": {
+              "name": "Mutewa Primary School"
+            },
+            "04374": {
+              "name": "Mikinduri Coffee Factory"
+            },
+            "04375": {
+              "name": "Kabuline Primary School"
+            },
+            "04376": {
+              "name": "K.K. Muthangene Primary School"
+            },
+            "04377": {
+              "name": "Nthangathi Primary School"
+            },
+            "04378": {
+              "name": "Athwana Cattle Dip."
+            },
+            "04379": {
+              "name": "Akaiga Primary School"
+            },
+            "04380": {
+              "name": "Mukorone Primary School"
+            },
+            "04381": {
+              "name": "Kabeti Primary Schol"
+            },
+            "04382": {
+              "name": "Ruongo Rwa Buuri Chief\"\"S Camp"
+            },
+            "04383": {
+              "name": "Kithuraku Primary School"
+            },
+            "04384": {
+              "name": "Kinoe Primary School"
+            }
+          }
+        },
+        "0273": {
+          "name": "Kiguchwa",
+          "pollingStations": {
+            "04385": {
+              "name": "Kailune Primary School"
+            },
+            "04386": {
+              "name": "Michimikuru Primary School"
+            },
+            "04387": {
+              "name": "Ametho Primary School"
+            },
+            "04388": {
+              "name": "Irindiro Full Gospel Church"
+            },
+            "04389": {
+              "name": "Kaliene Primary School"
+            },
+            "04390": {
+              "name": "K.K.Mwethe Primary School"
+            },
+            "04391": {
+              "name": "St.Benedict'S Primary School"
+            },
+            "04392": {
+              "name": "Kailune Tea Buying Centre"
+            },
+            "04393": {
+              "name": "Ngo'Mbe Njiru Primary School"
+            },
+            "04394": {
+              "name": "Kiguchwa Primary School"
+            },
+            "04395": {
+              "name": "Kirimancuma Primary School"
+            },
+            "04396": {
+              "name": "Thangatha Tea Buying Centre"
+            },
+            "04397": {
+              "name": "Akairu Primary School"
+            }
+          }
+        },
+        "0274": {
+          "name": "Muthara",
+          "pollingStations": {
+            "04398": {
+              "name": "Turingwi Open Ground"
+            },
+            "04399": {
+              "name": "Matabithi Primary School"
+            },
+            "04400": {
+              "name": "Mweromalia Primary School"
+            },
+            "04401": {
+              "name": "Kisima Primary School"
+            },
+            "04402": {
+              "name": "Ntulili Primary School"
+            },
+            "04403": {
+              "name": "Kiremu Primary School"
+            },
+            "04404": {
+              "name": "Lailuba Primary School"
+            },
+            "04405": {
+              "name": "Mweromuthanga Primary School"
+            },
+            "04406": {
+              "name": "Luuma Primary School"
+            },
+            "04407": {
+              "name": "Muthara Open Market"
+            },
+            "04408": {
+              "name": "Mabuurwa Primary School"
+            },
+            "04409": {
+              "name": "Lanyiruu Primary School"
+            },
+            "04410": {
+              "name": "Rumanthi Primary School"
+            },
+            "04411": {
+              "name": "Lubuathirua Primary School"
+            },
+            "04412": {
+              "name": "Kinang'Aru Primary School"
+            },
+            "04413": {
+              "name": "Muthara Primary School"
+            },
+            "04414": {
+              "name": "Athambu Primary School"
+            },
+            "04415": {
+              "name": "Nguthiru Primary School"
+            },
+            "04416": {
+              "name": "K.K. Thaita Tea Buying Centre"
+            },
+            "04417": {
+              "name": "Antuanuu Primary School"
+            },
+            "04418": {
+              "name": "Ncuui Primary School"
+            },
+            "04419": {
+              "name": "Nduluma Primary School"
+            },
+            "04420": {
+              "name": "Charuru Primary School"
+            },
+            "04421": {
+              "name": "Thuuria Primary School"
+            },
+            "04422": {
+              "name": "Ntamichu Primary School"
+            },
+            "04423": {
+              "name": "Gambela Primary School"
+            },
+            "04424": {
+              "name": "Kaongo Primary School"
+            },
+            "04425": {
+              "name": "Kailutha Primary School"
+            },
+            "04426": {
+              "name": "Kibore Tea Buying Centre"
+            },
+            "04427": {
+              "name": "Lii Primary School"
+            }
+          }
+        },
+        "0275": {
+          "name": "Karama",
+          "pollingStations": {
+            "04428": {
+              "name": "Mwerokieni Primary School"
+            },
+            "04429": {
+              "name": "Kiithe Primary School"
+            },
+            "04430": {
+              "name": "Mbaranga Primary School"
+            },
+            "04431": {
+              "name": "Laibocha Primary School"
+            },
+            "04432": {
+              "name": "Muthara Polytechnic"
+            },
+            "04433": {
+              "name": "Ntirutu Primary School"
+            },
+            "04434": {
+              "name": "Mitunguune Primary School"
+            },
+            "04435": {
+              "name": "Kirima Primary School"
+            },
+            "04436": {
+              "name": "Antuanduru Primary School"
+            },
+            "04437": {
+              "name": "Mukuiru Primary School"
+            },
+            "04438": {
+              "name": "Kinjo Tea Buying Centre"
+            },
+            "04439": {
+              "name": "Angili Primary School"
+            },
+            "04440": {
+              "name": "Luthie Primary School"
+            },
+            "04441": {
+              "name": "Kandunyuringa Open Ground"
+            },
+            "04442": {
+              "name": "Mula Primary School"
+            },
+            "04443": {
+              "name": "Mutunduru Primary School"
+            },
+            "04444": {
+              "name": "Mukuani Primary School"
+            },
+            "04445": {
+              "name": "Ndubua Naincu Nursery"
+            },
+            "04446": {
+              "name": "Ling'Uri Primary School"
+            },
+            "04447": {
+              "name": "Miuine Primary School"
+            }
+          }
+        }
+      }
+    },
+    "056": {
+      "name": "North Imenti",
+      "wards": {
+        "0276": {
+          "name": "Municipality",
+          "pollingStations": {
+            "04448": {
+              "name": "Forest Camp"
+            },
+            "04449": {
+              "name": "Kinoru Primary School"
+            },
+            "04450": {
+              "name": "Milimani Mobile"
+            },
+            "04451": {
+              "name": "Mwendantu Grounds"
+            },
+            "04452": {
+              "name": "D.E.B Township Primary School"
+            },
+            "04453": {
+              "name": "Gitoro Primary School"
+            },
+            "04454": {
+              "name": "Meru Primary School"
+            },
+            "04455": {
+              "name": "Ccm Primary School"
+            },
+            "04456": {
+              "name": "Muslim Primary School"
+            },
+            "04457": {
+              "name": "Mosque Road Hall (Mkt)"
+            },
+            "04458": {
+              "name": "Library Grounds"
+            },
+            "04459": {
+              "name": "Nteere Park"
+            },
+            "04460": {
+              "name": "Pig & Whistle Grounds"
+            },
+            "04461": {
+              "name": "Njuri Ncheke Street"
+            },
+            "04462": {
+              "name": "M.O.W Yard"
+            },
+            "04463": {
+              "name": "Kongoacheke Coffee Factory"
+            },
+            "04464": {
+              "name": "Ntima Kinani Housing Grounds"
+            },
+            "04465": {
+              "name": "Makutano Market"
+            },
+            "04466": {
+              "name": "Kirukuri Street"
+            },
+            "04467": {
+              "name": "Kaaga Coffee Factory"
+            }
+          }
+        },
+        "0277": {
+          "name": "Ntima East",
+          "pollingStations": {
+            "04468": {
+              "name": "Miriga Mieru Society Offices"
+            },
+            "04469": {
+              "name": "Good Shepherd Primary School"
+            },
+            "04470": {
+              "name": "Njuki Njiru Primary School"
+            },
+            "04471": {
+              "name": "Kathurine Coffee Factory"
+            },
+            "04472": {
+              "name": "Muringo Mbugi Primary School"
+            },
+            "04473": {
+              "name": "Gachanka Primary School"
+            },
+            "04474": {
+              "name": "Kathurine Market"
+            },
+            "04475": {
+              "name": "Mwirine Primary School"
+            },
+            "04476": {
+              "name": "Gakoromone Open Air Market"
+            },
+            "04477": {
+              "name": "Mwiteria Primary School"
+            },
+            "04478": {
+              "name": "Gitimbine Market"
+            },
+            "04479": {
+              "name": "Meru Main Bus Park"
+            },
+            "04480": {
+              "name": "Mck Gakoromone"
+            }
+          }
+        },
+        "0278": {
+          "name": "Ntima West",
+          "pollingStations": {
+            "04481": {
+              "name": "Mpuri Primary School"
+            },
+            "04482": {
+              "name": "Kiamiriru Primary School"
+            },
+            "04483": {
+              "name": "Nthimbiri Primary School"
+            },
+            "04484": {
+              "name": "Kaing'Inyo Primary School"
+            },
+            "04485": {
+              "name": "Ng'Onyi Primary School"
+            },
+            "04486": {
+              "name": "Mwira Mwanki Primary School"
+            },
+            "04487": {
+              "name": "Irinda Primary School"
+            },
+            "04488": {
+              "name": "Gikumene Primary School"
+            },
+            "04489": {
+              "name": "Giantune Primary School"
+            },
+            "04490": {
+              "name": "Gitebe Market"
+            },
+            "04491": {
+              "name": "Nchaure Primary School"
+            },
+            "04492": {
+              "name": "Kiraria Primary School"
+            },
+            "04493": {
+              "name": "Gachiege Coffee Factory"
+            },
+            "04494": {
+              "name": "Kianjuri Farmers  Society"
+            },
+            "04495": {
+              "name": "Gaukene Market"
+            },
+            "04496": {
+              "name": "National Cereals And Produce Offices"
+            },
+            "04497": {
+              "name": "Kathurine Primary School"
+            }
+          }
+        },
+        "0279": {
+          "name": "Nyaki West",
+          "pollingStations": {
+            "04498": {
+              "name": "Mwithumwiru Primary School"
+            },
+            "04499": {
+              "name": "Murathankari Primary School"
+            },
+            "04500": {
+              "name": "Gichunge Primary School"
+            },
+            "04501": {
+              "name": "Ngiine Primary School"
+            },
+            "04502": {
+              "name": "Kaithe Market"
+            },
+            "04503": {
+              "name": "Kaaga Boys High School"
+            },
+            "04504": {
+              "name": "Kaaga Primary School"
+            },
+            "04505": {
+              "name": "Chabuene Mobile"
+            },
+            "04506": {
+              "name": "Runogone Cattle Dip"
+            },
+            "04507": {
+              "name": "Kirwiro Market"
+            },
+            "04508": {
+              "name": "Kauthene Market"
+            },
+            "04509": {
+              "name": "Munithu Coffee Factory"
+            },
+            "04510": {
+              "name": "Kienderu Market"
+            },
+            "04511": {
+              "name": "Karingene Nursery School"
+            },
+            "04512": {
+              "name": "Munithu Primary School"
+            },
+            "04513": {
+              "name": "Kambiti Primary School"
+            },
+            "04514": {
+              "name": "Kathithi Primary School"
+            },
+            "04515": {
+              "name": "Runogone Primary School"
+            },
+            "04516": {
+              "name": "Kithoka Primary School"
+            },
+            "04517": {
+              "name": "Chugu Primary School"
+            },
+            "04518": {
+              "name": "Karima Ga Ntuiko Primary School"
+            },
+            "04519": {
+              "name": "Gakurine Market"
+            },
+            "04520": {
+              "name": "Kiruai Coffee Factory"
+            },
+            "04521": {
+              "name": "Kibachia Grounds"
+            }
+          }
+        },
+        "0280": {
+          "name": "Nyaki East",
+          "pollingStations": {
+            "04522": {
+              "name": "Nkabune Primary School"
+            },
+            "04523": {
+              "name": "Mukongorone Primary School"
+            },
+            "04524": {
+              "name": "Rwanyange Primary School"
+            },
+            "04525": {
+              "name": "Thuura High School"
+            },
+            "04526": {
+              "name": "Giaki Primary School"
+            },
+            "04527": {
+              "name": "Ruriine Primary School"
+            },
+            "04528": {
+              "name": "Karirwara Primary School"
+            },
+            "04529": {
+              "name": "Mbeu Primary School"
+            },
+            "04530": {
+              "name": "Mbirikene Primary School"
+            },
+            "04531": {
+              "name": "Ciothirai Primary School"
+            },
+            "04532": {
+              "name": "Gachua Primary School"
+            },
+            "04533": {
+              "name": "Mbuuta Primary School"
+            },
+            "04534": {
+              "name": "Ndiine Primary School"
+            },
+            "04535": {
+              "name": "Ndekero Cattle Dip"
+            },
+            "04536": {
+              "name": "Thuura Primary School"
+            },
+            "04537": {
+              "name": "Ndurumo Milk Collection Centre"
+            },
+            "04538": {
+              "name": "Kathirune Primary School"
+            },
+            "04539": {
+              "name": "Nkugwe Coffee Factory"
+            },
+            "04540": {
+              "name": "Ciothirai Market"
+            },
+            "04541": {
+              "name": "Kiburine Cdc Centre"
+            },
+            "04542": {
+              "name": "Thimangiri Market"
+            },
+            "04543": {
+              "name": "Kirimaitune Primary School"
+            },
+            "04544": {
+              "name": "Nthamiiri Primary School"
+            },
+            "04545": {
+              "name": "Mck St Peters Mukindu"
+            },
+            "04546": {
+              "name": "Ntani Primary School"
+            },
+            "04547": {
+              "name": "Munandene Market"
+            },
+            "04548": {
+              "name": "M.C.K Kuuru Church"
+            },
+            "04549": {
+              "name": "E.A.P.C Mukundu Church"
+            }
+          }
+        }
+      }
+    },
+    "057": {
+      "name": "Buuri",
+      "wards": {
+        "0281": {
+          "name": "Timau",
+          "pollingStations": {
+            "04550": {
+              "name": "Ontulili Ccm Primary School"
+            },
+            "04551": {
+              "name": "Ccm Angaine Primary School"
+            },
+            "04552": {
+              "name": "Kangaita Primary School"
+            },
+            "04553": {
+              "name": "Kiranga Primary School"
+            },
+            "04554": {
+              "name": "Ndemu Primary School"
+            },
+            "04555": {
+              "name": "Kithithina Primary School"
+            },
+            "04556": {
+              "name": "Muteithia Primary School"
+            },
+            "04557": {
+              "name": "Timau Primary School"
+            },
+            "04558": {
+              "name": "Kiambogo Primary School"
+            },
+            "04559": {
+              "name": "Nkiria Primary School"
+            },
+            "04560": {
+              "name": "Sirimon Centre"
+            },
+            "04561": {
+              "name": "Nkando Primary School (Ontulili)"
+            },
+            "04562": {
+              "name": "Kongune Nursery School"
+            },
+            "04563": {
+              "name": "Pyrethrum House"
+            },
+            "04564": {
+              "name": "Timau District Hospital"
+            },
+            "04565": {
+              "name": "Kairiri Nursery School"
+            },
+            "04566": {
+              "name": "Kirimara Primary School"
+            },
+            "04567": {
+              "name": "Mck Kirimba Academy"
+            },
+            "04568": {
+              "name": "Mck Mwana Mutethua Cdc Centre"
+            },
+            "04569": {
+              "name": "Mutethia Cattle Dip"
+            },
+            "04570": {
+              "name": "Timau Day Secondary School"
+            }
+          }
+        },
+        "0282": {
+          "name": "Kisima",
+          "pollingStations": {
+            "04571": {
+              "name": "Maritati Primary School"
+            },
+            "04572": {
+              "name": "Madaraka Primary School"
+            },
+            "04573": {
+              "name": "Ngusishi Primary School"
+            },
+            "04574": {
+              "name": "Ccm Gundua Primary School"
+            },
+            "04575": {
+              "name": "Mbuju Primary School"
+            },
+            "04576": {
+              "name": "Ntirimiti Primary School"
+            },
+            "04577": {
+              "name": "Kamiti Primary School"
+            },
+            "04578": {
+              "name": "Mutunyi Primary School"
+            },
+            "04579": {
+              "name": "Lewa Downs Primary School"
+            },
+            "04580": {
+              "name": "Kanyunga Primary School"
+            },
+            "04581": {
+              "name": "Ndurumuru Primary School"
+            },
+            "04582": {
+              "name": "Murangine Primary School"
+            },
+            "04583": {
+              "name": "Aipca Subuiga Primary School"
+            },
+            "04584": {
+              "name": "Sacred Heart Education Center"
+            },
+            "04585": {
+              "name": "Victor Cress"
+            },
+            "04586": {
+              "name": "Tima Farm"
+            },
+            "04587": {
+              "name": "Siraj Farm"
+            },
+            "04588": {
+              "name": "Kisima Farm"
+            },
+            "04589": {
+              "name": "Uhuru Farm"
+            },
+            "04590": {
+              "name": "Karimba Primary School"
+            },
+            "04591": {
+              "name": "Kisima Sec. School"
+            },
+            "04592": {
+              "name": "Ethi Polytechnic"
+            },
+            "04593": {
+              "name": "Mukuri Fgck"
+            },
+            "04594": {
+              "name": "Deb Kianda Primary School"
+            },
+            "04595": {
+              "name": "Mck Mugumone Primary School"
+            },
+            "04596": {
+              "name": "Dunia E.C.D.E"
+            },
+            "04597": {
+              "name": "Mienjera Aipca"
+            }
+          }
+        },
+        "0283": {
+          "name": "Kiirua/Naari",
+          "pollingStations": {
+            "04598": {
+              "name": "Kinyenjere Primary School"
+            },
+            "04599": {
+              "name": "Nkando Primary School"
+            },
+            "04600": {
+              "name": "Maili Saba Market"
+            },
+            "04601": {
+              "name": "Kiirua Primary School"
+            },
+            "04602": {
+              "name": "Marinyaruibi Primary School"
+            },
+            "04603": {
+              "name": "Kieni Kia Ndege Primary School"
+            },
+            "04604": {
+              "name": "Michogomone Primary School"
+            },
+            "04605": {
+              "name": "Michaka Primary School"
+            },
+            "04606": {
+              "name": "Thege Primary School"
+            },
+            "04607": {
+              "name": "Kironya Primary School"
+            },
+            "04608": {
+              "name": "Kiirua Technical Trainnig Institute"
+            },
+            "04609": {
+              "name": "Runkuru Primary School"
+            },
+            "04610": {
+              "name": "Mitoone Primary School"
+            },
+            "04611": {
+              "name": "Miugune Primary School"
+            },
+            "04612": {
+              "name": "Munanda Primary School"
+            },
+            "04613": {
+              "name": "Muuti-O-Nthunguri Primary School"
+            },
+            "04614": {
+              "name": "Kamuketha Primary School"
+            },
+            "04615": {
+              "name": "Rugetene Primary School"
+            },
+            "04616": {
+              "name": "Ndunyu Barikui Primary School"
+            },
+            "04617": {
+              "name": "Nkunga Primary School"
+            },
+            "04618": {
+              "name": "Muruguma Primary School"
+            },
+            "04619": {
+              "name": "Kauru Nkuriga Primary School"
+            },
+            "04620": {
+              "name": "Kiringo Primary School"
+            },
+            "04621": {
+              "name": "Mujujune Primary School"
+            }
+          }
+        },
+        "0284": {
+          "name": "Ruiri/Rwarera",
+          "pollingStations": {
+            "04622": {
+              "name": "Tutua Primary School"
+            },
+            "04623": {
+              "name": "Rwarera Primary School"
+            },
+            "04624": {
+              "name": "Kairune Primary School"
+            },
+            "04625": {
+              "name": "Njuruta Primary School"
+            },
+            "04626": {
+              "name": "Mugae Primary School"
+            },
+            "04627": {
+              "name": "Nchoroiboro Primary School"
+            },
+            "04628": {
+              "name": "Mutuuma Primary School"
+            },
+            "04629": {
+              "name": "Matuuru Primary School"
+            },
+            "04630": {
+              "name": "Ribui Primary School"
+            },
+            "04631": {
+              "name": "Kanthungu Primary School"
+            },
+            "04632": {
+              "name": "Kithwene Primary School"
+            },
+            "04633": {
+              "name": "Ndunyuruma Primary School"
+            },
+            "04634": {
+              "name": "Njotene Primary School"
+            },
+            "04635": {
+              "name": "Ruiri Coffee Factory"
+            },
+            "04636": {
+              "name": "Ruiri Primary Schoool"
+            },
+            "04637": {
+              "name": "Nchoroiboro Market"
+            },
+            "04638": {
+              "name": "Kaithe Primary School"
+            },
+            "04639": {
+              "name": "Marere Primary School"
+            },
+            "04640": {
+              "name": "Karumanthi Primary School"
+            }
+          }
+        },
+        "0289": {
+          "name": "Kibirichia",
+          "pollingStations": {
+            "04641": {
+              "name": "Ntumburi Primary School"
+            },
+            "04642": {
+              "name": "Marurui Primary School"
+            },
+            "04643": {
+              "name": "Ntugi Primary School"
+            },
+            "04644": {
+              "name": "Gakando Primary School"
+            },
+            "04645": {
+              "name": "Kiborione Primary School"
+            },
+            "04646": {
+              "name": "Ntharagwene Primary School"
+            },
+            "04647": {
+              "name": "Muriinya Primary School"
+            },
+            "04648": {
+              "name": "Rugusu Aipca Primary School"
+            },
+            "04649": {
+              "name": "Gathuine Primary School"
+            },
+            "04650": {
+              "name": "Mburugiti Primary School"
+            },
+            "04651": {
+              "name": "Ruibi Primary School"
+            },
+            "04652": {
+              "name": "Karanene Milk Collection Center"
+            },
+            "04653": {
+              "name": "Kimbo Primary School"
+            },
+            "04654": {
+              "name": "Kibirichia Primary School"
+            },
+            "04655": {
+              "name": "Kibirichia Market"
+            },
+            "04656": {
+              "name": "Mujujune Market"
+            },
+            "04657": {
+              "name": "Ntugi Market"
+            },
+            "04658": {
+              "name": "Kibirichia Girls Secondary School"
+            },
+            "04659": {
+              "name": "Kibirichia Boys High School"
+            },
+            "04660": {
+              "name": "Machaka Social Hall"
+            }
+          }
+        }
+      }
+    },
+    "058": {
+      "name": "Central Imenti",
+      "wards": {
+        "0285": {
+          "name": "Mwanganthia",
+          "pollingStations": {
+            "04661": {
+              "name": "Gatuune Primary School"
+            },
+            "04662": {
+              "name": "Gatuatine Primary School"
+            },
+            "04663": {
+              "name": "Igane Primary School"
+            },
+            "04664": {
+              "name": "Kathathene Primary School"
+            },
+            "04665": {
+              "name": "Kaongo Primary School"
+            },
+            "04666": {
+              "name": "Gatenderene Primary School"
+            },
+            "04667": {
+              "name": "Kiamakoro Primary School"
+            },
+            "04668": {
+              "name": "Chaaria Primary School"
+            },
+            "04669": {
+              "name": "Mbajone Primary School"
+            },
+            "04670": {
+              "name": "Runywene Primary School"
+            },
+            "04671": {
+              "name": "Nguchia Primary School"
+            },
+            "04672": {
+              "name": "Nkumbo Primary School"
+            },
+            "04673": {
+              "name": "Njuthiine Primary School"
+            },
+            "04674": {
+              "name": "Ucheru Primary School"
+            },
+            "04675": {
+              "name": "Kirwiro Primary School"
+            },
+            "04676": {
+              "name": "Karaene Primary School"
+            },
+            "04677": {
+              "name": "Karia Ka Ngogo Primary School"
+            },
+            "04678": {
+              "name": "Mck Township Primary School"
+            },
+            "04679": {
+              "name": "Njoe Coffee Factory"
+            },
+            "04680": {
+              "name": "Kieni Primary School"
+            },
+            "04681": {
+              "name": "Karingene Primary School"
+            },
+            "04682": {
+              "name": "Ngeene Primary School"
+            },
+            "04683": {
+              "name": "Naguru Primary School"
+            }
+          }
+        },
+        "0286": {
+          "name": "Abothuguchi Central",
+          "pollingStations": {
+            "04684": {
+              "name": "Nyweri Primary School"
+            },
+            "04685": {
+              "name": "Mukiria Youth Polytechnic"
+            },
+            "04686": {
+              "name": "Mariene Primary School"
+            },
+            "04687": {
+              "name": "Mugambone Primary School"
+            },
+            "04688": {
+              "name": "Ruiga Primary School"
+            },
+            "04689": {
+              "name": "Ruiga Aipca Church(Old)"
+            },
+            "04690": {
+              "name": "Mwitumura Primary School"
+            },
+            "04691": {
+              "name": "Katheju Primary School"
+            },
+            "04692": {
+              "name": "Murathi Primary School"
+            },
+            "04693": {
+              "name": "Nkuene Primary School"
+            },
+            "04694": {
+              "name": "Tabata Primary School"
+            },
+            "04695": {
+              "name": "Gaitu Primary School"
+            },
+            "04696": {
+              "name": "St. Mary Immaculate Primary School"
+            },
+            "04697": {
+              "name": "Kaugi Nursery School"
+            },
+            "04698": {
+              "name": "Mariene Coffee Research Foundation"
+            },
+            "04699": {
+              "name": "Karimonga Primary School"
+            },
+            "04700": {
+              "name": "Kibarii Primary School"
+            },
+            "04701": {
+              "name": "Mukuune Nursery School"
+            },
+            "04702": {
+              "name": "Ntonyero Primary School"
+            },
+            "04703": {
+              "name": "Kiria Primary School"
+            },
+            "04704": {
+              "name": "Kirigara Primary School"
+            },
+            "04705": {
+              "name": "Kariene Primary School"
+            },
+            "04706": {
+              "name": "Rwanderi Primary School"
+            },
+            "04707": {
+              "name": "Kirirwa Primary School"
+            },
+            "04708": {
+              "name": "Rware Primary School"
+            },
+            "04709": {
+              "name": "Karindine Primary School"
+            },
+            "04710": {
+              "name": "Rwankware Coffee Factory"
+            },
+            "04711": {
+              "name": "Kirigara Coffee Factory"
+            },
+            "04712": {
+              "name": "Rwangua Primary School"
+            }
+          }
+        },
+        "0287": {
+          "name": "Abothuguchi West",
+          "pollingStations": {
+            "04713": {
+              "name": "Muthangene Primary School"
+            },
+            "04714": {
+              "name": "Kathiranga Primary School"
+            },
+            "04715": {
+              "name": "Kijijone Primary School"
+            },
+            "04716": {
+              "name": "Kianthumbi Primary School"
+            },
+            "04717": {
+              "name": "Kinjo Primary School"
+            },
+            "04718": {
+              "name": "Katheri Primary School"
+            },
+            "04719": {
+              "name": "Kathita Primary"
+            },
+            "04720": {
+              "name": "Kagere Tea Buying Centre"
+            },
+            "04721": {
+              "name": "Mworoga Tea Buying Centre"
+            },
+            "04722": {
+              "name": "Riiji Coffee Factory"
+            },
+            "04723": {
+              "name": "Katheri Coffee Factory"
+            },
+            "04724": {
+              "name": "Kinjo Cattle Dip"
+            },
+            "04725": {
+              "name": "Kaathi Tea Buying Centre"
+            },
+            "04726": {
+              "name": "Karugwa Primary School"
+            },
+            "04727": {
+              "name": "Githongo Youth Polytechnic"
+            },
+            "04728": {
+              "name": "Marathi Coffee Facory"
+            },
+            "04729": {
+              "name": "Kaugu Primary School"
+            },
+            "04730": {
+              "name": "Muri Primary School"
+            },
+            "04731": {
+              "name": "Githongo Tea Factory"
+            },
+            "04732": {
+              "name": "Rwathi Tea Buying Centre"
+            },
+            "04733": {
+              "name": "Karugwa Coffee Factory"
+            },
+            "04734": {
+              "name": "Mankuru Tea Buying Centre"
+            },
+            "04735": {
+              "name": "Muriinya Tea Buying Centre"
+            },
+            "04736": {
+              "name": "Kithirune Primary School"
+            },
+            "04737": {
+              "name": "Muruugi Primary School"
+            },
+            "04738": {
+              "name": "Kioru Primary School"
+            },
+            "04739": {
+              "name": "Kithirune Girls Secondary School"
+            },
+            "04740": {
+              "name": "Mbwinjeru Primary School"
+            },
+            "04741": {
+              "name": "Kaguma Primary School"
+            },
+            "04742": {
+              "name": "Ngaacia Tea Buying Centre"
+            },
+            "04743": {
+              "name": "Kamurita Tea Buying"
+            },
+            "04744": {
+              "name": "Kauruu Tea Buying Centre"
+            },
+            "04745": {
+              "name": "Abothuguchi Boarding Primary School"
+            }
+          }
+        },
+        "0288": {
+          "name": "Kiagu",
+          "pollingStations": {
+            "04746": {
+              "name": "Gitiye Primary School"
+            },
+            "04747": {
+              "name": "Mujwa Primary School"
+            },
+            "04748": {
+              "name": "Kiija Primary School"
+            },
+            "04749": {
+              "name": "Ng'Onga Primary School"
+            },
+            "04750": {
+              "name": "Muthikiine Primary School"
+            },
+            "04751": {
+              "name": "Makandune Primary School"
+            },
+            "04752": {
+              "name": "Matetu Primary School"
+            },
+            "04753": {
+              "name": "Kanywee Primary School"
+            },
+            "04754": {
+              "name": "Gikuuru Primary School"
+            },
+            "04755": {
+              "name": "Nkura Primary School"
+            },
+            "04756": {
+              "name": "Manthi Primary School"
+            },
+            "04757": {
+              "name": "Kiamuri Primary School"
+            },
+            "04758": {
+              "name": "Kauthene Primary School"
+            },
+            "04759": {
+              "name": "Mpindi Primary School"
+            },
+            "04760": {
+              "name": "Rikana Primary School"
+            },
+            "04761": {
+              "name": "Mck Mukuune Primary School"
+            },
+            "04762": {
+              "name": "Gacuru Primary School"
+            },
+            "04763": {
+              "name": "Gitune Coffee Factory"
+            },
+            "04764": {
+              "name": "Karimbene Shopping Centre"
+            },
+            "04765": {
+              "name": "St. Paul'S Makandune Secondary School"
+            },
+            "04766": {
+              "name": "Karii Primary School"
+            }
+          }
+        }
+      }
+    },
+    "059": {
+      "name": "South Imenti",
+      "wards": {
+        "0290": {
+          "name": "Mitunguu",
+          "pollingStations": {
+            "04767": {
+              "name": "Muguru Coffee Factory"
+            },
+            "04768": {
+              "name": "Muguru Primary School"
+            },
+            "04769": {
+              "name": "Kithunguri Primary School"
+            },
+            "04770": {
+              "name": "Nkumari Coffee Factory"
+            },
+            "04771": {
+              "name": "Ndamene Primary School"
+            },
+            "04772": {
+              "name": "Rwompo Primary School"
+            },
+            "04773": {
+              "name": "Gaceero Primary School"
+            },
+            "04774": {
+              "name": "Mitunguu Primary School"
+            },
+            "04775": {
+              "name": "Muungu Primary School"
+            },
+            "04776": {
+              "name": "Nkungugu Coffee Factory"
+            },
+            "04777": {
+              "name": "Mamuru Primary School"
+            },
+            "04778": {
+              "name": "Kaurone Primary School"
+            },
+            "04779": {
+              "name": "Mbeti Primary School"
+            },
+            "04780": {
+              "name": "Nkumari Primary School"
+            },
+            "04781": {
+              "name": "Gitara Primary School"
+            },
+            "04782": {
+              "name": "Mitunguu Social Hall"
+            },
+            "04783": {
+              "name": "Mitunguu Technical Training Institute"
+            },
+            "04784": {
+              "name": "Kithunguri Secondary School"
+            },
+            "04785": {
+              "name": "Mbeti Open Air Market"
+            },
+            "04786": {
+              "name": "Nyagene Girls Secondary School"
+            }
+          }
+        },
+        "0291": {
+          "name": "Igoji East",
+          "pollingStations": {
+            "04787": {
+              "name": "Rurama Primary School"
+            },
+            "04788": {
+              "name": "St. Elizabeth Primary School"
+            },
+            "04789": {
+              "name": "Nchigi Primary School"
+            },
+            "04790": {
+              "name": "Kathigiri Boarding Primary School"
+            },
+            "04791": {
+              "name": "Karoe Primary School"
+            },
+            "04792": {
+              "name": "Njerune Primary School"
+            },
+            "04793": {
+              "name": "Gicici Primary School"
+            },
+            "04794": {
+              "name": "St. Joseph Primary School"
+            },
+            "04795": {
+              "name": "Igoji Primary School"
+            },
+            "04796": {
+              "name": "Kagumone Primary School"
+            },
+            "04797": {
+              "name": "St. Jude Kk Primary School"
+            },
+            "04798": {
+              "name": "Geeto Primary School"
+            },
+            "04799": {
+              "name": "Igoji Boys Secondary School"
+            },
+            "04800": {
+              "name": "Nkugwe Primary School"
+            },
+            "04801": {
+              "name": "Rwarene Primary School"
+            },
+            "04802": {
+              "name": "Gatuntune Primary School"
+            },
+            "04803": {
+              "name": "Machegene Primary School"
+            },
+            "04804": {
+              "name": "Mworoga Primary School"
+            },
+            "04805": {
+              "name": "Gikurune Primary School"
+            },
+            "04806": {
+              "name": "Kireru Primary School"
+            },
+            "04807": {
+              "name": "Gitine  Primary School"
+            },
+            "04808": {
+              "name": "Muringombaine Primary School"
+            },
+            "04809": {
+              "name": "Kathangari Primary School"
+            },
+            "04810": {
+              "name": "Kiune  Primary School"
+            },
+            "04811": {
+              "name": "Muriru Primary School"
+            },
+            "04812": {
+              "name": "Mitune Primary School"
+            },
+            "04813": {
+              "name": "Miruriiri Primary School"
+            },
+            "04814": {
+              "name": "Kathigu Primary School"
+            }
+          }
+        },
+        "0292": {
+          "name": "Igoji West",
+          "pollingStations": {
+            "04815": {
+              "name": "Kiroone Primary School"
+            },
+            "04816": {
+              "name": "Mugae Hill Primary School"
+            },
+            "04817": {
+              "name": "Mukuciune  Primary School"
+            },
+            "04818": {
+              "name": "Mukaragatine Primary School"
+            },
+            "04819": {
+              "name": "Kiamweri Primary School"
+            },
+            "04820": {
+              "name": "Mutunguru Primary School"
+            },
+            "04821": {
+              "name": "Kaura Tea Buying Centre"
+            },
+            "04822": {
+              "name": "Kiithwa Primary School"
+            },
+            "04823": {
+              "name": "Kinoro Resource Centre"
+            },
+            "04824": {
+              "name": "Karegi Primary School"
+            },
+            "04825": {
+              "name": "Rigiri Coffee Factory"
+            },
+            "04826": {
+              "name": "Kinoro Primary School"
+            },
+            "04827": {
+              "name": "Murembu Primary School"
+            },
+            "04828": {
+              "name": "Kiandugu Primary School"
+            },
+            "04829": {
+              "name": "Kathuguya Primary School"
+            },
+            "04830": {
+              "name": "Mutonga Coffee Factory"
+            },
+            "04831": {
+              "name": "Kiangua Primary School"
+            },
+            "04832": {
+              "name": "Karia Coffee Factory"
+            },
+            "04833": {
+              "name": "Gakuuni Primary School"
+            },
+            "04834": {
+              "name": "Kiamatheu Tea Buying Centre"
+            }
+          }
+        },
+        "0293": {
+          "name": "Abogeta East",
+          "pollingStations": {
+            "04835": {
+              "name": "St. Alloysius Primary School"
+            },
+            "04836": {
+              "name": "Kanyakine Primary School"
+            },
+            "04837": {
+              "name": "Ntharene Primary School"
+            },
+            "04838": {
+              "name": "Kothine Day Secondary School"
+            },
+            "04839": {
+              "name": "Nthunguri Primary School"
+            },
+            "04840": {
+              "name": "Igoki Secondary School"
+            },
+            "04841": {
+              "name": "Kirogine Primary School"
+            },
+            "04842": {
+              "name": "Kamuringi Primary School"
+            },
+            "04843": {
+              "name": "Yururu Primary School"
+            },
+            "04844": {
+              "name": "Nyanya Coffee Factory"
+            },
+            "04845": {
+              "name": "Gaatia Primary School"
+            },
+            "04846": {
+              "name": "Kairaa Primary School"
+            },
+            "04847": {
+              "name": "Kithakanaro Primary School"
+            },
+            "04848": {
+              "name": "Muutiokiama  Primary School"
+            },
+            "04849": {
+              "name": "Maraa Primary School"
+            },
+            "04850": {
+              "name": "Kithino Primary School"
+            },
+            "04851": {
+              "name": "Ithitwe Primary School"
+            },
+            "04852": {
+              "name": "Kithatu Primary School"
+            },
+            "04853": {
+              "name": "Kiringa Primary School"
+            },
+            "04854": {
+              "name": "Nyomba Ya Athi Primary School"
+            },
+            "04855": {
+              "name": "Lower Chure Secondary  School"
+            },
+            "04856": {
+              "name": "Mwichiune Primary School"
+            },
+            "04857": {
+              "name": "Unja Coffee Factory"
+            },
+            "04858": {
+              "name": "Iriene Primary School"
+            },
+            "04859": {
+              "name": "Kiambene Coffee Factory"
+            },
+            "04860": {
+              "name": "Gikongoro Coffee Factory"
+            }
+          }
+        },
+        "0294": {
+          "name": "Abogeta West",
+          "pollingStations": {
+            "04861": {
+              "name": "Igandene Primary School"
+            },
+            "04862": {
+              "name": "Karirune Tea Buying Center"
+            },
+            "04863": {
+              "name": "Bubui Primary School"
+            },
+            "04864": {
+              "name": "Kionyo Education Centre"
+            },
+            "04865": {
+              "name": "Gatakene Primary School"
+            },
+            "04866": {
+              "name": "Machikine Primary School"
+            },
+            "04867": {
+              "name": "Ithimbari Primary School"
+            },
+            "04868": {
+              "name": "Ndagene Secondary School"
+            },
+            "04869": {
+              "name": "Nkuriga Primary School"
+            },
+            "04870": {
+              "name": "Kithaene Primary School"
+            },
+            "04871": {
+              "name": "Menwe Primary School"
+            },
+            "04872": {
+              "name": "Ngongo Primary School"
+            },
+            "04873": {
+              "name": "Giumpu Primary School"
+            },
+            "04874": {
+              "name": "Kionyo Primary School"
+            },
+            "04875": {
+              "name": "Kithangari Primary School"
+            },
+            "04876": {
+              "name": "Murungurune Primary School"
+            },
+            "04877": {
+              "name": "Kariene Tea Buying Centre"
+            },
+            "04878": {
+              "name": "Irimbene Primary School"
+            },
+            "04879": {
+              "name": "Kairiene Primary School"
+            },
+            "04880": {
+              "name": "Gumpira Tea Buying Centre"
+            },
+            "04881": {
+              "name": "Nyaagi Primary School"
+            },
+            "04882": {
+              "name": "Gaturi Primary School"
+            },
+            "04883": {
+              "name": "Gangara Primary School"
+            },
+            "04884": {
+              "name": "Kanthungu Tea Buying Centre"
+            },
+            "04885": {
+              "name": "Ucima Primary School"
+            },
+            "04886": {
+              "name": "Gitumbine Tea Buying Centre Gaturi"
+            },
+            "04887": {
+              "name": "Gitumbine Tea Buying Centre Ngirine"
+            },
+            "04888": {
+              "name": "Njugune Boarding Primary School"
+            }
+          }
+        },
+        "0295": {
+          "name": "Nkuene",
+          "pollingStations": {
+            "04889": {
+              "name": "Rugeju Coffee Factory"
+            },
+            "04890": {
+              "name": "Mikumbune Primary School"
+            },
+            "04891": {
+              "name": "Kandigi Coffee Factory"
+            },
+            "04892": {
+              "name": "Thaaru Market"
+            },
+            "04893": {
+              "name": "Gatinya Tea Buying Centre"
+            },
+            "04894": {
+              "name": "Gitijiwe Primary School"
+            },
+            "04895": {
+              "name": "Rubiri Tea Buying Centre"
+            },
+            "04896": {
+              "name": "Gankondi Primary School"
+            },
+            "04897": {
+              "name": "Kiangurwe Coffee Factory"
+            },
+            "04898": {
+              "name": "Ukuu Primary School"
+            },
+            "04899": {
+              "name": "Kaubau Primary School"
+            },
+            "04900": {
+              "name": "Baitigitu Primary School"
+            },
+            "04901": {
+              "name": "Marimba Primary School"
+            },
+            "04902": {
+              "name": "Kathera Tea Buying Centre"
+            },
+            "04903": {
+              "name": "Kiithe Primary School"
+            },
+            "04904": {
+              "name": "Kathera Primary School"
+            },
+            "04905": {
+              "name": "Kigarine Primary School"
+            },
+            "04906": {
+              "name": "Kagwampungu Primary School"
+            },
+            "04907": {
+              "name": "Ntemwene Primary School"
+            },
+            "04908": {
+              "name": "Kathungutho Tea Buying Centre"
+            },
+            "04909": {
+              "name": "Kianjogu Primary School"
+            },
+            "04910": {
+              "name": "Kieru Coffee Factory"
+            },
+            "04911": {
+              "name": "Kigane Primary School"
+            },
+            "04912": {
+              "name": "Kigane Cattle Dip"
+            },
+            "04913": {
+              "name": "Kathanthatu Primary School"
+            },
+            "04914": {
+              "name": "Gitune Coffee Factory"
+            },
+            "04915": {
+              "name": "Nkubu Polytechnic"
+            },
+            "04916": {
+              "name": "County Social Hall"
+            },
+            "04917": {
+              "name": "Nkubu Primary School"
+            },
+            "04918": {
+              "name": "Nkubu Secondary School"
+            },
+            "04919": {
+              "name": "Nkubu Day Secondary School"
+            },
+            "04920": {
+              "name": "Buuri Ya King'Ori Priimary School"
+            },
+            "04921": {
+              "name": "Uruku Tea Buying Centre"
+            },
+            "04922": {
+              "name": "Kaigene Tea Buying Centre"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Buuri East",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Buuri West",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Igembe Central",
+      "type": "Subcounty"
+    },
+    "004": {
+      "name": "Igembe North",
+      "type": "Subcounty"
+    },
+    "005": {
+      "name": "Igembe South",
+      "type": "Subcounty"
+    },
+    "006": {
+      "name": "Imenti North",
+      "type": "Subcounty"
+    },
+    "007": {
+      "name": "Imenti South",
+      "type": "Subcounty"
+    },
+    "008": {
+      "name": "Meru Central",
+      "type": "Subcounty"
+    },
+    "009": {
+      "name": "Tigania Central",
+      "type": "Subcounty"
+    },
+    "010": {
+      "name": "Tigania East",
+      "type": "Subcounty"
+    },
+    "011": {
+      "name": "Tigania West",
+      "type": "Subcounty"
+    }
+  }
+}

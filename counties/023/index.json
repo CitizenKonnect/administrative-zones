@@ -1,0 +1,2266 @@
+{
+  "name": "Turkana",
+  "type": "County",
+  "code": "023",
+  "constituencies": {
+    "123": {
+      "name": "Turkana North",
+      "wards": {
+        "0611": {
+          "name": "Kaeris",
+          "pollingStations": {
+            "11753": {
+              "name": "Nakitoekakumuon  Primary School"
+            },
+            "11754": {
+              "name": "Kaeris Primary School"
+            },
+            "11755": {
+              "name": "Nadunga Primary School"
+            },
+            "11756": {
+              "name": "Kangakipur Primary School"
+            },
+            "11757": {
+              "name": "Kanukurudio Primary School"
+            },
+            "11758": {
+              "name": "Kaituko Primary School"
+            },
+            "11759": {
+              "name": "Milimatatu Primary School"
+            },
+            "11760": {
+              "name": "Kalopeta Water Point"
+            },
+            "11761": {
+              "name": "Nauriendiria Primary School"
+            },
+            "11762": {
+              "name": "Kangamojoj Primary School"
+            },
+            "11763": {
+              "name": "Nakaliliot Ecde"
+            },
+            "11764": {
+              "name": "Lokwakel Ecde"
+            },
+            "11765": {
+              "name": "Matankorio Waterpoint"
+            },
+            "11766": {
+              "name": "Kalodokume Water Point"
+            },
+            "11767": {
+              "name": "Lorengo Water Point"
+            }
+          }
+        },
+        "0612": {
+          "name": "Lake Zone",
+          "pollingStations": {
+            "11768": {
+              "name": "Todonyang Primary School"
+            },
+            "11769": {
+              "name": "Nachukui Primary School"
+            },
+            "11770": {
+              "name": "Lowarengak Primary School"
+            },
+            "11771": {
+              "name": "Narengewoi Primary School"
+            },
+            "11772": {
+              "name": "Nariokotome Primary School"
+            },
+            "11773": {
+              "name": "Kataboi Primary School"
+            },
+            "11774": {
+              "name": "Nasechabuin Primary School"
+            },
+            "11775": {
+              "name": "Lomekwi Primary School"
+            },
+            "11776": {
+              "name": "Katiko Primary School"
+            },
+            "11777": {
+              "name": "Riokomor Primary School"
+            },
+            "11778": {
+              "name": "Kokiselei Primary School"
+            },
+            "11779": {
+              "name": "Namorotot Primary School"
+            },
+            "11780": {
+              "name": "Epur Primary School"
+            },
+            "11781": {
+              "name": "Atapar Primary School"
+            },
+            "11782": {
+              "name": "Lapur  Boys Secondary School"
+            },
+            "11783": {
+              "name": "St. Bakhita Primary School"
+            },
+            "11784": {
+              "name": "Lokitoeangaberu Primary School"
+            },
+            "11785": {
+              "name": "Pringan Primary School"
+            },
+            "11786": {
+              "name": "Kobosan Water Point"
+            },
+            "11787": {
+              "name": "Kangaki Primary School"
+            },
+            "11788": {
+              "name": "Kalosiep Water Point"
+            },
+            "11789": {
+              "name": "Lokalobochio Water Point"
+            },
+            "11790": {
+              "name": "Kapedor Water Point"
+            },
+            "11791": {
+              "name": "Natoo Water Point"
+            },
+            "11792": {
+              "name": "Loalany Mobile"
+            },
+            "11793": {
+              "name": "Akatorongot Primary School"
+            },
+            "11794": {
+              "name": "Kangatukusio Primary School"
+            },
+            "11795": {
+              "name": "Nayanae-Kabaran Primary School"
+            },
+            "11796": {
+              "name": "Kaekongo Primary School"
+            },
+            "11797": {
+              "name": "Alagama Water Point"
+            },
+            "11798": {
+              "name": "Losanyanait Primary School"
+            }
+          }
+        },
+        "0613": {
+          "name": "Lapur",
+          "pollingStations": {
+            "11799": {
+              "name": "Lokitaung Primary School"
+            },
+            "11800": {
+              "name": "Natukobenyo Primary School"
+            },
+            "11801": {
+              "name": "Napetet Primary School"
+            },
+            "11802": {
+              "name": "Kachoda Primary School"
+            },
+            "11803": {
+              "name": "Natoo Primary School"
+            },
+            "11804": {
+              "name": "Karebur Primary School"
+            },
+            "11805": {
+              "name": "Kokuro Primary School"
+            },
+            "11806": {
+              "name": "Sasame Primary School"
+            },
+            "11807": {
+              "name": "Nabulukok Primary School"
+            },
+            "11808": {
+              "name": "Napeikar Primary School"
+            },
+            "11809": {
+              "name": "Liwan Primary School"
+            },
+            "11810": {
+              "name": "Lomanakeju Water Point"
+            },
+            "11811": {
+              "name": "Kangikaala Primary School"
+            },
+            "11812": {
+              "name": "Nagis Primary School"
+            },
+            "11813": {
+              "name": "Loporukou Water Point"
+            },
+            "11814": {
+              "name": "Kangarukia Primary School"
+            },
+            "11815": {
+              "name": "Ebur Kacheriongor Primary School"
+            },
+            "11816": {
+              "name": "Eruth Kaado Water Point"
+            },
+            "11817": {
+              "name": "Maisa Water Point"
+            },
+            "11818": {
+              "name": "Kareengatuny Water Point"
+            },
+            "11819": {
+              "name": "Lotorongoruk Water Point"
+            },
+            "11820": {
+              "name": "Lochwa-Arengan Primary School"
+            },
+            "11821": {
+              "name": "Manalongoria Nursery Point"
+            },
+            "11822": {
+              "name": "Lochor Edome Water Point"
+            },
+            "11823": {
+              "name": "Kaatongun Primary School"
+            },
+            "11824": {
+              "name": "Jiriman Primary School"
+            }
+          }
+        },
+        "0614": {
+          "name": "Kaaleng/Kaikor",
+          "pollingStations": {
+            "11825": {
+              "name": "Loruth Primary School"
+            },
+            "11826": {
+              "name": "Karach Ii Mobile"
+            },
+            "11827": {
+              "name": "Kotome Mobile"
+            },
+            "11828": {
+              "name": "Kaikor Primary School"
+            },
+            "11829": {
+              "name": "Loitanit Centre"
+            },
+            "11830": {
+              "name": "Karubangorok Primary School"
+            },
+            "11831": {
+              "name": "Lokolio Water Point"
+            },
+            "11832": {
+              "name": "Nakinomet Primary School"
+            },
+            "11833": {
+              "name": "Kaaleng Primary School"
+            },
+            "11834": {
+              "name": "Kariworeng Primary School"
+            },
+            "11835": {
+              "name": "Lokidongo Nursery School"
+            },
+            "11836": {
+              "name": "Lokumwae Nursery School"
+            },
+            "11837": {
+              "name": "Kakelae Primary School"
+            },
+            "11838": {
+              "name": "Kapelewoi Primary School"
+            },
+            "11839": {
+              "name": "Kaalem Primary School"
+            },
+            "11840": {
+              "name": "Kaikor  Trading Centre"
+            },
+            "11841": {
+              "name": "Kopotia Primary School"
+            },
+            "11842": {
+              "name": "Ekicheles Primary School"
+            },
+            "11843": {
+              "name": "Lorumor Mobile"
+            },
+            "11844": {
+              "name": "Lokapelpus Water Point"
+            },
+            "11845": {
+              "name": "Lokitela-Akwan Water Point"
+            }
+          }
+        },
+        "0615": {
+          "name": "Kibish",
+          "pollingStations": {
+            "11846": {
+              "name": "Karach I Mobile"
+            },
+            "11847": {
+              "name": "Lobulono Water Point"
+            },
+            "11848": {
+              "name": "Kibish Primary School"
+            },
+            "11849": {
+              "name": "Kemothia Water Point"
+            },
+            "11850": {
+              "name": "Natapar Water Point"
+            },
+            "11851": {
+              "name": "Lokamarinyang Primary School"
+            },
+            "11852": {
+              "name": "Koyasa Primary School"
+            },
+            "11853": {
+              "name": "Kaitede Mobile"
+            },
+            "11854": {
+              "name": "Natodomeri Mobile"
+            },
+            "11855": {
+              "name": "Napak Primary School"
+            },
+            "11856": {
+              "name": "Kibish Trading Center"
+            }
+          }
+        },
+        "0616": {
+          "name": "Nakalale",
+          "pollingStations": {
+            "11857": {
+              "name": "Kakuma Boys Secondary School"
+            },
+            "11858": {
+              "name": "Makutano Primary School"
+            },
+            "11859": {
+              "name": "Losanyanait Water Point"
+            },
+            "11860": {
+              "name": "Lokore Primary School"
+            },
+            "11861": {
+              "name": "Ataerika Water Point"
+            },
+            "11862": {
+              "name": "Nameyana Primary School"
+            },
+            "11863": {
+              "name": "Naduat Primary School"
+            },
+            "11864": {
+              "name": "Morulingarengan Trading Centre"
+            },
+            "11865": {
+              "name": "Moruangibuin Primary School"
+            },
+            "11866": {
+              "name": "Kobuin Water Point"
+            },
+            "11867": {
+              "name": "Losajait Primary School"
+            },
+            "11868": {
+              "name": "Kalopetase Primary School"
+            },
+            "11869": {
+              "name": "Kaemongor Primary School"
+            },
+            "11870": {
+              "name": "Nakilinga Water Point"
+            },
+            "11871": {
+              "name": "Namor Akwaak Water Point"
+            },
+            "11872": {
+              "name": "Kaenyangaluk Primary School"
+            },
+            "11873": {
+              "name": "Pelekech Primary School"
+            },
+            "11874": {
+              "name": "Nakarearengak Primary School"
+            },
+            "11875": {
+              "name": "Komotokae Ecd Center"
+            }
+          }
+        }
+      }
+    },
+    "124": {
+      "name": "Turkana West",
+      "wards": {
+        "0617": {
+          "name": "Kakuma",
+          "pollingStations": {
+            "11876": {
+              "name": "Arid Zone Primary School"
+            },
+            "11877": {
+              "name": "Loreng'O Primary School"
+            },
+            "11878": {
+              "name": "Morungole Primary School"
+            },
+            "11879": {
+              "name": "Abur Primary School"
+            },
+            "11880": {
+              "name": "Kakuma Mixed Primary School"
+            },
+            "11881": {
+              "name": "Pokotom Primary School"
+            },
+            "11882": {
+              "name": "Kakuma Friendship Hall"
+            },
+            "11883": {
+              "name": "Kakuma Baraza Park"
+            },
+            "11884": {
+              "name": "Lotak Primary School"
+            },
+            "11885": {
+              "name": "Wapet Primary School"
+            },
+            "11886": {
+              "name": "Lokiding Water Point"
+            },
+            "11887": {
+              "name": "Loreng Primary School"
+            },
+            "11888": {
+              "name": "Kakuma Peace Centre"
+            },
+            "11889": {
+              "name": "Kakuma Multi-Purpose Youth Resource Centre"
+            },
+            "11890": {
+              "name": "Komudei Primary School"
+            },
+            "11891": {
+              "name": "Lomunyenpus Ecd"
+            }
+          }
+        },
+        "0618": {
+          "name": "Lopur",
+          "pollingStations": {
+            "11892": {
+              "name": "Lopur Primary School"
+            },
+            "11893": {
+              "name": "Lochor   Edome Water Point"
+            },
+            "11894": {
+              "name": "Nakoyo Primary School"
+            },
+            "11895": {
+              "name": "Lochor Edome Primary School"
+            },
+            "11896": {
+              "name": "Namon Primary School"
+            },
+            "11897": {
+              "name": "Nadome Water Point"
+            },
+            "11898": {
+              "name": "Kang'Itesiroi Primary School"
+            },
+            "11899": {
+              "name": "Ng'Ijaoi  Primary School"
+            },
+            "11900": {
+              "name": "Lodakach"
+            }
+          }
+        },
+        "0619": {
+          "name": "Letea",
+          "pollingStations": {
+            "11901": {
+              "name": "Lolemu Water Point"
+            },
+            "11902": {
+              "name": "Loreng Trading Centre"
+            },
+            "11903": {
+              "name": "Tulabalany Primary School"
+            },
+            "11904": {
+              "name": "Musug Primary School"
+            },
+            "11905": {
+              "name": "Letea Primary School"
+            },
+            "11906": {
+              "name": "Loritit Primary School"
+            },
+            "11907": {
+              "name": "Katelemot Water Point"
+            },
+            "11908": {
+              "name": "Namorukirio K Trading Centre"
+            },
+            "11909": {
+              "name": "Lokipoto Primary School"
+            },
+            "11910": {
+              "name": "Abune Ecde"
+            },
+            "11911": {
+              "name": "Kaibokolem Mobile"
+            },
+            "11912": {
+              "name": "Kayotoberu Mobile"
+            },
+            "11913": {
+              "name": "Narongole Mobile"
+            },
+            "11914": {
+              "name": "Loito Mobile"
+            },
+            "11915": {
+              "name": "Nawotom Nursery School"
+            },
+            "11916": {
+              "name": "Esanyanait Ecde"
+            },
+            "11917": {
+              "name": "Kameyan Dispensary"
+            },
+            "11918": {
+              "name": "Abune Ecde"
+            }
+          }
+        },
+        "0620": {
+          "name": "Songot",
+          "pollingStations": {
+            "11919": {
+              "name": "Lorau Water Point"
+            },
+            "11920": {
+              "name": "Nasinyono Ecde"
+            },
+            "11921": {
+              "name": "Atir Ecde"
+            },
+            "11922": {
+              "name": "Saint  Mark Songot Primary School"
+            },
+            "11923": {
+              "name": "Teremkus Primary"
+            },
+            "11924": {
+              "name": "Lokudule Primary School"
+            },
+            "11925": {
+              "name": "Emilait Primary School"
+            },
+            "11926": {
+              "name": "Lomidat Primary School"
+            },
+            "11927": {
+              "name": "Lokangae Primary School"
+            },
+            "11928": {
+              "name": "Naremeto Ecde"
+            },
+            "11929": {
+              "name": "Nakururum Primary School"
+            },
+            "11930": {
+              "name": "Nanyang'Akipi Ecde"
+            },
+            "11931": {
+              "name": "Lotieng Mobile"
+            }
+          }
+        },
+        "0621": {
+          "name": "Kalobeyei",
+          "pollingStations": {
+            "11932": {
+              "name": "Kalobeyei Primary School"
+            },
+            "11933": {
+              "name": "Oropoi Primary School"
+            },
+            "11934": {
+              "name": "Natiira Primary School"
+            },
+            "11935": {
+              "name": "Nalapatui Trading Centre"
+            },
+            "11936": {
+              "name": "Lokwamor Nursery School"
+            },
+            "11937": {
+              "name": "Lonyuduk Primary School"
+            },
+            "11938": {
+              "name": "Naporoto Primary School"
+            },
+            "11939": {
+              "name": "Nadidinget Primary School"
+            },
+            "11940": {
+              "name": "Lokuanyia Primary School"
+            },
+            "11941": {
+              "name": "Nakilekipus Water Point"
+            },
+            "11942": {
+              "name": "Abaat Ecde"
+            },
+            "11943": {
+              "name": "Nawountos Primary School"
+            },
+            "11944": {
+              "name": "Esikirait  Ecde"
+            },
+            "11945": {
+              "name": "Natukobenyo Mobile"
+            },
+            "11946": {
+              "name": "Lochileta Water Point"
+            },
+            "11947": {
+              "name": "Kangura  Ecde"
+            }
+          }
+        },
+        "0622": {
+          "name": "Lokichoggio",
+          "pollingStations": {
+            "11948": {
+              "name": "Nadapal Water Point"
+            },
+            "11949": {
+              "name": "Lokichoggio Aic Girls Primary School"
+            },
+            "11950": {
+              "name": "Lokichoggio Stadium"
+            },
+            "11951": {
+              "name": "Lokariwon Mobile"
+            },
+            "11952": {
+              "name": "Loteteleit Mobile"
+            },
+            "11953": {
+              "name": "Loremit Mobile"
+            },
+            "11954": {
+              "name": "Nabangakeny Primary School"
+            },
+            "11955": {
+              "name": "Turkana Women Group Premises"
+            },
+            "11956": {
+              "name": "Lokichoggio Multipurpose Co-Operative Hall"
+            },
+            "11957": {
+              "name": "Natumamong Water Point"
+            },
+            "11958": {
+              "name": "Nayanae   Egilae  Mobile"
+            }
+          }
+        },
+        "0623": {
+          "name": "Nanaam",
+          "pollingStations": {
+            "11959": {
+              "name": "Lotikipi Water Point"
+            },
+            "11960": {
+              "name": "Nanaam Primary School"
+            },
+            "11961": {
+              "name": "Lomeyan Mobile"
+            },
+            "11962": {
+              "name": "Lopiding Primary School"
+            },
+            "11963": {
+              "name": "Kaeselem Mobile"
+            },
+            "11964": {
+              "name": "Nataparin Mobile"
+            },
+            "11965": {
+              "name": "Ekipor Mobile"
+            },
+            "11966": {
+              "name": "Napopongoit Primary School"
+            },
+            "11967": {
+              "name": "Saint Mathew Nadome Primary School"
+            },
+            "11968": {
+              "name": "Eedot Mobile"
+            },
+            "11969": {
+              "name": "Lokwee Water Point"
+            },
+            "11970": {
+              "name": "Nalamacha Primary School"
+            }
+          }
+        }
+      }
+    },
+    "125": {
+      "name": "Turkana Central",
+      "wards": {
+        "0624": {
+          "name": "Kerio Delta",
+          "pollingStations": {
+            "11971": {
+              "name": "Ng'Imuriae Primary School"
+            },
+            "11972": {
+              "name": "Nakwaperit Primary School"
+            },
+            "11973": {
+              "name": "Kakimat Nursery School"
+            },
+            "11974": {
+              "name": "Nangitony Nursery School"
+            },
+            "11975": {
+              "name": "Nangolekuruk Nursery School"
+            },
+            "11976": {
+              "name": "Merier Water Point"
+            },
+            "11977": {
+              "name": "Achukut Water Point"
+            },
+            "11978": {
+              "name": "Lodoket-Engol Nursery School"
+            },
+            "11979": {
+              "name": "Lore-Amatet Nursery School"
+            },
+            "11980": {
+              "name": "Nakechichok Nursery School"
+            },
+            "11981": {
+              "name": "Lomunyen-Kirion Nursery School"
+            },
+            "11982": {
+              "name": "Nakalale Water Point"
+            },
+            "11983": {
+              "name": "Nawoitorong Nursery School"
+            },
+            "11984": {
+              "name": "Louwae Primary School"
+            },
+            "11985": {
+              "name": "Mugur Water Point"
+            },
+            "11986": {
+              "name": "Lokwar-Ang'Ikaleso Nursery School"
+            },
+            "11987": {
+              "name": "Kamekwi Nursery School"
+            },
+            "11988": {
+              "name": "Kaikol Nursery School"
+            },
+            "11989": {
+              "name": "Nakudet Water Point"
+            },
+            "11990": {
+              "name": "Namaide Primary School"
+            },
+            "11991": {
+              "name": "Lochor Edome Nursery School"
+            },
+            "11992": {
+              "name": "Nang'Olpus Primary School"
+            },
+            "11993": {
+              "name": "Akatorongot Nursery School"
+            },
+            "11994": {
+              "name": "Lotukumo Primary School"
+            },
+            "11995": {
+              "name": "Ng'Ataparin Nursery School"
+            },
+            "11996": {
+              "name": "Ekwar Nursery School"
+            },
+            "11997": {
+              "name": "Kerio Primary School"
+            },
+            "11998": {
+              "name": "Nadoto Primary School"
+            },
+            "11999": {
+              "name": "Nakurio Trading Centre"
+            },
+            "12000": {
+              "name": "Kangirisae Primary School"
+            },
+            "12001": {
+              "name": "Nakoret Trading Centre"
+            },
+            "12002": {
+              "name": "Elelea Primary School"
+            },
+            "12003": {
+              "name": "Lorengelup Primary School"
+            },
+            "12004": {
+              "name": "Nanyangakipi Primary School"
+            },
+            "12005": {
+              "name": "Nangorchoto Primary School"
+            },
+            "12006": {
+              "name": "Nabuskaal Primary School"
+            },
+            "12007": {
+              "name": "Kairiama Water Point"
+            },
+            "12008": {
+              "name": "Nakwamekwi Primary School"
+            },
+            "12009": {
+              "name": "Nakabosan Water Point"
+            },
+            "12010": {
+              "name": "Kanyuda Water Point"
+            }
+          }
+        },
+        "0625": {
+          "name": "Kang'Atotha",
+          "pollingStations": {
+            "12011": {
+              "name": "Namukuse Primary School"
+            },
+            "12012": {
+              "name": "Loyoro Primary School"
+            },
+            "12013": {
+              "name": "Long'Ech Primary School"
+            },
+            "12014": {
+              "name": "Lochor-Aikeny Primary School"
+            },
+            "12015": {
+              "name": "Ille Primary School"
+            },
+            "12016": {
+              "name": "Kang'Atotha Primary School"
+            },
+            "12017": {
+              "name": "Naoros Trading Centre"
+            },
+            "12018": {
+              "name": "Akatuman Trading Centre"
+            },
+            "12019": {
+              "name": "Lomopus Primary School"
+            },
+            "12020": {
+              "name": "Kang'Agetei Trading Centre"
+            },
+            "12021": {
+              "name": "Lokipe Nursery School"
+            },
+            "12022": {
+              "name": "Wadite Nursery School"
+            },
+            "12023": {
+              "name": "Nayanae-Ekalale Nursery School"
+            },
+            "12024": {
+              "name": "Nasura Nursery School"
+            },
+            "12025": {
+              "name": "Lobolo Primary School"
+            },
+            "12026": {
+              "name": "Wadach Primary School"
+            },
+            "12027": {
+              "name": "Naipa Primary School"
+            },
+            "12028": {
+              "name": "Katula Primary School"
+            },
+            "12029": {
+              "name": "Natagilae Primary School"
+            },
+            "12030": {
+              "name": "Natiir Primary School"
+            },
+            "12031": {
+              "name": "Lotiira Primary School"
+            },
+            "12032": {
+              "name": "Nasekon Primary School"
+            },
+            "12033": {
+              "name": "Nabulon Nursery School"
+            },
+            "12034": {
+              "name": "Lokipetot Nursery School"
+            },
+            "12035": {
+              "name": "Napeget Primary School"
+            },
+            "12036": {
+              "name": "Nakadukui Ecd Centre"
+            },
+            "12037": {
+              "name": "Narengo Primary School"
+            },
+            "12038": {
+              "name": "Naipa Water Point"
+            },
+            "12039": {
+              "name": "Kadakaikeny Ecd Centre"
+            }
+          }
+        },
+        "0626": {
+          "name": "Kalokol",
+          "pollingStations": {
+            "12040": {
+              "name": "Namadak Primary School"
+            },
+            "12041": {
+              "name": "Nabwel-Ekorot Primary School"
+            },
+            "12042": {
+              "name": "Kalokol Primary School"
+            },
+            "12043": {
+              "name": "Natole Primary School"
+            },
+            "12044": {
+              "name": "Kalokol Girls Primary School"
+            },
+            "12045": {
+              "name": "Lochuga Primary School"
+            },
+            "12046": {
+              "name": "Nakiria Primary School"
+            },
+            "12047": {
+              "name": "Lopangae Primary School"
+            },
+            "12048": {
+              "name": "Kapua Primary School"
+            },
+            "12049": {
+              "name": "Kalotum Primary School"
+            },
+            "12050": {
+              "name": "Moruongor Nursery School"
+            },
+            "12051": {
+              "name": "Kanugumeri Mobile"
+            },
+            "12052": {
+              "name": "Lokatikon Water Point"
+            },
+            "12053": {
+              "name": "Nakingol Trading Centre"
+            },
+            "12054": {
+              "name": "Narukopo Trading Centre"
+            },
+            "12055": {
+              "name": "Nasurut Trading Centre"
+            },
+            "12056": {
+              "name": "Lopongo Water Point"
+            },
+            "12057": {
+              "name": "Loroo Nursery School"
+            },
+            "12058": {
+              "name": "Maendeleo Nursery School"
+            },
+            "12059": {
+              "name": "Faith Homes Primary School"
+            },
+            "12060": {
+              "name": "Nakwamomwa Nursery School"
+            },
+            "12061": {
+              "name": "Kapokor Primary School"
+            }
+          }
+        },
+        "0627": {
+          "name": "Lodwar Township",
+          "pollingStations": {
+            "12062": {
+              "name": "Nakwamekwi Primary School"
+            },
+            "12063": {
+              "name": "Lodwar Girls Primary School"
+            },
+            "12064": {
+              "name": "Lodwar Mixed Primary School"
+            },
+            "12065": {
+              "name": "Saint Mary'S Primary School"
+            },
+            "12066": {
+              "name": "Kawalase Primary School"
+            },
+            "12067": {
+              "name": "Handcraft Hall"
+            },
+            "12068": {
+              "name": "Loyo Primary School"
+            },
+            "12069": {
+              "name": "Chok Chok Nursery School"
+            },
+            "12070": {
+              "name": "Nayanae-Angikalalio Nursery School"
+            },
+            "12071": {
+              "name": "Monti Primary School"
+            },
+            "12072": {
+              "name": "Kakwanyang Primary School"
+            },
+            "12073": {
+              "name": "Natapar Kakono Primary School"
+            },
+            "12074": {
+              "name": "Naregae Nursery School"
+            },
+            "12075": {
+              "name": "Lore Nursery School"
+            },
+            "12076": {
+              "name": "Ngasaga Trading Centre"
+            },
+            "12077": {
+              "name": "Nakoriong'Ora Ecd Centre"
+            },
+            "12078": {
+              "name": "Kaategeriong'Or Primary School."
+            },
+            "12079": {
+              "name": "Bishop Mahon Primary School"
+            },
+            "12080": {
+              "name": "Nadirikonyen Trading Centre"
+            },
+            "12081": {
+              "name": "Lodwar Prison"
+            },
+            "12082": {
+              "name": "Nabwel Pus Primary School"
+            },
+            "12083": {
+              "name": "Alfred Powry Primary School"
+            },
+            "12084": {
+              "name": "Kalotum Primary School"
+            }
+          }
+        },
+        "0628": {
+          "name": "Kanamkemer",
+          "pollingStations": {
+            "12085": {
+              "name": "Loturerei Primary School"
+            },
+            "12086": {
+              "name": "Kakemera Primary School"
+            },
+            "12087": {
+              "name": "Napetao Nursery School"
+            },
+            "12088": {
+              "name": "Kanamkemer Primary School"
+            },
+            "12089": {
+              "name": "Napuu Primary School"
+            },
+            "12090": {
+              "name": "Naotin Primary School"
+            },
+            "12091": {
+              "name": "Lolupe Primary School"
+            },
+            "12092": {
+              "name": "Canan Primary School"
+            },
+            "12093": {
+              "name": "Pentecostal Assemblies Of God Nursery School"
+            },
+            "12094": {
+              "name": "Outreach Nursery School"
+            },
+            "12095": {
+              "name": "Nayuu Nursery School"
+            },
+            "12096": {
+              "name": "Nabulon Girls Primary School"
+            },
+            "12097": {
+              "name": "Nadipoe Mobile"
+            }
+          }
+        }
+      }
+    },
+    "126": {
+      "name": "Loima",
+      "wards": {
+        "0629": {
+          "name": "Kotaruk/Lobei",
+          "pollingStations": {
+            "12098": {
+              "name": "Lobei Primary School"
+            },
+            "12099": {
+              "name": "Kalemunyang Primaryschool"
+            },
+            "12100": {
+              "name": "Kabulokor Primary School"
+            },
+            "12101": {
+              "name": "Kotaruk Primary School"
+            },
+            "12102": {
+              "name": "Naremit Primary School"
+            },
+            "12103": {
+              "name": "Naipa Primary School"
+            },
+            "12104": {
+              "name": "Lokipetot Arengan Trading Centre"
+            },
+            "12105": {
+              "name": "Sasak Echoke Primary School"
+            },
+            "12106": {
+              "name": "Alab Lab Mobile"
+            },
+            "12107": {
+              "name": "Lopiding-Angichok Centre"
+            },
+            "12108": {
+              "name": "Kakalel Primary School"
+            },
+            "12109": {
+              "name": "Kangalita Primary School"
+            },
+            "12110": {
+              "name": "Lokipetot Areng'An Water Point"
+            },
+            "12111": {
+              "name": "Moruongor Water Point"
+            },
+            "12112": {
+              "name": "Ulukuse Mobile"
+            },
+            "12113": {
+              "name": "Lomilo Primary School"
+            },
+            "12114": {
+              "name": "Komera Nursery School"
+            },
+            "12115": {
+              "name": "Koono Primary School"
+            },
+            "12116": {
+              "name": "Kotela Primary School"
+            },
+            "12117": {
+              "name": "Abur Nursery School"
+            },
+            "12118": {
+              "name": "Kaemase Ecd"
+            },
+            "12119": {
+              "name": "Nakuja-Ekalale  Ecd"
+            },
+            "12120": {
+              "name": "Natwel Primary School"
+            },
+            "12121": {
+              "name": "Sasak-Echoke Ecd"
+            },
+            "12122": {
+              "name": "Kakilala-Kangole Edc"
+            },
+            "12123": {
+              "name": "Kang'Ole Primary School"
+            },
+            "12124": {
+              "name": "Mallah Primary School"
+            },
+            "12125": {
+              "name": "Kaapese Ecd"
+            },
+            "12126": {
+              "name": "Lochor-Elim Primary School"
+            },
+            "12127": {
+              "name": "Nawamor Ecd"
+            }
+          }
+        },
+        "0630": {
+          "name": "Turkwel",
+          "pollingStations": {
+            "12128": {
+              "name": "Napelilim Primary School"
+            },
+            "12129": {
+              "name": "Nasiger Primary School"
+            },
+            "12130": {
+              "name": "Lomil Primary School"
+            },
+            "12131": {
+              "name": "Kalodeke Nursery School"
+            },
+            "12132": {
+              "name": "Kaitese Primary School"
+            },
+            "12133": {
+              "name": "Nadapal Primary School"
+            },
+            "12134": {
+              "name": "Lokoyo Primary School"
+            },
+            "12135": {
+              "name": "Napeikar Primary School"
+            },
+            "12136": {
+              "name": "Kaapus Primary School"
+            },
+            "12137": {
+              "name": "Nakabaran Primary School"
+            },
+            "12138": {
+              "name": "Lorugum Primary School"
+            },
+            "12139": {
+              "name": "Turkwel Primary School"
+            },
+            "12140": {
+              "name": "Nakamane Primary School"
+            },
+            "12141": {
+              "name": "Nakitoe Kirion Primary School"
+            },
+            "12142": {
+              "name": "Nameyana Trading Centre"
+            },
+            "12143": {
+              "name": "Kodopa Primary School"
+            },
+            "12144": {
+              "name": "Nakwamunyen Primary School"
+            },
+            "12145": {
+              "name": "Kospir Primary School"
+            },
+            "12146": {
+              "name": "Kalomegur Primary School"
+            },
+            "12147": {
+              "name": "Kacheimeri Primary School"
+            },
+            "12148": {
+              "name": "Nakutan Primary School"
+            },
+            "12149": {
+              "name": "Nabuin Primary School"
+            },
+            "12150": {
+              "name": "Lopur Water Point"
+            },
+            "12151": {
+              "name": "Nachuro Water Point"
+            },
+            "12152": {
+              "name": "Lorenge Sinyen"
+            },
+            "12153": {
+              "name": "Nakatiyan Primary School"
+            },
+            "12154": {
+              "name": "Lolupe Primary School"
+            },
+            "12155": {
+              "name": "Lomwargete Nursery School"
+            },
+            "12156": {
+              "name": "Tiya Primary School"
+            },
+            "12157": {
+              "name": "Naagis Primary School"
+            },
+            "12158": {
+              "name": "Kasongoletom Primary School"
+            },
+            "12159": {
+              "name": "Kangataruk Water Point"
+            },
+            "12160": {
+              "name": "Lolemgete Primary School"
+            },
+            "12161": {
+              "name": "Lokatul Nursery School"
+            },
+            "12162": {
+              "name": "Kaloboi Primary School"
+            },
+            "12163": {
+              "name": "Nangereny Primary School"
+            },
+            "12164": {
+              "name": "Kaekoroengorok Nursery School"
+            },
+            "12165": {
+              "name": "Loroo Primary School"
+            },
+            "12166": {
+              "name": "Kalokutanyang Mobile"
+            },
+            "12167": {
+              "name": "Moruese Primary School"
+            },
+            "12168": {
+              "name": "Lochor Esekon Nur.Sch"
+            },
+            "12169": {
+              "name": "Konyipad Nursery School"
+            },
+            "12170": {
+              "name": "Natuntun Nursery School"
+            },
+            "12171": {
+              "name": "Natirae Nursery School"
+            },
+            "12172": {
+              "name": "Kangimeriyek Store Centre"
+            },
+            "12173": {
+              "name": "Lotagor Water Point"
+            },
+            "12174": {
+              "name": "Nationokar Nursery School"
+            },
+            "12175": {
+              "name": "Kanyangapus Water Point"
+            },
+            "12176": {
+              "name": "Kalopuria Nursery School"
+            },
+            "12177": {
+              "name": "Katukuri Nursery School"
+            },
+            "12178": {
+              "name": "Lokorikipi Nursery School"
+            },
+            "12179": {
+              "name": "Nauren Puu Primary School"
+            },
+            "12180": {
+              "name": "Lopedur"
+            },
+            "12181": {
+              "name": "Kochuch Ecd"
+            },
+            "12182": {
+              "name": "Nakerkerei Ecd"
+            },
+            "12183": {
+              "name": "Namagirat Ecd"
+            },
+            "12184": {
+              "name": "Katukuri Ecd"
+            },
+            "12185": {
+              "name": "Nawoyawoi Primary"
+            },
+            "12186": {
+              "name": "Nariwokitoe-Water Point"
+            },
+            "12187": {
+              "name": "Nakeju-Akaal Water Point"
+            },
+            "12188": {
+              "name": "Napeidukan Trading Center"
+            },
+            "12189": {
+              "name": "Kabang'Ang' Water Point"
+            },
+            "12190": {
+              "name": "Lokopu Water Point"
+            },
+            "12191": {
+              "name": "Lodoket-Eking'Ol Nursery"
+            }
+          }
+        },
+        "0631": {
+          "name": "Loima",
+          "pollingStations": {
+            "12192": {
+              "name": "Namoruputh Primary School"
+            },
+            "12193": {
+              "name": "Lochor-Ekuyen Primary School"
+            },
+            "12194": {
+              "name": "Puch Water Point"
+            },
+            "12195": {
+              "name": "Lochor Edome Nursery School"
+            },
+            "12196": {
+              "name": "Lokwatuba Primary School"
+            },
+            "12197": {
+              "name": "Namoruputh Trading Centre"
+            },
+            "12198": {
+              "name": "Lochwa Illema Spring"
+            },
+            "12199": {
+              "name": "Lochor-Emeyan Primary School"
+            },
+            "12200": {
+              "name": "Nakorimunyen Primary School"
+            },
+            "12201": {
+              "name": "Kalelekol Water Point"
+            },
+            "12202": {
+              "name": "Puch/Naurendudung"
+            },
+            "12203": {
+              "name": "Lomukusei Ecd"
+            },
+            "12204": {
+              "name": "Lobole Ecd"
+            }
+          }
+        },
+        "0632": {
+          "name": "Lokiriama/Lorengippi",
+          "pollingStations": {
+            "12205": {
+              "name": "Lokiriama Trading Centre"
+            },
+            "12206": {
+              "name": "Ata-Alokamusio Primary School"
+            },
+            "12207": {
+              "name": "Lokiriama Primary School"
+            },
+            "12208": {
+              "name": "Lorengippi Primary School"
+            },
+            "12209": {
+              "name": "Loya Primary School"
+            },
+            "12210": {
+              "name": "Lodwat Water Point"
+            },
+            "12211": {
+              "name": "Nakurio Nursery School"
+            },
+            "12212": {
+              "name": "Lochor-Alomala Primary School"
+            },
+            "12213": {
+              "name": "Kaemanik Water Point"
+            },
+            "12214": {
+              "name": "Urum Primary School"
+            },
+            "12215": {
+              "name": "Kapese Water Point"
+            },
+            "12216": {
+              "name": "Tamanak Primary School"
+            },
+            "12217": {
+              "name": "Kekoroe Akwaan Water Point"
+            },
+            "12218": {
+              "name": "Kangipei Mobile"
+            },
+            "12219": {
+              "name": "Nakwapua Centre"
+            },
+            "12220": {
+              "name": "Namoni Angikala Centre"
+            },
+            "12221": {
+              "name": "Lorengippi Trading Centre"
+            },
+            "12222": {
+              "name": "Lokiriamet Water Point"
+            },
+            "12223": {
+              "name": "Naoyapong Trading Centre"
+            },
+            "12224": {
+              "name": "Natelo Nursery School"
+            },
+            "12225": {
+              "name": "Lochor-Ekiru Water Point"
+            },
+            "12226": {
+              "name": "Kekoroe Akwaan Mobile"
+            },
+            "12227": {
+              "name": "Namoru-Areng'An Center"
+            },
+            "12228": {
+              "name": "Urum Trading Center"
+            },
+            "12229": {
+              "name": "Moruita Mobile"
+            },
+            "12230": {
+              "name": "Lochor-Ang'Ikalalio Mobile"
+            }
+          }
+        }
+      }
+    },
+    "127": {
+      "name": "Turkana South",
+      "wards": {
+        "0633": {
+          "name": "Kaputir",
+          "pollingStations": {
+            "12231": {
+              "name": "Kaputir Primary School."
+            },
+            "12232": {
+              "name": "Juluk Primary School."
+            },
+            "12233": {
+              "name": "Kapelibok Primary School."
+            },
+            "12234": {
+              "name": "Kapelibok Trading Center."
+            },
+            "12235": {
+              "name": "Lokwar Primary School"
+            },
+            "12236": {
+              "name": "Lomerimudang Primary School."
+            },
+            "12237": {
+              "name": "Lomokomol Primary School"
+            },
+            "12238": {
+              "name": "Lorogon Primary School"
+            },
+            "12239": {
+              "name": "Nachoke Primary School"
+            },
+            "12240": {
+              "name": "Nakuse Primary School."
+            },
+            "12241": {
+              "name": "Nakwamoru Primary School."
+            },
+            "12242": {
+              "name": "Nariwomoru Mobile."
+            },
+            "12243": {
+              "name": "Nawoyaregae Primary School."
+            },
+            "12244": {
+              "name": "Kogito Primary School"
+            },
+            "12245": {
+              "name": "Nawoitorong Primary School"
+            },
+            "12246": {
+              "name": "Kakoel Primary School"
+            }
+          }
+        },
+        "0634": {
+          "name": "Katilu",
+          "pollingStations": {
+            "12247": {
+              "name": "Angarabat Intergrated Primary School."
+            },
+            "12248": {
+              "name": "Kaekunyuk Primary School."
+            },
+            "12249": {
+              "name": "Kagitankori Primary School"
+            },
+            "12250": {
+              "name": "Kalemungorok Primary School."
+            },
+            "12251": {
+              "name": "Kalokoda Primary School"
+            },
+            "12252": {
+              "name": "Kanaodon Primary School"
+            },
+            "12253": {
+              "name": "Kangakimak Primary School"
+            },
+            "12254": {
+              "name": "Kangirega Primary School"
+            },
+            "12255": {
+              "name": "Katilu Primary School."
+            },
+            "12256": {
+              "name": "Korinyang Primary School."
+            },
+            "12257": {
+              "name": "Loitanit Water Point."
+            },
+            "12258": {
+              "name": "Lokapel Primary School."
+            },
+            "12259": {
+              "name": "Lokoropos Primary School"
+            },
+            "12260": {
+              "name": "Lomonyang Primary School"
+            },
+            "12261": {
+              "name": "Nabeye Primary School"
+            },
+            "12262": {
+              "name": "Nakabosan Primary School."
+            },
+            "12263": {
+              "name": "Nakatwan Water Point"
+            },
+            "12264": {
+              "name": "Namakat Primary School"
+            },
+            "12265": {
+              "name": "Naro Primary School."
+            },
+            "12266": {
+              "name": "Nyangaita Primary School."
+            },
+            "12267": {
+              "name": "Simailele Primary School"
+            },
+            "12268": {
+              "name": "Ekoropus Primary School"
+            },
+            "12269": {
+              "name": "Kaekamuto Ecde"
+            },
+            "12270": {
+              "name": "Napusimunyen Primary School"
+            },
+            "12271": {
+              "name": "Ikore Ecde"
+            },
+            "12272": {
+              "name": "Nakuja  Ekalale Primary School"
+            },
+            "12273": {
+              "name": "Nawopeto Primary School"
+            }
+          }
+        },
+        "0635": {
+          "name": "Lobokat",
+          "pollingStations": {
+            "12274": {
+              "name": "Kainuk Trading Center."
+            },
+            "12275": {
+              "name": "Kainuk Primary School."
+            },
+            "12276": {
+              "name": "Kakongu Primary School"
+            },
+            "12277": {
+              "name": "Koputiro Primary School."
+            },
+            "12278": {
+              "name": "Loyapat Primary School."
+            },
+            "12279": {
+              "name": "St.Mary Ecde Kakongu"
+            },
+            "12280": {
+              "name": "Philadeliphia Primary School-Kainuk"
+            },
+            "12281": {
+              "name": "Rcea Primary School-Kakongu"
+            },
+            "12282": {
+              "name": "Alidakook-Kainuk"
+            }
+          }
+        },
+        "0636": {
+          "name": "Kalapata",
+          "pollingStations": {
+            "12283": {
+              "name": "Chibilet Primary School."
+            },
+            "12284": {
+              "name": "Chok-Chok Primary School."
+            },
+            "12285": {
+              "name": "Kaesamalit Nursery School."
+            },
+            "12286": {
+              "name": "Kakalel Primary School."
+            },
+            "12287": {
+              "name": "Kalapata Primary School."
+            },
+            "12288": {
+              "name": "Kalochan Primary School."
+            },
+            "12289": {
+              "name": "Kangakipur Primary School."
+            },
+            "12290": {
+              "name": "Katiir Primary School."
+            },
+            "12291": {
+              "name": "Katioko Primary School"
+            },
+            "12292": {
+              "name": "Kotoro Primary School."
+            },
+            "12293": {
+              "name": "Lomeleku Primary School"
+            },
+            "12294": {
+              "name": "Loupwala Primary School."
+            },
+            "12295": {
+              "name": "Nakaalei Primary School."
+            },
+            "12296": {
+              "name": "Nalemkais Primary School."
+            },
+            "12297": {
+              "name": "Nariamawoi Primary School"
+            },
+            "12298": {
+              "name": "Nalemkais Nursery School"
+            },
+            "12299": {
+              "name": "Naguro Ecde"
+            },
+            "12300": {
+              "name": "Akurichanait Ecde"
+            },
+            "12301": {
+              "name": "Kangakipur Rcea"
+            },
+            "12302": {
+              "name": "Kaimegur Primary School"
+            },
+            "12303": {
+              "name": "Kailes Kag Church"
+            }
+          }
+        },
+        "0637": {
+          "name": "Lokichar",
+          "pollingStations": {
+            "12304": {
+              "name": "Edos Primary School."
+            },
+            "12305": {
+              "name": "Kachibilil Mobile."
+            },
+            "12306": {
+              "name": "Kaengolereng Primary School."
+            },
+            "12307": {
+              "name": "Kaichupaluk Primary School"
+            },
+            "12308": {
+              "name": "Kaipokook Primary School"
+            },
+            "12309": {
+              "name": "Kakalel Water Point."
+            },
+            "12310": {
+              "name": "Kakali Primary School"
+            },
+            "12311": {
+              "name": "Kamarese Primary School."
+            },
+            "12312": {
+              "name": "Kapese Primary School."
+            },
+            "12313": {
+              "name": "Karoge Primary School."
+            },
+            "12314": {
+              "name": "Kasuroi Primary School."
+            },
+            "12315": {
+              "name": "Kaekoroeakwan Mobile."
+            },
+            "12316": {
+              "name": "Kekorisogol Primary School."
+            },
+            "12317": {
+              "name": "Kimabur Primary School."
+            },
+            "12318": {
+              "name": "Lochoremoit Primary School."
+            },
+            "12319": {
+              "name": "Lochwaa-Kwan Primary School."
+            },
+            "12320": {
+              "name": "Lochwang'Ikamatak Primary School."
+            },
+            "12321": {
+              "name": "Lokaburu Primary School."
+            },
+            "12322": {
+              "name": "Lokichar Girls Primary School."
+            },
+            "12323": {
+              "name": "Lokichar Mixed Primary School."
+            },
+            "12324": {
+              "name": "Moru- Alligoi Pag Church- Lochwaa"
+            },
+            "12325": {
+              "name": "Nagetei Primary School."
+            },
+            "12326": {
+              "name": "Nakimak Primary School."
+            },
+            "12327": {
+              "name": "Nakuja-Amosing Water Point"
+            },
+            "12328": {
+              "name": "Nalemusekon Primary School."
+            },
+            "12329": {
+              "name": "Namantalem Primary School."
+            },
+            "12330": {
+              "name": "Napusimoru Primary School."
+            },
+            "12331": {
+              "name": "Nareng'Emunyen Primary School."
+            },
+            "12332": {
+              "name": "Natorubei Mobile."
+            },
+            "12333": {
+              "name": "Nawoiyalim Mobile."
+            },
+            "12334": {
+              "name": "Ngakitokonok Water Point"
+            },
+            "12335": {
+              "name": "Nakipi Primary School."
+            },
+            "12336": {
+              "name": "R.C.E.A. Sett. Nursery School."
+            },
+            "12337": {
+              "name": "Sopel Primary School."
+            },
+            "12338": {
+              "name": "Morulingakirion Pag Church -Lochwaa"
+            },
+            "12339": {
+              "name": "Lotonguna Primary School"
+            },
+            "12340": {
+              "name": "Kanasuwat Water Point"
+            },
+            "12341": {
+              "name": "Kadongolo Primary School"
+            },
+            "12342": {
+              "name": "Kedome Primary School"
+            },
+            "12343": {
+              "name": "Lomokamar Primary School"
+            },
+            "12344": {
+              "name": "Ngimeyana Primary School"
+            },
+            "12345": {
+              "name": "Lowoidapai Primary School"
+            },
+            "12346": {
+              "name": "Lokitoliwo Primary School"
+            }
+          }
+        }
+      }
+    },
+    "128": {
+      "name": "Turkana East",
+      "wards": {
+        "0638": {
+          "name": "Kapedo/Napeitom",
+          "pollingStations": {
+            "12347": {
+              "name": "Agule-Atioko Mobile."
+            },
+            "12348": {
+              "name": "Arumrum Apalima Mobile."
+            },
+            "12349": {
+              "name": "Ekipor Mobile."
+            },
+            "12350": {
+              "name": "Erus Water Point."
+            },
+            "12351": {
+              "name": "Kachila Water Point."
+            },
+            "12352": {
+              "name": "Kamuge Mobile."
+            },
+            "12353": {
+              "name": "Kamuge Primary School."
+            },
+            "12354": {
+              "name": "Kamuge Trading Center."
+            },
+            "12355": {
+              "name": "Kangolio Mobile."
+            },
+            "12356": {
+              "name": "Kapedo Girls Primary School."
+            },
+            "12357": {
+              "name": "Kapedo Primary School."
+            },
+            "12358": {
+              "name": "Kariamangiro Water Point."
+            },
+            "12359": {
+              "name": "Kasimanang Water Point."
+            },
+            "12360": {
+              "name": "Kasinyen Water Point."
+            },
+            "12361": {
+              "name": "Katiir Water Point."
+            },
+            "12362": {
+              "name": "Kokure Water Point."
+            },
+            "12363": {
+              "name": "Lokidongito Mobile."
+            },
+            "12364": {
+              "name": "Lomaro Water Point."
+            },
+            "12365": {
+              "name": "Lomelo Primary School."
+            },
+            "12366": {
+              "name": "Lomelo Water Point."
+            },
+            "12367": {
+              "name": "Loreng Water Point."
+            },
+            "12368": {
+              "name": "Nadome Mobile."
+            },
+            "12369": {
+              "name": "Nadome Trading Center."
+            },
+            "12370": {
+              "name": "Nakwamekwi Mobile."
+            },
+            "12371": {
+              "name": "Napeitom Mobile."
+            },
+            "12372": {
+              "name": "Napeitom Primary School."
+            },
+            "12373": {
+              "name": "Ng'Aukon Water Point."
+            },
+            "12374": {
+              "name": "Ng'Ilukia Mobile."
+            },
+            "12375": {
+              "name": "Silale Primary School."
+            },
+            "12376": {
+              "name": "Kamosing Water Point."
+            },
+            "12377": {
+              "name": "Kakitoe Water Point."
+            },
+            "12378": {
+              "name": "Kasorogol Water Point."
+            },
+            "12379": {
+              "name": "Ngilukia Trading Centre"
+            },
+            "12380": {
+              "name": "Kakiteitei Trading Centre"
+            }
+          }
+        },
+        "0639": {
+          "name": "Katilia",
+          "pollingStations": {
+            "12381": {
+              "name": "Echoke Primary School."
+            },
+            "12382": {
+              "name": "Elelea Primary School."
+            },
+            "12383": {
+              "name": "Kaibole Primary School."
+            },
+            "12384": {
+              "name": "Katilia Aic Secondary School."
+            },
+            "12385": {
+              "name": "Katilia Trading Center."
+            },
+            "12386": {
+              "name": "Kemomeri Nursery School."
+            },
+            "12387": {
+              "name": "Kidewa Primary School."
+            },
+            "12388": {
+              "name": "Lokorkor Primary School."
+            },
+            "12389": {
+              "name": "Lomunyenakwan Primary School."
+            },
+            "12390": {
+              "name": "Lopeduru Primary School."
+            },
+            "12391": {
+              "name": "Nakotongwa Primary School."
+            },
+            "12392": {
+              "name": "Namaliteny Primary School."
+            },
+            "12393": {
+              "name": "Naukotlem Primary School."
+            },
+            "12394": {
+              "name": "Ngikengoi Nursery School."
+            },
+            "12395": {
+              "name": "Pargati Mobile."
+            },
+            "12396": {
+              "name": "Kang'Isaja Nursery School."
+            },
+            "12397": {
+              "name": "Riet Katilia Mobile."
+            },
+            "12398": {
+              "name": "Katilia Girls Sec School"
+            },
+            "12399": {
+              "name": "Lokaburu Ecde"
+            },
+            "12400": {
+              "name": "Ngikengoi Mobile"
+            },
+            "12401": {
+              "name": "Kanakipe R.C.E.A"
+            }
+          }
+        },
+        "0640": {
+          "name": "Lokori/Kochodin",
+          "pollingStations": {
+            "12402": {
+              "name": "Arumrum-Alochodae Mobile."
+            },
+            "12403": {
+              "name": "Kaaruko  Primary School."
+            },
+            "12404": {
+              "name": "Kadam Primary School."
+            },
+            "12405": {
+              "name": "Kakulit Mobile."
+            },
+            "12406": {
+              "name": "Kang'Itit Primary School."
+            },
+            "12407": {
+              "name": "Lochakula Mobile."
+            },
+            "12408": {
+              "name": "Lokichada Primary School."
+            },
+            "12409": {
+              "name": "Lokori Primary School."
+            },
+            "12410": {
+              "name": "Lokwamosing Primary School."
+            },
+            "12411": {
+              "name": "Lokwii Primary School."
+            },
+            "12412": {
+              "name": "Lopii Primary School."
+            },
+            "12413": {
+              "name": "Lotubae Primary School."
+            },
+            "12414": {
+              "name": "Morulem Trading Centre."
+            },
+            "12415": {
+              "name": "Nakukulas Primary School."
+            },
+            "12416": {
+              "name": "Nakwasinyen Primary School."
+            },
+            "12417": {
+              "name": "Napetao Water Point."
+            },
+            "12418": {
+              "name": "Riet Lokori Mobile."
+            },
+            "12419": {
+              "name": "Kaloporor Mobile."
+            },
+            "12420": {
+              "name": "Lokosimekori Mobile."
+            },
+            "12421": {
+              "name": "Nakorinya Ecd"
+            },
+            "12422": {
+              "name": "Emanman Primary School"
+            },
+            "12423": {
+              "name": "Young Yu Primary School"
+            },
+            "12424": {
+              "name": "Naoyakipor Primary School"
+            },
+            "12425": {
+              "name": "Katamanak Primary School"
+            },
+            "12426": {
+              "name": "Lokosim Ekori Primary School"
+            },
+            "12427": {
+              "name": "Huruma Primary School"
+            },
+            "12428": {
+              "name": "Ngiilimo Aikemer Primary School"
+            },
+            "12429": {
+              "name": "Lokori Girls Primary School"
+            },
+            "12430": {
+              "name": "Nadoto Primary School"
+            },
+            "12431": {
+              "name": "Lotimaan Primarimary School"
+            },
+            "12432": {
+              "name": "Kalouchelem Ecde"
+            },
+            "12433": {
+              "name": "Maruleum Primary School"
+            },
+            "12434": {
+              "name": "Lokaaran Mobile"
+            },
+            "12435": {
+              "name": "Kachalanga Mobile"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Kibish",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Loima",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Turkana Central",
+      "type": "Subcounty"
+    },
+    "004": {
+      "name": "Turkana East",
+      "type": "Subcounty"
+    },
+    "005": {
+      "name": "Turkana North",
+      "type": "Subcounty"
+    },
+    "006": {
+      "name": "Turkana South",
+      "type": "Subcounty"
+    },
+    "007": {
+      "name": "Turkana West",
+      "type": "Subcounty"
+    }
+  }
+}

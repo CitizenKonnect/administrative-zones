@@ -1,0 +1,2420 @@
+{
+  "name": "Migori",
+  "type": "County",
+  "code": "044",
+  "constituencies": {
+    "253": {
+      "name": "Rongo",
+      "wards": {
+        "1261": {
+          "name": "North Kamagambo",
+          "pollingStations": {
+            "25031": {
+              "name": "Kanyadgiro Primary"
+            },
+            "25032": {
+              "name": "Tonye Primary"
+            },
+            "25033": {
+              "name": "Ofwanga Primary"
+            },
+            "25034": {
+              "name": "Tuk Jowi Primary"
+            },
+            "25035": {
+              "name": "Lwala Primary"
+            },
+            "25036": {
+              "name": "Minyenya Primary"
+            },
+            "25037": {
+              "name": "Kameji Primary"
+            },
+            "25038": {
+              "name": "Kadiang'A Primary"
+            },
+            "25039": {
+              "name": "Kuna Primary"
+            },
+            "25040": {
+              "name": "Sumba Primary"
+            },
+            "25041": {
+              "name": "Miyare Primary"
+            },
+            "25042": {
+              "name": "Uriri Primary"
+            },
+            "25043": {
+              "name": "Ndege Oriedo Chief'S Camp"
+            },
+            "25044": {
+              "name": "Komito Primary School"
+            },
+            "25045": {
+              "name": "Anding'O Primary School"
+            },
+            "25046": {
+              "name": "God Nyinyo Primary School"
+            }
+          }
+        },
+        "1262": {
+          "name": "Central Kamagambo",
+          "pollingStations": {
+            "25047": {
+              "name": "Nyakwere Primary"
+            },
+            "25048": {
+              "name": "Kamondi Primary"
+            },
+            "25049": {
+              "name": "Kosodo Primary"
+            },
+            "25050": {
+              "name": "Siala Primary"
+            },
+            "25051": {
+              "name": "Marera Primary"
+            },
+            "25052": {
+              "name": "Matagaro Primary"
+            },
+            "25053": {
+              "name": "Nyarach Primary"
+            },
+            "25054": {
+              "name": "Kuja Deaf Primary"
+            },
+            "25055": {
+              "name": "Rongo Primary"
+            },
+            "25056": {
+              "name": "Koderobara Primary"
+            },
+            "25057": {
+              "name": "Rongo Town Hall"
+            },
+            "25058": {
+              "name": "Rongo Show Ground"
+            },
+            "25059": {
+              "name": "Bungu Nursery"
+            }
+          }
+        },
+        "1263": {
+          "name": "East Kamagambo",
+          "pollingStations": {
+            "25060": {
+              "name": "Sango Primary  School"
+            },
+            "25061": {
+              "name": "Ngodhe Primary"
+            },
+            "25062": {
+              "name": "Aila Primary"
+            },
+            "25063": {
+              "name": "Dago Kowuor Primary"
+            },
+            "25064": {
+              "name": "Nyamuga Primary"
+            },
+            "25065": {
+              "name": "St. Dalmas Primary School"
+            },
+            "25066": {
+              "name": "Winyo Primary"
+            },
+            "25067": {
+              "name": "Opapo Primary"
+            },
+            "25068": {
+              "name": "Nyang'Ao Primary"
+            },
+            "25069": {
+              "name": "Kudho Primary"
+            },
+            "25070": {
+              "name": "Kamagambo Primary"
+            },
+            "25071": {
+              "name": "Pundo Kawiti Primary"
+            },
+            "25072": {
+              "name": "Nyaburu Primary"
+            },
+            "25073": {
+              "name": "Rairi Primary"
+            },
+            "25074": {
+              "name": "Kangeso Primary"
+            },
+            "25075": {
+              "name": "Kitweru Primary"
+            },
+            "25076": {
+              "name": "Ngere Primary"
+            },
+            "25077": {
+              "name": "Rakwaro Primary"
+            },
+            "25078": {
+              "name": "Rare Primary"
+            },
+            "25079": {
+              "name": "St. Jonathan Primary"
+            },
+            "25080": {
+              "name": "Opapo Market"
+            },
+            "25081": {
+              "name": "Mitwe Primary School"
+            },
+            "25082": {
+              "name": "Nyamuga Market"
+            },
+            "25083": {
+              "name": "Apondo Primary School"
+            },
+            "25084": {
+              "name": "Rakwaro Market"
+            }
+          }
+        },
+        "1264": {
+          "name": "South Kamagambo",
+          "pollingStations": {
+            "25085": {
+              "name": "Banda Primary"
+            },
+            "25086": {
+              "name": "Omware Primary"
+            },
+            "25087": {
+              "name": "Kanga Primary"
+            },
+            "25088": {
+              "name": "Toku Primary"
+            },
+            "25089": {
+              "name": "Kitere  Primary"
+            },
+            "25090": {
+              "name": "Arundo Primary"
+            },
+            "25091": {
+              "name": "Nyaoke Primary"
+            },
+            "25092": {
+              "name": "Lang'O Arek Secondary"
+            },
+            "25093": {
+              "name": "Nyaondo Shopping Center"
+            },
+            "25094": {
+              "name": "Kitembe Primary"
+            },
+            "25095": {
+              "name": "Kanyimach Primary"
+            },
+            "25096": {
+              "name": "Kakwara Primary"
+            },
+            "25097": {
+              "name": "Ng'Ou Primary"
+            },
+            "25098": {
+              "name": "Sigiria Primary"
+            },
+            "25099": {
+              "name": "Nyitienge Primary"
+            },
+            "25100": {
+              "name": "Kamgundho Primary"
+            },
+            "25101": {
+              "name": "Kondoro Primary"
+            },
+            "25102": {
+              "name": "Koyar Primary"
+            },
+            "25103": {
+              "name": "Kitunja Primary"
+            },
+            "25104": {
+              "name": "Rongo University College- Kitere"
+            },
+            "25105": {
+              "name": "Rakwaro Chief'S Camp"
+            },
+            "25106": {
+              "name": "Dago Kodero Primary School"
+            },
+            "25107": {
+              "name": "Orembe Primary School"
+            }
+          }
+        }
+      }
+    },
+    "254": {
+      "name": "Awendo",
+      "wards": {
+        "1265": {
+          "name": "North Sakwa",
+          "pollingStations": {
+            "25108": {
+              "name": "Kindu Primary"
+            },
+            "25109": {
+              "name": "Nyang'Inja Primary"
+            },
+            "25110": {
+              "name": "Yago Primary"
+            },
+            "25111": {
+              "name": "Ranen Primary"
+            },
+            "25112": {
+              "name": "Oboke Primary"
+            },
+            "25113": {
+              "name": "Nyakuru Primary"
+            },
+            "25114": {
+              "name": "Nyambija Primary"
+            },
+            "25115": {
+              "name": "Raruowa Primary"
+            },
+            "25116": {
+              "name": "Ang'Ogo Primary"
+            },
+            "25117": {
+              "name": "Sangla Kagak Primary"
+            },
+            "25118": {
+              "name": "Koyier Primary"
+            },
+            "25119": {
+              "name": "Nyang'Aya Primary"
+            },
+            "25120": {
+              "name": "Saria Primary"
+            },
+            "25121": {
+              "name": "Kuja Nyokal Primary"
+            },
+            "25122": {
+              "name": "Kwoyo Kodalo Primary"
+            },
+            "25123": {
+              "name": "Nyasore Kangore"
+            },
+            "25124": {
+              "name": "Wawaga Primary School"
+            }
+          }
+        },
+        "1266": {
+          "name": "South Sakwa",
+          "pollingStations": {
+            "25125": {
+              "name": "Ong'Ora Primary"
+            },
+            "25126": {
+              "name": "Mariwa Primary"
+            },
+            "25127": {
+              "name": "Utoma Primary"
+            },
+            "25128": {
+              "name": "Marienga Primary"
+            },
+            "25129": {
+              "name": "Aora Jope Primary"
+            },
+            "25130": {
+              "name": "Ng'Ong'A Primary"
+            },
+            "25131": {
+              "name": "Pe Hill Primary"
+            },
+            "25132": {
+              "name": "Akoko Primary"
+            },
+            "25133": {
+              "name": "Ulanda Primary"
+            },
+            "25134": {
+              "name": "Kwar Primary"
+            },
+            "25135": {
+              "name": "St. Cecilia Primary"
+            },
+            "25136": {
+              "name": "Rinya Primary"
+            },
+            "25137": {
+              "name": "Mulo Primary"
+            },
+            "25138": {
+              "name": "Malunga Primary"
+            },
+            "25139": {
+              "name": "Mahena Primary"
+            },
+            "25140": {
+              "name": "Uradi Primary"
+            },
+            "25141": {
+              "name": "Angaga Primary"
+            },
+            "25142": {
+              "name": "Bongu Primary"
+            },
+            "25143": {
+              "name": "Bonde Primary"
+            },
+            "25144": {
+              "name": "Siany Primary"
+            },
+            "25145": {
+              "name": "Manyatta Primary"
+            },
+            "25146": {
+              "name": "Get Primary"
+            },
+            "25147": {
+              "name": "Sare Primary"
+            },
+            "25148": {
+              "name": "Dago Kogelo Primary"
+            },
+            "25149": {
+              "name": "Bondo Kogelo"
+            },
+            "25150": {
+              "name": "Rabuor Primary"
+            },
+            "25151": {
+              "name": "Sare Sec School"
+            },
+            "25152": {
+              "name": "Saka Primary School"
+            },
+            "25153": {
+              "name": "Sony Sugar Primary School"
+            },
+            "25154": {
+              "name": "Recreational Park"
+            }
+          }
+        },
+        "1267": {
+          "name": "West Sakwa",
+          "pollingStations": {
+            "25155": {
+              "name": "Agongo Primary"
+            },
+            "25156": {
+              "name": "Kwe Primary"
+            },
+            "25157": {
+              "name": "Ringa Kodongo"
+            },
+            "25158": {
+              "name": "Nyarombo Primary"
+            },
+            "25159": {
+              "name": "Dede Primary"
+            },
+            "25160": {
+              "name": "Ombasa Primary"
+            },
+            "25161": {
+              "name": "Kabuoro Primary"
+            },
+            "25162": {
+              "name": "Kodeny Primary"
+            },
+            "25163": {
+              "name": "Gamba Primary"
+            },
+            "25164": {
+              "name": "Rabondo Primary"
+            },
+            "25165": {
+              "name": "Siruti Primary"
+            },
+            "25166": {
+              "name": "Dede Secondary"
+            },
+            "25167": {
+              "name": "Rabondo Mkt"
+            },
+            "25168": {
+              "name": "Lwanda Kokuro Primary School"
+            },
+            "25169": {
+              "name": "Kachangwe Primary School"
+            },
+            "25170": {
+              "name": "Gada Primary School"
+            },
+            "25171": {
+              "name": "Dago Kamresi Primary School"
+            }
+          }
+        },
+        "1268": {
+          "name": "Central Sakwa",
+          "pollingStations": {
+            "25172": {
+              "name": "Anindo Primary"
+            },
+            "25173": {
+              "name": "Alara Dago  Primary"
+            },
+            "25174": {
+              "name": "Ombo Kware Primary"
+            },
+            "25175": {
+              "name": "Ranjira Primary"
+            },
+            "25176": {
+              "name": "Sony Complex Primary"
+            },
+            "25177": {
+              "name": "Bondo Otuchi Primary"
+            },
+            "25178": {
+              "name": "Obama Primary"
+            },
+            "25179": {
+              "name": "Komolo Rume Primary"
+            },
+            "25180": {
+              "name": "Lianda Primary"
+            },
+            "25181": {
+              "name": "Kokuro Primary"
+            },
+            "25182": {
+              "name": "Raywer Primary"
+            },
+            "25183": {
+              "name": "Otacho Primary"
+            },
+            "25184": {
+              "name": "Got Ogwamrondo Primary"
+            },
+            "25185": {
+              "name": "Awendo Town Hall"
+            },
+            "25186": {
+              "name": "Sony Complex Nursery"
+            }
+          }
+        }
+      }
+    },
+    "255": {
+      "name": "Suna East",
+      "wards": {
+        "1269": {
+          "name": "God Jope",
+          "pollingStations": {
+            "25187": {
+              "name": "Got Kachola Primary School"
+            },
+            "25188": {
+              "name": "Nyaduong Primary School"
+            },
+            "25189": {
+              "name": "Kilimanjaro Primary School"
+            },
+            "25190": {
+              "name": "Wasio Primary School"
+            },
+            "25191": {
+              "name": "Kowiti Primary School"
+            },
+            "25192": {
+              "name": "Osingo Mixed Secondary School"
+            },
+            "25193": {
+              "name": "Alara Primary School"
+            },
+            "25194": {
+              "name": "Siling Mixed Secondary School"
+            },
+            "25195": {
+              "name": "Ang'Anga Primary School"
+            },
+            "25196": {
+              "name": "God Jope Primary School"
+            },
+            "25197": {
+              "name": "Kodila Primary School"
+            },
+            "25198": {
+              "name": "Anding'O Kodit Primary School"
+            },
+            "25199": {
+              "name": "Adugo Primary School"
+            },
+            "25200": {
+              "name": "Wuok Chieng' Primary School"
+            }
+          }
+        },
+        "1270": {
+          "name": "Suna Central",
+          "pollingStations": {
+            "25201": {
+              "name": "Kadika Primary School"
+            },
+            "25202": {
+              "name": "Midoti Primary School"
+            },
+            "25203": {
+              "name": "Onyalo Primary School"
+            },
+            "25204": {
+              "name": "Ngege Primary School"
+            },
+            "25205": {
+              "name": "Witharaga Primary School"
+            },
+            "25206": {
+              "name": "Migori County Hall"
+            },
+            "25207": {
+              "name": "Migori Muslim Primary School"
+            },
+            "25208": {
+              "name": "Ombo Primary School"
+            },
+            "25209": {
+              "name": "Nyamware Primary School"
+            },
+            "25210": {
+              "name": "Mapera Primary School"
+            },
+            "25211": {
+              "name": "Lichota Kojuang Primary School"
+            },
+            "25212": {
+              "name": "Migori Main Prison"
+            },
+            "25213": {
+              "name": "Ochieng Orwa Primary School"
+            },
+            "25214": {
+              "name": "Migori County Stadium"
+            }
+          }
+        },
+        "1271": {
+          "name": "Kakrao",
+          "pollingStations": {
+            "25215": {
+              "name": "Nyabisawa Primary School"
+            },
+            "25216": {
+              "name": "Kasembo Primary School"
+            },
+            "25217": {
+              "name": "Eko Primary School"
+            },
+            "25218": {
+              "name": "Korwa Primary School"
+            },
+            "25219": {
+              "name": "Nyamanga Primary School"
+            },
+            "25220": {
+              "name": "Nyarongi Primary School"
+            },
+            "25221": {
+              "name": "Mwache Primary School"
+            },
+            "25222": {
+              "name": "Anjego Mixed Secondary School"
+            },
+            "25223": {
+              "name": "Kanyadera Primary School"
+            },
+            "25224": {
+              "name": "Kakrao Mixed Secondary School"
+            },
+            "25225": {
+              "name": "Ting'Na Primary School"
+            },
+            "25226": {
+              "name": "Magina Primary School"
+            },
+            "25227": {
+              "name": "Nyikendo Mixed Secondary School"
+            },
+            "25228": {
+              "name": "Kikoma Primary School"
+            },
+            "25229": {
+              "name": "Ugari Mixed Secondary School"
+            },
+            "25230": {
+              "name": "Sangla Primary School"
+            },
+            "25231": {
+              "name": "Nyango Primary School"
+            },
+            "25232": {
+              "name": "Otacho Primary School"
+            },
+            "25233": {
+              "name": "Warisia Primary School"
+            },
+            "25234": {
+              "name": "Nyasare Primary School"
+            },
+            "25235": {
+              "name": "Wi-Arot Primary School"
+            },
+            "25236": {
+              "name": "Rayudhi Primary School"
+            },
+            "25237": {
+              "name": "Rangenya Primary School"
+            },
+            "25238": {
+              "name": "Bonda Primary School"
+            },
+            "25239": {
+              "name": "Pundo Apuoche Primary School"
+            },
+            "25240": {
+              "name": "Mabubi Primary School"
+            },
+            "25241": {
+              "name": "Nyakonya Primary School"
+            },
+            "25242": {
+              "name": "Vyalo Primary School"
+            },
+            "25243": {
+              "name": "Kakrao Old Market"
+            },
+            "25244": {
+              "name": "St. Phelegona Primary School"
+            }
+          }
+        },
+        "1272": {
+          "name": "Kwa",
+          "pollingStations": {
+            "25245": {
+              "name": "Kwa Mixed Secondary School"
+            },
+            "25246": {
+              "name": "Opasi Primary School"
+            },
+            "25247": {
+              "name": "Nyamongo Primary School"
+            },
+            "25248": {
+              "name": "Ogwedhi Sigawa Primary School"
+            },
+            "25249": {
+              "name": "God Ngoche Primary School"
+            },
+            "25250": {
+              "name": "Remo Primary School"
+            },
+            "25251": {
+              "name": "Rabuor Taya Primary School"
+            },
+            "25252": {
+              "name": "Lwanda Primary School"
+            },
+            "25253": {
+              "name": "Wuoth Ogik Primary School"
+            },
+            "25254": {
+              "name": "Sagegi Mixed Secondary School"
+            },
+            "25255": {
+              "name": "Radienya Primary School"
+            },
+            "25256": {
+              "name": "Thidhna Primary School"
+            },
+            "25257": {
+              "name": "Kwa Hills Primary School"
+            }
+          }
+        }
+      }
+    },
+    "256": {
+      "name": "Suna West",
+      "wards": {
+        "1273": {
+          "name": "Wiga",
+          "pollingStations": {
+            "25258": {
+              "name": "Kosege Primary School"
+            },
+            "25259": {
+              "name": "Obembo Primary School"
+            },
+            "25260": {
+              "name": "Raha Mixed Secondary School"
+            },
+            "25261": {
+              "name": "God Kwer Primary School"
+            },
+            "25262": {
+              "name": "Sibuoche Primary School"
+            },
+            "25263": {
+              "name": "Abwao Primary School"
+            },
+            "25264": {
+              "name": "Malera Primary School"
+            },
+            "25265": {
+              "name": "Chamabare Primary School"
+            },
+            "25266": {
+              "name": "Nyasoko Primary School"
+            },
+            "25267": {
+              "name": "Masara Primary School"
+            },
+            "25268": {
+              "name": "Kioru Primary School"
+            },
+            "25269": {
+              "name": "Marabiko Primary School"
+            },
+            "25270": {
+              "name": "Nyambeche Primary School"
+            },
+            "25271": {
+              "name": "Nyambona Primary School"
+            },
+            "25272": {
+              "name": "Magacha Primary School"
+            },
+            "25273": {
+              "name": "Kokendi Primary School"
+            },
+            "25274": {
+              "name": "Kikonge Primary School"
+            },
+            "25275": {
+              "name": "Surumina Nursery School"
+            },
+            "25276": {
+              "name": "Nyamunda Primary School"
+            },
+            "25277": {
+              "name": "Arombe Primary School"
+            },
+            "25278": {
+              "name": "Kotuga Primary School"
+            },
+            "25279": {
+              "name": "God Kwer Primary School"
+            },
+            "25280": {
+              "name": "Mariba Primary School"
+            }
+          }
+        },
+        "1274": {
+          "name": "Wasweta Ii",
+          "pollingStations": {
+            "25281": {
+              "name": "Bondo Nyironge Secondary School"
+            },
+            "25282": {
+              "name": "Nyamilu Primary School"
+            },
+            "25283": {
+              "name": "Magoto Primary School"
+            },
+            "25284": {
+              "name": "Sagero Mixed Secondary School"
+            },
+            "25285": {
+              "name": "Marindi Nursery School"
+            },
+            "25286": {
+              "name": "Lela Primary School"
+            },
+            "25287": {
+              "name": "Nyailing A Primary School"
+            },
+            "25288": {
+              "name": "Kowino Primary School"
+            },
+            "25289": {
+              "name": "Ndonyo Primary School"
+            },
+            "25290": {
+              "name": "Nyamome Primary School"
+            },
+            "25291": {
+              "name": "Sidianya Primary School"
+            },
+            "25292": {
+              "name": "Wuoth Ogik Maranatha Church"
+            },
+            "25293": {
+              "name": "Chief Baraza Odenge Primary School"
+            },
+            "25294": {
+              "name": "Kipasi Songa Primary School"
+            },
+            "25295": {
+              "name": "Ombo Dago Nursery School"
+            }
+          }
+        },
+        "1275": {
+          "name": "Ragana-Oruba",
+          "pollingStations": {
+            "25296": {
+              "name": "Migori Primary School"
+            },
+            "25297": {
+              "name": "Ragana Primary School"
+            },
+            "25298": {
+              "name": "Moi Suba Girls Secondary School"
+            },
+            "25299": {
+              "name": "Assar Johansson Primary School"
+            },
+            "25300": {
+              "name": "Oruba Primary School"
+            },
+            "25301": {
+              "name": "Milimani Primary School"
+            },
+            "25302": {
+              "name": "Nyangubo Primary School"
+            },
+            "25303": {
+              "name": "Oruba Mixed Secondary School"
+            },
+            "25304": {
+              "name": "St Albert Dip Primary School"
+            },
+            "25305": {
+              "name": "Nyanko Primary School"
+            },
+            "25306": {
+              "name": "Keyo Primary School"
+            },
+            "25307": {
+              "name": "Kilisia Catholic Church"
+            },
+            "25308": {
+              "name": "Bishop Okinda Secondary School"
+            },
+            "25309": {
+              "name": "Wuoth Ogik Primary School"
+            }
+          }
+        },
+        "1276": {
+          "name": "Wasimbete",
+          "pollingStations": {
+            "25310": {
+              "name": "Giribe Primary School"
+            },
+            "25311": {
+              "name": "Ore Primary School"
+            },
+            "25312": {
+              "name": "Piny Oyie Hall"
+            },
+            "25313": {
+              "name": "Boya Giribe Primary School"
+            },
+            "25314": {
+              "name": "Nyarombo Nursery School"
+            },
+            "25315": {
+              "name": "Machicha Primary School"
+            },
+            "25316": {
+              "name": "Mubachi Primary School"
+            },
+            "25317": {
+              "name": "Kitabaye Primary School"
+            },
+            "25318": {
+              "name": "Magongo Giribe Primary School"
+            },
+            "25319": {
+              "name": "Kopanga Primary School  ."
+            },
+            "25320": {
+              "name": "Mancha Primary School"
+            },
+            "25321": {
+              "name": "Lwala Giribe Primary School"
+            },
+            "25322": {
+              "name": "Barasengo Primary School"
+            },
+            "25323": {
+              "name": "Dago Primary School"
+            },
+            "25324": {
+              "name": "Nyabukemo Primary School"
+            },
+            "25325": {
+              "name": "Nyamanga Giribe Primary School"
+            }
+          }
+        }
+      }
+    },
+    "257": {
+      "name": "Uriri",
+      "wards": {
+        "1277": {
+          "name": "West Kanyamkago",
+          "pollingStations": {
+            "25326": {
+              "name": "Osogo Primary School"
+            },
+            "25327": {
+              "name": "Nyamage Primary School"
+            },
+            "25328": {
+              "name": "Got Korwa Primary School"
+            },
+            "25329": {
+              "name": "Oyani Sda Primary School"
+            },
+            "25330": {
+              "name": "Kambogo Primary School"
+            },
+            "25331": {
+              "name": "Konduru Primary School"
+            },
+            "25332": {
+              "name": "God Sibuoche Primary School"
+            },
+            "25333": {
+              "name": "Midida Primary School"
+            },
+            "25334": {
+              "name": "Gogo Primary School"
+            },
+            "25335": {
+              "name": "Nyabinga Primary School"
+            },
+            "25336": {
+              "name": "Got Kodero Primary School"
+            },
+            "25337": {
+              "name": "Dak Otunga Primary School"
+            },
+            "25338": {
+              "name": "Ongenga Primary  School"
+            },
+            "25339": {
+              "name": "Ongoro Nursery"
+            },
+            "25340": {
+              "name": "Milimani Primary School"
+            },
+            "25341": {
+              "name": "Puche Primary School"
+            },
+            "25342": {
+              "name": "God Jaoko Primary School"
+            },
+            "25343": {
+              "name": "Chief Kawisa Primary School"
+            },
+            "25344": {
+              "name": "Siro Girls High School"
+            },
+            "25345": {
+              "name": "Misita Nursery"
+            },
+            "25346": {
+              "name": "Marrum Kokiri Primary School"
+            },
+            "25347": {
+              "name": "Mark Nyamita Wang'Chieng Primary School"
+            },
+            "25348": {
+              "name": "Holo Kayuda Primary School"
+            },
+            "25349": {
+              "name": "Ondati Primary School"
+            }
+          }
+        },
+        "1278": {
+          "name": "North Kanyamkago",
+          "pollingStations": {
+            "25350": {
+              "name": "Nyamasare Primary School"
+            },
+            "25351": {
+              "name": "Okumbo Primary School"
+            },
+            "25352": {
+              "name": "Ondome Primary School"
+            },
+            "25353": {
+              "name": "Anding'O Primary School"
+            },
+            "25354": {
+              "name": "Akonjo Primary School"
+            },
+            "25355": {
+              "name": "Obuongo Otuagi Primary School"
+            },
+            "25356": {
+              "name": "Rapogi Primary School"
+            },
+            "25357": {
+              "name": "Amoso Primary School"
+            },
+            "25358": {
+              "name": "Kokelo Primary School"
+            },
+            "25359": {
+              "name": "Chunge Primary School"
+            },
+            "25360": {
+              "name": "Koduogo Primary School"
+            },
+            "25361": {
+              "name": "Mori Primary School"
+            },
+            "25362": {
+              "name": "Nyambeche Primary School"
+            },
+            "25363": {
+              "name": "Masoge Primary School"
+            },
+            "25364": {
+              "name": "Ong'Ora Kakuru Primary School"
+            },
+            "25365": {
+              "name": "Othoro Primary School"
+            },
+            "25366": {
+              "name": "Anding'O Secondary School"
+            },
+            "25367": {
+              "name": "Kuna Primary School"
+            },
+            "25368": {
+              "name": "Kanyodera Primary School"
+            },
+            "25369": {
+              "name": "Ong'Ora Nursery"
+            },
+            "25370": {
+              "name": "Nyagesa Nursery"
+            },
+            "25371": {
+              "name": "Odeny Odhoch Primary School"
+            },
+            "25372": {
+              "name": "Wapongo Nursery"
+            },
+            "25373": {
+              "name": "Konditi Primary School"
+            },
+            "25374": {
+              "name": "Rae Kondiala Nursery"
+            },
+            "25375": {
+              "name": "Oria Nursery"
+            },
+            "25376": {
+              "name": "Malich Primary School"
+            },
+            "25377": {
+              "name": "Minyere Primary School"
+            },
+            "25378": {
+              "name": "Ojwang Omollo Primary School"
+            },
+            "25379": {
+              "name": "Kambuji Sda Nursery School"
+            },
+            "25380": {
+              "name": "Obama Primary School"
+            },
+            "25381": {
+              "name": "Marungu Primary School"
+            }
+          }
+        },
+        "1279": {
+          "name": "Central Kanyamkago",
+          "pollingStations": {
+            "25382": {
+              "name": "Piny Owacho Primary School"
+            },
+            "25383": {
+              "name": "Kalii Primary School"
+            },
+            "25384": {
+              "name": "Ombo Primary School"
+            },
+            "25385": {
+              "name": "Kagito Primary School"
+            },
+            "25386": {
+              "name": "Rombe Primary School"
+            },
+            "25387": {
+              "name": "Kanyakech Primary School"
+            },
+            "25388": {
+              "name": "Nyamilu Primary School"
+            },
+            "25389": {
+              "name": "Nyasaoro Primary School"
+            },
+            "25390": {
+              "name": "Nyabera Primary School"
+            },
+            "25391": {
+              "name": "Ramuoma Primary School"
+            },
+            "25392": {
+              "name": "Lwanda Konyuna Primary  School"
+            },
+            "25393": {
+              "name": "Piny Owacho Secondary School"
+            },
+            "25394": {
+              "name": "Got Kawino Nursery"
+            },
+            "25395": {
+              "name": "Nyaobe Nursery"
+            },
+            "25396": {
+              "name": "Uriri Polytechnic"
+            },
+            "25397": {
+              "name": "Ruma Apostolic Nursery School"
+            },
+            "25398": {
+              "name": "Owich Sda Nursey School"
+            },
+            "25399": {
+              "name": "Siala Sda Primary School"
+            },
+            "25400": {
+              "name": "Miruya Primary School"
+            },
+            "25401": {
+              "name": "Museno Pag Primary School"
+            }
+          }
+        },
+        "1280": {
+          "name": "South Kanyamkago",
+          "pollingStations": {
+            "25402": {
+              "name": "Mukuyu Primary School"
+            },
+            "25403": {
+              "name": "Magongo Primary School"
+            },
+            "25404": {
+              "name": "Korondo Primary School"
+            },
+            "25405": {
+              "name": "Sigira Primary School"
+            },
+            "25406": {
+              "name": "Achuth Primary School"
+            },
+            "25407": {
+              "name": "Bware Primary School"
+            },
+            "25408": {
+              "name": "Oruba Primary School"
+            },
+            "25409": {
+              "name": "Lwala Primary School"
+            },
+            "25410": {
+              "name": "Ober Primary School"
+            },
+            "25411": {
+              "name": "Uriri Primary School"
+            },
+            "25412": {
+              "name": "Kolwal Primary School"
+            },
+            "25413": {
+              "name": "Kamuga Primary School"
+            },
+            "25414": {
+              "name": "Kamsaki Primary School"
+            },
+            "25415": {
+              "name": "Kisugunwa Primary School"
+            },
+            "25416": {
+              "name": "Manyonge Primary School"
+            },
+            "25417": {
+              "name": "Edemba Primary School"
+            },
+            "25418": {
+              "name": "Nduru Nursery"
+            },
+            "25419": {
+              "name": "Kisangura Primary School"
+            },
+            "25420": {
+              "name": "Ng'Onga Sda Primary School"
+            },
+            "25421": {
+              "name": "Nyarago Nursery School"
+            },
+            "25422": {
+              "name": "Mitonyo Salvation Nursery School"
+            },
+            "25423": {
+              "name": "Amisi Primary School"
+            }
+          }
+        },
+        "1281": {
+          "name": "East Kanyamkago",
+          "pollingStations": {
+            "25424": {
+              "name": "Thim Jope Primary School"
+            },
+            "25425": {
+              "name": "Nyakurkuma Primary School"
+            },
+            "25426": {
+              "name": "Manyatta Primary School"
+            },
+            "25427": {
+              "name": "St.Mary'S Oyola Primary School"
+            },
+            "25428": {
+              "name": "Arambe Primary School"
+            },
+            "25429": {
+              "name": "Luoro Primary School"
+            },
+            "25430": {
+              "name": "Wikodongo Primary School"
+            },
+            "25431": {
+              "name": "Pith Nyadundo Primary School"
+            },
+            "25432": {
+              "name": "Ahenyo Primary School"
+            },
+            "25433": {
+              "name": "St Thomas Wikongaro Primary School"
+            },
+            "25434": {
+              "name": "Kambaga Primary School"
+            }
+          }
+        }
+      }
+    },
+    "258": {
+      "name": "Nyatike",
+      "wards": {
+        "1282": {
+          "name": "Kachien'G",
+          "pollingStations": {
+            "25435": {
+              "name": "Sidika Primary School"
+            },
+            "25436": {
+              "name": "Raga Primary School"
+            },
+            "25437": {
+              "name": "Sori Primary School"
+            },
+            "25438": {
+              "name": "Kopala Primary School"
+            },
+            "25439": {
+              "name": "Gunga Primary School"
+            },
+            "25440": {
+              "name": "Nyamanga Primary School"
+            },
+            "25441": {
+              "name": "Orore Primary School"
+            },
+            "25442": {
+              "name": "Kiranda Primary School"
+            },
+            "25443": {
+              "name": "Wachara Primary School"
+            },
+            "25444": {
+              "name": "Bl Tezza Primary School"
+            },
+            "25445": {
+              "name": "Obondi Primary School"
+            },
+            "25446": {
+              "name": "Kaduro Primary School"
+            },
+            "25447": {
+              "name": "Agolomuok Primary School"
+            },
+            "25448": {
+              "name": "Odendo Primary School"
+            },
+            "25449": {
+              "name": "Bongu Beach (Tent)"
+            },
+            "25450": {
+              "name": "Sori Stadium"
+            },
+            "25451": {
+              "name": "Rabuor Karungu Primary School"
+            },
+            "25452": {
+              "name": "St. Antonnio Okiro Primary School"
+            },
+            "25453": {
+              "name": "Sori Bus Park(Tent)"
+            }
+          }
+        },
+        "1283": {
+          "name": "Kanyasa",
+          "pollingStations": {
+            "25454": {
+              "name": "Obware Primary School"
+            },
+            "25455": {
+              "name": "Lwanda Primary School"
+            },
+            "25456": {
+              "name": "Jangoe Primary School"
+            },
+            "25457": {
+              "name": "Okayo Primary School"
+            },
+            "25458": {
+              "name": "Ungoe Primary School"
+            },
+            "25459": {
+              "name": "Nyasoko Primary School"
+            },
+            "25460": {
+              "name": "Bondo Kosiemo Primary School"
+            },
+            "25461": {
+              "name": "Aringo Primary School"
+            },
+            "25462": {
+              "name": "Kogore Primary School"
+            },
+            "25463": {
+              "name": "Rabare Primary School"
+            },
+            "25464": {
+              "name": "Opeya Primary School"
+            },
+            "25465": {
+              "name": "Otati Primary School"
+            },
+            "25466": {
+              "name": "Wang'Aya Primary School"
+            },
+            "25467": {
+              "name": "Kayara Primary School"
+            },
+            "25468": {
+              "name": "God Keyo Primary School"
+            },
+            "25469": {
+              "name": "Not Primary School"
+            },
+            "25470": {
+              "name": "Alendo Primary School"
+            },
+            "25471": {
+              "name": "Godbim Primary School"
+            },
+            "25472": {
+              "name": "Tom Odege Ng'Ira Primary School"
+            },
+            "25473": {
+              "name": "Kipingi Dispensary"
+            },
+            "25474": {
+              "name": "Tiany Nyagod Jope Primary School"
+            }
+          }
+        },
+        "1284": {
+          "name": "North Kadem",
+          "pollingStations": {
+            "25475": {
+              "name": "Kabuto Primary School"
+            },
+            "25476": {
+              "name": "Sere Primary School"
+            },
+            "25477": {
+              "name": "Akala Primary School"
+            },
+            "25478": {
+              "name": "Kituka Primary School"
+            },
+            "25479": {
+              "name": "Got Ong'Er Primary School"
+            },
+            "25480": {
+              "name": "Ageng'A Primary School"
+            },
+            "25481": {
+              "name": "Pom Primary School"
+            },
+            "25482": {
+              "name": "Goglo Primary School"
+            },
+            "25483": {
+              "name": "Modi Primary School"
+            },
+            "25484": {
+              "name": "Lwala Rabuor Primary School"
+            },
+            "25485": {
+              "name": "Angugo Primary School"
+            },
+            "25486": {
+              "name": "Okenge Primary School"
+            },
+            "25487": {
+              "name": "Ndiwa Primary School"
+            },
+            "25488": {
+              "name": "Odiyo Primary School"
+            },
+            "25489": {
+              "name": "Thimlich Primary School"
+            },
+            "25490": {
+              "name": "Kolanya Primary School"
+            },
+            "25491": {
+              "name": "Kikongo Primary School"
+            },
+            "25492": {
+              "name": "Owiro Primary School"
+            },
+            "25493": {
+              "name": "Tuk Primary School"
+            },
+            "25494": {
+              "name": "Sota Rangenya Primary School"
+            },
+            "25495": {
+              "name": "Diruma Primary School"
+            },
+            "25496": {
+              "name": "Nyora Primary School"
+            },
+            "25497": {
+              "name": "Nyakweri Primary School"
+            },
+            "25498": {
+              "name": "Paw Ndege Primary School"
+            },
+            "25499": {
+              "name": "Orango Primary School"
+            },
+            "25500": {
+              "name": "Nyatworo Primary School"
+            },
+            "25501": {
+              "name": "Magungu Primary School"
+            },
+            "25502": {
+              "name": "Oluga Primary School"
+            },
+            "25503": {
+              "name": "Lwanda Beach(Tent)"
+            },
+            "25504": {
+              "name": "Adiel Carla Primary School"
+            },
+            "25505": {
+              "name": "Nalo Primary School"
+            },
+            "25506": {
+              "name": "Odudo Nursery School"
+            },
+            "25507": {
+              "name": "Wadh Buru Primary School"
+            }
+          }
+        },
+        "1285": {
+          "name": "Macalder/Kanyarwanda",
+          "pollingStations": {
+            "25508": {
+              "name": "Owich Primary School"
+            },
+            "25509": {
+              "name": "Got Orango Primary School"
+            },
+            "25510": {
+              "name": "God Kwach Primary School"
+            },
+            "25511": {
+              "name": "Macalder Primary School"
+            },
+            "25512": {
+              "name": "Mikei Primary School"
+            },
+            "25513": {
+              "name": "Osiri Primary School"
+            },
+            "25514": {
+              "name": "Nyandema Primary School"
+            },
+            "25515": {
+              "name": "Miroche Primary School"
+            },
+            "25516": {
+              "name": "Wang'Elong'O Primary School"
+            },
+            "25517": {
+              "name": "Wath Ong'Er Primary School"
+            },
+            "25518": {
+              "name": "Mariba Primary School"
+            },
+            "25519": {
+              "name": "Ogaka Primary School"
+            },
+            "25520": {
+              "name": "Got Kowuor Primary School"
+            },
+            "25521": {
+              "name": "Ogongo Primary School"
+            },
+            "25522": {
+              "name": "Ongoche Primary School"
+            },
+            "25523": {
+              "name": "Kimai Primary School"
+            },
+            "25524": {
+              "name": "Obaluanda Primary School"
+            },
+            "25525": {
+              "name": "Munyu Primary School"
+            },
+            "25526": {
+              "name": "Bansi Bugni Primary School"
+            },
+            "25527": {
+              "name": "Ndemra Primary School"
+            },
+            "25528": {
+              "name": "St. Gabriel'S Primary School"
+            },
+            "25529": {
+              "name": "God Bondo Ecde School"
+            }
+          }
+        },
+        "1286": {
+          "name": "Kaler",
+          "pollingStations": {
+            "25530": {
+              "name": "Kanga Onditi Prmary School"
+            },
+            "25531": {
+              "name": "Sagenya Primary School"
+            },
+            "25532": {
+              "name": "Kea Primary School"
+            },
+            "25533": {
+              "name": "Olasi Primary School"
+            },
+            "25534": {
+              "name": "Kiasa Primary School"
+            },
+            "25535": {
+              "name": "Nyamache Primary School"
+            },
+            "25536": {
+              "name": "Nyamitha Primary School"
+            }
+          }
+        },
+        "1287": {
+          "name": "Got Kachola",
+          "pollingStations": {
+            "25537": {
+              "name": "Bande Primary School"
+            },
+            "25538": {
+              "name": "Nyakurungoto Primary School"
+            },
+            "25539": {
+              "name": "Ulando Primary School"
+            },
+            "25540": {
+              "name": "Aongedhiang' Primary School"
+            },
+            "25541": {
+              "name": "Koweru Primary School"
+            },
+            "25542": {
+              "name": "Chamachichi Primary School"
+            },
+            "25543": {
+              "name": "Othoch-Rakuom Primary School"
+            },
+            "25544": {
+              "name": "Tulu Primary School"
+            },
+            "25545": {
+              "name": "Nyangere Primary School"
+            },
+            "25546": {
+              "name": "Got Kachola Primary School"
+            },
+            "25547": {
+              "name": "Ratieny Primary School"
+            },
+            "25548": {
+              "name": "Sota Primary School"
+            },
+            "25549": {
+              "name": "Aneko Primary School"
+            },
+            "25550": {
+              "name": "Mang'U Primary School"
+            },
+            "25551": {
+              "name": "Nyandago Primary School"
+            },
+            "25552": {
+              "name": "Amoyo Primary School"
+            },
+            "25553": {
+              "name": "Miriwi Primary School"
+            },
+            "25554": {
+              "name": "Othora Primary School"
+            },
+            "25555": {
+              "name": "Lidha Beach(Tent)"
+            },
+            "25556": {
+              "name": "Kanyandiko Primary School"
+            },
+            "25557": {
+              "name": "Matoso Beach(Tent)"
+            },
+            "25558": {
+              "name": "Ongoro Beach(Tent)"
+            }
+          }
+        },
+        "1288": {
+          "name": "Muhuru",
+          "pollingStations": {
+            "25559": {
+              "name": "Kibro Beach (Tent)"
+            },
+            "25560": {
+              "name": "Obolo Primary School"
+            },
+            "25561": {
+              "name": "Winjo Primary School"
+            },
+            "25562": {
+              "name": "Ibencho Primary School"
+            },
+            "25563": {
+              "name": "Lisori Primary School"
+            },
+            "25564": {
+              "name": "Nyankondo Primary School"
+            },
+            "25565": {
+              "name": "Senye Primary School"
+            },
+            "25566": {
+              "name": "Rabwao Primary School"
+            },
+            "25567": {
+              "name": "Nyangwayo Primary School"
+            },
+            "25568": {
+              "name": "Kumoni Primary School"
+            },
+            "25569": {
+              "name": "Tagache Primary School"
+            },
+            "25570": {
+              "name": "Rabwao Secondary School"
+            },
+            "25571": {
+              "name": "Migingo Island"
+            },
+            "25572": {
+              "name": "Nyang'Wina Beach"
+            },
+            "25573": {
+              "name": "Mugabo Beach"
+            },
+            "25574": {
+              "name": "Kurukongo Primary School"
+            },
+            "25575": {
+              "name": "Nyabomo Primary School"
+            },
+            "25576": {
+              "name": "Senye Secondary School"
+            }
+          }
+        }
+      }
+    },
+    "259": {
+      "name": "Kuria West",
+      "wards": {
+        "1289": {
+          "name": "Bukira East",
+          "pollingStations": {
+            "25577": {
+              "name": "Karosi Pr. School"
+            },
+            "25578": {
+              "name": "Kehancha Pr. School"
+            },
+            "25579": {
+              "name": "St. Kizito Pr. School"
+            },
+            "25580": {
+              "name": "Taranganya Pr. School"
+            },
+            "25581": {
+              "name": "Nyatechi Pr. School"
+            },
+            "25582": {
+              "name": "Igena Pr. School"
+            },
+            "25583": {
+              "name": "Wizara Pr. School"
+            },
+            "25584": {
+              "name": "Korosaro Maranatha Church"
+            },
+            "25585": {
+              "name": "Kegweso Pefa Church"
+            }
+          }
+        },
+        "1290": {
+          "name": "Bukira Centrl/Ikerege",
+          "pollingStations": {
+            "25586": {
+              "name": "Ikerege Pr. School"
+            },
+            "25587": {
+              "name": "Nyabokarange Pr. School"
+            },
+            "25588": {
+              "name": "Kuguyi Pr. School"
+            },
+            "25589": {
+              "name": "Bishop Mogendi Kugitura Pr. School"
+            },
+            "25590": {
+              "name": "Getabara Pr. School"
+            },
+            "25591": {
+              "name": "Komomange Pr. School"
+            },
+            "25592": {
+              "name": "Komasincha Pr. School"
+            },
+            "25593": {
+              "name": "Nyaigutu Pr. School"
+            },
+            "25594": {
+              "name": "Gwikonge Pr. School"
+            },
+            "25595": {
+              "name": "Kebobono Pri. School"
+            },
+            "25596": {
+              "name": "Robarisia Pr. School"
+            }
+          }
+        },
+        "1291": {
+          "name": "Isibania",
+          "pollingStations": {
+            "25597": {
+              "name": "Nyamaharaga Pr. School"
+            },
+            "25598": {
+              "name": "Nyamaharaga Pag Pr. School"
+            },
+            "25599": {
+              "name": "Nyabikaye Pr. School"
+            },
+            "25600": {
+              "name": "Nyamaharaga Ack Nur. School"
+            },
+            "25601": {
+              "name": "Isibania Boys High School"
+            },
+            "25602": {
+              "name": "Setta Primary School"
+            },
+            "25603": {
+              "name": "Vision Primary"
+            },
+            "25604": {
+              "name": "Border Hill Primary School"
+            }
+          }
+        },
+        "1292": {
+          "name": "Makerero",
+          "pollingStations": {
+            "25605": {
+              "name": "Sorore Pr. School"
+            },
+            "25606": {
+              "name": "Nyasese Pr. School"
+            },
+            "25607": {
+              "name": "Nyangiti Pr. School"
+            },
+            "25608": {
+              "name": "Taragwiti Pr. School"
+            },
+            "25609": {
+              "name": "Nyametaburo Pr. School"
+            },
+            "25610": {
+              "name": "Bingutwi Pr. School"
+            },
+            "25611": {
+              "name": "Sirori Simba Pr. School"
+            },
+            "25612": {
+              "name": "Keburui Pr. School"
+            },
+            "25613": {
+              "name": "Gukipimo Primary School"
+            },
+            "25614": {
+              "name": "Kohego Primary School"
+            }
+          }
+        },
+        "1293": {
+          "name": "Masaba",
+          "pollingStations": {
+            "25615": {
+              "name": "Nyanchabo Pr. School"
+            },
+            "25616": {
+              "name": "Rongabi Pr. School"
+            },
+            "25617": {
+              "name": "Getong'Anya Pr. School"
+            },
+            "25618": {
+              "name": "Nyamararangere Pr. School"
+            },
+            "25619": {
+              "name": "Bohorera Pr. School"
+            },
+            "25620": {
+              "name": "Masaba Pr.School"
+            },
+            "25621": {
+              "name": "Nyamagagana Pr.School"
+            },
+            "25622": {
+              "name": "Ntiange Pr. School"
+            },
+            "25623": {
+              "name": "Kombe Pr. School"
+            },
+            "25624": {
+              "name": "Nyatira Pr. School"
+            },
+            "25625": {
+              "name": "Sagegi Pr School"
+            },
+            "25626": {
+              "name": "Kurutiange Pr. School"
+            },
+            "25627": {
+              "name": "Naora Pr. School"
+            },
+            "25628": {
+              "name": "Nyawaitanchiria"
+            },
+            "25629": {
+              "name": "Gekamiri Pr. School"
+            },
+            "25630": {
+              "name": "Komasimo Pre- Pr. School"
+            },
+            "25631": {
+              "name": "Korobonyige Pr. School"
+            },
+            "25632": {
+              "name": "Nyamekongoroto Health Centre"
+            },
+            "25633": {
+              "name": "Masaba Resource Centre"
+            }
+          }
+        },
+        "1294": {
+          "name": "Tagare",
+          "pollingStations": {
+            "25634": {
+              "name": "Mabera Pr. School"
+            },
+            "25635": {
+              "name": "Kubweye Pr. School"
+            },
+            "25636": {
+              "name": "Nyamekoma Pr. School"
+            },
+            "25637": {
+              "name": "Ngisiru Pr. School"
+            },
+            "25638": {
+              "name": "Kugisingisi Pr. School"
+            },
+            "25639": {
+              "name": "Tagare Pr. School"
+            },
+            "25640": {
+              "name": "Nyangoge Pr. School"
+            },
+            "25641": {
+              "name": "Komorege Pr. School"
+            },
+            "25642": {
+              "name": "Nyankore Pr. School"
+            },
+            "25643": {
+              "name": "Nyabirongo Pr. School"
+            },
+            "25644": {
+              "name": "Muchebe Pr. School"
+            },
+            "25645": {
+              "name": "St. Mary'S Girls Sec. School"
+            },
+            "25646": {
+              "name": "Tongeria Pr. School"
+            },
+            "25647": {
+              "name": "Nyabohanse Mix. Sec. School"
+            },
+            "25648": {
+              "name": "Korogati Primary School"
+            }
+          }
+        },
+        "1295": {
+          "name": "Nyamosense/Komosoko",
+          "pollingStations": {
+            "25649": {
+              "name": "Burimagongo Pr. School"
+            },
+            "25650": {
+              "name": "Iraha Pr. School"
+            },
+            "25651": {
+              "name": "Moheto Pr. School"
+            },
+            "25652": {
+              "name": "Nyamosense Pr. School"
+            },
+            "25653": {
+              "name": "Kubwaha Pr. School"
+            },
+            "25654": {
+              "name": "Rosabare Pr. School"
+            },
+            "25655": {
+              "name": "Ngochoni Pr. School"
+            },
+            "25656": {
+              "name": "Komosoko Pr. School"
+            },
+            "25657": {
+              "name": "Kengariso Pr. School"
+            },
+            "25658": {
+              "name": "Isibania Pr. School"
+            },
+            "25659": {
+              "name": "Moi Nyabohanse Girls Sec. School"
+            },
+            "25660": {
+              "name": "Kiburanga Pr. School"
+            },
+            "25661": {
+              "name": "Gosese Pr. School"
+            },
+            "25662": {
+              "name": "Biamiti Pr. School"
+            },
+            "25663": {
+              "name": "Giosahi Pr. School"
+            },
+            "25664": {
+              "name": "Nyamwini Pr. School"
+            },
+            "25665": {
+              "name": "Bogambero Pr. School"
+            },
+            "25666": {
+              "name": "Rokere Pr. School"
+            },
+            "25667": {
+              "name": "Ntaburo New Apostolic Church"
+            },
+            "25668": {
+              "name": "Nyabirangacha Primary School"
+            }
+          }
+        }
+      }
+    },
+    "260": {
+      "name": "Kuria East",
+      "wards": {
+        "1296": {
+          "name": "Gokeharaka/Getambwega",
+          "pollingStations": {
+            "25669": {
+              "name": "Gokeharaka Pr. School"
+            },
+            "25670": {
+              "name": "Ihore Pr. School"
+            },
+            "25671": {
+              "name": "Nyamaranya Pr. School"
+            },
+            "25672": {
+              "name": "Nguku Mahando Pr. School"
+            },
+            "25673": {
+              "name": "Nyamotambe Pr. School"
+            },
+            "25674": {
+              "name": "Chacha Marwa Pr. School"
+            },
+            "25675": {
+              "name": "Masangora Pr. School"
+            },
+            "25676": {
+              "name": "Getambwega Pr. School"
+            },
+            "25677": {
+              "name": "Simbori Pr,School"
+            },
+            "25678": {
+              "name": "Bikarabwa Pr. School"
+            },
+            "25679": {
+              "name": "Tung'Aini Pr. School"
+            },
+            "25680": {
+              "name": "Gureta Pr. School"
+            },
+            "25681": {
+              "name": "Kubinto Pr. School"
+            },
+            "25682": {
+              "name": "Wisdom Pr. School"
+            },
+            "25683": {
+              "name": "Kewandwi Primary School"
+            }
+          }
+        },
+        "1297": {
+          "name": "Ntimaru West",
+          "pollingStations": {
+            "25684": {
+              "name": "Ntimaru Pr. School"
+            },
+            "25685": {
+              "name": "Makararangwe Pr. School"
+            },
+            "25686": {
+              "name": "Matare Pr. School"
+            },
+            "25687": {
+              "name": "Kwibancha Pr. School"
+            },
+            "25688": {
+              "name": "Igena Itambe Pr. School"
+            },
+            "25689": {
+              "name": "Motarakwa Pr. School"
+            },
+            "25690": {
+              "name": "Bongebo Pr. School"
+            },
+            "25691": {
+              "name": "Kohero Pr. School"
+            },
+            "25692": {
+              "name": "Gwitembe Pr. School"
+            },
+            "25693": {
+              "name": "Kwiho Pr. School"
+            },
+            "25694": {
+              "name": "Mutiniti Pr. School"
+            },
+            "25695": {
+              "name": "Seronga Pr. School"
+            },
+            "25696": {
+              "name": "Gibomwe Nur. School"
+            },
+            "25697": {
+              "name": "Nyamotambe Nursery School"
+            }
+          }
+        },
+        "1298": {
+          "name": "Ntimaru East",
+          "pollingStations": {
+            "25698": {
+              "name": "Itongo Pr. School"
+            },
+            "25699": {
+              "name": "Wangirabose Pr. School"
+            },
+            "25700": {
+              "name": "Taragai Pr. School"
+            },
+            "25701": {
+              "name": "Siabai Pr. School"
+            },
+            "25702": {
+              "name": "Nyankongo Pr. School"
+            },
+            "25703": {
+              "name": "Minyere Pr. School"
+            },
+            "25704": {
+              "name": "Makonge Pr. School"
+            },
+            "25705": {
+              "name": "Giririani Catholic"
+            },
+            "25706": {
+              "name": "Gosebe Maranatha"
+            }
+          }
+        },
+        "1299": {
+          "name": "Nyabasi East",
+          "pollingStations": {
+            "25707": {
+              "name": "Nyamagenga Pr. School"
+            },
+            "25708": {
+              "name": "Koromangucha Pr. School"
+            },
+            "25709": {
+              "name": "Kugitimo Pr. School"
+            },
+            "25710": {
+              "name": "Nyakehomo Pr. School"
+            },
+            "25711": {
+              "name": "Kegonga Pr. School"
+            },
+            "25712": {
+              "name": "Nyamanche Pr. School"
+            },
+            "25713": {
+              "name": "Sakuri Pr. School"
+            },
+            "25714": {
+              "name": "Nyamagongwi Pr. School"
+            },
+            "25715": {
+              "name": "Nguruna Pr. School"
+            },
+            "25716": {
+              "name": "Biasumwi Pr. School"
+            },
+            "25717": {
+              "name": "Girigiri Pr. School"
+            },
+            "25718": {
+              "name": "Getongoroma Pr. School"
+            },
+            "25719": {
+              "name": "Kwigena Pr. School"
+            },
+            "25720": {
+              "name": "Nyamotambe Primary School"
+            },
+            "25721": {
+              "name": "Kwiriba Rescue Centre"
+            }
+          }
+        },
+        "1300": {
+          "name": "Nyabasi West",
+          "pollingStations": {
+            "25722": {
+              "name": "Gibarori Pr. School"
+            },
+            "25723": {
+              "name": "Kendege Nur. School"
+            },
+            "25724": {
+              "name": "Nyaitara Pr. School"
+            },
+            "25725": {
+              "name": "Maeta Pr. School"
+            },
+            "25726": {
+              "name": "Sanchawa Pr. School"
+            },
+            "25727": {
+              "name": "Nyabikongori Pr. School"
+            },
+            "25728": {
+              "name": "Komotobo Pr. School"
+            },
+            "25729": {
+              "name": "Kemakoba Pr. School"
+            },
+            "25730": {
+              "name": "Musweto Pr. School"
+            },
+            "25731": {
+              "name": "Nyaroha Pr. School"
+            },
+            "25732": {
+              "name": "Tebesi Pr. School"
+            },
+            "25733": {
+              "name": "Kionyo Pr. School"
+            },
+            "25734": {
+              "name": "Kebaroti Pr. School"
+            },
+            "25735": {
+              "name": "Remanyanki Pr. School"
+            },
+            "25736": {
+              "name": "Nyabosongo Centre"
+            },
+            "25737": {
+              "name": "Komorama Nur. School"
+            },
+            "25738": {
+              "name": "Kebarisia Nur."
+            },
+            "25739": {
+              "name": "Chinato Pr. School"
+            },
+            "25740": {
+              "name": "Kegonche Pr. School"
+            },
+            "25741": {
+              "name": "Kebare Primary School"
+            },
+            "25742": {
+              "name": "Maranatha Bitorogwe"
+            },
+            "25743": {
+              "name": "Nyamutiro Maranatha Church"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Awendo",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Kuria East",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Kuria West",
+      "type": "Subcounty"
+    },
+    "004": {
+      "name": "Nyatike",
+      "type": "Subcounty"
+    },
+    "005": {
+      "name": "Rongo",
+      "type": "Subcounty"
+    },
+    "006": {
+      "name": "Suna East",
+      "type": "Subcounty"
+    },
+    "007": {
+      "name": "Suna West",
+      "type": "Subcounty"
+    },
+    "008": {
+      "name": "Uriri",
+      "type": "Subcounty"
+    }
+  }
+}

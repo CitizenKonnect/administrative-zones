@@ -1,0 +1,1697 @@
+{
+  "name": "Nairobi City",
+  "type": "County",
+  "code": "047",
+  "constituencies": {
+    "274": {
+      "name": "Westlands",
+      "wards": {
+        "1366": {
+          "name": "Kitisuru",
+          "pollingStations": {
+            "26900": {
+              "name": "Kabete Vetlab Primary School"
+            },
+            "26901": {
+              "name": "St Martin S School Kibagare"
+            },
+            "26902": {
+              "name": "Loresho Primary School"
+            },
+            "26903": {
+              "name": "Farasi Lane Primary School"
+            },
+            "26904": {
+              "name": "Lower Kabete Primary School"
+            },
+            "26905": {
+              "name": "Kabete Rehabilitation Centre"
+            }
+          }
+        },
+        "1367": {
+          "name": "Parklands/Highridge",
+          "pollingStations": {
+            "26906": {
+              "name": "Muguga Green Primary School"
+            },
+            "26907": {
+              "name": "Bhora Primary School"
+            },
+            "26908": {
+              "name": "Westlands Primary School"
+            },
+            "26909": {
+              "name": "Visa Oshwal Primary School"
+            },
+            "26910": {
+              "name": "Hospital Hill Primary School"
+            },
+            "26911": {
+              "name": "Highridge Primary School"
+            },
+            "26912": {
+              "name": "North Highridge Primary School"
+            }
+          }
+        },
+        "1368": {
+          "name": "Karura",
+          "pollingStations": {
+            "26913": {
+              "name": "City Park Market"
+            },
+            "26914": {
+              "name": "Karura Forest Primary School"
+            },
+            "26915": {
+              "name": "Cheleta Primary School"
+            },
+            "26916": {
+              "name": "Mji Wa Huruma"
+            },
+            "26917": {
+              "name": "Kenya Teachers Technical College"
+            },
+            "26918": {
+              "name": "Hospital Hill High School"
+            }
+          }
+        },
+        "1369": {
+          "name": "Kangemi",
+          "pollingStations": {
+            "26919": {
+              "name": "Kihumbuini Primary School"
+            },
+            "26920": {
+              "name": "New Kihumbuini Primary Schooll"
+            },
+            "26921": {
+              "name": "Kangemi Social Hall"
+            },
+            "26922": {
+              "name": "Kangemi Memorial Park"
+            },
+            "26923": {
+              "name": "Akiba Schools"
+            }
+          }
+        },
+        "1370": {
+          "name": "Mountain View",
+          "pollingStations": {
+            "26924": {
+              "name": "Kabete National Polytechnic"
+            },
+            "26925": {
+              "name": "St Joseph Primary School"
+            },
+            "26926": {
+              "name": "Kangemi Primary School"
+            },
+            "26927": {
+              "name": "Kangemi High School"
+            },
+            "26928": {
+              "name": "Kangemi Vocational Training Centre"
+            }
+          }
+        }
+      }
+    },
+    "275": {
+      "name": "Dagoretti North",
+      "wards": {
+        "1371": {
+          "name": "Kilimani",
+          "pollingStations": {
+            "26929": {
+              "name": "Nairobi Primary School"
+            },
+            "26930": {
+              "name": "St George'S Primary School"
+            },
+            "26931": {
+              "name": "Kilimani Primary  School"
+            },
+            "26932": {
+              "name": "Milimani Primary School"
+            },
+            "26933": {
+              "name": "Lavington Primary School"
+            },
+            "26934": {
+              "name": "Muthangari Primary School"
+            }
+          }
+        },
+        "1372": {
+          "name": "Kawangware",
+          "pollingStations": {
+            "26935": {
+              "name": "Deliverence Church Riruta"
+            },
+            "26936": {
+              "name": "Kawangware Primary School"
+            },
+            "26937": {
+              "name": "Precious Blood Girls School,Riruta"
+            }
+          }
+        },
+        "1373": {
+          "name": "Gatina",
+          "pollingStations": {
+            "26938": {
+              "name": "Gatina Chiefs Camp"
+            },
+            "26939": {
+              "name": "World Hope Centre"
+            },
+            "26940": {
+              "name": "Gatina Primary School"
+            }
+          }
+        },
+        "1374": {
+          "name": "Kileleshwa",
+          "pollingStations": {
+            "26941": {
+              "name": "Jomo Kenyatta University Nairobi Campus - Karbasiran Avenue"
+            },
+            "26942": {
+              "name": "St Mary'S School"
+            },
+            "26943": {
+              "name": "Consolata School"
+            },
+            "26944": {
+              "name": "Kileleshwa Primary School"
+            },
+            "26945": {
+              "name": "Kenya High School"
+            }
+          }
+        },
+        "1375": {
+          "name": "Kabiro",
+          "pollingStations": {
+            "26946": {
+              "name": "Dagoretti Muslim Primary School"
+            },
+            "26947": {
+              "name": "Kabiro Primary School"
+            },
+            "26948": {
+              "name": "St Anthony Mixed High School"
+            },
+            "26949": {
+              "name": "Hgm Primary School,Riruta"
+            }
+          }
+        }
+      }
+    },
+    "276": {
+      "name": "Dagoretti South",
+      "wards": {
+        "1376": {
+          "name": "Mutu-Ini",
+          "pollingStations": {
+            "26950": {
+              "name": "Kirigu Primary School"
+            },
+            "26951": {
+              "name": "Mutuini Primary School"
+            },
+            "26952": {
+              "name": "Mutuini High School"
+            },
+            "26953": {
+              "name": "Gitiba Primary School"
+            }
+          }
+        },
+        "1377": {
+          "name": "Ngando",
+          "pollingStations": {
+            "26954": {
+              "name": "Lenana School"
+            },
+            "26955": {
+              "name": "Ngando Chiefs Camp"
+            },
+            "26956": {
+              "name": "City Prime Centre"
+            },
+            "26957": {
+              "name": "Cornerstone Faith Assemblies"
+            }
+          }
+        },
+        "1378": {
+          "name": "Riruta",
+          "pollingStations": {
+            "26958": {
+              "name": "Riruta Satellite Primary School"
+            },
+            "26959": {
+              "name": "Kinyanjui Road Primary School"
+            },
+            "26960": {
+              "name": "Kivuli Center"
+            },
+            "26961": {
+              "name": "Ack Riruta West(Nduaru Rd)"
+            },
+            "26962": {
+              "name": "Ndurarua Primary School"
+            }
+          }
+        },
+        "1379": {
+          "name": "Uthiru/Ruthimitu",
+          "pollingStations": {
+            "26963": {
+              "name": "Ruthimitu Mixed  Secondary School"
+            },
+            "26964": {
+              "name": "Ack Kiuru Nursery School"
+            },
+            "26965": {
+              "name": "Kagira Primary School"
+            },
+            "26966": {
+              "name": "Ruthimitu Primary School"
+            },
+            "26967": {
+              "name": "Chief S Camp,Muthua"
+            },
+            "26968": {
+              "name": "Uthiru Centre"
+            }
+          }
+        },
+        "1380": {
+          "name": "Waithaka",
+          "pollingStations": {
+            "26969": {
+              "name": "Kabiria Primary School"
+            },
+            "26970": {
+              "name": "Nembu Primary School"
+            },
+            "26971": {
+              "name": "Mukarara Primary School"
+            },
+            "26972": {
+              "name": "Waithaka Community Social Hall"
+            }
+          }
+        }
+      }
+    },
+    "277": {
+      "name": "Langata",
+      "wards": {
+        "1381": {
+          "name": "Karen",
+          "pollingStations": {
+            "26973": {
+              "name": "St. Mary'S Pri Sch"
+            },
+            "26974": {
+              "name": "Ncc Social Hall"
+            },
+            "26975": {
+              "name": "Karen 'C' Pri Sch"
+            },
+            "26976": {
+              "name": "Multimedia University"
+            },
+            "26977": {
+              "name": "St. Mathews Hall"
+            },
+            "26978": {
+              "name": "Ngong Forest Pri"
+            },
+            "26979": {
+              "name": "Pcea Kuwinda"
+            },
+            "26980": {
+              "name": "Kmtc College- Karen"
+            },
+            "26981": {
+              "name": "Manyatta Pri School"
+            },
+            "26982": {
+              "name": "Free Methodist Church - Karinde"
+            },
+            "26983": {
+              "name": "Cooperative University"
+            }
+          }
+        },
+        "1382": {
+          "name": "Nairobi West",
+          "pollingStations": {
+            "26984": {
+              "name": "Madaraka Pri Sch"
+            },
+            "26985": {
+              "name": "Nyayo Nat. Stadium"
+            },
+            "26986": {
+              "name": "Nairobi West Shopping Centre"
+            },
+            "26987": {
+              "name": "West Park Parking"
+            }
+          }
+        },
+        "1383": {
+          "name": "Mugumu-Ini",
+          "pollingStations": {
+            "26988": {
+              "name": "Langata Road Pri"
+            },
+            "26989": {
+              "name": "Uhuru Gardens Pri"
+            },
+            "26990": {
+              "name": "Langata West Pri"
+            },
+            "26991": {
+              "name": "St. Charles Lwanga School"
+            },
+            "26992": {
+              "name": "Lang'Ata High School"
+            },
+            "26993": {
+              "name": "Ngei Primary School"
+            },
+            "26994": {
+              "name": "Bangladesh Village/Kindergarten"
+            },
+            "26995": {
+              "name": "Bohra Temple Social Hall"
+            }
+          }
+        },
+        "1384": {
+          "name": "South C",
+          "pollingStations": {
+            "26996": {
+              "name": "Kongoni Pri Sch"
+            },
+            "26997": {
+              "name": "Kpa Staff Quarters"
+            },
+            "26998": {
+              "name": "Kewi - South C"
+            },
+            "26999": {
+              "name": "Mow Grounds (South C)"
+            },
+            "27000": {
+              "name": "Kirdi (South C)"
+            },
+            "27001": {
+              "name": "Khalsa Pri. Sch"
+            },
+            "27002": {
+              "name": "Masai Manyatta Village/ Dupoto"
+            }
+          }
+        },
+        "1385": {
+          "name": "Nyayo Highrise",
+          "pollingStations": {
+            "27003": {
+              "name": "Nyayo Highrise Parking"
+            },
+            "27004": {
+              "name": "Undugu Society"
+            },
+            "27005": {
+              "name": "Pcea Silanga High Sch/ Church"
+            },
+            "27006": {
+              "name": "St. Jude Church"
+            },
+            "27007": {
+              "name": "Soweto Resource Centre"
+            }
+          }
+        }
+      }
+    },
+    "278": {
+      "name": "Kibra",
+      "wards": {
+        "1386": {
+          "name": "Laini Saba",
+          "pollingStations": {
+            "27008": {
+              "name": "Y.M.C.A Kibera"
+            },
+            "27009": {
+              "name": "Mashimoni School"
+            }
+          }
+        },
+        "1387": {
+          "name": "Lindi",
+          "pollingStations": {
+            "27010": {
+              "name": "Lindi Mosque Grounds"
+            },
+            "27011": {
+              "name": "Mashimoni Squaters"
+            }
+          }
+        },
+        "1388": {
+          "name": "Makina",
+          "pollingStations": {
+            "27012": {
+              "name": "Old Kibera Pri Sch"
+            },
+            "27013": {
+              "name": "Raila Educ Center"
+            },
+            "27014": {
+              "name": "Toi Market"
+            },
+            "27015": {
+              "name": "Ack Holly Trinity - Kibera"
+            },
+            "27016": {
+              "name": "Makina Self Help Pri"
+            },
+            "27017": {
+              "name": "Kibra Social Grnds"
+            }
+          }
+        },
+        "1389": {
+          "name": "Woodley/Kenyatta Golf Course",
+          "pollingStations": {
+            "27018": {
+              "name": "Upper Hill Sec Sch"
+            },
+            "27019": {
+              "name": "Kenya Medical Training Sch"
+            },
+            "27020": {
+              "name": "Mbagathi Rd Pri"
+            },
+            "27021": {
+              "name": "Shadrack Kimalel Pri"
+            },
+            "27022": {
+              "name": "Joseph Kangethe Pri"
+            },
+            "27023": {
+              "name": "Toi Pri Sch"
+            },
+            "27024": {
+              "name": "Jamhuri Pri Sch"
+            },
+            "27025": {
+              "name": "Ncc Hall Dagoreti Corner"
+            }
+          }
+        },
+        "1390": {
+          "name": "Sarangombe",
+          "pollingStations": {
+            "27026": {
+              "name": "Ayany Pri Sch"
+            },
+            "27027": {
+              "name": "Ayany Bus Terminus Stage 42"
+            },
+            "27028": {
+              "name": "Olympic Pri Sch"
+            },
+            "27029": {
+              "name": "Olympic Sec Sch"
+            },
+            "27030": {
+              "name": "Kag Olympic Educ Center"
+            },
+            "27031": {
+              "name": "Kibera Pag Church Sch"
+            }
+          }
+        }
+      }
+    },
+    "279": {
+      "name": "Roysambu",
+      "wards": {
+        "1391": {
+          "name": "Githurai",
+          "pollingStations": {
+            "27032": {
+              "name": "Wonderland Integrated Academy"
+            },
+            "27033": {
+              "name": "Githurai Sports Ground"
+            },
+            "27034": {
+              "name": "Githurai Primary School"
+            }
+          }
+        },
+        "1392": {
+          "name": "Kahawa West",
+          "pollingStations": {
+            "27035": {
+              "name": "Kba School"
+            },
+            "27036": {
+              "name": "Mahiga Primary School"
+            },
+            "27037": {
+              "name": "Kamiti Primary School"
+            },
+            "27038": {
+              "name": "Vendramini Educational Centre"
+            },
+            "27039": {
+              "name": "Kiwanja Primary School"
+            },
+            "27040": {
+              "name": "Kenyatta University Primary School"
+            }
+          }
+        },
+        "1393": {
+          "name": "Zimmerman",
+          "pollingStations": {
+            "27041": {
+              "name": "Roysambu Primary School"
+            },
+            "27042": {
+              "name": "Cornerstone Academy"
+            },
+            "27043": {
+              "name": "Njathaini Primary School"
+            }
+          }
+        },
+        "1394": {
+          "name": "Roysambu",
+          "pollingStations": {
+            "27044": {
+              "name": "Muthaiga Primary School"
+            },
+            "27045": {
+              "name": "Thika Road Primary School"
+            },
+            "27046": {
+              "name": "Garden Estate Primary School"
+            },
+            "27047": {
+              "name": "Marurui Primary School"
+            },
+            "27048": {
+              "name": "Independent Presbyterian Church Compound"
+            }
+          }
+        },
+        "1395": {
+          "name": "Kahawa",
+          "pollingStations": {
+            "27049": {
+              "name": "Green Angels Academy"
+            },
+            "27050": {
+              "name": "Kamuthi Housing Cooperative Society"
+            },
+            "27051": {
+              "name": "Kahawa West Primary School"
+            }
+          }
+        }
+      }
+    },
+    "280": {
+      "name": "Kasarani",
+      "wards": {
+        "1396": {
+          "name": "Clay City",
+          "pollingStations": {
+            "27052": {
+              "name": "Murema Primary School"
+            },
+            "27053": {
+              "name": "Global Academy"
+            },
+            "27054": {
+              "name": "Equity Road"
+            },
+            "27055": {
+              "name": "Pcea Seasons"
+            },
+            "27056": {
+              "name": "Clay City Secondary School"
+            }
+          }
+        },
+        "1397": {
+          "name": "Mwiki",
+          "pollingStations": {
+            "27057": {
+              "name": "Deliverance Church School- Mwiki"
+            },
+            "27058": {
+              "name": "St. Dominic Primary School"
+            },
+            "27059": {
+              "name": "Mwiki Primary School"
+            },
+            "27060": {
+              "name": "Karura Health Centre"
+            },
+            "27061": {
+              "name": "St. Dominic Secondary School"
+            }
+          }
+        },
+        "1398": {
+          "name": "Kasarani",
+          "pollingStations": {
+            "27062": {
+              "name": "Ngumba City Council Dispensary"
+            },
+            "27063": {
+              "name": "Kenya Institute Of Special Education"
+            },
+            "27064": {
+              "name": "New Kasarani Dc'S Compound"
+            },
+            "27065": {
+              "name": "Kasarani Primary School"
+            },
+            "27066": {
+              "name": "Youth Empowerment Centre- Cieko"
+            }
+          }
+        },
+        "1399": {
+          "name": "Njiru",
+          "pollingStations": {
+            "27067": {
+              "name": "Njiru Ack Primary School"
+            },
+            "27068": {
+              "name": "Jehovah Jire Primary  School"
+            },
+            "27069": {
+              "name": "Mwengenye Resource Centre"
+            },
+            "27070": {
+              "name": "Jehovah Jireh Secondary School"
+            },
+            "27071": {
+              "name": "Njiru Primary School"
+            }
+          }
+        },
+        "1400": {
+          "name": "Ruai",
+          "pollingStations": {
+            "27072": {
+              "name": "Ruai Primary School"
+            },
+            "27073": {
+              "name": "Ngundu Primary School"
+            },
+            "27074": {
+              "name": "Ruai City Council Hall"
+            },
+            "27075": {
+              "name": "Muhuri Muchiri Secondary School"
+            },
+            "27076": {
+              "name": "Ruai Girls Secondary School"
+            },
+            "27077": {
+              "name": "Drumvale Secondary School"
+            },
+            "27078": {
+              "name": "Athi Primary School"
+            },
+            "27079": {
+              "name": "Gituamba Primary School"
+            },
+            "27080": {
+              "name": "Nile Road Secondary School"
+            },
+            "27081": {
+              "name": "Highway Manyatta Primary School"
+            },
+            "27082": {
+              "name": "Gituamba Secondary School"
+            },
+            "27083": {
+              "name": "Everton Education Centre-Chokaa"
+            }
+          }
+        }
+      }
+    },
+    "281": {
+      "name": "Ruaraka",
+      "wards": {
+        "1401": {
+          "name": "Baba Dogo",
+          "pollingStations": {
+            "27084": {
+              "name": "Baba Dogo Primary School"
+            },
+            "27085": {
+              "name": "Mm Chandaria Primary School"
+            },
+            "27086": {
+              "name": "Sacred Heart Catholic School"
+            },
+            "27087": {
+              "name": "Acref Centre"
+            },
+            "27088": {
+              "name": "Baba Dogo Secondary School"
+            },
+            "27089": {
+              "name": "Land Mark Grounds Kariadudu"
+            }
+          }
+        },
+        "1402": {
+          "name": "Utalii",
+          "pollingStations": {
+            "27090": {
+              "name": "Heidemarie Mathare 4A Primary School"
+            },
+            "27091": {
+              "name": "Stima Members Club"
+            },
+            "27092": {
+              "name": "Drive In Primary School"
+            },
+            "27093": {
+              "name": "Ruaraka  High School"
+            },
+            "27094": {
+              "name": "Mwisho Koria Hall"
+            },
+            "27095": {
+              "name": "Bethany Church"
+            }
+          }
+        },
+        "1403": {
+          "name": "Mathare North",
+          "pollingStations": {
+            "27096": {
+              "name": "St. Stephens Nursery School"
+            },
+            "27097": {
+              "name": "Mathare North Primary School"
+            },
+            "27098": {
+              "name": "St. Christopher Wholistic School"
+            },
+            "27099": {
+              "name": "Mathare North Social Hall"
+            }
+          }
+        },
+        "1404": {
+          "name": "Lucky Summer",
+          "pollingStations": {
+            "27100": {
+              "name": "Chief'S Compound Lucky Summer"
+            },
+            "27101": {
+              "name": "Lucky Summer Open Ground"
+            },
+            "27102": {
+              "name": "Tiba Junior Academy"
+            },
+            "27103": {
+              "name": "Tiba On The Road"
+            },
+            "27104": {
+              "name": "Bega Kwa Bega Glucola"
+            },
+            "27105": {
+              "name": "Migingo Market  (Glucola)"
+            },
+            "27106": {
+              "name": "Sarakasi On The Road"
+            }
+          }
+        },
+        "1405": {
+          "name": "Korogocho",
+          "pollingStations": {
+            "27107": {
+              "name": "Ngunyumu Primary School"
+            },
+            "27108": {
+              "name": "Kariobangi Baptist Youth Centre And Academy"
+            },
+            "27109": {
+              "name": "Korogocho Community Centre"
+            },
+            "27110": {
+              "name": "Daniel Comboni Primary School"
+            },
+            "27111": {
+              "name": "Umoja Goat Sellers Society"
+            }
+          }
+        }
+      }
+    },
+    "282": {
+      "name": "Embakasi South",
+      "wards": {
+        "1406": {
+          "name": "Imara Daima",
+          "pollingStations": {
+            "27112": {
+              "name": "Mcc Primary School"
+            },
+            "27113": {
+              "name": "Embakasi Girls Secondary School"
+            },
+            "27114": {
+              "name": "Imara Daima Estate Grounds"
+            },
+            "27115": {
+              "name": "Aa Villa Ground"
+            }
+          }
+        },
+        "1407": {
+          "name": "Kwa Njenga",
+          "pollingStations": {
+            "27116": {
+              "name": "Kwa Njenga Primary School"
+            },
+            "27117": {
+              "name": "Imani Marianists - Chaminade Training Centre"
+            }
+          }
+        },
+        "1408": {
+          "name": "Kwa Reuben",
+          "pollingStations": {
+            "27118": {
+              "name": "Aef Reuben Primary School"
+            },
+            "27119": {
+              "name": "Reuben Secondary School"
+            },
+            "27120": {
+              "name": "Gatoto Community Primary School"
+            }
+          }
+        },
+        "1409": {
+          "name": "Pipeline",
+          "pollingStations": {
+            "27121": {
+              "name": "Pcea Pipeline Church - Neema Parish"
+            },
+            "27122": {
+              "name": "Free Pentecostal Uzima Centre"
+            },
+            "27123": {
+              "name": "Kenya Pipeline Co. Ltd Staff Housing Estate (Hall) - Embakasi"
+            }
+          }
+        },
+        "1410": {
+          "name": "Kware",
+          "pollingStations": {
+            "27124": {
+              "name": "Jobenpha Community School"
+            },
+            "27125": {
+              "name": "Unique Estate Gate"
+            }
+          }
+        }
+      }
+    },
+    "283": {
+      "name": "Embakasi North",
+      "wards": {
+        "1411": {
+          "name": "Kariobangi North",
+          "pollingStations": {
+            "27126": {
+              "name": "Kariobangi North Primary School"
+            },
+            "27127": {
+              "name": "Kariobangi North Girls School"
+            },
+            "27128": {
+              "name": "Our Lady Of Fatima Secondary"
+            },
+            "27129": {
+              "name": "Marura  Primary School"
+            },
+            "27130": {
+              "name": "Kariobangi North Day Nursery School"
+            }
+          }
+        },
+        "1412": {
+          "name": "Dandora Area I",
+          "pollingStations": {
+            "27131": {
+              "name": "Dandora 1 Primary School"
+            }
+          }
+        },
+        "1413": {
+          "name": "Dandora Area Ii",
+          "pollingStations": {
+            "27132": {
+              "name": "James Gichuru Primary School"
+            },
+            "27133": {
+              "name": "Dandora Secondary School"
+            },
+            "27134": {
+              "name": "Wangu Primary School"
+            }
+          }
+        },
+        "1414": {
+          "name": "Dandora Area Iii",
+          "pollingStations": {
+            "27135": {
+              "name": "Tom Mboya Primary School"
+            },
+            "27136": {
+              "name": "Dandora Iii City Council Hall"
+            }
+          }
+        },
+        "1415": {
+          "name": "Dandora Area Iv",
+          "pollingStations": {
+            "27137": {
+              "name": "Ronald Ngala Primary School"
+            },
+            "27138": {
+              "name": "Kinyago Dandora Primary School"
+            },
+            "27139": {
+              "name": "Ushirika Secondary School"
+            }
+          }
+        }
+      }
+    },
+    "284": {
+      "name": "Embakasi Central",
+      "wards": {
+        "1416": {
+          "name": "Kayole North",
+          "pollingStations": {
+            "27140": {
+              "name": "Kayole 1 Primary School"
+            }
+          }
+        },
+        "1417": {
+          "name": "Kayole Central",
+          "pollingStations": {
+            "27141": {
+              "name": "Imara Primary School"
+            },
+            "27142": {
+              "name": "Bondeni Primary School"
+            }
+          }
+        },
+        "1418": {
+          "name": "Kayole South",
+          "pollingStations": {
+            "27143": {
+              "name": "Thawabu Primary School"
+            },
+            "27144": {
+              "name": "Mwangaza Primary School"
+            },
+            "27145": {
+              "name": "Mwangaza Secondary School"
+            }
+          }
+        },
+        "1419": {
+          "name": "Komarock",
+          "pollingStations": {
+            "27146": {
+              "name": "The Komarock School"
+            },
+            "27147": {
+              "name": "Komarock Primary School"
+            },
+            "27148": {
+              "name": "Komarock South Primary School"
+            },
+            "27149": {
+              "name": "Embakasi Deputy County Commissioner'S Compound"
+            }
+          }
+        },
+        "1420": {
+          "name": "Matopeni/Spring Valley",
+          "pollingStations": {
+            "27150": {
+              "name": "Kayole North Primary School"
+            },
+            "27151": {
+              "name": "Esvak Community School"
+            }
+          }
+        }
+      }
+    },
+    "285": {
+      "name": "Embakasi East",
+      "wards": {
+        "1421": {
+          "name": "Upper Savannah",
+          "pollingStations": {
+            "27152": {
+              "name": "Doonholm Primary School"
+            },
+            "27153": {
+              "name": "Green Span Mall Grounds"
+            },
+            "27154": {
+              "name": "Pefa Church, Donholm"
+            },
+            "27155": {
+              "name": "Sda Church, Donholm- Phase 08"
+            }
+          }
+        },
+        "1422": {
+          "name": "Lower Savannah",
+          "pollingStations": {
+            "27156": {
+              "name": "Edelvale Primary School"
+            },
+            "27157": {
+              "name": "Soweto Social Hall"
+            },
+            "27158": {
+              "name": "Sts. Joachim & Anne Catholic Church"
+            },
+            "27159": {
+              "name": "Jacaranda Grounds"
+            }
+          }
+        },
+        "1423": {
+          "name": "Embakasi",
+          "pollingStations": {
+            "27160": {
+              "name": "Embakasi Social Hall"
+            },
+            "27161": {
+              "name": "Embakasi Primary School"
+            },
+            "27162": {
+              "name": "Tassia Catholic Primary School"
+            },
+            "27163": {
+              "name": "Kenya Railways Station Embakasi Village"
+            },
+            "27164": {
+              "name": "Jesus Fellowship Church, Kwa Ndege"
+            },
+            "27165": {
+              "name": "Tassia Chief'S Camp"
+            },
+            "27166": {
+              "name": "Nyayo Estate, Gate A Grounds"
+            }
+          }
+        },
+        "1424": {
+          "name": "Utawala",
+          "pollingStations": {
+            "27167": {
+              "name": "Utawala Academy"
+            },
+            "27168": {
+              "name": "East African School Of Aviation"
+            },
+            "27169": {
+              "name": "Fagilia Stage/ Grounds"
+            },
+            "27170": {
+              "name": "King'S Outreach Church"
+            }
+          }
+        },
+        "1425": {
+          "name": "Mihango",
+          "pollingStations": {
+            "27171": {
+              "name": "Maua Primary School"
+            },
+            "27172": {
+              "name": "Mihang'O Primary School"
+            },
+            "27173": {
+              "name": "Immaculate Primary School"
+            },
+            "27174": {
+              "name": "Mihang'O Secondary School"
+            },
+            "27175": {
+              "name": "Assumption High School"
+            },
+            "27176": {
+              "name": "Karagita Stadium"
+            }
+          }
+        }
+      }
+    },
+    "286": {
+      "name": "Embakasi West",
+      "wards": {
+        "1426": {
+          "name": "Umoja I",
+          "pollingStations": {
+            "27177": {
+              "name": "Umoja 1 Primary School"
+            }
+          }
+        },
+        "1427": {
+          "name": "Umoja Ii",
+          "pollingStations": {
+            "27178": {
+              "name": "Busara Primary School"
+            },
+            "27179": {
+              "name": "Unity Primary School"
+            },
+            "27180": {
+              "name": "Kifaru Primary School"
+            },
+            "27181": {
+              "name": "Tumaini Primary School"
+            }
+          }
+        },
+        "1428": {
+          "name": "Mowlem",
+          "pollingStations": {
+            "27182": {
+              "name": "Supaloaf Primary"
+            }
+          }
+        },
+        "1429": {
+          "name": "Kariobangi South",
+          "pollingStations": {
+            "27183": {
+              "name": "Kariobangi South Primary School"
+            },
+            "27184": {
+              "name": "Dr. Mwenje Secondary School"
+            },
+            "27185": {
+              "name": "Uhuru Primary School"
+            },
+            "27186": {
+              "name": "Buruburu I Primary School"
+            },
+            "27187": {
+              "name": "Nairobi River Primary School"
+            }
+          }
+        }
+      }
+    },
+    "287": {
+      "name": "Makadara",
+      "wards": {
+        "1430": {
+          "name": "Maringo/Hamza",
+          "pollingStations": {
+            "27188": {
+              "name": "Dr. Krapf Primary School"
+            },
+            "27189": {
+              "name": "St. Patricks Primary School"
+            },
+            "27190": {
+              "name": "St Michaels Primary School"
+            },
+            "27191": {
+              "name": "Martin Luther Primary School"
+            },
+            "27192": {
+              "name": "Bahati Primary School"
+            },
+            "27193": {
+              "name": "Morrison Primary School"
+            },
+            "27194": {
+              "name": "Dr. Livingstone Primary School"
+            },
+            "27195": {
+              "name": "St. Annes Girls Primary School"
+            }
+          }
+        },
+        "1431": {
+          "name": "Viwandani",
+          "pollingStations": {
+            "27196": {
+              "name": "St. Elizabeth Primary School"
+            },
+            "27197": {
+              "name": "Star Of Hope Primary School"
+            },
+            "27198": {
+              "name": "Bridge International Academies"
+            }
+          }
+        },
+        "1432": {
+          "name": "Harambee",
+          "pollingStations": {
+            "27199": {
+              "name": "Harambee Primary School"
+            },
+            "27200": {
+              "name": "Jericho Social Hall"
+            },
+            "27201": {
+              "name": "Buru Buru Girls Secondary School"
+            },
+            "27202": {
+              "name": "Bidii Primary School"
+            },
+            "27203": {
+              "name": "Baraka Primary School"
+            },
+            "27204": {
+              "name": "Lumumba Social Hall"
+            },
+            "27205": {
+              "name": "Rabai Road Primary School"
+            }
+          }
+        },
+        "1433": {
+          "name": "Makongeni",
+          "pollingStations": {
+            "27206": {
+              "name": "St. Paul'S Primary School"
+            },
+            "27207": {
+              "name": "Makongeni Primary School"
+            },
+            "27208": {
+              "name": "Joseph Apudo Primary School."
+            },
+            "27209": {
+              "name": "St John'S Primary School"
+            },
+            "27210": {
+              "name": "Kaloleni Primary School"
+            }
+          }
+        }
+      }
+    },
+    "288": {
+      "name": "Kamukunji",
+      "wards": {
+        "1434": {
+          "name": "Pumwani",
+          "pollingStations": {
+            "27211": {
+              "name": "Muthurwa Primary School"
+            },
+            "27212": {
+              "name": "Kamukunji Secondary School"
+            },
+            "27213": {
+              "name": "Our Lady Of Mercy Primary School"
+            },
+            "27214": {
+              "name": "Heshima Primary School"
+            },
+            "27215": {
+              "name": "Pumwani Social Hall"
+            },
+            "27216": {
+              "name": "Child Survival Primary School"
+            },
+            "27217": {
+              "name": "Pumwani Health Center"
+            },
+            "27218": {
+              "name": "St. John'S Primary School"
+            },
+            "27219": {
+              "name": "Quary Road New Gikomba Market Complex"
+            },
+            "27220": {
+              "name": "Our Lady Of Mercy Girls Secondary School"
+            }
+          }
+        },
+        "1435": {
+          "name": "Eastleigh North",
+          "pollingStations": {
+            "27221": {
+              "name": "New Eastleigh Primary School"
+            },
+            "27222": {
+              "name": "Eastleigh High School"
+            },
+            "27223": {
+              "name": "St.Teresa'S Boys Primary School"
+            }
+          }
+        },
+        "1436": {
+          "name": "Eastleigh South",
+          "pollingStations": {
+            "27224": {
+              "name": "Zawadi Primary School"
+            },
+            "27225": {
+              "name": "Kiambiu Social Hall"
+            }
+          }
+        },
+        "1437": {
+          "name": "Airbase",
+          "pollingStations": {
+            "27226": {
+              "name": "Eastleigh Airport Primary School"
+            },
+            "27227": {
+              "name": "Maina Wanjigi Secondary School"
+            }
+          }
+        },
+        "1438": {
+          "name": "California",
+          "pollingStations": {
+            "27228": {
+              "name": "New Pumwani Primary School"
+            },
+            "27229": {
+              "name": "Biafra Health Center"
+            }
+          }
+        }
+      }
+    },
+    "289": {
+      "name": "Starehe",
+      "wards": {
+        "1439": {
+          "name": "Nairobi Central",
+          "pollingStations": {
+            "27230": {
+              "name": "Moi Avenue Primary School"
+            },
+            "27231": {
+              "name": "Kenya Polytechnic University"
+            },
+            "27232": {
+              "name": "St. Peter Clavers Primary School"
+            },
+            "27233": {
+              "name": "Muthurwa Market"
+            },
+            "27234": {
+              "name": "Kenyatta International Convention Centre Grounds"
+            },
+            "27235": {
+              "name": "Bus Station Grounds Behind Afya Centre"
+            },
+            "27236": {
+              "name": "Ukulima Market"
+            },
+            "27237": {
+              "name": "Islamia Primary Shool"
+            }
+          }
+        },
+        "1440": {
+          "name": "Ngara",
+          "pollingStations": {
+            "27238": {
+              "name": "Jamuhuri High School"
+            },
+            "27239": {
+              "name": "City Primary School"
+            },
+            "27240": {
+              "name": "Parklands Primary School"
+            },
+            "27241": {
+              "name": "Parkroad Primary School"
+            },
+            "27242": {
+              "name": "Riverbank Primary School"
+            },
+            "27243": {
+              "name": "Murang'A Road Primary School"
+            }
+          }
+        },
+        "1441": {
+          "name": "Pangani",
+          "pollingStations": {
+            "27244": {
+              "name": "Pangani Girls High School"
+            },
+            "27245": {
+              "name": "Juja Road Primary  School"
+            },
+            "27246": {
+              "name": "Pangani Primary  School"
+            },
+            "27247": {
+              "name": "Ainsworth Primary  School"
+            }
+          }
+        },
+        "1442": {
+          "name": "Ziwani/Kariokor",
+          "pollingStations": {
+            "27248": {
+              "name": "Kariokor Social Hall"
+            },
+            "27249": {
+              "name": "Pumwani Secondary School"
+            },
+            "27250": {
+              "name": "Mwariro Market"
+            }
+          }
+        },
+        "1443": {
+          "name": "Landimawe",
+          "pollingStations": {
+            "27251": {
+              "name": "Government Vehicle Inspection Unit"
+            },
+            "27252": {
+              "name": "Mukuru Kaiyaba Primary School"
+            },
+            "27253": {
+              "name": "Labour Office"
+            }
+          }
+        },
+        "1444": {
+          "name": "Nairobi South",
+          "pollingStations": {
+            "27254": {
+              "name": "Plainsview Primary School"
+            },
+            "27255": {
+              "name": "Mariakani Primary School"
+            },
+            "27256": {
+              "name": "Our Lady Of Mercy Secondary School"
+            },
+            "27257": {
+              "name": "Highway Secondary School"
+            },
+            "27258": {
+              "name": "Nairobi South Primary School"
+            },
+            "27259": {
+              "name": "Our Lady Of Mercy Primary School"
+            }
+          }
+        }
+      }
+    },
+    "290": {
+      "name": "Mathare",
+      "wards": {
+        "1445": {
+          "name": "Hospital",
+          "pollingStations": {
+            "27260": {
+              "name": "Old Mathare Primary School"
+            },
+            "27261": {
+              "name": "Mathari Mixed Secondary School"
+            }
+          }
+        },
+        "1446": {
+          "name": "Mabatini",
+          "pollingStations": {
+            "27262": {
+              "name": "Mathare Youth Polytecnic"
+            },
+            "27263": {
+              "name": "Mathare Special Training School"
+            },
+            "27264": {
+              "name": "Mathare Dcc Ground"
+            }
+          }
+        },
+        "1447": {
+          "name": "Huruma",
+          "pollingStations": {
+            "27265": {
+              "name": "Huruma Primary School"
+            },
+            "27266": {
+              "name": "Salama Primary School"
+            },
+            "27267": {
+              "name": "Daima Primary School"
+            },
+            "27268": {
+              "name": "Huruma Mixed Secondary School"
+            }
+          }
+        },
+        "1448": {
+          "name": "Ngei",
+          "pollingStations": {
+            "27269": {
+              "name": "Lions Health Clinic"
+            },
+            "27270": {
+              "name": "Redeemed Gospel Church Huruma Grounds"
+            },
+            "27271": {
+              "name": "Ngei Pag Church Primary School"
+            }
+          }
+        },
+        "1449": {
+          "name": "Mlango Kubwa",
+          "pollingStations": {
+            "27272": {
+              "name": "St. Teresa'S Girls Primary School"
+            },
+            "27273": {
+              "name": "Kiboro Primary School"
+            },
+            "27274": {
+              "name": "St Teresa'S Girls Secondary School"
+            }
+          }
+        },
+        "1450": {
+          "name": "Kiamaiko",
+          "pollingStations": {
+            "27275": {
+              "name": "Ndururuno Primary School"
+            },
+            "27276": {
+              "name": "Ndururuno High School"
+            },
+            "27277": {
+              "name": "Valley Bridge Primary School"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Dagoretti",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Embakasi",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Kamukunji",
+      "type": "Subcounty"
+    },
+    "004": {
+      "name": "Kasarani",
+      "type": "Subcounty"
+    },
+    "005": {
+      "name": "Kibra",
+      "type": "Subcounty"
+    },
+    "006": {
+      "name": "Lang'ata",
+      "type": "Subcounty"
+    },
+    "007": {
+      "name": "Makadara",
+      "type": "Subcounty"
+    },
+    "008": {
+      "name": "Mathare",
+      "type": "Subcounty"
+    },
+    "009": {
+      "name": "Njiru",
+      "type": "Subcounty"
+    },
+    "010": {
+      "name": "Starehe",
+      "type": "Subcounty"
+    },
+    "011": {
+      "name": "Westlands",
+      "type": "Subcounty"
+    }
+  }
+}

@@ -1,0 +1,555 @@
+{
+  "name": "Isiolo",
+  "type": "County",
+  "code": "011",
+  "constituencies": {
+    "049": {
+      "name": "Isiolo North",
+      "wards": {
+        "0241": {
+          "name": "Wabera",
+          "pollingStations": {
+            "03722": {
+              "name": "Wabera Pry Sch"
+            },
+            "03723": {
+              "name": "St Kizito Pry Sch"
+            },
+            "03724": {
+              "name": "Ramadhan Pry Sch"
+            },
+            "03725": {
+              "name": "Isiolo Boys Sec"
+            },
+            "03726": {
+              "name": "Mwangaza Pry Sch"
+            },
+            "03727": {
+              "name": "Kiwanjani Pry Sch"
+            },
+            "03728": {
+              "name": "Deaf Sch"
+            },
+            "03729": {
+              "name": "Acacia Play Ground"
+            },
+            "03730": {
+              "name": "Isiolo Stadium"
+            },
+            "03731": {
+              "name": "Tullu Roba Chiefs Camp"
+            },
+            "03732": {
+              "name": "Isiolo Girls Secondary School"
+            },
+            "03733": {
+              "name": "Ikhlas Academy"
+            }
+          }
+        },
+        "0242": {
+          "name": "Bulla Pesa",
+          "pollingStations": {
+            "03734": {
+              "name": "Bula Mpya Pry Sch"
+            },
+            "03735": {
+              "name": "Waso Pry Sch"
+            },
+            "03736": {
+              "name": "Marire Nursery School"
+            },
+            "03737": {
+              "name": "Kambi Ya Juu Nursery Sch."
+            },
+            "03738": {
+              "name": "Bula Pesa Water Kiosk"
+            },
+            "03739": {
+              "name": "Pepo La Tumaini Pry Sch"
+            },
+            "03740": {
+              "name": "Bulla Pesa Dispensary"
+            },
+            "03741": {
+              "name": "Agricultural Training Centre (Rural)"
+            }
+          }
+        },
+        "0243": {
+          "name": "Chari",
+          "pollingStations": {
+            "03742": {
+              "name": "Bisan Biliqo Pry Sch"
+            },
+            "03743": {
+              "name": "Kuro Bisan Owo(Hot Spring)"
+            },
+            "03744": {
+              "name": "Mado Gurba Huka(Mobile)"
+            },
+            "03745": {
+              "name": "Kom Pry Sch"
+            },
+            "03746": {
+              "name": "Sabarwawa Water Pan (Mobile)"
+            },
+            "03747": {
+              "name": "Nyachisa  Bore Hole (Mobile)"
+            },
+            "03748": {
+              "name": "Bulesa Pry Sch"
+            },
+            "03749": {
+              "name": "Mado Halkano(Mobile)"
+            },
+            "03750": {
+              "name": "Goda Pry Sch"
+            },
+            "03751": {
+              "name": "Mado Galle(Mobile)"
+            },
+            "03752": {
+              "name": "Barambate(Mobile)"
+            },
+            "03753": {
+              "name": "Awarsitu Pry Sch"
+            },
+            "03754": {
+              "name": "Tumtu(Mobile)"
+            },
+            "03755": {
+              "name": "Dima Ado Pry Sch."
+            }
+          }
+        },
+        "0244": {
+          "name": "Cherab",
+          "pollingStations": {
+            "03756": {
+              "name": "Gamachu Muslim Pry School"
+            },
+            "03757": {
+              "name": "Merti Pry Sch"
+            },
+            "03758": {
+              "name": "Merti Muslim Pry Sch"
+            },
+            "03759": {
+              "name": "Merti Sec Sch"
+            },
+            "03760": {
+              "name": "Macci Pry Sch"
+            },
+            "03761": {
+              "name": "Khalifa Pry Sch"
+            },
+            "03762": {
+              "name": "Saleti Pry Sch"
+            },
+            "03763": {
+              "name": "Boran(Mobile)"
+            },
+            "03764": {
+              "name": "Korbesa Pry Sch"
+            },
+            "03765": {
+              "name": "Mataarba Pry Sch"
+            },
+            "03766": {
+              "name": "Malkagalla Pry Sch"
+            },
+            "03767": {
+              "name": "Dololo Dakiye Pry Sch"
+            },
+            "03768": {
+              "name": "Ade Warabesa Pry Sch"
+            },
+            "03769": {
+              "name": "Duma Borehole"
+            },
+            "03770": {
+              "name": "Malgish(Mobile)"
+            },
+            "03771": {
+              "name": "Yamicha Primary School"
+            },
+            "03772": {
+              "name": "Dadacha Basa Pry Sch"
+            },
+            "03773": {
+              "name": "Urura Borehole(Mobile)"
+            },
+            "03774": {
+              "name": "Dogogicha Dam(Mobile)"
+            },
+            "03775": {
+              "name": "Riga Nursery Sch"
+            },
+            "03776": {
+              "name": "Biliqi Pri. Sch."
+            },
+            "03777": {
+              "name": "Boji Borehole(Mobile)"
+            },
+            "03778": {
+              "name": "Kula(Mobile)"
+            },
+            "03779": {
+              "name": "Dadacha Lafe(Mobile)"
+            },
+            "03780": {
+              "name": "Mulanda Nursery Sch"
+            },
+            "03781": {
+              "name": "Lakoley Pry Sch"
+            },
+            "03782": {
+              "name": "Badan Raro Nursery"
+            }
+          }
+        },
+        "0245": {
+          "name": "Ngare Mara",
+          "pollingStations": {
+            "03783": {
+              "name": "Ngare Mara Pry Sch"
+            },
+            "03784": {
+              "name": "Attan Pry Sch"
+            },
+            "03785": {
+              "name": "Isiolo/Samburu Complex"
+            },
+            "03786": {
+              "name": "Nakupurat Nursery Sch"
+            },
+            "03787": {
+              "name": "Daaba Pri. Sch."
+            },
+            "03788": {
+              "name": "Gotu Pry Sch"
+            },
+            "03789": {
+              "name": "Kiwanja Nursery Sch"
+            },
+            "03790": {
+              "name": "Manyatta Zebra Nursery Sch"
+            },
+            "03791": {
+              "name": "Lowangila Pry Sch"
+            },
+            "03792": {
+              "name": "Chumvi Yere Primary School"
+            },
+            "03793": {
+              "name": "Nasuroi Nursery School"
+            },
+            "03794": {
+              "name": "Chumvi Yare Primary School"
+            },
+            "03795": {
+              "name": "Nasuroi Nursery School"
+            }
+          }
+        },
+        "0246": {
+          "name": "Burat",
+          "pollingStations": {
+            "03796": {
+              "name": "Shambani Pri. Sch."
+            },
+            "03797": {
+              "name": "Samburu Community School"
+            },
+            "03798": {
+              "name": "Aremiet Pry Sch"
+            },
+            "03799": {
+              "name": "Kilimani Pri. Sch."
+            },
+            "03800": {
+              "name": "Elsa Pry Sch."
+            },
+            "03801": {
+              "name": "Leparua Pry Sch."
+            },
+            "03802": {
+              "name": "Ntalabany  Pry. Sch."
+            },
+            "03803": {
+              "name": "Kambi Garba Pry Sch"
+            },
+            "03804": {
+              "name": "Uhuru Pry Sch"
+            },
+            "03805": {
+              "name": "Olla Bulle Nursery Sch"
+            },
+            "03806": {
+              "name": "Emegen  Primary School"
+            },
+            "03807": {
+              "name": "Kambi Ya Juu Pry Sch"
+            },
+            "03808": {
+              "name": "Olla Odha Nursery"
+            },
+            "03809": {
+              "name": "Nomads Pry Sch"
+            },
+            "03810": {
+              "name": "Alamachi Nursery Sch"
+            },
+            "03811": {
+              "name": "Kakili Pri Sch."
+            },
+            "03812": {
+              "name": "Uhuru Mixed Day Secondary School"
+            }
+          }
+        },
+        "0247": {
+          "name": "Oldo/Nyiro",
+          "pollingStations": {
+            "03813": {
+              "name": "Oldonyiro Pri. Sch."
+            },
+            "03814": {
+              "name": "Longopito Lmd Office"
+            },
+            "03815": {
+              "name": "Rumate Nur. Sch."
+            },
+            "03816": {
+              "name": "Kipsing Pri. Sch."
+            },
+            "03817": {
+              "name": "Tualle Pri. Sch."
+            },
+            "03818": {
+              "name": "Kawalash(Mobile)"
+            },
+            "03819": {
+              "name": "Ntepes(Mobile)"
+            },
+            "03820": {
+              "name": "Lenguruma  Pry. Sch."
+            },
+            "03821": {
+              "name": "Rap Pry School"
+            },
+            "03822": {
+              "name": "Lobarishereki Pry Sch"
+            },
+            "03823": {
+              "name": "Parkuruk Pry School"
+            },
+            "03824": {
+              "name": "Ntundu (Mobile)"
+            },
+            "03825": {
+              "name": "Lemorijo (Mobile)"
+            },
+            "03826": {
+              "name": "Mokori Nursery Sch"
+            },
+            "03827": {
+              "name": "Ndugu Zangu Pry Sch"
+            },
+            "03828": {
+              "name": "Legwenyi Pry Sch"
+            },
+            "03829": {
+              "name": "Nooloroi Pry Sch"
+            }
+          }
+        }
+      }
+    },
+    "050": {
+      "name": "Isiolo South",
+      "wards": {
+        "0248": {
+          "name": "Garbatulla",
+          "pollingStations": {
+            "03830": {
+              "name": "Garbatulla Day Primary School"
+            },
+            "03831": {
+              "name": "Daawa  Primary School"
+            },
+            "03832": {
+              "name": "Matagari  Primary School"
+            },
+            "03833": {
+              "name": "Nagaa  Primary School"
+            },
+            "03834": {
+              "name": "Sayyidah Fatimah Girls Educational Complex"
+            },
+            "03835": {
+              "name": "Malka-Daka  Primary School"
+            },
+            "03836": {
+              "name": "Kuro Mumme Mobile"
+            },
+            "03837": {
+              "name": "Kuroftu Mollu(Mobile)"
+            },
+            "03838": {
+              "name": "Gafarsa  Primary School"
+            },
+            "03839": {
+              "name": "Ires   Kalicha Madrassa"
+            },
+            "03840": {
+              "name": "Muchuro  Primary School"
+            },
+            "03841": {
+              "name": "Kombolla  Primary School"
+            },
+            "03842": {
+              "name": "Belgesh  Primary School"
+            },
+            "03843": {
+              "name": "Bisanadhi Primary"
+            },
+            "03844": {
+              "name": "Boji Primary School"
+            },
+            "03845": {
+              "name": "Tana Nursery School"
+            },
+            "03846": {
+              "name": "Abagarse Pry School"
+            }
+          }
+        },
+        "0249": {
+          "name": "Kinna",
+          "pollingStations": {
+            "03847": {
+              "name": "Mado Yaka (Abakiri)  Primary School"
+            },
+            "03848": {
+              "name": "Yak Barsadi  Primary School"
+            },
+            "03849": {
+              "name": "Kula Mawe  Primary School"
+            },
+            "03850": {
+              "name": "Dabasiti  Primary School"
+            },
+            "03851": {
+              "name": "Kuro Barata Mobile"
+            },
+            "03852": {
+              "name": "Algani Girls  Primary School"
+            },
+            "03853": {
+              "name": "Duse Primary School"
+            },
+            "03854": {
+              "name": "Galma Dido  Primary School"
+            },
+            "03855": {
+              "name": "Kinna  Primary School"
+            },
+            "03856": {
+              "name": "Rapsu  Primary School"
+            },
+            "03857": {
+              "name": "Korbesa Primary"
+            },
+            "03858": {
+              "name": "Bibi Water Supply"
+            },
+            "03859": {
+              "name": "Wako Wario  Primary School"
+            },
+            "03860": {
+              "name": "Koticha Pry School"
+            },
+            "03861": {
+              "name": "Kulamawe Day Seconday School"
+            },
+            "03862": {
+              "name": "Kinna Social Hall"
+            },
+            "03863": {
+              "name": "Kubi Sera"
+            }
+          }
+        },
+        "0250": {
+          "name": "Sericho",
+          "pollingStations": {
+            "03864": {
+              "name": "Malka Mansa Pry"
+            },
+            "03865": {
+              "name": "Eresaboru  Primary School"
+            },
+            "03866": {
+              "name": "Fororsa Mobile"
+            },
+            "03867": {
+              "name": "Badana Garadida  Primary School"
+            },
+            "03868": {
+              "name": "Biliq Nuru  Primary School"
+            },
+            "03869": {
+              "name": "Sericho  Primary School"
+            },
+            "03870": {
+              "name": "Gubatu  Primary School"
+            },
+            "03871": {
+              "name": "Qone Village"
+            },
+            "03872": {
+              "name": "Makarim  Primary School"
+            },
+            "03873": {
+              "name": "Omara Primary School"
+            },
+            "03874": {
+              "name": "Barrier Village"
+            },
+            "03875": {
+              "name": "Eldera Primary School"
+            },
+            "03876": {
+              "name": "Hawaye Wells Mobile"
+            },
+            "03877": {
+              "name": "Belgesh Dam (Mobile)"
+            },
+            "03878": {
+              "name": "Mogore Primary"
+            },
+            "03879": {
+              "name": "Bahari Girls Pry School"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Garbatulla",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Isiolo",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Merti",
+      "type": "Subcounty"
+    }
+  }
+}

@@ -1,0 +1,1652 @@
+{
+  "name": "Kwale",
+  "type": "County",
+  "code": "002",
+  "constituencies": {
+    "007": {
+      "name": "Msambweni",
+      "wards": {
+        "0031": {
+          "name": "Gombato Bongwe",
+          "pollingStations": {
+            "00229": {
+              "name": "Mwaroni Primary School"
+            },
+            "00230": {
+              "name": "Mwakamba Nurseryschool"
+            },
+            "00231": {
+              "name": "Shamu Primary School"
+            },
+            "00232": {
+              "name": "Mwamanga Primary School"
+            },
+            "00233": {
+              "name": "Mabokoni Primar School"
+            },
+            "00234": {
+              "name": "Bongwe Primary School"
+            },
+            "00235": {
+              "name": "Mbuwani Primary School"
+            },
+            "00236": {
+              "name": "Mwamambi Primary School"
+            },
+            "00237": {
+              "name": "Jogoo Football Grounds"
+            },
+            "00238": {
+              "name": "Ministry Of Works Quarters"
+            },
+            "00239": {
+              "name": "Mlungu Nipa Primary School"
+            },
+            "00240": {
+              "name": "Mwanjamba Primary School"
+            },
+            "00241": {
+              "name": "Vukani Primary School"
+            },
+            "00242": {
+              "name": "Nn'Gori Primary School"
+            },
+            "00243": {
+              "name": "Chidzangoni Nursery School"
+            }
+          }
+        },
+        "0032": {
+          "name": "Ukunda",
+          "pollingStations": {
+            "00244": {
+              "name": "Mwakigwena Primary School"
+            },
+            "00245": {
+              "name": "Mkwakwani Primary School"
+            },
+            "00246": {
+              "name": "Magutu Primary School"
+            },
+            "00247": {
+              "name": "Mvindeni Primary School"
+            },
+            "00248": {
+              "name": "Ukunda Secondary School"
+            },
+            "00249": {
+              "name": "Malalani Primary School"
+            },
+            "00250": {
+              "name": "Maweni Rainbow School"
+            },
+            "00251": {
+              "name": "Chilolapwa B Nursery School"
+            }
+          }
+        },
+        "0033": {
+          "name": "Kinondo",
+          "pollingStations": {
+            "00252": {
+              "name": "Galu Primary School"
+            },
+            "00253": {
+              "name": "Muhaka Primary School"
+            },
+            "00254": {
+              "name": "Kinondo Primary School"
+            },
+            "00255": {
+              "name": "Makongeni Primary School"
+            },
+            "00256": {
+              "name": "Zigira Primary School"
+            },
+            "00257": {
+              "name": "Mkwambani Primary School"
+            },
+            "00258": {
+              "name": "Gazi Primary School"
+            },
+            "00259": {
+              "name": "Magaoni Primary School"
+            },
+            "00260": {
+              "name": "Mwaweche Trading Centre"
+            },
+            "00261": {
+              "name": "Madago Primary School"
+            },
+            "00262": {
+              "name": "Kilole Primary School"
+            },
+            "00263": {
+              "name": "Mwabungo Primary School"
+            },
+            "00264": {
+              "name": "Fihoni Primary School"
+            },
+            "00265": {
+              "name": "Ganja La Simba Primary School"
+            }
+          }
+        },
+        "0034": {
+          "name": "Ramisi",
+          "pollingStations": {
+            "00266": {
+              "name": "Vingujini Primary School"
+            },
+            "00267": {
+              "name": "Msambweni Primary School"
+            },
+            "00268": {
+              "name": "Jomokenyatta Primary School"
+            },
+            "00269": {
+              "name": "Milalani Primary School"
+            },
+            "00270": {
+              "name": "Mwagundu Nursery School"
+            },
+            "00271": {
+              "name": "Nyumba Sita Nursery School"
+            },
+            "00272": {
+              "name": "Gonjora Nursery School"
+            },
+            "00273": {
+              "name": "Nganja Primary School"
+            },
+            "00274": {
+              "name": "Mivumoni Primary School"
+            },
+            "00275": {
+              "name": "Eshu Primary School"
+            },
+            "00276": {
+              "name": "Mwachande Primary School"
+            },
+            "00277": {
+              "name": "Fingirika Nurseryschool"
+            },
+            "00278": {
+              "name": "Mafisini Primary School"
+            },
+            "00279": {
+              "name": "Magodi Primary School"
+            },
+            "00280": {
+              "name": "Kidzumbani Primary School"
+            },
+            "00281": {
+              "name": "Maphombe Primary School"
+            },
+            "00282": {
+              "name": "Kingwede Primary School"
+            },
+            "00283": {
+              "name": "Munje Primary School"
+            },
+            "00284": {
+              "name": "Funzi Primary School"
+            },
+            "00285": {
+              "name": "Ramisi Primary School"
+            },
+            "00286": {
+              "name": "Bodo Primary School"
+            },
+            "00287": {
+              "name": "Shirazi Primary School"
+            },
+            "00288": {
+              "name": "Fahamuni Primary School"
+            },
+            "00289": {
+              "name": "Ndzovuni Nursery School"
+            },
+            "00290": {
+              "name": "Vidungeni Trading Centre"
+            },
+            "00291": {
+              "name": "Kilulu Primary School"
+            },
+            "00292": {
+              "name": "Dzibwage Primary School"
+            },
+            "00293": {
+              "name": "Darigube Nursery School"
+            },
+            "00294": {
+              "name": "Marigiza Primary School"
+            },
+            "00295": {
+              "name": "Mabatani Primary School"
+            },
+            "00296": {
+              "name": "Munje Pwani Nursery"
+            },
+            "00297": {
+              "name": "Sawa Sawa Nursery School"
+            },
+            "00298": {
+              "name": "Mchinjirini Primary School"
+            },
+            "00299": {
+              "name": "Kiungani Nursery School"
+            }
+          }
+        }
+      }
+    },
+    "008": {
+      "name": "Lungalunga",
+      "wards": {
+        "0035": {
+          "name": "Pongwe/Kikoneni",
+          "pollingStations": {
+            "00300": {
+              "name": "Shimoni Primary School"
+            },
+            "00301": {
+              "name": "Kichaka Mkwaju Primary School"
+            },
+            "00302": {
+              "name": "Wasini Primary School"
+            },
+            "00303": {
+              "name": "Mkwiro Primary School"
+            },
+            "00304": {
+              "name": "Kidimu Primary School"
+            },
+            "00305": {
+              "name": "Tswaka Primary School"
+            },
+            "00306": {
+              "name": "Mzizima Primary School"
+            },
+            "00307": {
+              "name": "Majoreni Primary School"
+            },
+            "00308": {
+              "name": "Ganda Primary School"
+            },
+            "00309": {
+              "name": "Mwangwei Primary School"
+            },
+            "00310": {
+              "name": "Chiromo Nursery School"
+            },
+            "00311": {
+              "name": "Mwazaro Nursery School"
+            },
+            "00312": {
+              "name": "Mzizima Dispensary"
+            },
+            "00313": {
+              "name": "Kikoneni Primary School"
+            },
+            "00314": {
+              "name": "Mwandeo Primary School"
+            },
+            "00315": {
+              "name": "Mabafweni Primary School"
+            },
+            "00316": {
+              "name": "Vwivwini Primary School"
+            },
+            "00317": {
+              "name": "Mwambalazi Primary School"
+            },
+            "00318": {
+              "name": "Kigombero Primary School"
+            },
+            "00319": {
+              "name": "Mshiu Primary School"
+            },
+            "00320": {
+              "name": "Kiruku Primary School"
+            },
+            "00321": {
+              "name": "Kanana Nursery School"
+            },
+            "00322": {
+              "name": "Nikaphu Nursery School"
+            },
+            "00323": {
+              "name": "Mwauga Nursery School"
+            },
+            "00324": {
+              "name": "Bwiti Primary School"
+            },
+            "00325": {
+              "name": "Mwarutswa Trading Centre"
+            },
+            "00326": {
+              "name": "Magoma Nursery School"
+            },
+            "00327": {
+              "name": "Pongwe Primary School"
+            },
+            "00328": {
+              "name": "Mkono Wa Ndugu Primary School"
+            },
+            "00329": {
+              "name": "Kaogeswa Mangawani Nursery School"
+            },
+            "00330": {
+              "name": "Nguzo Nursery School"
+            },
+            "00331": {
+              "name": "Kivuleni Primary School"
+            },
+            "00332": {
+              "name": "Kivindo Nursery School"
+            }
+          }
+        },
+        "0036": {
+          "name": "Dzombo",
+          "pollingStations": {
+            "00333": {
+              "name": "Mwananyamala Primary School"
+            },
+            "00334": {
+              "name": "Mamba Primary School"
+            },
+            "00335": {
+              "name": "Mrima Primary School"
+            },
+            "00336": {
+              "name": "Mgome Primary School"
+            },
+            "00337": {
+              "name": "Mwanguda Primary School"
+            },
+            "00338": {
+              "name": "Vitsangalaweni Primary School"
+            },
+            "00339": {
+              "name": "Menza Mwenye Primary School"
+            },
+            "00340": {
+              "name": "Bengo Primary School"
+            },
+            "00341": {
+              "name": "Kiranze Primary School"
+            },
+            "00342": {
+              "name": "Dzombo Primary School"
+            },
+            "00343": {
+              "name": "Kitungure Primary School"
+            },
+            "00344": {
+              "name": "Kinyungu Primary School"
+            },
+            "00345": {
+              "name": "Nguluku Primary School"
+            },
+            "00346": {
+              "name": "Bandu Primary School"
+            },
+            "00347": {
+              "name": "Kikonde Primary School"
+            },
+            "00348": {
+              "name": "Makambani Trading Centre"
+            }
+          }
+        },
+        "0037": {
+          "name": "Mwereni",
+          "pollingStations": {
+            "00349": {
+              "name": "Pangani Primary School"
+            },
+            "00350": {
+              "name": "Kasemeni Primary School"
+            },
+            "00351": {
+              "name": "Mzuri Nursery School"
+            },
+            "00352": {
+              "name": "Mabambarani Primary School"
+            },
+            "00353": {
+              "name": "Mwena Primary School"
+            },
+            "00354": {
+              "name": "Maledi Primary School"
+            },
+            "00355": {
+              "name": "Mwangulu Primary School"
+            },
+            "00356": {
+              "name": "Manda Primary School"
+            },
+            "00357": {
+              "name": "Mbuji Primary School"
+            },
+            "00358": {
+              "name": "Kilimangodo Primary School"
+            },
+            "00359": {
+              "name": "Magombani Primary School"
+            },
+            "00360": {
+              "name": "Mwakalanga Primary School"
+            },
+            "00361": {
+              "name": "Bidinimole Primary School"
+            },
+            "00362": {
+              "name": "Mtumwa Primary School"
+            },
+            "00363": {
+              "name": "Mteza Primary School"
+            },
+            "00364": {
+              "name": "Mwereni Primary School"
+            },
+            "00365": {
+              "name": "Maringoni Feeder School"
+            },
+            "00366": {
+              "name": "Mtsunga Primary School"
+            },
+            "00367": {
+              "name": "Mwereni Secondary School"
+            },
+            "00368": {
+              "name": "Kalalani Primary School"
+            },
+            "00369": {
+              "name": "Mwamtsefu Primary School"
+            },
+            "00370": {
+              "name": "Kidziweni Trading Centre"
+            },
+            "00371": {
+              "name": "Kibaya Ecdc"
+            },
+            "00372": {
+              "name": "Dzirihini Ecdc"
+            },
+            "00373": {
+              "name": "Tingani Ecdc"
+            },
+            "00374": {
+              "name": "Maduduni Ecdc"
+            },
+            "00375": {
+              "name": "Vibandani Kwa Bita Ecdc"
+            },
+            "00376": {
+              "name": "Mwatoni Ecdc"
+            },
+            "00377": {
+              "name": "Chindi Primary School"
+            },
+            "00378": {
+              "name": "Mikamini Primary School"
+            },
+            "00379": {
+              "name": "Petulani Ecdc"
+            },
+            "00380": {
+              "name": "Mikuwani B Ecdc"
+            },
+            "00381": {
+              "name": "Naserian Primary School"
+            },
+            "00382": {
+              "name": "Vichenjeleni Primary School"
+            },
+            "00383": {
+              "name": "Ada Ecdc"
+            },
+            "00384": {
+              "name": "Lwayoni Primary School"
+            }
+          }
+        },
+        "0038": {
+          "name": "Vanga",
+          "pollingStations": {
+            "00385": {
+              "name": "Vanga Primary School"
+            },
+            "00386": {
+              "name": "Kiwegu Primary School"
+            },
+            "00387": {
+              "name": "Kidomaya Primary School"
+            },
+            "00388": {
+              "name": "Mwamose Primary School"
+            },
+            "00389": {
+              "name": "Tsuini Primary School"
+            },
+            "00390": {
+              "name": "Mwalewa Primary School"
+            },
+            "00391": {
+              "name": "Ngathini Primary School"
+            },
+            "00392": {
+              "name": "Jego Primary School"
+            },
+            "00393": {
+              "name": "Mgombezi Primary School"
+            },
+            "00394": {
+              "name": "Mahuruni Primary School"
+            },
+            "00395": {
+              "name": "Lunga Lunga Primary School"
+            },
+            "00396": {
+              "name": "Perani Primary School"
+            },
+            "00397": {
+              "name": "Makwenyeni Primary School"
+            },
+            "00398": {
+              "name": "Godo Primary School"
+            },
+            "00399": {
+              "name": "Jua Kali Nursery School"
+            }
+          }
+        }
+      }
+    },
+    "009": {
+      "name": "Matuga",
+      "wards": {
+        "0039": {
+          "name": "Tsimba Golini",
+          "pollingStations": {
+            "00400": {
+              "name": "Galana Nursery School"
+            },
+            "00401": {
+              "name": "Mwananyahi Nursery School"
+            },
+            "00402": {
+              "name": "Chirimani Primary School"
+            },
+            "00403": {
+              "name": "Dima Primary School"
+            },
+            "00404": {
+              "name": "Jorori Primary School"
+            },
+            "00405": {
+              "name": "Mwamgunga Primary School"
+            },
+            "00406": {
+              "name": "Vuga Primary School"
+            },
+            "00407": {
+              "name": "Bila Shaka Primary School"
+            },
+            "00408": {
+              "name": "Kwale Primary School"
+            },
+            "00409": {
+              "name": "Ziwani Primary School"
+            },
+            "00410": {
+              "name": "Golini Primary School"
+            },
+            "00411": {
+              "name": "Vyongwani Primary School"
+            },
+            "00412": {
+              "name": "Mteza Primary School"
+            },
+            "00413": {
+              "name": "Mbuguni Primary School"
+            },
+            "00414": {
+              "name": "Mwambara Primary School"
+            },
+            "00415": {
+              "name": "Kitsanze Primary School"
+            },
+            "00416": {
+              "name": "Godoni Chinarini Nursery School"
+            },
+            "00417": {
+              "name": "Madrasa Iqra Nursery School"
+            },
+            "00418": {
+              "name": "Mwanzwani Nursery School"
+            },
+            "00419": {
+              "name": "Lunguma Primary School"
+            },
+            "00420": {
+              "name": "Mwangaza Visionary Primary School"
+            },
+            "00421": {
+              "name": "Kwale High School"
+            },
+            "00422": {
+              "name": "Kwale Baraza Park Grounds"
+            },
+            "00423": {
+              "name": "Public Works Workshop Zungu"
+            },
+            "00424": {
+              "name": "Msulwa Primary School"
+            },
+            "00425": {
+              "name": "Boyani Primary School"
+            },
+            "00426": {
+              "name": "Kwale Medium Prison"
+            },
+            "00427": {
+              "name": "Mbegani Nursery School"
+            },
+            "00428": {
+              "name": "Mwabuga Nursery School"
+            },
+            "00429": {
+              "name": "Gopha Primary School"
+            },
+            "00430": {
+              "name": "Kwale Boma Primary School"
+            },
+            "00431": {
+              "name": "Mkwadzuni Nursery School"
+            },
+            "00432": {
+              "name": "Mtsarani Nursery School"
+            },
+            "00433": {
+              "name": "Mwachome Primary School"
+            },
+            "00434": {
+              "name": "Bumbani Nursery School"
+            },
+            "00435": {
+              "name": "Vidorini Nursery School"
+            },
+            "00436": {
+              "name": "Magombani  Primary  School"
+            }
+          }
+        },
+        "0040": {
+          "name": "Waa",
+          "pollingStations": {
+            "00437": {
+              "name": "Jamia Nursery School"
+            },
+            "00438": {
+              "name": "Kiteje Primary School"
+            },
+            "00439": {
+              "name": "Ningawa Primary School"
+            },
+            "00440": {
+              "name": "Mkumbi Primary School"
+            },
+            "00441": {
+              "name": "Pungu Primary School"
+            },
+            "00442": {
+              "name": "Zibani Primary School"
+            },
+            "00443": {
+              "name": "Ng Ombeni Primary School"
+            },
+            "00444": {
+              "name": "Denyenye Primary School"
+            },
+            "00445": {
+              "name": "Waa Primary School"
+            },
+            "00446": {
+              "name": "Mkokoni Primary School"
+            },
+            "00447": {
+              "name": "Matuga Primary School"
+            },
+            "00448": {
+              "name": "Yeje Primary School"
+            },
+            "00449": {
+              "name": "Sheep And Goats Social Hall"
+            },
+            "00450": {
+              "name": "Kombani Primary School"
+            },
+            "00451": {
+              "name": "Bowa Primary School"
+            },
+            "00452": {
+              "name": "Bararabu Nursery School"
+            },
+            "00453": {
+              "name": "Voroni Primary School"
+            },
+            "00454": {
+              "name": "Mbweka Primary School"
+            },
+            "00455": {
+              "name": "Magaoni Nursery School"
+            },
+            "00456": {
+              "name": "Kombani Social Hall"
+            },
+            "00457": {
+              "name": "Chidzumu Primary School"
+            },
+            "00458": {
+              "name": "Madibwani Nursery School"
+            },
+            "00459": {
+              "name": "Pungu Nursery School"
+            },
+            "00460": {
+              "name": "Mtakuja Adult Centre"
+            },
+            "00461": {
+              "name": "Birikani Nursery School"
+            }
+          }
+        },
+        "0041": {
+          "name": "Tiwi",
+          "pollingStations": {
+            "00462": {
+              "name": "Vinuni Primary School"
+            },
+            "00463": {
+              "name": "Chai Primary School"
+            },
+            "00464": {
+              "name": "Mwaligulu Primary School"
+            },
+            "00465": {
+              "name": "Tiwi Primary School"
+            },
+            "00466": {
+              "name": "Kirudi Primary School"
+            },
+            "00467": {
+              "name": "Mwadinda Primary School"
+            },
+            "00468": {
+              "name": "Mwachema Primary School"
+            },
+            "00469": {
+              "name": "Nimuyumba Primary School"
+            },
+            "00470": {
+              "name": "Chongolo Primary School"
+            },
+            "00471": {
+              "name": "Muungano Primary School"
+            },
+            "00472": {
+              "name": "Mwamlongo Madrassa"
+            },
+            "00473": {
+              "name": "Mwamivi Primary School"
+            },
+            "00474": {
+              "name": "Tiwi Spot Madrassa"
+            },
+            "00475": {
+              "name": "Chibwaga Nursery School"
+            },
+            "00476": {
+              "name": "Ndugu Nursery School"
+            },
+            "00477": {
+              "name": "Tiwi Sokoni Madrassa"
+            },
+            "00478": {
+              "name": "Kivyogo  Nursery  School"
+            }
+          }
+        },
+        "0042": {
+          "name": "Kubo South",
+          "pollingStations": {
+            "00479": {
+              "name": "Lukore Primary School"
+            },
+            "00480": {
+              "name": "Mkanda Primary School"
+            },
+            "00481": {
+              "name": "Kichaka Simba Primary School"
+            },
+            "00482": {
+              "name": "Mwaluvanga Primary School"
+            },
+            "00483": {
+              "name": "Mwagodzo Primary School"
+            },
+            "00484": {
+              "name": "Kidongo Primary School"
+            },
+            "00485": {
+              "name": "Kipambani Primary School"
+            },
+            "00486": {
+              "name": "Shimbahills Secondary School"
+            },
+            "00487": {
+              "name": "Makobe Primary School"
+            },
+            "00488": {
+              "name": "Stephen Kanja Primary School"
+            },
+            "00489": {
+              "name": "Mwapala Primary School"
+            },
+            "00490": {
+              "name": "Simanya Primary School"
+            },
+            "00491": {
+              "name": "Kibuyuni Primary School"
+            },
+            "00492": {
+              "name": "Mkanda 1 Nursery School"
+            },
+            "00493": {
+              "name": "Mwaleni Nursery School"
+            },
+            "00494": {
+              "name": "Mkundi Primary School"
+            },
+            "00495": {
+              "name": "Mawia Adult Centre"
+            },
+            "00496": {
+              "name": "Katangini Nursery School"
+            },
+            "00497": {
+              "name": "Msulwa Village Trading Centre"
+            },
+            "00498": {
+              "name": "Boyani Village Shopping Centre"
+            },
+            "00499": {
+              "name": "Magwasheni Primary School"
+            },
+            "00500": {
+              "name": "Mangawani Primary School"
+            },
+            "00501": {
+              "name": "Mnyalatsoni Primary School"
+            },
+            "00502": {
+              "name": "Mwanamkuu Primary School"
+            },
+            "00503": {
+              "name": "Maji Moto Primary  School"
+            },
+            "00504": {
+              "name": "Mkunguni Nursery School"
+            },
+            "00505": {
+              "name": "Maloloni Nursery School"
+            },
+            "00506": {
+              "name": "Kaseveni Nursery School"
+            }
+          }
+        },
+        "0043": {
+          "name": "Mkongani",
+          "pollingStations": {
+            "00507": {
+              "name": "Pumwani Nursery School"
+            },
+            "00508": {
+              "name": "Maponda Primary School"
+            },
+            "00509": {
+              "name": "Kibarani Nursery School"
+            },
+            "00510": {
+              "name": "Mbararani Nursery School"
+            },
+            "00511": {
+              "name": "Deri Nursery School"
+            },
+            "00512": {
+              "name": "Mkomba Primary School"
+            },
+            "00513": {
+              "name": "Tiribe Primary School"
+            },
+            "00514": {
+              "name": "Mkongani Primary School"
+            },
+            "00515": {
+              "name": "Mtsamviani Primary School"
+            },
+            "00516": {
+              "name": "Mzinji Primary School"
+            },
+            "00517": {
+              "name": "Miamba Primary School"
+            },
+            "00518": {
+              "name": "Mbegani Primary School"
+            },
+            "00519": {
+              "name": "Kizibe Primary School"
+            },
+            "00520": {
+              "name": "Mirihini Primary School"
+            },
+            "00521": {
+              "name": "Kajiweni Primary School"
+            },
+            "00522": {
+              "name": "Miatsani Primary School"
+            },
+            "00523": {
+              "name": "Mlafyeni Primary School"
+            },
+            "00524": {
+              "name": "Tserezani Primary School"
+            },
+            "00525": {
+              "name": "Mtsangatamu Primary School"
+            },
+            "00526": {
+              "name": "Burani Primary School"
+            },
+            "00527": {
+              "name": "Bahakanda Primary School"
+            },
+            "00528": {
+              "name": "Mwaryarya Nursery School"
+            },
+            "00529": {
+              "name": "Mwamtobo Nursery School"
+            },
+            "00530": {
+              "name": "Kaoyeni  Nursery  School"
+            },
+            "00531": {
+              "name": "Pengo Nursery School"
+            },
+            "00532": {
+              "name": "Sabrina  Primary  School"
+            },
+            "00533": {
+              "name": "Mbadzi Nursery School"
+            },
+            "00534": {
+              "name": "Muyugutu  Nursery School"
+            },
+            "00535": {
+              "name": "Milalani Kizibe Nursery  School"
+            },
+            "00536": {
+              "name": "Mafusi  Primary  School"
+            },
+            "00537": {
+              "name": "Miridzani  Nursery  School"
+            },
+            "00538": {
+              "name": "Umoja  Mwalolo  Nursery School"
+            },
+            "00539": {
+              "name": "Mwele  Primary  School"
+            },
+            "00540": {
+              "name": "Mabanda Nursery School"
+            },
+            "00541": {
+              "name": "Chanyiro Primary School"
+            },
+            "00542": {
+              "name": "Vumirira Nursery School"
+            },
+            "00543": {
+              "name": "Dzanikeni Nursery School"
+            },
+            "00544": {
+              "name": "Boyani West Primary School"
+            },
+            "00545": {
+              "name": "Chidzugani Primary School"
+            }
+          }
+        }
+      }
+    },
+    "010": {
+      "name": "Kinango",
+      "wards": {
+        "0044": {
+          "name": "Ndavaya",
+          "pollingStations": {
+            "00546": {
+              "name": "Ngauro Primary  School"
+            },
+            "00547": {
+              "name": "Mwalukombe Primary  School"
+            },
+            "00548": {
+              "name": "Magodzoni Primary  School"
+            },
+            "00549": {
+              "name": "Kifyonzo  Primary  School"
+            },
+            "00550": {
+              "name": "Maphanga  Primary  School"
+            },
+            "00551": {
+              "name": "Ndauni Primary  School"
+            },
+            "00552": {
+              "name": "Mabanda Primary School"
+            },
+            "00553": {
+              "name": "Gulanze Primary  School"
+            },
+            "00554": {
+              "name": "Mwachanda Primary  School"
+            },
+            "00555": {
+              "name": "Gulanze Youth Polytechnic"
+            },
+            "00556": {
+              "name": "Ndavaya Primary  School"
+            },
+            "00557": {
+              "name": "Gandini South Primary  School"
+            },
+            "00558": {
+              "name": "Bomani Primary School"
+            },
+            "00559": {
+              "name": "Mkang'Ombe  Primary  School"
+            },
+            "00560": {
+              "name": "Mbwaleni  Primary  School"
+            },
+            "00561": {
+              "name": "Mbita Primary  School"
+            },
+            "00562": {
+              "name": "Mwakijembe Primary School"
+            },
+            "00563": {
+              "name": "Mwaluvuno  Primary School"
+            },
+            "00564": {
+              "name": "Vyogato Primary  School"
+            },
+            "00565": {
+              "name": "Dzoyahewa  Nursery  School"
+            },
+            "00566": {
+              "name": "Mbuluni  Primary  School"
+            },
+            "00567": {
+              "name": "Mwandimu Primary  School"
+            },
+            "00568": {
+              "name": "Bumani Primary  School"
+            },
+            "00569": {
+              "name": "Kawelu Nursery  School"
+            },
+            "00570": {
+              "name": "Mafundani Nursery  School"
+            },
+            "00571": {
+              "name": "Zia Ra Dundo"
+            },
+            "00572": {
+              "name": "Mwangaure Ecd"
+            },
+            "00573": {
+              "name": "Jitegemee Primary School"
+            },
+            "00574": {
+              "name": "Dudu Ecde"
+            }
+          }
+        },
+        "0045": {
+          "name": "Puma",
+          "pollingStations": {
+            "00575": {
+              "name": "Chirima Cha Uha Primary  School"
+            },
+            "00576": {
+              "name": "Mazol A Primary School"
+            },
+            "00577": {
+              "name": "Mabamani  Primary  School"
+            },
+            "00578": {
+              "name": "Gangani Primary  School"
+            },
+            "00579": {
+              "name": "Kisimani Primary  School"
+            },
+            "00580": {
+              "name": "Bang'A  Primary  School"
+            },
+            "00581": {
+              "name": "Malungoni  Primary  School"
+            },
+            "00582": {
+              "name": "Bishop Kalu  Primary  School"
+            },
+            "00583": {
+              "name": "Rorogi  Primary  School"
+            },
+            "00584": {
+              "name": "Vigurungani  Primary  School"
+            },
+            "00585": {
+              "name": "Mwangoni Primary  School"
+            },
+            "00586": {
+              "name": "Maendeleo  Primary  School"
+            },
+            "00587": {
+              "name": "Tata Primary  School"
+            },
+            "00588": {
+              "name": "Nyango Primary  School"
+            },
+            "00589": {
+              "name": "Mbilini  Primary  School"
+            },
+            "00590": {
+              "name": "Kasageni Primary  School"
+            },
+            "00591": {
+              "name": "Dzimanya  Primary  School"
+            },
+            "00592": {
+              "name": "Gozani Primary  School"
+            },
+            "00593": {
+              "name": "Bang'A Nursery  School"
+            },
+            "00594": {
+              "name": "Kideri Primary  School"
+            },
+            "00595": {
+              "name": "Wamasa Primary  School"
+            },
+            "00596": {
+              "name": "Mulingo Nursery  School"
+            },
+            "00597": {
+              "name": "Karyaka  Primary  School"
+            },
+            "00598": {
+              "name": "Metani  Nursery    School"
+            },
+            "00599": {
+              "name": "Magongoni Nursery  School"
+            }
+          }
+        },
+        "0046": {
+          "name": "Kinango",
+          "pollingStations": {
+            "00600": {
+              "name": "Kinango Primary  School"
+            },
+            "00601": {
+              "name": "Gwadu Primary  School"
+            },
+            "00602": {
+              "name": "Amani Primary  School"
+            },
+            "00603": {
+              "name": "Amkeni Nursery  School"
+            },
+            "00604": {
+              "name": "St. Joseph  Primary  School"
+            },
+            "00605": {
+              "name": "St. Luke'S Primary  School"
+            },
+            "00606": {
+              "name": "Moyeni Primary  School"
+            },
+            "00607": {
+              "name": "Ng'Onzini Primary  School"
+            },
+            "00608": {
+              "name": "Dumbule Primary  School"
+            },
+            "00609": {
+              "name": "Mwaluganje  Primary  School"
+            },
+            "00610": {
+              "name": "Gandini Central Primary  School"
+            },
+            "00611": {
+              "name": "Chifusini Primary  School"
+            },
+            "00612": {
+              "name": "Lutsangani Primary  School"
+            },
+            "00613": {
+              "name": "Dzivani  Primary  School"
+            },
+            "00614": {
+              "name": "Tsunza  Primary  School"
+            },
+            "00615": {
+              "name": "Mkilo Primary  School"
+            },
+            "00616": {
+              "name": "Chizini Primary  School"
+            },
+            "00617": {
+              "name": "Sembe  Primary  School"
+            },
+            "00618": {
+              "name": "Nzovuni Primary School"
+            },
+            "00619": {
+              "name": "Yapha  Primary  School"
+            },
+            "00620": {
+              "name": "Kibandaongo Primary  School"
+            },
+            "00621": {
+              "name": "Mitangani Nursery   School"
+            },
+            "00622": {
+              "name": "Mikanjuni Nursery  School"
+            },
+            "00623": {
+              "name": "Dzendereni Primary  School"
+            },
+            "00624": {
+              "name": "Mwangani Primary  School"
+            },
+            "00625": {
+              "name": "Tsahuni Nursery   School"
+            },
+            "00626": {
+              "name": "Mbandi Primary School"
+            },
+            "00627": {
+              "name": "Kidogoeni Ecde"
+            },
+            "00628": {
+              "name": "Maili Nane Ecde"
+            },
+            "00629": {
+              "name": "Sagalato Ecde"
+            },
+            "00630": {
+              "name": "Mwanyundo Ecde"
+            },
+            "00631": {
+              "name": "Chidunguni Ecde"
+            }
+          }
+        },
+        "0047": {
+          "name": "Mackinnon Road",
+          "pollingStations": {
+            "00632": {
+              "name": "Kilibasi  Primary  School"
+            },
+            "00633": {
+              "name": "Busho Primary  School"
+            },
+            "00634": {
+              "name": "Mgalani  Primary  School"
+            },
+            "00635": {
+              "name": "Jeffery  Primary  School"
+            },
+            "00636": {
+              "name": "Cafgem  Primary  School"
+            },
+            "00637": {
+              "name": "Bahakwenu  Primary  School"
+            },
+            "00638": {
+              "name": "Fuleye Primary  School"
+            },
+            "00639": {
+              "name": "Magale Primary  School"
+            },
+            "00640": {
+              "name": "Taru  Primary  School"
+            },
+            "00641": {
+              "name": "Gurujo  Nursery  School"
+            },
+            "00642": {
+              "name": "Chigutu  Primary  School"
+            },
+            "00643": {
+              "name": "Vinyunduni  Primary  School"
+            },
+            "00644": {
+              "name": "Kituu  Primary  School"
+            },
+            "00645": {
+              "name": "Makamini Primary  School"
+            },
+            "00646": {
+              "name": "Bumburi  Primary   School"
+            },
+            "00647": {
+              "name": "Egu  Primary  School"
+            },
+            "00648": {
+              "name": "Nyari  Primary  School"
+            },
+            "00649": {
+              "name": "Meti  Nursery  School"
+            },
+            "00650": {
+              "name": "Dzisuhuni  Primary  School"
+            },
+            "00651": {
+              "name": "Mdomo  Primary  School"
+            },
+            "00652": {
+              "name": "Meli-Kubwa Primary  School"
+            },
+            "00653": {
+              "name": "Mlunguni  Primary  School"
+            },
+            "00654": {
+              "name": "Maiyini  Primary  School"
+            },
+            "00655": {
+              "name": "Mwanatibu Railway Station(Dispensary)"
+            }
+          }
+        },
+        "0048": {
+          "name": "Chengoni/Samburu",
+          "pollingStations": {
+            "00656": {
+              "name": "Silaloni  Primary  School"
+            },
+            "00657": {
+              "name": "Mwarovesa  Primary  School"
+            },
+            "00658": {
+              "name": "Shauri Moyo Primary   School"
+            },
+            "00659": {
+              "name": "Maji Ya Chumvi Primary  School"
+            },
+            "00660": {
+              "name": "Chanzou  Primary  School"
+            },
+            "00661": {
+              "name": "Mtulu  Primary  School"
+            },
+            "00662": {
+              "name": "Chengoni  Primary  School"
+            },
+            "00663": {
+              "name": "Ndohivyo Primary School"
+            },
+            "00664": {
+              "name": "Samburu  Primary  School"
+            },
+            "00665": {
+              "name": "Kinagoni  Primary  School"
+            },
+            "00666": {
+              "name": "Mwangea  Primary  School"
+            },
+            "00667": {
+              "name": "Kwa Kadogo Primary  School"
+            },
+            "00668": {
+              "name": "Kazamoyo Primary  School"
+            },
+            "00669": {
+              "name": "Mwembeni  Primary  School"
+            },
+            "00670": {
+              "name": "Gora  Primary  School"
+            },
+            "00671": {
+              "name": "Mwandoni  Primary   School"
+            },
+            "00672": {
+              "name": "Mwambani  Primary  School"
+            },
+            "00673": {
+              "name": "Mwangoloto Primary  School"
+            },
+            "00674": {
+              "name": "Chituoni  Nursery School"
+            },
+            "00675": {
+              "name": "Kanyumbuni Primary School"
+            }
+          }
+        },
+        "0049": {
+          "name": "Mwavumbo",
+          "pollingStations": {
+            "00676": {
+              "name": "Mwabila  Primary  School"
+            },
+            "00677": {
+              "name": "Chigombero  Primary  School"
+            },
+            "00678": {
+              "name": "Matumbi Primary  School"
+            },
+            "00679": {
+              "name": "Chidzipwa  Primary  School"
+            },
+            "00680": {
+              "name": "Pemba  Primary  School"
+            },
+            "00681": {
+              "name": "Ni Hutu  Primary  School"
+            },
+            "00682": {
+              "name": "Vitsakaviri  Primary  School"
+            },
+            "00683": {
+              "name": "Mavirivirini  Primary  School"
+            },
+            "00684": {
+              "name": "Mgandini  Primary  School"
+            },
+            "00685": {
+              "name": "Madikoni Primary  School"
+            },
+            "00686": {
+              "name": "Mwashanga  Primary  School"
+            },
+            "00687": {
+              "name": "Kafuduni  Primary  School"
+            },
+            "00688": {
+              "name": "Maweu  Primary  School"
+            },
+            "00689": {
+              "name": "Kaluweni  Primary  School"
+            },
+            "00690": {
+              "name": "Kalalani Social  Hall"
+            },
+            "00691": {
+              "name": "Sega  Primary  School"
+            },
+            "00692": {
+              "name": "Mwanda  Primary  School"
+            },
+            "00693": {
+              "name": "Dzombo  Primary  School"
+            },
+            "00694": {
+              "name": "Gwasheni  Primary  School"
+            },
+            "00695": {
+              "name": "Kaphingo  Primary  School"
+            },
+            "00696": {
+              "name": "Mariakani  Roman Primary  School"
+            },
+            "00697": {
+              "name": "Julani  Primary  School"
+            },
+            "00698": {
+              "name": "Kumbulu  Primary  School"
+            },
+            "00699": {
+              "name": "Lutsangani- North  Primary  School"
+            },
+            "00700": {
+              "name": "Mlola Nursery  School"
+            },
+            "00701": {
+              "name": "Mubande  Primary  School"
+            },
+            "00702": {
+              "name": "Mavarata Ecde"
+            }
+          }
+        },
+        "0050": {
+          "name": "Kasemeni",
+          "pollingStations": {
+            "00703": {
+              "name": "Bofu  Primary   School"
+            },
+            "00704": {
+              "name": "Mkanyeni  Primary  School"
+            },
+            "00705": {
+              "name": "Nunguni  Primary   School"
+            },
+            "00706": {
+              "name": "Gona  Primary   School"
+            },
+            "00707": {
+              "name": "Guro  Primary   School"
+            },
+            "00708": {
+              "name": "Mabesheni  Primary   School"
+            },
+            "00709": {
+              "name": "Mtaa  Primary   School"
+            },
+            "00710": {
+              "name": "Boyani  Primary  School"
+            },
+            "00711": {
+              "name": "Mazeras  Primary   School"
+            },
+            "00712": {
+              "name": "Mpirani  Primary   School"
+            },
+            "00713": {
+              "name": "Fulugani  Primary   School"
+            },
+            "00714": {
+              "name": "Mwamdudu  Primary   School"
+            },
+            "00715": {
+              "name": "Bonje  Primary   School"
+            },
+            "00716": {
+              "name": "Vikolani  Primary   School"
+            },
+            "00717": {
+              "name": "Mnyenzeni  Primary  School"
+            },
+            "00718": {
+              "name": "Miyani  Primary   School"
+            },
+            "00719": {
+              "name": "Mwache  Primary  School"
+            },
+            "00720": {
+              "name": "Miguneni  Primary  School"
+            },
+            "00721": {
+              "name": "Mbujani  Nursery   School"
+            },
+            "00722": {
+              "name": "Majengo  Primary   School"
+            },
+            "00723": {
+              "name": "Chikuyu  Primary  School"
+            },
+            "00724": {
+              "name": "Chikwakwani  Primary  School"
+            },
+            "00725": {
+              "name": "Mabirikani  Nursery   School"
+            },
+            "00726": {
+              "name": "Chidzuvini  Nursery   School"
+            },
+            "00727": {
+              "name": "Mkulung'Ombe Nursey  School"
+            },
+            "00728": {
+              "name": "Nyando  Nursery   School"
+            },
+            "00729": {
+              "name": "Muungano  Primary   School"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Kinango",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Lunga Lunga",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Matuga",
+      "type": "Subcounty"
+    },
+    "004": {
+      "name": "Msambweni",
+      "type": "Subcounty"
+    },
+    "005": {
+      "name": "Samburu-Kwale",
+      "type": "Subcounty"
+    }
+  }
+}

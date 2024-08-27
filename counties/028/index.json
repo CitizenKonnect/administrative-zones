@@ -1,0 +1,1621 @@
+{
+  "name": "Elgeyo/Marakwet",
+  "type": "County",
+  "code": "028",
+  "constituencies": {
+    "147": {
+      "name": "Marakwet East",
+      "wards": {
+        "0731": {
+          "name": "Kapyego",
+          "pollingStations": {
+            "14399": {
+              "name": "Tangul Pri. School"
+            },
+            "14400": {
+              "name": "Tenderwa Pri. School"
+            },
+            "14401": {
+              "name": "Kapyego Pri. School"
+            },
+            "14402": {
+              "name": "Kalya Primary School"
+            },
+            "14403": {
+              "name": "Kamelei Pri. School"
+            },
+            "14404": {
+              "name": "Chesupkwo Nur. School"
+            },
+            "14405": {
+              "name": "Kapchoge Pri. School"
+            },
+            "14406": {
+              "name": "Kapchelaga Wool Shade"
+            },
+            "14407": {
+              "name": "Tebe Pri. School"
+            },
+            "14408": {
+              "name": "Kararia Pri School"
+            },
+            "14409": {
+              "name": "Kapchemurkeldet Pri. School"
+            },
+            "14410": {
+              "name": "Kaptobendo Pri. School"
+            },
+            "14411": {
+              "name": "Segut Trad. Centre"
+            },
+            "14412": {
+              "name": "Kamasia Pri. School"
+            },
+            "14413": {
+              "name": "Cheptobot Pri. School"
+            },
+            "14414": {
+              "name": "Kapchelaga Pri. School"
+            },
+            "14415": {
+              "name": "Tangul Nursery School"
+            },
+            "14416": {
+              "name": "Tangul Trading Centre"
+            },
+            "14417": {
+              "name": "Chepyomat Outreach Centre"
+            },
+            "14418": {
+              "name": "Kapyego Catholic Church"
+            },
+            "14419": {
+              "name": "Tenderwa Nur. School"
+            },
+            "14420": {
+              "name": "Kapyego Secondary School"
+            },
+            "14421": {
+              "name": "Kapero Primary School"
+            },
+            "14422": {
+              "name": "Kararia Outreach Church"
+            },
+            "14423": {
+              "name": "Kararia Nursery School"
+            },
+            "14424": {
+              "name": "Cheptobot Outreach Church"
+            }
+          }
+        },
+        "0732": {
+          "name": "Sambirir",
+          "pollingStations": {
+            "14425": {
+              "name": "Kilangata Pri. School"
+            },
+            "14426": {
+              "name": "Kombases Pri. School"
+            },
+            "14427": {
+              "name": "Likuket Pri. School"
+            },
+            "14428": {
+              "name": "Kipcherel Nur. School"
+            },
+            "14429": {
+              "name": "Chesetan Pri. School"
+            },
+            "14430": {
+              "name": "Ratia Pri. School"
+            },
+            "14431": {
+              "name": "Chugor Pri. School"
+            },
+            "14432": {
+              "name": "Turkon Nur. School"
+            },
+            "14433": {
+              "name": "Kaptora Pri. School"
+            },
+            "14434": {
+              "name": "Mogil Pri School"
+            },
+            "14435": {
+              "name": "Kandoror Nur. School"
+            },
+            "14436": {
+              "name": "Kasar Nur School"
+            },
+            "14437": {
+              "name": "Kapkeny Pri. School"
+            },
+            "14438": {
+              "name": "Kipyebo Pri. School"
+            },
+            "14439": {
+              "name": "Kumbulul Pri. School"
+            },
+            "14440": {
+              "name": "Tumtany Nur. School"
+            },
+            "14441": {
+              "name": "Tirap Pri. School"
+            },
+            "14442": {
+              "name": "Itum Trad. Centre"
+            },
+            "14443": {
+              "name": "Tuturung Pri School"
+            },
+            "14444": {
+              "name": "Kaituren Trad. Centre."
+            },
+            "14445": {
+              "name": "Endiwa Pri. School"
+            },
+            "14446": {
+              "name": "Kimuren Pri School"
+            },
+            "14447": {
+              "name": "Kerbut Pri. School"
+            },
+            "14448": {
+              "name": "Mokwony Nur. School"
+            },
+            "14449": {
+              "name": "Kapsicha Pri. School"
+            },
+            "14450": {
+              "name": "Chemworor Pr. School"
+            },
+            "14451": {
+              "name": "Muswon Pr. School"
+            },
+            "14452": {
+              "name": "Kapkuto Pri. School"
+            },
+            "14453": {
+              "name": "Chepkok Pri. School"
+            },
+            "14454": {
+              "name": "Chesoi Pri. School"
+            },
+            "14455": {
+              "name": "Sambirir Sec. School"
+            },
+            "14456": {
+              "name": "Mureto Pri. School"
+            },
+            "14457": {
+              "name": "Koboluk Nur. School"
+            },
+            "14458": {
+              "name": "Nyirar Pri. School"
+            },
+            "14459": {
+              "name": "Maina  Catholic School"
+            },
+            "14460": {
+              "name": "Metipsoo Pri. School"
+            },
+            "14461": {
+              "name": "Tebeng'On Nur School"
+            },
+            "14462": {
+              "name": "Maina Pri School"
+            },
+            "14463": {
+              "name": "Koisabul Pri. School"
+            },
+            "14464": {
+              "name": "Tirber Primary School"
+            },
+            "14465": {
+              "name": "Mogil Secondary School"
+            },
+            "14466": {
+              "name": "Tebkei Primary School"
+            },
+            "14467": {
+              "name": "Kimitel Primary School"
+            },
+            "14468": {
+              "name": "Korion Primary School"
+            },
+            "14469": {
+              "name": "Matum Primary School"
+            },
+            "14470": {
+              "name": "Chesoi Catholic School"
+            },
+            "14471": {
+              "name": "Chelimwo Primary School"
+            },
+            "14472": {
+              "name": "Sewerwa Nursery School"
+            }
+          }
+        },
+        "0733": {
+          "name": "Endo",
+          "pollingStations": {
+            "14473": {
+              "name": "Liter Sec. School"
+            },
+            "14474": {
+              "name": "Bororwo Nur. School"
+            },
+            "14475": {
+              "name": "Sambalat Pr. School"
+            },
+            "14476": {
+              "name": "Cherutich Trad. Centre"
+            },
+            "14477": {
+              "name": "Sokotow Nur. School"
+            },
+            "14478": {
+              "name": "Sangach Pr. School"
+            },
+            "14479": {
+              "name": "Sebero Primary School"
+            },
+            "14480": {
+              "name": "Sesela Nur. School"
+            },
+            "14481": {
+              "name": "Chebilil Pri. School"
+            },
+            "14482": {
+              "name": "Krell Primary School"
+            },
+            "14483": {
+              "name": "Barberi Pri. School"
+            },
+            "14484": {
+              "name": "Chesirkoyo Pri. School"
+            },
+            "14485": {
+              "name": "Kabaldamet Pri. School"
+            },
+            "14486": {
+              "name": "Kimongo Primary School"
+            },
+            "14487": {
+              "name": "Kerio Valley Sec. School"
+            },
+            "14488": {
+              "name": "Embomir Pri. School"
+            },
+            "14489": {
+              "name": "Ngereb Methodists Church"
+            },
+            "14490": {
+              "name": "Chesawach Pri. School"
+            },
+            "14491": {
+              "name": "Tot Catholic Church"
+            },
+            "14492": {
+              "name": "Tot Pri. School"
+            },
+            "14493": {
+              "name": "Kapkain Pri. School"
+            },
+            "14494": {
+              "name": "Kapkobil Pri. School"
+            },
+            "14495": {
+              "name": "Chepneiya Nur School"
+            },
+            "14496": {
+              "name": "Kabetwa Pri. School"
+            },
+            "14497": {
+              "name": "Toroko Pri. School"
+            },
+            "14498": {
+              "name": "Kachemwony Nur. School"
+            },
+            "14499": {
+              "name": "Chesongoch Pr. School"
+            },
+            "14500": {
+              "name": "Murkutwo Primary School"
+            },
+            "14501": {
+              "name": "Barkonga Pri. School"
+            },
+            "14502": {
+              "name": "Ngejer Nur. School"
+            },
+            "14503": {
+              "name": "Queen Of Peace Sec. School"
+            },
+            "14504": {
+              "name": "Ngenyireel Nur School"
+            },
+            "14505": {
+              "name": "Chechan Pri. School"
+            },
+            "14506": {
+              "name": "Liter Primary School"
+            },
+            "14507": {
+              "name": "Kaporon Health Centre"
+            },
+            "14508": {
+              "name": "Endo Catholic Church"
+            },
+            "14509": {
+              "name": "Chebilil Aic Church"
+            },
+            "14510": {
+              "name": "Barberi Trading Centre"
+            },
+            "14511": {
+              "name": "Valley Oasis School"
+            },
+            "14512": {
+              "name": "A.I.C Tot Church"
+            },
+            "14513": {
+              "name": "Konot Primary School"
+            },
+            "14514": {
+              "name": "Chesongoch Catholic Church"
+            }
+          }
+        },
+        "0734": {
+          "name": "Embobut / Embulot",
+          "pollingStations": {
+            "14515": {
+              "name": "Kapchebau Secondary School"
+            },
+            "14516": {
+              "name": "Katilit Primary School"
+            },
+            "14517": {
+              "name": "Mungwa Pr. School"
+            },
+            "14518": {
+              "name": "Boroko Pri. School"
+            },
+            "14519": {
+              "name": "Chaptany Primary School"
+            },
+            "14520": {
+              "name": "Wewo Trad. Centre"
+            },
+            "14521": {
+              "name": "Maron Pri. School"
+            },
+            "14522": {
+              "name": "Maron Health Centre"
+            },
+            "14523": {
+              "name": "St. Michael Primary School"
+            },
+            "14524": {
+              "name": "Chawis Pri. School"
+            },
+            "14525": {
+              "name": "Wewo Catholic Church"
+            },
+            "14526": {
+              "name": "St. Michael Sec. School"
+            },
+            "14527": {
+              "name": "Kamogo Trad. Centre"
+            },
+            "14528": {
+              "name": "Mkeno Pri. School"
+            },
+            "14529": {
+              "name": "Meuno Pri. School"
+            },
+            "14530": {
+              "name": "Lemeuywo Pri. School"
+            },
+            "14531": {
+              "name": "Moror Pri. School"
+            },
+            "14532": {
+              "name": "Kapchebau Pri. School"
+            },
+            "14533": {
+              "name": "Chorwa Pri. School"
+            },
+            "14534": {
+              "name": "Kamogo Pri. School"
+            },
+            "14535": {
+              "name": "Korou Catholic School"
+            },
+            "14536": {
+              "name": "Moror Nursery School"
+            },
+            "14537": {
+              "name": "Chemisto Primary School"
+            },
+            "14538": {
+              "name": "Mungwa Dispensary Hall"
+            },
+            "14539": {
+              "name": "Sitat A.I.C Primary School"
+            },
+            "14540": {
+              "name": "Kakirim Catholic School"
+            }
+          }
+        }
+      }
+    },
+    "148": {
+      "name": "Marakwet West",
+      "wards": {
+        "0735": {
+          "name": "Lelan",
+          "pollingStations": {
+            "14541": {
+              "name": "Tembu  Primary School."
+            },
+            "14542": {
+              "name": "Kapchepsar  Primary School."
+            },
+            "14543": {
+              "name": "Kapsigot Primary School"
+            },
+            "14544": {
+              "name": "Kapsait Co-Operative"
+            },
+            "14545": {
+              "name": "Kapsait  Primary School."
+            },
+            "14546": {
+              "name": "Chemosong  Primary School."
+            },
+            "14547": {
+              "name": "Kaborowo  Primary School."
+            },
+            "14548": {
+              "name": "Kerer  Primary School."
+            },
+            "14549": {
+              "name": "Chemulany  Primary School."
+            },
+            "14550": {
+              "name": "Kibirech  Primary School."
+            },
+            "14551": {
+              "name": "Kamurto  Primary School."
+            },
+            "14552": {
+              "name": "Labot Co-Operative"
+            },
+            "14553": {
+              "name": "Kabai Trading Centre"
+            },
+            "14554": {
+              "name": "Kapchumari Nursery School"
+            },
+            "14555": {
+              "name": "Kokwongoi  Primary School."
+            },
+            "14556": {
+              "name": "Kipkundul Co-Operative"
+            },
+            "14557": {
+              "name": "Kapkochur  Primary School."
+            },
+            "14558": {
+              "name": "Kokwongoi Co-Operative"
+            },
+            "14559": {
+              "name": "Kibigos  Primary School."
+            },
+            "14560": {
+              "name": "Kapsaina  Primary School."
+            },
+            "14561": {
+              "name": "Boroon  Primary School."
+            },
+            "14562": {
+              "name": "Kolelach  Primary School."
+            },
+            "14563": {
+              "name": "Kipkundul  Primary School."
+            },
+            "14564": {
+              "name": "Mugula  Primary School."
+            },
+            "14565": {
+              "name": "Konyibsebee Nursery School"
+            },
+            "14566": {
+              "name": "Kaptalamwa  Primary School."
+            },
+            "14567": {
+              "name": "Kimnai  Primary School."
+            },
+            "14568": {
+              "name": "Kuserwo  Primary School."
+            },
+            "14569": {
+              "name": "Kamasat  Primary School."
+            }
+          }
+        },
+        "0736": {
+          "name": "Sengwer",
+          "pollingStations": {
+            "14570": {
+              "name": "Kibuga Primary School."
+            },
+            "14571": {
+              "name": "Kamoi Mobile"
+            },
+            "14572": {
+              "name": "Kamoi  Primary School."
+            },
+            "14573": {
+              "name": "Kipsambach  Primary School."
+            },
+            "14574": {
+              "name": "Kapterit  Primary School."
+            },
+            "14575": {
+              "name": "Rogor Nursery"
+            },
+            "14576": {
+              "name": "Shoe For Africa Primary School"
+            },
+            "14577": {
+              "name": "Chesubet  Primary School."
+            },
+            "14578": {
+              "name": "Kipsetan  Primary School."
+            },
+            "14579": {
+              "name": "Kapcherop  Primary School."
+            },
+            "14580": {
+              "name": "Kapkutung Nursery"
+            },
+            "14581": {
+              "name": "Kiplegetet  Primary School."
+            },
+            "14582": {
+              "name": "Kipteber  Primary School."
+            },
+            "14583": {
+              "name": "Kapcherop Full Gospel Church"
+            },
+            "14584": {
+              "name": "Kapkanyar  Primary School."
+            },
+            "14585": {
+              "name": "Kipsero  Primary School."
+            }
+          }
+        },
+        "0737": {
+          "name": "Cherang'Any/Chebororwa",
+          "pollingStations": {
+            "14586": {
+              "name": "Kapkuress Nursery School"
+            },
+            "14587": {
+              "name": "Chebai  Primary School."
+            },
+            "14588": {
+              "name": "Kamuseny  Primary School."
+            },
+            "14589": {
+              "name": "Tenden  Primary School."
+            },
+            "14590": {
+              "name": "Kaptiony  Primary School."
+            },
+            "14591": {
+              "name": "Chepkawai  Primary School."
+            },
+            "14592": {
+              "name": "Duka Moja Trading Centre"
+            },
+            "14593": {
+              "name": "Chebororwa  Primary School."
+            },
+            "14594": {
+              "name": "Lochin  Primary School."
+            },
+            "14595": {
+              "name": "Kabelio  Primary School."
+            },
+            "14596": {
+              "name": "Lamaon  Primary School."
+            },
+            "14597": {
+              "name": "Tekwei Nursery School"
+            },
+            "14598": {
+              "name": "Kondabilet  Primary School."
+            },
+            "14599": {
+              "name": "Yatya Nursery School"
+            },
+            "14600": {
+              "name": "Kemelai Nursery School"
+            },
+            "14601": {
+              "name": "Torokwo Nursery School"
+            },
+            "14602": {
+              "name": "Kapsiliboi Nursery School"
+            },
+            "14603": {
+              "name": "Koitugum  Primary School."
+            },
+            "14604": {
+              "name": "Yatoi  Primary School."
+            },
+            "14605": {
+              "name": "Kapchebit  Primary School."
+            },
+            "14606": {
+              "name": "Chemurgoi Primary School."
+            },
+            "14607": {
+              "name": "Diriya  Primary School."
+            },
+            "14608": {
+              "name": "Kipkochirio Nursery School"
+            }
+          }
+        },
+        "0738": {
+          "name": "Moiben/Kuserwo",
+          "pollingStations": {
+            "14609": {
+              "name": "Metibelio  Primary School."
+            },
+            "14610": {
+              "name": "Chebilbai Co-Operative"
+            },
+            "14611": {
+              "name": "Emkew  Primary School."
+            },
+            "14612": {
+              "name": "Jemunada  Primary School."
+            },
+            "14613": {
+              "name": "Yemit  Primary School."
+            },
+            "14614": {
+              "name": "Stoton  Primary School."
+            },
+            "14615": {
+              "name": "Seret  Primary School."
+            },
+            "14616": {
+              "name": "Cheptulon  Primary School."
+            },
+            "14617": {
+              "name": "Kapsigoria Nursery School"
+            },
+            "14618": {
+              "name": "Cheptongei  Primary School."
+            },
+            "14619": {
+              "name": "Nerkwo  Primary School."
+            },
+            "14620": {
+              "name": "Kipkutee  Primary School."
+            },
+            "14621": {
+              "name": "Kaplenge  Primary School."
+            },
+            "14622": {
+              "name": "Kilima  Primary School."
+            },
+            "14623": {
+              "name": "Mindililwo  Primary School."
+            },
+            "14624": {
+              "name": "Chebara  Primary School."
+            },
+            "14625": {
+              "name": "Simbeywet  Primary School."
+            },
+            "14626": {
+              "name": "Kaptomut  Primary School."
+            },
+            "14627": {
+              "name": "Chogoo  Primary School."
+            },
+            "14628": {
+              "name": "Kapkoros  Primary School."
+            },
+            "14629": {
+              "name": "Chebiemit  Primary School."
+            }
+          }
+        },
+        "0739": {
+          "name": "Kapsowar",
+          "pollingStations": {
+            "14630": {
+              "name": "Hossen  Primary School."
+            },
+            "14631": {
+              "name": "Kipsaiya  Primary School."
+            },
+            "14632": {
+              "name": "Kasakaw Nursery"
+            },
+            "14633": {
+              "name": "Kabarar Primary School."
+            },
+            "14634": {
+              "name": "Lawich  Primary School."
+            },
+            "14635": {
+              "name": "Kapengong  Primary School."
+            },
+            "14636": {
+              "name": "Sinon  Primary School."
+            },
+            "14637": {
+              "name": "Kaptek  Primary School."
+            },
+            "14638": {
+              "name": "Litei  Primary School."
+            },
+            "14639": {
+              "name": "Kapsumai   Primary School."
+            },
+            "14640": {
+              "name": "Kipsinot  Primary School."
+            },
+            "14641": {
+              "name": "Matira  Primary School."
+            },
+            "14642": {
+              "name": "Kaplongon  Primary School."
+            },
+            "14643": {
+              "name": "Kaptabuk  Primary School."
+            },
+            "14644": {
+              "name": "Kapsiw  Primary School."
+            },
+            "14645": {
+              "name": "Sangurur  Primary School."
+            },
+            "14646": {
+              "name": "Koibarak   Primary School."
+            },
+            "14647": {
+              "name": "Terikmoi  Primary School."
+            },
+            "14648": {
+              "name": "Kasubwa  Primary School."
+            },
+            "14649": {
+              "name": "Rorok  Primary School."
+            },
+            "14650": {
+              "name": "Kapsowar  Primary School."
+            },
+            "14651": {
+              "name": "Kipsimatia Nursery School"
+            },
+            "14652": {
+              "name": "Kiplabai  Primary School."
+            },
+            "14653": {
+              "name": "Cheles  Primary School."
+            },
+            "14654": {
+              "name": "Kapchesewes  Primary School."
+            },
+            "14655": {
+              "name": "Sebelit Primary School"
+            },
+            "14656": {
+              "name": "Ngorngoroi Nursery School"
+            }
+          }
+        },
+        "0740": {
+          "name": "Arror",
+          "pollingStations": {
+            "14657": {
+              "name": "Kapkata  Primary School."
+            },
+            "14658": {
+              "name": "Kilos  Primary School."
+            },
+            "14659": {
+              "name": "Koitilial Primary School."
+            },
+            "14660": {
+              "name": "Kipkaner  Primary School."
+            },
+            "14661": {
+              "name": "Utwo Nursery School"
+            },
+            "14662": {
+              "name": "Chepkum  Primary School."
+            },
+            "14663": {
+              "name": "Barsumbat  Primary School."
+            },
+            "14664": {
+              "name": "Chesuman  Primary School."
+            },
+            "14665": {
+              "name": "Tunyo  Primary School."
+            },
+            "14666": {
+              "name": "Chepsigor Nursery School"
+            }
+          }
+        }
+      }
+    },
+    "149": {
+      "name": "Keiyo North",
+      "wards": {
+        "0741": {
+          "name": "Emsoo",
+          "pollingStations": {
+            "14667": {
+              "name": "Kapchelal Primary School"
+            },
+            "14668": {
+              "name": "Kaptum Primary School"
+            },
+            "14669": {
+              "name": "Kokwao Primary School"
+            },
+            "14670": {
+              "name": "Kibendo Primary School"
+            },
+            "14671": {
+              "name": "Chegilet Primary School"
+            },
+            "14672": {
+              "name": "Kabulwo Primary School"
+            },
+            "14673": {
+              "name": "Salaba Primary School"
+            },
+            "14674": {
+              "name": "Kipkulot Primary School"
+            },
+            "14675": {
+              "name": "Kipyegor Primary School"
+            },
+            "14676": {
+              "name": "Kapkei Primary School"
+            },
+            "14677": {
+              "name": "Kipkenda Primary School"
+            },
+            "14678": {
+              "name": "Kermuk Primary School"
+            },
+            "14679": {
+              "name": "Cheptarit Primary School"
+            },
+            "14680": {
+              "name": "Kaptul Nursery School"
+            },
+            "14681": {
+              "name": "Soiyo A.I.C"
+            },
+            "14682": {
+              "name": "Matany Primary School"
+            },
+            "14683": {
+              "name": "Kiptoit Primary School"
+            },
+            "14684": {
+              "name": "Barmukwen (Mobile)"
+            },
+            "14685": {
+              "name": "Kiptoro Primary School"
+            }
+          }
+        },
+        "0742": {
+          "name": "Kamariny",
+          "pollingStations": {
+            "14686": {
+              "name": "Kaplamai Primary School"
+            },
+            "14687": {
+              "name": "Sergoit Primary School"
+            },
+            "14688": {
+              "name": "Chesitek Water Supply"
+            },
+            "14689": {
+              "name": "Kiptabus Primary School"
+            },
+            "14690": {
+              "name": "Kamariny Primary School"
+            },
+            "14691": {
+              "name": "Chebonet Primary School"
+            },
+            "14692": {
+              "name": "Kiptingo Primary School"
+            },
+            "14693": {
+              "name": "Kipsoen Yokot Primary School"
+            },
+            "14694": {
+              "name": "Muno Primary School."
+            },
+            "14695": {
+              "name": "Chelingwa Primary School"
+            },
+            "14696": {
+              "name": "Kapteren Primary School"
+            },
+            "14697": {
+              "name": "Saint Andrew'S Primary School"
+            },
+            "14698": {
+              "name": "Kipchawat Primary School"
+            },
+            "14699": {
+              "name": "Kapkoi Primary School"
+            },
+            "14700": {
+              "name": "Kibargoiyet Primary School"
+            },
+            "14701": {
+              "name": "Chebonet Secondary School"
+            },
+            "14702": {
+              "name": "Korosiot Fgck"
+            },
+            "14703": {
+              "name": "Kapsisi Primary School"
+            },
+            "14704": {
+              "name": "William Murgor Primary School"
+            },
+            "14705": {
+              "name": "Sergoit Trading Center"
+            },
+            "14706": {
+              "name": "Kiplus Primary School"
+            },
+            "14707": {
+              "name": "Iten Rural Access Camp"
+            },
+            "14708": {
+              "name": "Kameza Primary School"
+            },
+            "14709": {
+              "name": "Chesitek Primary School"
+            }
+          }
+        },
+        "0743": {
+          "name": "Kapchemutwa",
+          "pollingStations": {
+            "14710": {
+              "name": "Korkitony Primary School"
+            },
+            "14711": {
+              "name": "Kendur Nursery School"
+            },
+            "14712": {
+              "name": "Kapsoiyo Primary School"
+            },
+            "14713": {
+              "name": "Msekekwa Primary School"
+            },
+            "14714": {
+              "name": "Bugar Primary School"
+            },
+            "14715": {
+              "name": "Sing'Ore Primary School"
+            },
+            "14716": {
+              "name": "Kobil Primary School"
+            },
+            "14717": {
+              "name": "Chebokokwa Primary School"
+            },
+            "14718": {
+              "name": "Mindililwo Primary School"
+            },
+            "14719": {
+              "name": "Kapkessum Primary School"
+            },
+            "14720": {
+              "name": "Iten Primary School"
+            },
+            "14721": {
+              "name": "Komotony Primary School"
+            },
+            "14722": {
+              "name": "Saint Patrick'S High School."
+            },
+            "14723": {
+              "name": "Kendur Primary School"
+            },
+            "14724": {
+              "name": "Kapkures Nursery School"
+            },
+            "14725": {
+              "name": "Chebaror Chief'S Camp"
+            },
+            "14726": {
+              "name": "Mindililwo A.I.C Primary School"
+            },
+            "14727": {
+              "name": "Iten Polytechnic"
+            },
+            "14728": {
+              "name": "Lamaon Primary School"
+            },
+            "14729": {
+              "name": "Kapchekomet Nursery School"
+            },
+            "14730": {
+              "name": "Kapcherop Trading Center"
+            }
+          }
+        },
+        "0744": {
+          "name": "Tambach",
+          "pollingStations": {
+            "14731": {
+              "name": "Siroch Primary School"
+            },
+            "14732": {
+              "name": "Songoiwo Ecd"
+            },
+            "14733": {
+              "name": "Anin Primary School"
+            },
+            "14734": {
+              "name": "Bireton Cattle Dip"
+            },
+            "14735": {
+              "name": "Nyawa Primary School"
+            },
+            "14736": {
+              "name": "Rimoi Primary School"
+            },
+            "14737": {
+              "name": "Kessup Primary School"
+            },
+            "14738": {
+              "name": "Kaplis Primary School"
+            },
+            "14739": {
+              "name": "Chepkogin Primary School"
+            },
+            "14740": {
+              "name": "Emkong Primary School"
+            },
+            "14741": {
+              "name": "Tambach Social Hall"
+            },
+            "14742": {
+              "name": "Songeto Primary School"
+            },
+            "14743": {
+              "name": "Kabore Primary School"
+            },
+            "14744": {
+              "name": "Kipka Primary School"
+            },
+            "14745": {
+              "name": "Berese Primary School"
+            },
+            "14746": {
+              "name": "Kolol Primary School"
+            },
+            "14747": {
+              "name": "Kipsabu Primary School"
+            },
+            "14748": {
+              "name": "Kayoi Primary School"
+            },
+            "14749": {
+              "name": "Kapkerembe Ecd"
+            },
+            "14750": {
+              "name": "Kapchebar Health Center"
+            },
+            "14751": {
+              "name": "Chepyogot A.I.C."
+            },
+            "14752": {
+              "name": "Kewapsos Primary School"
+            }
+          }
+        }
+      }
+    },
+    "150": {
+      "name": "Keiyo South",
+      "wards": {
+        "0745": {
+          "name": "Kaptarakwa",
+          "pollingStations": {
+            "14753": {
+              "name": "Kapkenda Primary School"
+            },
+            "14754": {
+              "name": "Chepsamo Primary School"
+            },
+            "14755": {
+              "name": "Chororget Primary School"
+            },
+            "14756": {
+              "name": "Chemarkach Primary School"
+            },
+            "14757": {
+              "name": "Kiptulos Primary School"
+            },
+            "14758": {
+              "name": "Kaptarkok Primary School"
+            },
+            "14759": {
+              "name": "Chemwabul Primary School"
+            },
+            "14760": {
+              "name": "Mokwo Primary School"
+            },
+            "14761": {
+              "name": "Toroplongon Primary School"
+            },
+            "14762": {
+              "name": "Old Kaptilol Primary School"
+            },
+            "14763": {
+              "name": "Kiepor Primary School"
+            },
+            "14764": {
+              "name": "Kitany Primary School"
+            },
+            "14765": {
+              "name": "Biwott Primary School"
+            },
+            "14766": {
+              "name": "Matungen Primary School"
+            },
+            "14767": {
+              "name": "Orapno Nursery School"
+            },
+            "14768": {
+              "name": "Chebior Primary School"
+            },
+            "14769": {
+              "name": "Sabor Primary School"
+            },
+            "14770": {
+              "name": "Chebulbul Primary School"
+            },
+            "14771": {
+              "name": "Kaptagat Primary School"
+            }
+          }
+        },
+        "0746": {
+          "name": "Chepkorio",
+          "pollingStations": {
+            "14772": {
+              "name": "Sitotwo Primary School"
+            },
+            "14773": {
+              "name": "Kamelil Primary School"
+            },
+            "14774": {
+              "name": "Kamosong Primary School"
+            },
+            "14775": {
+              "name": "Koptega Primary School"
+            },
+            "14776": {
+              "name": "Chepkorio Social Hall"
+            },
+            "14777": {
+              "name": "Emkwen Nursery School"
+            },
+            "14778": {
+              "name": "Flax Primary School"
+            },
+            "14779": {
+              "name": "Senetwo Primary School"
+            },
+            "14780": {
+              "name": "Mosorto Primary School"
+            },
+            "14781": {
+              "name": "Kipchiloi Primary School"
+            },
+            "14782": {
+              "name": "Kaprori Primary School"
+            },
+            "14783": {
+              "name": "Kapletingi Primary School"
+            },
+            "14784": {
+              "name": "Kabalwat Primary School"
+            },
+            "14785": {
+              "name": "Kapcheptek Primary School"
+            },
+            "14786": {
+              "name": "Mindililwo Nursery School"
+            },
+            "14787": {
+              "name": "Mwen Nursery School"
+            },
+            "14788": {
+              "name": "Nyaru Community Hall"
+            },
+            "14789": {
+              "name": "Kipsaina Primary School"
+            },
+            "14790": {
+              "name": "Kapsamich Primary School"
+            },
+            "14791": {
+              "name": "Kamwago Primary School"
+            },
+            "14792": {
+              "name": "Cherota Primary School"
+            },
+            "14793": {
+              "name": "Yatiane Primary School"
+            },
+            "14794": {
+              "name": "Kapngetik Primary School"
+            },
+            "14795": {
+              "name": "Chebire Primary School"
+            },
+            "14796": {
+              "name": "Lelboinet Primary School"
+            },
+            "14797": {
+              "name": "Samituk Nursery School"
+            }
+          }
+        },
+        "0747": {
+          "name": "Soy North",
+          "pollingStations": {
+            "14798": {
+              "name": "Muskut Primary School"
+            },
+            "14799": {
+              "name": "Menone Primary School"
+            },
+            "14800": {
+              "name": "Kapsoo Primary School"
+            },
+            "14801": {
+              "name": "Emsea Primary School"
+            },
+            "14802": {
+              "name": "Rokocho Primary School"
+            },
+            "14803": {
+              "name": "Cheptebo Primary School"
+            },
+            "14804": {
+              "name": "Chekobei Primary School"
+            },
+            "14805": {
+              "name": "Chemurgui Primary School"
+            },
+            "14806": {
+              "name": "Walbei Primary School"
+            },
+            "14807": {
+              "name": "Kaptubei Primary School"
+            },
+            "14808": {
+              "name": "Chepsigot Primary School"
+            },
+            "14809": {
+              "name": "Korober Nursery School"
+            },
+            "14810": {
+              "name": "Toror Primary School"
+            },
+            "14811": {
+              "name": "Epke Primary School"
+            },
+            "14812": {
+              "name": "Surmo Nursery School"
+            },
+            "14813": {
+              "name": "Emis Primary School"
+            },
+            "14814": {
+              "name": "Kewane Nursery School"
+            },
+            "14815": {
+              "name": "Kaptere Primary School"
+            },
+            "14816": {
+              "name": "Changach Barak Primary School"
+            },
+            "14817": {
+              "name": "Kibargoi Nursery School"
+            },
+            "14818": {
+              "name": "Sogom Primary School"
+            },
+            "14819": {
+              "name": "Simit Primary School"
+            },
+            "14820": {
+              "name": "Kapsiekwa Primary School"
+            }
+          }
+        },
+        "0748": {
+          "name": "Soy South",
+          "pollingStations": {
+            "14821": {
+              "name": "Setano Primary School"
+            },
+            "14822": {
+              "name": "Enego Primary School"
+            },
+            "14823": {
+              "name": "Teber Primary School"
+            },
+            "14824": {
+              "name": "Kiptabach Primary School"
+            },
+            "14825": {
+              "name": "Kabechei Primary School"
+            },
+            "14826": {
+              "name": "Kocholwo Secondary School"
+            },
+            "14827": {
+              "name": "Kocholwo Primary School"
+            },
+            "14828": {
+              "name": "Kasar Nursery School"
+            },
+            "14829": {
+              "name": "Molol Primary School"
+            },
+            "14830": {
+              "name": "Terene Nursery School"
+            },
+            "14831": {
+              "name": "Kibigor Primary School"
+            },
+            "14832": {
+              "name": "Katumoi Primary School"
+            },
+            "14833": {
+              "name": "Kimoloi Primary School"
+            },
+            "14834": {
+              "name": "Munyek Nursery School"
+            },
+            "14835": {
+              "name": "Koimur Primary School"
+            },
+            "14836": {
+              "name": "Kapkono Primary School"
+            },
+            "14837": {
+              "name": "Chepsirei Youth Polytechnic"
+            },
+            "14838": {
+              "name": "Kimwarer Secondary School"
+            },
+            "14839": {
+              "name": "Kimwarer Flourspar Canteen"
+            },
+            "14840": {
+              "name": "Kapkosom Primary School"
+            },
+            "14841": {
+              "name": "Turesia Primary School"
+            },
+            "14842": {
+              "name": "Kowochi Primary School"
+            },
+            "14843": {
+              "name": "Kewabwen Primary School"
+            },
+            "14844": {
+              "name": "Chemoibon Primary School"
+            },
+            "14845": {
+              "name": "Kalwal Primary School"
+            },
+            "14846": {
+              "name": "Kapsegut Primary School"
+            },
+            "14847": {
+              "name": "Sesia Primary School"
+            },
+            "14848": {
+              "name": "Kabawa Primary School"
+            },
+            "14849": {
+              "name": "Ngobisi Primary School"
+            },
+            "14850": {
+              "name": "Kipkanao Primary School"
+            },
+            "14851": {
+              "name": "Yaw Yaw Nursery School"
+            }
+          }
+        },
+        "0749": {
+          "name": "Kabiemit",
+          "pollingStations": {
+            "14852": {
+              "name": "Chepketeret Primary School"
+            },
+            "14853": {
+              "name": "Kapchebelel Primary School"
+            },
+            "14854": {
+              "name": "Kimwogo Primary School"
+            },
+            "14855": {
+              "name": "Kapkut Primary School"
+            },
+            "14856": {
+              "name": "Lolgarin Primary School"
+            },
+            "14857": {
+              "name": "Loboen Primary School"
+            },
+            "14858": {
+              "name": "Cheboen Trading Centre"
+            },
+            "14859": {
+              "name": "Poywech Primary School"
+            },
+            "14860": {
+              "name": "Samabul Primary School"
+            },
+            "14861": {
+              "name": "Kipriria Primary School"
+            },
+            "14862": {
+              "name": "Kipkabus Downs Primary School"
+            },
+            "14863": {
+              "name": "Tulwobei Primary School"
+            },
+            "14864": {
+              "name": "Tumeiyo Trading Centre"
+            },
+            "14865": {
+              "name": "Chepkosom Primary School"
+            },
+            "14866": {
+              "name": "Simotwo Secondary School"
+            },
+            "14867": {
+              "name": "Simotwo Primary School"
+            },
+            "14868": {
+              "name": "Kibonge Primary School"
+            },
+            "14869": {
+              "name": "Tambul Primary School"
+            },
+            "14870": {
+              "name": "Kapkitony Primary School"
+            },
+            "14871": {
+              "name": "Ketigoi Primary School"
+            },
+            "14872": {
+              "name": "Chepsinende Nursery School"
+            },
+            "14873": {
+              "name": "Tinone Primary School"
+            },
+            "14874": {
+              "name": "Kogibor Primary School"
+            },
+            "14875": {
+              "name": "Kapsowek Primary School"
+            }
+          }
+        },
+        "0750": {
+          "name": "Metkei",
+          "pollingStations": {
+            "14876": {
+              "name": "Kamwosor Primary School"
+            },
+            "14877": {
+              "name": "Kibomet Primary School"
+            },
+            "14878": {
+              "name": "Kipsaos Primary School"
+            },
+            "14879": {
+              "name": "Kipchorua Primary School"
+            },
+            "14880": {
+              "name": "Kapsergong Primary School"
+            },
+            "14881": {
+              "name": "Kapchorua Primary School"
+            },
+            "14882": {
+              "name": "Kaplolo Nursery School"
+            },
+            "14883": {
+              "name": "Kipteneden Primary School"
+            },
+            "14884": {
+              "name": "Kombatich Primary School"
+            },
+            "14885": {
+              "name": "Kiptengwer Primary School"
+            },
+            "14886": {
+              "name": "Cheboge Primary School"
+            },
+            "14887": {
+              "name": "Tugumoi Primary School"
+            },
+            "14888": {
+              "name": "Chebusie Nursery School"
+            },
+            "14889": {
+              "name": "Werep Primary School"
+            },
+            "14890": {
+              "name": "Kabirirsus Primary School"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Keiyo North",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Keiyo South",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Marakwet East",
+      "type": "Subcounty"
+    },
+    "004": {
+      "name": "Marakwet West",
+      "type": "Subcounty"
+    }
+  }
+}

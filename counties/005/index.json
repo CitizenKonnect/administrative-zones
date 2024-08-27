@@ -1,0 +1,476 @@
+{
+  "name": "Lamu",
+  "type": "County",
+  "code": "005",
+  "constituencies": {
+    "021": {
+      "name": "Lamu East",
+      "wards": {
+        "0101": {
+          "name": "Faza",
+          "pollingStations": {
+            "01598": {
+              "name": "Faza Primary School"
+            },
+            "01599": {
+              "name": "Kizingitini Girls Primary School"
+            },
+            "01600": {
+              "name": "Kizingitini Dispensary"
+            },
+            "01601": {
+              "name": "Mbwajumwali Primary School"
+            },
+            "01602": {
+              "name": "Tchundwa Primary School"
+            },
+            "01603": {
+              "name": "Siyu Primary School"
+            },
+            "01604": {
+              "name": "Shangarubu Social Hall"
+            },
+            "01605": {
+              "name": "Shanga Ishakani Nursery School"
+            },
+            "01606": {
+              "name": "Patte Dispensary"
+            },
+            "01607": {
+              "name": "Mtangawanda Primary School"
+            },
+            "01608": {
+              "name": "Bori Centre Mobile"
+            },
+            "01609": {
+              "name": "Myabogi Primary School"
+            },
+            "01610": {
+              "name": "Kizingitini Secondary School"
+            },
+            "01611": {
+              "name": "Mwangala Centre"
+            },
+            "01612": {
+              "name": "Rasini Girls Primary School"
+            },
+            "01613": {
+              "name": "Faza Boys Nursery School"
+            },
+            "01614": {
+              "name": "Siyu Social Hall"
+            },
+            "01615": {
+              "name": "Patte Primary School"
+            },
+            "01616": {
+              "name": "Mbwajumwali Nursery School"
+            }
+          }
+        },
+        "0102": {
+          "name": "Kiunga",
+          "pollingStations": {
+            "01617": {
+              "name": "Madrasatul Haniffiyah-Ndau"
+            },
+            "01618": {
+              "name": "Ishakani Primaryschool"
+            },
+            "01619": {
+              "name": "Kiunga Primary School"
+            },
+            "01620": {
+              "name": "Mambore Centre"
+            },
+            "01621": {
+              "name": "Mkokoni Primary School"
+            },
+            "01622": {
+              "name": "Ndau Primary School"
+            },
+            "01623": {
+              "name": "Kiwayuu Primary School"
+            },
+            "01624": {
+              "name": "Chandani Primary School"
+            },
+            "01625": {
+              "name": "Rubu Centre"
+            }
+          }
+        },
+        "0103": {
+          "name": "Basuba",
+          "pollingStations": {
+            "01626": {
+              "name": "Milimani Primary School"
+            },
+            "01627": {
+              "name": "Kiangwe Primary School"
+            },
+            "01628": {
+              "name": "Mangai Primaryschool"
+            },
+            "01629": {
+              "name": "Basuba Primary School"
+            },
+            "01630": {
+              "name": "Mararani Primary School"
+            }
+          }
+        }
+      }
+    },
+    "022": {
+      "name": "Lamu West",
+      "wards": {
+        "0104": {
+          "name": "Shella",
+          "pollingStations": {
+            "01631": {
+              "name": "Manda Primary School"
+            },
+            "01632": {
+              "name": "Shella Primary School"
+            },
+            "01633": {
+              "name": "Amu Fisheries"
+            },
+            "01634": {
+              "name": "Manda Yawi Nursery School."
+            },
+            "01635": {
+              "name": "Mararani Village"
+            }
+          }
+        },
+        "0105": {
+          "name": "Mkomani",
+          "pollingStations": {
+            "01636": {
+              "name": "Lamu County Assembly Hall"
+            },
+            "01637": {
+              "name": "Lamu Fort Hall"
+            },
+            "01638": {
+              "name": "Matondoni Primary School"
+            },
+            "01639": {
+              "name": "Kipungani Primary School"
+            },
+            "01640": {
+              "name": "Lamu Boys' Primary School"
+            },
+            "01641": {
+              "name": "Lamu Boys' Secondary School"
+            },
+            "01642": {
+              "name": "Lamu Girls' Secondary School"
+            },
+            "01643": {
+              "name": "Wiyoni Primary School"
+            },
+            "01644": {
+              "name": "Mkomani Girls' Primary School"
+            },
+            "01645": {
+              "name": "Kandahari Playground"
+            },
+            "01646": {
+              "name": "Matondoni Dispensary"
+            },
+            "01647": {
+              "name": "Ama Primary School"
+            },
+            "01648": {
+              "name": "Lamu Youth Polytechnic"
+            }
+          }
+        },
+        "0106": {
+          "name": "Hindi",
+          "pollingStations": {
+            "01649": {
+              "name": "Baragoni Primary School"
+            },
+            "01650": {
+              "name": "Hindi Primary School"
+            },
+            "01651": {
+              "name": "Ndeu Primary School"
+            },
+            "01652": {
+              "name": "Mokowe Primary School"
+            },
+            "01653": {
+              "name": "Arid Zone Primary School"
+            },
+            "01654": {
+              "name": "Kauthara Primary School"
+            },
+            "01655": {
+              "name": "Mngiini Centre"
+            },
+            "01656": {
+              "name": "Ndununi/Mswakini Village"
+            },
+            "01657": {
+              "name": "Safirisi Nursery School"
+            },
+            "01658": {
+              "name": "Kibiboni Primary School"
+            },
+            "01659": {
+              "name": "Kililana Nursery School."
+            },
+            "01660": {
+              "name": "Mkunguni Nursery School"
+            },
+            "01661": {
+              "name": "Kilimani Nursery School."
+            },
+            "01662": {
+              "name": "Bora Imani Nursery School"
+            },
+            "01663": {
+              "name": "Bobo Primary School"
+            },
+            "01664": {
+              "name": "Hindi Dispensary"
+            },
+            "01665": {
+              "name": "Ungu Primary School"
+            }
+          }
+        },
+        "0107": {
+          "name": "Mkunumbi",
+          "pollingStations": {
+            "01666": {
+              "name": "Mapenya Primary School"
+            },
+            "01667": {
+              "name": "Uziwa Primary School"
+            },
+            "01668": {
+              "name": "Uzida Primary Bschool"
+            },
+            "01669": {
+              "name": "Mkunumbi Primary School"
+            },
+            "01670": {
+              "name": "Ndambwe Primary School"
+            },
+            "01671": {
+              "name": "Muhamarani Primary School"
+            },
+            "01672": {
+              "name": "Koreni Primary School"
+            },
+            "01673": {
+              "name": "Kangaja Primary School"
+            },
+            "01674": {
+              "name": "Majembeni Primary School"
+            },
+            "01675": {
+              "name": "Mang'U Primary School"
+            },
+            "01676": {
+              "name": "Muhamarani Dispensary"
+            },
+            "01677": {
+              "name": "Mikinduni Primary School"
+            },
+            "01678": {
+              "name": "Juhudi/Marafa Nursery School"
+            },
+            "01679": {
+              "name": "Poromoko Primary School"
+            },
+            "01680": {
+              "name": "Pangani Primary School"
+            },
+            "01681": {
+              "name": "Salama Primary School"
+            },
+            "01682": {
+              "name": "Manyatta Primary School"
+            },
+            "01683": {
+              "name": "Telelani Primary Schol"
+            }
+          }
+        },
+        "0108": {
+          "name": "Hongwe",
+          "pollingStations": {
+            "01684": {
+              "name": "Bomani Primary School"
+            },
+            "01685": {
+              "name": "Mugumoini Primary School"
+            },
+            "01686": {
+              "name": "Hongwe Primary School"
+            },
+            "01687": {
+              "name": "Mini Valley Primary School"
+            },
+            "01688": {
+              "name": "Sese Primary School"
+            },
+            "01689": {
+              "name": "Msefuni Primary School"
+            },
+            "01690": {
+              "name": "Heshima Primary School"
+            },
+            "01691": {
+              "name": "Sinambio Primary School"
+            },
+            "01692": {
+              "name": "Jericho Primary School"
+            }
+          }
+        },
+        "0109": {
+          "name": "Witu",
+          "pollingStations": {
+            "01693": {
+              "name": "Maisha Masha Primary School"
+            },
+            "01694": {
+              "name": "Katsaka Kairu Primary School"
+            },
+            "01695": {
+              "name": "Moa Primary School"
+            },
+            "01696": {
+              "name": "Chalaluma Primary.School"
+            },
+            "01697": {
+              "name": "Dide Waride Primary School"
+            },
+            "01698": {
+              "name": "Pandanguo Primary School"
+            },
+            "01699": {
+              "name": "Witu Primary School"
+            },
+            "01700": {
+              "name": "Boko Primary School"
+            },
+            "01701": {
+              "name": "Vipingoni Primary School"
+            },
+            "01702": {
+              "name": "Soroko Primary School"
+            },
+            "01703": {
+              "name": "Lingamano Nursery School"
+            },
+            "01704": {
+              "name": "Witu Secondary School"
+            },
+            "01705": {
+              "name": "Sendemke Primary School"
+            },
+            "01706": {
+              "name": "Witu Mjini Secondary."
+            },
+            "01707": {
+              "name": "Rehema Primary School"
+            },
+            "01708": {
+              "name": "Jipendeni Primary School"
+            },
+            "01709": {
+              "name": "Amkeni Primary School"
+            },
+            "01710": {
+              "name": "Coast Arid Secondary School"
+            },
+            "01711": {
+              "name": "Maleli Primary School"
+            },
+            "01712": {
+              "name": "Kakathe Primary School"
+            }
+          }
+        },
+        "0110": {
+          "name": "Bahari",
+          "pollingStations": {
+            "01713": {
+              "name": "Bahari Primary School"
+            },
+            "01714": {
+              "name": "Lake Amu Primary School"
+            },
+            "01715": {
+              "name": "Swabaha Primary School"
+            },
+            "01716": {
+              "name": "Tewe Primary School"
+            },
+            "01717": {
+              "name": "Ngoi Primary School"
+            },
+            "01718": {
+              "name": "Lake Kenyatta Primary School"
+            },
+            "01719": {
+              "name": "Kiongwe Primary School"
+            },
+            "01720": {
+              "name": "Umoja Primary School"
+            },
+            "01721": {
+              "name": "Lakeside Primary School"
+            },
+            "01722": {
+              "name": "Zikomani Primary School"
+            },
+            "01723": {
+              "name": "Bahati Primary School"
+            },
+            "01724": {
+              "name": "Kilimani Primary School"
+            },
+            "01725": {
+              "name": "Lake Kenyatta  Atc"
+            },
+            "01726": {
+              "name": "Ziwani Primary School"
+            },
+            "01727": {
+              "name": "Muungano Primary School"
+            },
+            "01728": {
+              "name": "Oceanview Primaryschool"
+            },
+            "01729": {
+              "name": "Mpeketoni Youth Polytechnic"
+            },
+            "01730": {
+              "name": "Mlei Nursery School"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Lamu East",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Lamu West",
+      "type": "Subcounty"
+    }
+  }
+}

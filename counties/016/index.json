@@ -1,0 +1,3141 @@
+{
+  "name": "Machakos",
+  "type": "County",
+  "code": "016",
+  "constituencies": {
+    "075": {
+      "name": "Masinga",
+      "wards": {
+        "0371": {
+          "name": "Kivaa",
+          "pollingStations": {
+            "07467": {
+              "name": "Utithini Primary School"
+            },
+            "07468": {
+              "name": "Kanguu Primary School"
+            },
+            "07469": {
+              "name": "Kyaani Primary School"
+            },
+            "07470": {
+              "name": "Masaku Primary School"
+            },
+            "07471": {
+              "name": "Vondeni Primary School"
+            },
+            "07472": {
+              "name": "Kithoni Primary School"
+            },
+            "07473": {
+              "name": "Kivaa Primary School"
+            },
+            "07474": {
+              "name": "Nunguni Primary School"
+            },
+            "07475": {
+              "name": "Kamunyu Primary School"
+            },
+            "07476": {
+              "name": "Kithuia Primary School"
+            },
+            "07477": {
+              "name": "Citycotton Market"
+            },
+            "07478": {
+              "name": "Uvaini Primary School"
+            },
+            "07479": {
+              "name": "Kikuuni Primary School"
+            },
+            "07480": {
+              "name": "Kwakyumbo Primary School"
+            },
+            "07481": {
+              "name": "Mutembuku Primary School"
+            },
+            "07482": {
+              "name": "Kyondoni Primary School"
+            },
+            "07483": {
+              "name": "Iiani Primary School"
+            },
+            "07484": {
+              "name": "Kiambani Primary School"
+            },
+            "07485": {
+              "name": "Kisaani Primary School"
+            },
+            "07486": {
+              "name": "Kamuthumba Primary School"
+            },
+            "07487": {
+              "name": "Aic Scott Mukaa Nursery School"
+            },
+            "07488": {
+              "name": "Twamakaa Primary School"
+            },
+            "07489": {
+              "name": "Kiseuni Primary School"
+            },
+            "07490": {
+              "name": "Ielanthi Primary School"
+            },
+            "07491": {
+              "name": "Katisaa Primary School"
+            },
+            "07492": {
+              "name": "Ngomola Primary School"
+            },
+            "07493": {
+              "name": "Mwatungo Primary School"
+            },
+            "07494": {
+              "name": "Kithyoko Primary School"
+            },
+            "07495": {
+              "name": "Mukengesya Nursery School"
+            },
+            "07496": {
+              "name": "Muthembwa Primary School"
+            },
+            "07497": {
+              "name": "Muambani Primary School"
+            },
+            "07498": {
+              "name": "Kanyonga Primary School"
+            },
+            "07499": {
+              "name": "Kangundu Nursery School"
+            },
+            "07500": {
+              "name": "Muthithu Primary School"
+            },
+            "07501": {
+              "name": "Eendei Primary School"
+            },
+            "07502": {
+              "name": "Miangeni Primary School"
+            },
+            "07503": {
+              "name": "Iuuma Primary School"
+            },
+            "07504": {
+              "name": "Kaonyweni Primary School"
+            },
+            "07505": {
+              "name": "Mbingoni Primary School"
+            },
+            "07506": {
+              "name": "Kaliluni Primary School"
+            },
+            "07507": {
+              "name": "Inyanzaa Primary School"
+            },
+            "07508": {
+              "name": "Thatha Primary School"
+            },
+            "07509": {
+              "name": "Ndelekeni Primary School"
+            },
+            "07510": {
+              "name": "Kimuuni Primary School"
+            },
+            "07511": {
+              "name": "Kamangulu Primary School"
+            },
+            "07512": {
+              "name": "Matendeni Nursery School"
+            }
+          }
+        },
+        "0372": {
+          "name": "Masinga Central",
+          "pollingStations": {
+            "07513": {
+              "name": "Masinga Primary School"
+            },
+            "07514": {
+              "name": "Kivuthi Primary School"
+            },
+            "07515": {
+              "name": "Kyeeteni Primary School"
+            },
+            "07516": {
+              "name": "Mukameni Primary School"
+            },
+            "07517": {
+              "name": "Musingini Primary School"
+            },
+            "07518": {
+              "name": "Mutwamwaki Primary School"
+            },
+            "07519": {
+              "name": "Kyaani Primary School"
+            },
+            "07520": {
+              "name": "Kangonde Primary School"
+            },
+            "07521": {
+              "name": "Kitangani Primary School"
+            },
+            "07522": {
+              "name": "Kwakatuta Primary School"
+            },
+            "07523": {
+              "name": "Misewani Primary School"
+            },
+            "07524": {
+              "name": "Ulutya Primary School"
+            },
+            "07525": {
+              "name": "Kikumini Primary School"
+            },
+            "07526": {
+              "name": "Kathui Primary School"
+            },
+            "07527": {
+              "name": "Makila Primary School"
+            },
+            "07528": {
+              "name": "Mikuyuni Primary School"
+            },
+            "07529": {
+              "name": "Kwasuvu Primary School"
+            },
+            "07530": {
+              "name": "Tulimyumbu Primary School"
+            },
+            "07531": {
+              "name": "Ngenda Nursery School"
+            },
+            "07532": {
+              "name": "Kituneni Primary School"
+            },
+            "07533": {
+              "name": "Makongeni Primary School"
+            },
+            "07534": {
+              "name": "Katulye Primary School"
+            },
+            "07535": {
+              "name": "Ngukemwe Primary School"
+            },
+            "07536": {
+              "name": "Katothya Primary School"
+            },
+            "07537": {
+              "name": "Kathiani Primary School"
+            },
+            "07538": {
+              "name": "Kyangosi Primary School"
+            },
+            "07539": {
+              "name": "Makutano Yandei Primary School"
+            },
+            "07540": {
+              "name": "Mukusu Primary School"
+            },
+            "07541": {
+              "name": "Sawasawa Nursery School"
+            },
+            "07542": {
+              "name": "Musumaa Primary School"
+            },
+            "07543": {
+              "name": "Kinguutheni Primary School"
+            },
+            "07544": {
+              "name": "Myanyani Primary School"
+            },
+            "07545": {
+              "name": "Kaluluini Primary School"
+            },
+            "07546": {
+              "name": "Kavwea  Nursery School"
+            },
+            "07547": {
+              "name": "Kwakaindi Primary School"
+            },
+            "07548": {
+              "name": "Kithambioni Primary School"
+            },
+            "07549": {
+              "name": "Masinga Dam Resort Camp Site"
+            },
+            "07550": {
+              "name": "Masinga Youth Polytechnic"
+            }
+          }
+        },
+        "0373": {
+          "name": "Ekalakala",
+          "pollingStations": {
+            "07551": {
+              "name": "Mukayauni Primary School"
+            },
+            "07552": {
+              "name": "Nzukini Primary School"
+            },
+            "07553": {
+              "name": "Maviu Maiu Primary School"
+            },
+            "07554": {
+              "name": "Wendano Primary School"
+            },
+            "07555": {
+              "name": "Ekalakala Youth Polytechnic"
+            },
+            "07556": {
+              "name": "Munandani Primary School"
+            },
+            "07557": {
+              "name": "Kiangeni Primary School"
+            },
+            "07558": {
+              "name": "Isyukoni Primary School"
+            },
+            "07559": {
+              "name": "Kathini Primary School"
+            },
+            "07560": {
+              "name": "Ekalakala Primary School"
+            },
+            "07561": {
+              "name": "Kakuku Primary School"
+            },
+            "07562": {
+              "name": "Wamboo Primary School"
+            },
+            "07563": {
+              "name": "Mikameni Primary School"
+            },
+            "07564": {
+              "name": "Kwamulinga Primary School"
+            },
+            "07565": {
+              "name": "Kwakalunde Primary School"
+            },
+            "07566": {
+              "name": "Kwawanzilu Primary School"
+            },
+            "07567": {
+              "name": "Kikule Primary School"
+            },
+            "07568": {
+              "name": "Ikaatini Primary School"
+            },
+            "07569": {
+              "name": "Col. Kiluta Primary School"
+            },
+            "07570": {
+              "name": "Mikuyu Primary School"
+            },
+            "07571": {
+              "name": "Mathauta Primary School"
+            },
+            "07572": {
+              "name": "Kwambengei Primary School"
+            }
+          }
+        },
+        "0374": {
+          "name": "Muthesya",
+          "pollingStations": {
+            "07573": {
+              "name": "Kikomba Primary School"
+            },
+            "07574": {
+              "name": "Nzii Primary School"
+            },
+            "07575": {
+              "name": "Milaani Primary School"
+            },
+            "07576": {
+              "name": "Misuuni Primary School"
+            },
+            "07577": {
+              "name": "Kathukini Primary School"
+            },
+            "07578": {
+              "name": "Muthesya Primary School"
+            },
+            "07579": {
+              "name": "Lungulueni Primary School"
+            },
+            "07580": {
+              "name": "Kaseve Primary School"
+            },
+            "07581": {
+              "name": "Kwamboo Primary School"
+            },
+            "07582": {
+              "name": "Muambani Primary School"
+            },
+            "07583": {
+              "name": "Kikule Primary School"
+            },
+            "07584": {
+              "name": "Kuthea Nursery School"
+            },
+            "07585": {
+              "name": "Mathenge Primary School"
+            },
+            "07586": {
+              "name": "Lulamba Primary School"
+            },
+            "07587": {
+              "name": "Kamaimba Primary School"
+            },
+            "07588": {
+              "name": "Iiani Primary School"
+            }
+          }
+        },
+        "0375": {
+          "name": "Ndithini",
+          "pollingStations": {
+            "07589": {
+              "name": "Tumutumu Primary School"
+            },
+            "07590": {
+              "name": "Matheng'Eta Primary School"
+            },
+            "07591": {
+              "name": "Kwamuthike Market"
+            },
+            "07592": {
+              "name": "Muri Farm Primary School"
+            },
+            "07593": {
+              "name": "Manguli Primary School"
+            },
+            "07594": {
+              "name": "Matema Primary School"
+            },
+            "07595": {
+              "name": "Mananja Primary School"
+            },
+            "07596": {
+              "name": "Katulye Primary School"
+            },
+            "07597": {
+              "name": "Kasuvilo Primary School"
+            },
+            "07598": {
+              "name": "Mchoka Bure Market"
+            },
+            "07599": {
+              "name": "Ndela Primary School"
+            },
+            "07600": {
+              "name": "Greenhill Primary School"
+            },
+            "07601": {
+              "name": "Ndovoini Primary School"
+            },
+            "07602": {
+              "name": "Kivani Primary School"
+            },
+            "07603": {
+              "name": "Kawethei Primary School"
+            },
+            "07604": {
+              "name": "St.Michael Primary School"
+            },
+            "07605": {
+              "name": "Ndithini Primary School"
+            },
+            "07606": {
+              "name": "Mbusyani Primary School"
+            },
+            "07607": {
+              "name": "Kivutini Primary School"
+            },
+            "07608": {
+              "name": "Tana Ranch Primary School"
+            },
+            "07609": {
+              "name": "Kavilila Primary School"
+            }
+          }
+        }
+      }
+    },
+    "076": {
+      "name": "Yatta",
+      "wards": {
+        "0376": {
+          "name": "Ndalani",
+          "pollingStations": {
+            "07610": {
+              "name": "Kisiiki Primary School"
+            },
+            "07611": {
+              "name": "Ilumanthi Primary School"
+            },
+            "07612": {
+              "name": "Kaloleni Primary School"
+            },
+            "07613": {
+              "name": "Ngoliba Hgm Primary School"
+            },
+            "07614": {
+              "name": "Mavoloni Primary School"
+            },
+            "07615": {
+              "name": "Nthungululu Primary School"
+            },
+            "07616": {
+              "name": "Kwa Kulu Primary School"
+            },
+            "07617": {
+              "name": "Ndalani Primary School"
+            },
+            "07618": {
+              "name": "Iviani Primary School"
+            },
+            "07619": {
+              "name": "Iatineni Primary School"
+            },
+            "07620": {
+              "name": "Kivingoni Primary School"
+            },
+            "07621": {
+              "name": "Mutyamboo Primary School"
+            },
+            "07622": {
+              "name": "Inyanzaani Primary School"
+            },
+            "07623": {
+              "name": "Muusini Primary School"
+            },
+            "07624": {
+              "name": "Kangemi Primary School"
+            },
+            "07625": {
+              "name": "Matangini Primary School"
+            },
+            "07626": {
+              "name": "Uvouni Primary School"
+            },
+            "07627": {
+              "name": "Kwa Kathule(Katangini) Nursery School"
+            },
+            "07628": {
+              "name": "Kithyolo Primary School"
+            },
+            "07629": {
+              "name": "Kiwanzani(Kaluluini Nursary)School"
+            },
+            "07630": {
+              "name": "Kalimatula Primary School"
+            },
+            "07631": {
+              "name": "Kakongo Primary School"
+            },
+            "07632": {
+              "name": "Kithuiani Pre School"
+            },
+            "07633": {
+              "name": "St Peters Ecd Center"
+            },
+            "07634": {
+              "name": "Muliluni Nusery School"
+            },
+            "07635": {
+              "name": "Mbanda Primary"
+            },
+            "07636": {
+              "name": "New Apostolic Kisiiki Church"
+            },
+            "07637": {
+              "name": "Mukuyuni Primary School"
+            },
+            "07638": {
+              "name": "Zion Pre School"
+            },
+            "07639": {
+              "name": "St. Lucy Academy"
+            },
+            "07640": {
+              "name": "Kiuni  Sa. Church"
+            }
+          }
+        },
+        "0377": {
+          "name": "Matuu",
+          "pollingStations": {
+            "07641": {
+              "name": "Munina  Sa Primary School"
+            },
+            "07642": {
+              "name": "Matuu Hgm Primary School"
+            },
+            "07643": {
+              "name": "Mukalala Primary School"
+            },
+            "07644": {
+              "name": "Isaani Nursery School"
+            },
+            "07645": {
+              "name": "Kwa Mwatu Primary School"
+            },
+            "07646": {
+              "name": "Katulani Primary School"
+            },
+            "07647": {
+              "name": "Kaluluini Primary School"
+            },
+            "07648": {
+              "name": "Ithekethini Primary School"
+            },
+            "07649": {
+              "name": "Mbingoni Primary School"
+            },
+            "07650": {
+              "name": "Kaonyweni Primary School"
+            },
+            "07651": {
+              "name": "Kwausau Primary School"
+            },
+            "07652": {
+              "name": "Kilungu Primary School"
+            },
+            "07653": {
+              "name": "Makivenzi Primary School"
+            },
+            "07654": {
+              "name": "Masewani Primary School"
+            },
+            "07655": {
+              "name": "Sinai Primary School"
+            },
+            "07656": {
+              "name": "Maiuni Catholic Church"
+            },
+            "07657": {
+              "name": "Kathangathini Primary School"
+            },
+            "07658": {
+              "name": "Kalia Ecde School"
+            },
+            "07659": {
+              "name": "Malikiti Ecde School"
+            },
+            "07660": {
+              "name": "Kamuu Ecde School"
+            },
+            "07661": {
+              "name": "Kalaani Primary School"
+            },
+            "07662": {
+              "name": "Syuki Primary School"
+            },
+            "07663": {
+              "name": "Kakumini Primary School"
+            }
+          }
+        },
+        "0378": {
+          "name": "Kithimani",
+          "pollingStations": {
+            "07664": {
+              "name": "Ianguni Primary School"
+            },
+            "07665": {
+              "name": "N.Y.S Huduma Academy Yatta"
+            },
+            "07666": {
+              "name": "Vota Primary School"
+            },
+            "07667": {
+              "name": "Kamweani Primary School"
+            },
+            "07668": {
+              "name": "Nguumo Primary School"
+            },
+            "07669": {
+              "name": "Kithimani Hgm Primary School"
+            },
+            "07670": {
+              "name": "Kithendu Primary School"
+            },
+            "07671": {
+              "name": "Kaumoni Primary School"
+            },
+            "07672": {
+              "name": "Kauthulini Primary School"
+            },
+            "07673": {
+              "name": "Kauukuni Primary School"
+            },
+            "07674": {
+              "name": "Kambi Ya Ndeke Primary School"
+            },
+            "07675": {
+              "name": "Kalukuni Sa Primary School"
+            },
+            "07676": {
+              "name": "Mamba Primary School"
+            },
+            "07677": {
+              "name": "Kwa Kitema Primary School"
+            },
+            "07678": {
+              "name": "Ukakaani Nursery School"
+            },
+            "07679": {
+              "name": "Makutano Abc Primary School"
+            },
+            "07680": {
+              "name": "Yeemwatu Primary School"
+            },
+            "07681": {
+              "name": "Kondo Primary School"
+            },
+            "07682": {
+              "name": "Kwakoko Primary School"
+            },
+            "07683": {
+              "name": "Yatta Gk Prison"
+            },
+            "07684": {
+              "name": "Kautuluni Primary School"
+            },
+            "07685": {
+              "name": "Kithimani Aic Primary School"
+            },
+            "07686": {
+              "name": "Sofia Primary School"
+            },
+            "07687": {
+              "name": "Kithianioni Primary School"
+            }
+          }
+        },
+        "0379": {
+          "name": "Ikombe",
+          "pollingStations": {
+            "07688": {
+              "name": "Kikesa Primary School"
+            },
+            "07689": {
+              "name": "Mathingau Primary School"
+            },
+            "07690": {
+              "name": "Maiuni Primary School"
+            },
+            "07691": {
+              "name": "Kamuthambya Primary School"
+            },
+            "07692": {
+              "name": "Makutano  Day And Boarding Primary School"
+            },
+            "07693": {
+              "name": "Kionyweni Primary School"
+            },
+            "07694": {
+              "name": "Myumbuni Primary School"
+            },
+            "07695": {
+              "name": "Kinyaata Primary School"
+            },
+            "07696": {
+              "name": "Ngangani Primary School"
+            },
+            "07697": {
+              "name": "Katutuni Primary School"
+            },
+            "07698": {
+              "name": "Muusini Primary School"
+            },
+            "07699": {
+              "name": "Nguumo Primary School"
+            },
+            "07700": {
+              "name": "Mwambathaana Primary School"
+            },
+            "07701": {
+              "name": "Kyasioni Primary School"
+            },
+            "07702": {
+              "name": "Kitheuni Primary School"
+            },
+            "07703": {
+              "name": "Kalyambeu Primary School"
+            },
+            "07704": {
+              "name": "Kinaka Primary School"
+            },
+            "07705": {
+              "name": "Kiimani Primary School"
+            },
+            "07706": {
+              "name": "Ikombe Primary School"
+            },
+            "07707": {
+              "name": "Munyiiki Primary School"
+            },
+            "07708": {
+              "name": "Kitololo Primary School"
+            },
+            "07709": {
+              "name": "Mangweti Primary School"
+            },
+            "07710": {
+              "name": "Kithito Primary School"
+            },
+            "07711": {
+              "name": "Kathangathini Primary School"
+            },
+            "07712": {
+              "name": "Ting'Ang'A Primary School"
+            },
+            "07713": {
+              "name": "Naivasa Primary School"
+            },
+            "07714": {
+              "name": "Tulima Primary School"
+            },
+            "07715": {
+              "name": "Ndalasyani Primary School"
+            },
+            "07716": {
+              "name": "Kavingo  Primary School"
+            },
+            "07717": {
+              "name": "Kasooni Primary School"
+            },
+            "07718": {
+              "name": "Kangoko Primary School"
+            },
+            "07719": {
+              "name": "Kilaatu Primary School"
+            },
+            "07720": {
+              "name": "Kalama Primary School"
+            },
+            "07721": {
+              "name": "Mwitasyano Primary School"
+            },
+            "07722": {
+              "name": "Kalandini Primary School"
+            },
+            "07723": {
+              "name": "Mbembani Primary School"
+            },
+            "07724": {
+              "name": "Kanguma Primary School"
+            },
+            "07725": {
+              "name": "Kithoma Catholic Church"
+            },
+            "07726": {
+              "name": "Kaamani  A.I.C  Church"
+            },
+            "07727": {
+              "name": "Ivutini Primary School"
+            },
+            "07728": {
+              "name": "Malivini Primary School"
+            },
+            "07729": {
+              "name": "Kimuuni Primary School"
+            },
+            "07730": {
+              "name": "Uvaini Primary School"
+            },
+            "07731": {
+              "name": "Kiusyani Primary School"
+            },
+            "07732": {
+              "name": "Kathamani Primary School"
+            }
+          }
+        },
+        "0380": {
+          "name": "Katangi",
+          "pollingStations": {
+            "07733": {
+              "name": "Katangi Secondary School"
+            },
+            "07734": {
+              "name": "St. Stephen Kalala Catholic Church"
+            },
+            "07735": {
+              "name": "Kikuyuni Primary School"
+            },
+            "07736": {
+              "name": "Kaliani Primary School"
+            },
+            "07737": {
+              "name": "Mekilingi Primary School"
+            },
+            "07738": {
+              "name": "Mombuni Primary School"
+            },
+            "07739": {
+              "name": "Kyaani Primary School"
+            },
+            "07740": {
+              "name": "Kyua Primary School"
+            },
+            "07741": {
+              "name": "Kavingo Primary School"
+            },
+            "07742": {
+              "name": "Masaani Primary School"
+            },
+            "07743": {
+              "name": "Mbuini Primary School"
+            },
+            "07744": {
+              "name": "Kiamani Primary School"
+            },
+            "07745": {
+              "name": "Syokisinga Primary School"
+            },
+            "07746": {
+              "name": "Makila Primary School"
+            },
+            "07747": {
+              "name": "Ndiuni Primary School"
+            },
+            "07748": {
+              "name": "Ngumbulu Primary School"
+            },
+            "07749": {
+              "name": "Kakunike Primary School"
+            },
+            "07750": {
+              "name": "Kikeneani Primary School"
+            },
+            "07751": {
+              "name": "Iiani Primary School"
+            },
+            "07752": {
+              "name": "Kiuukuni Primary School"
+            },
+            "07753": {
+              "name": "Katangi Primary School"
+            },
+            "07754": {
+              "name": "Kalulini Primary School"
+            },
+            "07755": {
+              "name": "Yumbuni Primary School"
+            },
+            "07756": {
+              "name": "Jimmy Hill(Kiusyani) Primary School"
+            },
+            "07757": {
+              "name": "Kithoni Ecde"
+            },
+            "07758": {
+              "name": "Malatani Primary School"
+            },
+            "07759": {
+              "name": "Kisaani Primary School"
+            },
+            "07760": {
+              "name": "Mwaani Ecde"
+            },
+            "07761": {
+              "name": "Ivutu Primary School"
+            },
+            "07762": {
+              "name": "Kisesini Catholic Church"
+            },
+            "07763": {
+              "name": "Thome Feeder Ecde"
+            },
+            "07764": {
+              "name": "A.I.C Mathitha"
+            },
+            "07765": {
+              "name": "Ititu A.I.C"
+            },
+            "07766": {
+              "name": "Utumoni A.I.C"
+            },
+            "07767": {
+              "name": "St Francis Morramuni(Nguswini) Primary School"
+            }
+          }
+        }
+      }
+    },
+    "077": {
+      "name": "Kangundo",
+      "wards": {
+        "0381": {
+          "name": "Kangundo North",
+          "pollingStations": {
+            "07768": {
+              "name": "Abc Kathithyamaa Primary School"
+            },
+            "07769": {
+              "name": "Matungulu Aic Primary School"
+            },
+            "07770": {
+              "name": "Kitwii Boys Primary School"
+            },
+            "07771": {
+              "name": "Kawauni Primary School"
+            },
+            "07772": {
+              "name": "Kanzalu Hill Primary School"
+            },
+            "07773": {
+              "name": "Kikambuani Primary School"
+            },
+            "07774": {
+              "name": "Unyuani Primary School"
+            },
+            "07775": {
+              "name": "Kwa Ndiu Primary School"
+            },
+            "07776": {
+              "name": "Kyelendu Primary School"
+            },
+            "07777": {
+              "name": "St. Martin Kitwii Primary School"
+            },
+            "07778": {
+              "name": "Mbilini Primary School"
+            },
+            "07779": {
+              "name": "Mikoikoni Deb Primary School"
+            },
+            "07780": {
+              "name": "Kivuluni Primary School"
+            },
+            "07781": {
+              "name": "Kamutonga Primary School"
+            },
+            "07782": {
+              "name": "Ituusya Primary School"
+            },
+            "07783": {
+              "name": "St Francis Primary School (Misyani)"
+            },
+            "07784": {
+              "name": "Abc Kathithyamaa Secondary School"
+            },
+            "07785": {
+              "name": "Ikulu Nursery School"
+            },
+            "07786": {
+              "name": "Kathinzioni Nursery School"
+            },
+            "07787": {
+              "name": "Kawauni Secondary School"
+            },
+            "07788": {
+              "name": "Kikambuani Aic Secondary School"
+            },
+            "07789": {
+              "name": "St. Martins' Kitwii Secondary School"
+            },
+            "07790": {
+              "name": "Kwa Mbalu Primary School"
+            },
+            "07791": {
+              "name": "Kwa Mwilile Deb Primary School"
+            },
+            "07792": {
+              "name": "Misyani Youth Polytechnic"
+            },
+            "07793": {
+              "name": "St Michael Unyuani Secondary School"
+            },
+            "07794": {
+              "name": "Unyuani Coffee Factory Offices"
+            }
+          }
+        },
+        "0382": {
+          "name": "Kangundo Central",
+          "pollingStations": {
+            "07795": {
+              "name": "Kilalani Deb Primary School"
+            },
+            "07796": {
+              "name": "Kangundo Deb Integrated Primary School"
+            },
+            "07797": {
+              "name": "A.I.C Matetani Primary School"
+            },
+            "07798": {
+              "name": "Mulingana Primary School"
+            },
+            "07799": {
+              "name": "Kambai Primary School"
+            },
+            "07800": {
+              "name": "Kangundo Social Hall"
+            },
+            "07801": {
+              "name": "Aic Kangundo Primary School"
+            },
+            "07802": {
+              "name": "Abc Masewani Primary School"
+            },
+            "07803": {
+              "name": "Kyai Primary School"
+            },
+            "07804": {
+              "name": "Mbondoni Primary School"
+            },
+            "07805": {
+              "name": "Kanzokea Primary School"
+            },
+            "07806": {
+              "name": "Ngulini Primary School"
+            },
+            "07807": {
+              "name": "Kyaaka Primary School"
+            },
+            "07808": {
+              "name": "Kangundo High School"
+            },
+            "07809": {
+              "name": "Kangundo Market Hall"
+            },
+            "07810": {
+              "name": "Kilalani Coffee Factory Offices"
+            },
+            "07811": {
+              "name": "Kithumuoni Nursery School"
+            },
+            "07812": {
+              "name": "Kwamangu Coffee Factory Offices"
+            },
+            "07813": {
+              "name": "Matetani Secondary School"
+            },
+            "07814": {
+              "name": "Muisuni Coffee Factory Offices"
+            },
+            "07815": {
+              "name": "St. Thomas Aquinas Mulingana Secondary School"
+            },
+            "07816": {
+              "name": "Kwa Kituna Nursery School"
+            }
+          }
+        },
+        "0383": {
+          "name": "Kangundo East",
+          "pollingStations": {
+            "07817": {
+              "name": "Kavilinguni Day & Boarding Primary School"
+            },
+            "07818": {
+              "name": "Kathiini Primary School"
+            },
+            "07819": {
+              "name": "Kwa Kathule Primary School"
+            },
+            "07820": {
+              "name": "Kathome Deb Primary School"
+            },
+            "07821": {
+              "name": "Kamanzi S.A Primary School"
+            },
+            "07822": {
+              "name": "Iia-Itune Primary School"
+            },
+            "07823": {
+              "name": "Matithini Primary School"
+            },
+            "07824": {
+              "name": "Kinyungu Primary School"
+            },
+            "07825": {
+              "name": "Manyatta Primary School"
+            },
+            "07826": {
+              "name": "Miu Abc Primary School"
+            },
+            "07827": {
+              "name": "Kithuiani Primary School"
+            },
+            "07828": {
+              "name": "Ngomani Primary School"
+            },
+            "07829": {
+              "name": "Kivi Deb Primary School"
+            },
+            "07830": {
+              "name": "Mususye Primary School"
+            },
+            "07831": {
+              "name": "Malatani Primary School"
+            },
+            "07832": {
+              "name": "Kithunthi S.A Primary School"
+            },
+            "07833": {
+              "name": "Imilini Secondary School"
+            },
+            "07834": {
+              "name": "Kwa Mwenze Primary School"
+            },
+            "07835": {
+              "name": "Kivaani Township Primary School"
+            },
+            "07836": {
+              "name": "Mukuyuni S.A Primary School"
+            },
+            "07837": {
+              "name": "A.B.C Katatha Maweu Primary School Kaseveni"
+            },
+            "07838": {
+              "name": "Kamanzi Secondary School"
+            },
+            "07839": {
+              "name": "Kavilinguni  High School"
+            },
+            "07840": {
+              "name": "Kisekini Nursery School"
+            },
+            "07841": {
+              "name": "Kwa Kathule Secondary School"
+            },
+            "07842": {
+              "name": "Kyaana Coffee Factory Offices"
+            }
+          }
+        },
+        "0384": {
+          "name": "Kangundo West",
+          "pollingStations": {
+            "07843": {
+              "name": "Kawethei Sa Primary School"
+            },
+            "07844": {
+              "name": "Kwa Ndeto Primary School"
+            },
+            "07845": {
+              "name": "Kikalu Primary School"
+            },
+            "07846": {
+              "name": "Kawethei Hgm Primary School"
+            },
+            "07847": {
+              "name": "Kathaana Primary School"
+            },
+            "07848": {
+              "name": "Mbusyani Primary School"
+            },
+            "07849": {
+              "name": "Kyevaluki Primary School"
+            },
+            "07850": {
+              "name": "Kiomo Primary School"
+            },
+            "07851": {
+              "name": "Kakuyuni Primary School"
+            },
+            "07852": {
+              "name": "Kakutha Primary School"
+            },
+            "07853": {
+              "name": "Kamwanyani Primary School"
+            },
+            "07854": {
+              "name": "S.A Syanthi Primary School"
+            },
+            "07855": {
+              "name": "Kitongi Primary School"
+            },
+            "07856": {
+              "name": "Syanamu Primary School"
+            },
+            "07857": {
+              "name": "Kakuyuni Secondary School"
+            },
+            "07858": {
+              "name": "Kawethei Secondary School"
+            },
+            "07859": {
+              "name": "Kikondeni Primary School"
+            },
+            "07860": {
+              "name": "Kilindiloni Primary School"
+            },
+            "07861": {
+              "name": "Kyevaluki Secondary School"
+            },
+            "07862": {
+              "name": "Mbusyani Secondary School"
+            },
+            "07863": {
+              "name": "Mukunike Aic Primary School"
+            }
+          }
+        }
+      }
+    },
+    "078": {
+      "name": "Matungulu",
+      "wards": {
+        "0385": {
+          "name": "Tala",
+          "pollingStations": {
+            "07864": {
+              "name": "Katine Sa Primary School"
+            },
+            "07865": {
+              "name": "Tala Boys Primary School"
+            },
+            "07866": {
+              "name": "Katine Hgm Primary School"
+            },
+            "07867": {
+              "name": "Syanthi Hgm Primary School"
+            },
+            "07868": {
+              "name": "Tala Township Primary School"
+            },
+            "07869": {
+              "name": "Kyaume Primary School"
+            },
+            "07870": {
+              "name": "Kyamulendu Primary School"
+            },
+            "07871": {
+              "name": "Sengani Primary School"
+            },
+            "07872": {
+              "name": "Kikaatini Primary School"
+            },
+            "07873": {
+              "name": "Ngonda Trading Centre"
+            },
+            "07874": {
+              "name": "Kaende Trading Centre"
+            },
+            "07875": {
+              "name": "Ngomeni Primary School"
+            },
+            "07876": {
+              "name": "Sengani Girls Secondary School"
+            },
+            "07877": {
+              "name": "Tala Girls High School"
+            },
+            "07878": {
+              "name": "Tala Girls Primary School"
+            },
+            "07879": {
+              "name": "Mukalwa Primary School"
+            }
+          }
+        },
+        "0386": {
+          "name": "Matungulu North",
+          "pollingStations": {
+            "07880": {
+              "name": "Donyo Ol Sabuk Primary School"
+            },
+            "07881": {
+              "name": "Kitambasye Primary School"
+            },
+            "07882": {
+              "name": "Uamani Primary School"
+            },
+            "07883": {
+              "name": "Kisitimani Primary School"
+            },
+            "07884": {
+              "name": "Kithuiani Primary School"
+            },
+            "07885": {
+              "name": "Kayata Primary School"
+            },
+            "07886": {
+              "name": "Kiliku Primary School"
+            },
+            "07887": {
+              "name": "Kianzabe Primary School"
+            },
+            "07888": {
+              "name": "Kituluni Primary School"
+            },
+            "07889": {
+              "name": "Itetani Primary School"
+            },
+            "07890": {
+              "name": "Ngunga Primary School"
+            },
+            "07891": {
+              "name": "Kyumbuni Primary School"
+            },
+            "07892": {
+              "name": "Donyo Coffee Primary School"
+            },
+            "07893": {
+              "name": "Kiboko Secondary School"
+            },
+            "07894": {
+              "name": "Katulye Secondary School"
+            },
+            "07895": {
+              "name": "Kwamutu Primary School"
+            },
+            "07896": {
+              "name": "Mithini Trading Centre"
+            }
+          }
+        },
+        "0387": {
+          "name": "Matungulu East",
+          "pollingStations": {
+            "07897": {
+              "name": "Katwanyaa Primary School"
+            },
+            "07898": {
+              "name": "Kanzalu Primary School"
+            },
+            "07899": {
+              "name": "Matungulu Deb Primary School"
+            },
+            "07900": {
+              "name": "Katuluni Sa Primary School"
+            },
+            "07901": {
+              "name": "Uamani Primary School"
+            },
+            "07902": {
+              "name": "Kinyui Sa Primary School"
+            },
+            "07903": {
+              "name": "Kyekoyo Sa Primary School"
+            },
+            "07904": {
+              "name": "Katheka Primary School"
+            },
+            "07905": {
+              "name": "Miseleni Sa Nursery School"
+            },
+            "07906": {
+              "name": "Mwatati Primary School"
+            },
+            "07907": {
+              "name": "Itheuni Primary School"
+            },
+            "07908": {
+              "name": "King'Oti Primary School"
+            },
+            "07909": {
+              "name": "Kakulutuini Primary School"
+            },
+            "07910": {
+              "name": "Kithaayoni Primary School"
+            },
+            "07911": {
+              "name": "Kambusu Primary School"
+            },
+            "07912": {
+              "name": "Kinyui Girls Secondary School"
+            },
+            "07913": {
+              "name": "Matungulu Girls Secondary School"
+            },
+            "07914": {
+              "name": "Muumoni Primary School"
+            },
+            "07915": {
+              "name": "St Joseph Katheka Secondary School"
+            },
+            "07916": {
+              "name": "Mwatati Farmers Co-Op Society Kituluni Coffee Factory"
+            }
+          }
+        },
+        "0388": {
+          "name": "Matungulu West",
+          "pollingStations": {
+            "07917": {
+              "name": "Ndovoini Pr Sch"
+            },
+            "07918": {
+              "name": "Kwakeni Primary School"
+            },
+            "07919": {
+              "name": "Matungulu Est. S.A Primary School"
+            },
+            "07920": {
+              "name": "Koma-Rock Ranch Primary School"
+            },
+            "07921": {
+              "name": "Matuu Primary School"
+            },
+            "07922": {
+              "name": "Kwakisinga Primary School"
+            },
+            "07923": {
+              "name": "Tala Sa Primary School"
+            },
+            "07924": {
+              "name": "Mwisyani Primary School"
+            },
+            "07925": {
+              "name": "Utooni Primary School"
+            },
+            "07926": {
+              "name": "Kithuani Primary School"
+            },
+            "07927": {
+              "name": "Kiluluini Primary School"
+            },
+            "07928": {
+              "name": "Nguluni Primary School"
+            },
+            "07929": {
+              "name": "Kwangii Primary School"
+            },
+            "07930": {
+              "name": "Muusini Primary School"
+            },
+            "07931": {
+              "name": "Kalandini Primary School"
+            },
+            "07932": {
+              "name": "Kwatombe Primary School"
+            },
+            "07933": {
+              "name": "Kisukioni Primary School"
+            },
+            "07934": {
+              "name": "Mbuni Primary School"
+            },
+            "07935": {
+              "name": "Kantafu Primary School"
+            },
+            "07936": {
+              "name": "Nguluni Township Primary School"
+            },
+            "07937": {
+              "name": "Katulu Primary School"
+            },
+            "07938": {
+              "name": "Kyamutwoii Youth Polytechnic"
+            },
+            "07939": {
+              "name": "Nguluni Aic Primary School"
+            },
+            "07940": {
+              "name": "Kaumoni Sa Nursery School"
+            },
+            "07941": {
+              "name": "Kalandini Secondary School"
+            },
+            "07942": {
+              "name": "Kisukioni Secondary School"
+            },
+            "07943": {
+              "name": "Koma-Hill Kiamba Primary School"
+            },
+            "07944": {
+              "name": "Matuu Wendano Secondary School"
+            },
+            "07945": {
+              "name": "Mbiiani Primary School"
+            },
+            "07946": {
+              "name": "Mukengesya Secondary School"
+            },
+            "07947": {
+              "name": "S.A Wendano Primary School"
+            },
+            "07948": {
+              "name": "Joska A Trading Centre"
+            },
+            "07949": {
+              "name": "Wendano Nursery School"
+            },
+            "07950": {
+              "name": "Tala High School"
+            }
+          }
+        },
+        "0389": {
+          "name": "Kyeleni",
+          "pollingStations": {
+            "07951": {
+              "name": "Ndulya Primary School"
+            },
+            "07952": {
+              "name": "Kwa Syokimanza Primary School"
+            },
+            "07953": {
+              "name": "Kyeleni Primary School"
+            },
+            "07954": {
+              "name": "Syumbuni Primary School"
+            },
+            "07955": {
+              "name": "Nzambani Primary School"
+            },
+            "07956": {
+              "name": "Kikuyuni Primary School"
+            },
+            "07957": {
+              "name": "Kathiani Primary School"
+            },
+            "07958": {
+              "name": "Ngalalya Primary School"
+            },
+            "07959": {
+              "name": "Kwale Primary School"
+            },
+            "07960": {
+              "name": "Kasioni Primary School"
+            },
+            "07961": {
+              "name": "Kiatineni Primary School"
+            },
+            "07962": {
+              "name": "Kisekini Primary School"
+            },
+            "07963": {
+              "name": "Kolpin Social Hall"
+            },
+            "07964": {
+              "name": "Kwale Youth Polytechnic"
+            },
+            "07965": {
+              "name": "Mililu Primary School"
+            }
+          }
+        }
+      }
+    },
+    "079": {
+      "name": "Kathiani",
+      "wards": {
+        "0390": {
+          "name": "Mitaboni",
+          "pollingStations": {
+            "07966": {
+              "name": "Mitaboni Primary School"
+            },
+            "07967": {
+              "name": "Ngiini Primary School"
+            },
+            "07968": {
+              "name": "Muonyweni Primary School"
+            },
+            "07969": {
+              "name": "Mwang'A Primary School"
+            },
+            "07970": {
+              "name": "Komarock Primary School"
+            },
+            "07971": {
+              "name": "Miumbuni Primary School"
+            },
+            "07972": {
+              "name": "Mathunya Primary School"
+            },
+            "07973": {
+              "name": "Kalikya Primary School"
+            },
+            "07974": {
+              "name": "Thinu Primary School"
+            },
+            "07975": {
+              "name": "Kwa Muunda Primary School"
+            },
+            "07976": {
+              "name": "Kwale Primary School"
+            },
+            "07977": {
+              "name": "Maanzoni Primary School"
+            },
+            "07978": {
+              "name": "Kitulu Primary School"
+            },
+            "07979": {
+              "name": "King'Ong'Oi Primary School"
+            },
+            "07980": {
+              "name": "Kavete Primary School"
+            },
+            "07981": {
+              "name": "Kalambya Primary School"
+            },
+            "07982": {
+              "name": "Kisekini Primary School"
+            },
+            "07983": {
+              "name": "Kasovya Primary School"
+            },
+            "07984": {
+              "name": "Aic Mitaboni Ecd"
+            }
+          }
+        },
+        "0391": {
+          "name": "Kathiani Central",
+          "pollingStations": {
+            "07985": {
+              "name": "Mukanyi Primary School"
+            },
+            "07986": {
+              "name": "Ngoleni Primary School"
+            },
+            "07987": {
+              "name": "Lumbwa Primary School"
+            },
+            "07988": {
+              "name": "Kaiani Primary School"
+            },
+            "07989": {
+              "name": "Mutondoni Primary School"
+            },
+            "07990": {
+              "name": "Mbee Primary School"
+            },
+            "07991": {
+              "name": "Kathiani Primary School"
+            },
+            "07992": {
+              "name": "Kikata Primary School"
+            },
+            "07993": {
+              "name": "Kwanzimbi Primary School"
+            },
+            "07994": {
+              "name": "Kikunuani Primary School"
+            },
+            "07995": {
+              "name": "Isyukoni Primary School"
+            },
+            "07996": {
+              "name": "Misuuni Primary School"
+            },
+            "07997": {
+              "name": "Kitie Primary School"
+            },
+            "07998": {
+              "name": "Mutitu Nursery School"
+            },
+            "07999": {
+              "name": "Mivandoni Primary School"
+            },
+            "08000": {
+              "name": "Nthunguni Primary School"
+            },
+            "08001": {
+              "name": "Kitamulu Ecd Nursery School"
+            },
+            "08002": {
+              "name": "Kalandini Ecd Nursery School"
+            },
+            "08003": {
+              "name": "Kyuluni Primary School"
+            }
+          }
+        },
+        "0392": {
+          "name": "Upper Kaewa/Iveti",
+          "pollingStations": {
+            "08004": {
+              "name": "Kaewa Primary School"
+            },
+            "08005": {
+              "name": "Ng'Eleni Primary School"
+            },
+            "08006": {
+              "name": "Kalunga Primary School"
+            },
+            "08007": {
+              "name": "Kyamwee Primary School"
+            },
+            "08008": {
+              "name": "Kikawani Primary School"
+            },
+            "08009": {
+              "name": "Kituli Primary School"
+            },
+            "08010": {
+              "name": "Mithanga Primary School"
+            },
+            "08011": {
+              "name": "Ikoleni Primary School"
+            },
+            "08012": {
+              "name": "Kiteng'Ei Primary School"
+            },
+            "08013": {
+              "name": "Kathalani Primary School"
+            },
+            "08014": {
+              "name": "Kisovo Primary School"
+            },
+            "08015": {
+              "name": "Mutumbini Primary School"
+            },
+            "08016": {
+              "name": "Isooni Primary School"
+            },
+            "08017": {
+              "name": "Kaviani Primary School"
+            },
+            "08018": {
+              "name": "Iveti Primary School"
+            },
+            "08019": {
+              "name": "Aic Kaviani Nursery School"
+            },
+            "08020": {
+              "name": "Kwangolya Primary School"
+            },
+            "08021": {
+              "name": "Kaliluni Primary School"
+            },
+            "08022": {
+              "name": "Kyamwee Youth Polytechnic"
+            },
+            "08023": {
+              "name": "Mang'Aani Primary School"
+            }
+          }
+        },
+        "0393": {
+          "name": "Lower Kaewa/Kaani",
+          "pollingStations": {
+            "08024": {
+              "name": "Kauti Primary School"
+            },
+            "08025": {
+              "name": "Kombu Primary School"
+            },
+            "08026": {
+              "name": "Ithaeni Primary School"
+            },
+            "08027": {
+              "name": "Kithunguini Primary School"
+            },
+            "08028": {
+              "name": "Kaani Primary School"
+            },
+            "08029": {
+              "name": "Kalala Primary School"
+            },
+            "08030": {
+              "name": "Mbuuni Primary School"
+            },
+            "08031": {
+              "name": "Imilini Primary School"
+            },
+            "08032": {
+              "name": "Kikombi Primary School"
+            },
+            "08033": {
+              "name": "Kituvu Primary School"
+            },
+            "08034": {
+              "name": "Makumbini  Primary School"
+            },
+            "08035": {
+              "name": "General Mulinge Primary School"
+            },
+            "08036": {
+              "name": "Yanzong'A Primary School"
+            },
+            "08037": {
+              "name": "Nzaikoni Primary School"
+            },
+            "08038": {
+              "name": "Kathuni Primary School"
+            },
+            "08039": {
+              "name": "W'Uutini Primary School"
+            },
+            "08040": {
+              "name": "Wandathe Ecd Nursery School"
+            },
+            "08041": {
+              "name": "Muthala Primary School"
+            },
+            "08042": {
+              "name": "Kituluni Primary School"
+            },
+            "08043": {
+              "name": "Katulya Primary School"
+            },
+            "08044": {
+              "name": "Ngukumani Coffee Factory"
+            },
+            "08045": {
+              "name": "Kasioni Primary School"
+            }
+          }
+        }
+      }
+    },
+    "080": {
+      "name": "Mavoko",
+      "wards": {
+        "0394": {
+          "name": "Athi River",
+          "pollingStations": {
+            "08046": {
+              "name": "Athi River Primary School"
+            },
+            "08047": {
+              "name": "Mother Teresa Academy"
+            },
+            "08048": {
+              "name": "Patmon Junior School"
+            },
+            "08049": {
+              "name": "Kmc Primary School"
+            },
+            "08050": {
+              "name": "Athi River Social Hall"
+            },
+            "08051": {
+              "name": "Imani Pre-School Makadara"
+            },
+            "08052": {
+              "name": "Mavoko Primary School"
+            },
+            "08053": {
+              "name": "Empakasi Primary School"
+            },
+            "08054": {
+              "name": "Oloshaiki Primary School"
+            },
+            "08055": {
+              "name": "Kasuitu Primary School"
+            },
+            "08056": {
+              "name": "Kanaani Primary School"
+            },
+            "08057": {
+              "name": "St.Pauls Primary School"
+            },
+            "08058": {
+              "name": "Athiriver Polytechnic"
+            },
+            "08059": {
+              "name": "Athi River Secondary School"
+            },
+            "08060": {
+              "name": "Mavuno Church"
+            },
+            "08061": {
+              "name": "Mavoko Secondary School"
+            },
+            "08062": {
+              "name": "Fanaka School-Kaani"
+            },
+            "08063": {
+              "name": "Kwa-Mangeli Primary School"
+            }
+          }
+        },
+        "0395": {
+          "name": "Kinanie",
+          "pollingStations": {
+            "08064": {
+              "name": "Kinanie Primary School"
+            },
+            "08065": {
+              "name": "Kalimani Primary School"
+            },
+            "08066": {
+              "name": "Kyumbi Secondary School"
+            },
+            "08067": {
+              "name": "Mountain View Primary School"
+            },
+            "08068": {
+              "name": "Daystar Mulandi Primary School"
+            },
+            "08069": {
+              "name": "Mathatani Primary School"
+            },
+            "08070": {
+              "name": "Kyumbi Primary School"
+            },
+            "08071": {
+              "name": "Kyumbi Trading Centre"
+            },
+            "08072": {
+              "name": "Wathia Primary School"
+            },
+            "08073": {
+              "name": "Kyemutheke Primary School"
+            },
+            "08074": {
+              "name": "Kwa Mboo Primary School"
+            },
+            "08075": {
+              "name": "Kaiani Primary School"
+            },
+            "08076": {
+              "name": "Kimongo Community Nursery School"
+            },
+            "08077": {
+              "name": "Kiasa Primary School"
+            },
+            "08078": {
+              "name": "Intercounty Primary School Open Ground"
+            }
+          }
+        },
+        "0396": {
+          "name": "Muthwani",
+          "pollingStations": {
+            "08079": {
+              "name": "Ngelani Ranch Primary School"
+            },
+            "08080": {
+              "name": "Katani Primary School"
+            },
+            "08081": {
+              "name": "Muthwani Primary School"
+            },
+            "08082": {
+              "name": "Nga'Lalya Primary School"
+            },
+            "08083": {
+              "name": "Ndovoini Primary School"
+            },
+            "08084": {
+              "name": "Githunguri Jetview Primary School"
+            },
+            "08085": {
+              "name": "Joska Market"
+            },
+            "08086": {
+              "name": "Kamulu Deb Primary School"
+            },
+            "08087": {
+              "name": "Ivovoani Primary School"
+            },
+            "08088": {
+              "name": "Ivalini Deb Primary School"
+            },
+            "08089": {
+              "name": "St Francis Of Assis Primary School"
+            },
+            "08090": {
+              "name": "Kwa Kalusya Primary School"
+            },
+            "08091": {
+              "name": "Nzoiani Primary School"
+            },
+            "08092": {
+              "name": "Seme Primary School"
+            },
+            "08093": {
+              "name": "Airways Secondary School"
+            },
+            "08094": {
+              "name": "Mitatini Primary School"
+            },
+            "08095": {
+              "name": "Githunguri Kag"
+            },
+            "08096": {
+              "name": "Mission Of Hope"
+            }
+          }
+        },
+        "0397": {
+          "name": "Syokimau/Mulolongo",
+          "pollingStations": {
+            "08097": {
+              "name": "Mulolongo Primary School"
+            },
+            "08098": {
+              "name": "Syokimau Bore Hole"
+            },
+            "08099": {
+              "name": "Syokimau/Mulolongo Health Center"
+            },
+            "08100": {
+              "name": "Sabaki -Catholic Grounds"
+            },
+            "08101": {
+              "name": "Liberty Grounds"
+            },
+            "08102": {
+              "name": "Fire-Ministry Church-Kathangaita"
+            },
+            "08103": {
+              "name": "Syokimau Dispensary"
+            },
+            "08104": {
+              "name": "Mavoko Snp Primary School"
+            },
+            "08105": {
+              "name": "Ngwata Primary School"
+            }
+          }
+        }
+      }
+    },
+    "081": {
+      "name": "Machakos Town",
+      "wards": {
+        "0398": {
+          "name": "Kalama",
+          "pollingStations": {
+            "08106": {
+              "name": "Mbembani Primary School."
+            },
+            "08107": {
+              "name": "Katumani Primary School."
+            },
+            "08108": {
+              "name": "Kyangala Secondary School."
+            },
+            "08109": {
+              "name": "Kyangala Primary School."
+            },
+            "08110": {
+              "name": "Kimutwa Primary School."
+            },
+            "08111": {
+              "name": "Love Primary School."
+            },
+            "08112": {
+              "name": "Kaathi Primary School."
+            },
+            "08113": {
+              "name": "Kisueni S.A Primary School."
+            },
+            "08114": {
+              "name": "Ivutini Primary School."
+            },
+            "08115": {
+              "name": "Kiatuni Primary School."
+            },
+            "08116": {
+              "name": "Kakalya Nursery School."
+            },
+            "08117": {
+              "name": "Kyandili Primary School."
+            },
+            "08118": {
+              "name": "Muthumo Primary School."
+            },
+            "08119": {
+              "name": "Kyaviti Primary School."
+            },
+            "08120": {
+              "name": "Iiani Primary School."
+            },
+            "08121": {
+              "name": "Konza Primary School."
+            },
+            "08122": {
+              "name": "Makakoi Primary School"
+            },
+            "08123": {
+              "name": "Kamweleni Primary School."
+            },
+            "08124": {
+              "name": "Kyanzasu Primary School."
+            },
+            "08125": {
+              "name": "Kanyongo Primary School"
+            },
+            "08126": {
+              "name": "Miwani Primary School."
+            },
+            "08127": {
+              "name": "Mang'Auni Primary School"
+            },
+            "08128": {
+              "name": "Mbukuni Primary School."
+            },
+            "08129": {
+              "name": "Ulaani Primary School."
+            },
+            "08130": {
+              "name": "Kisyani Primary School."
+            },
+            "08131": {
+              "name": "Masaani Primary School."
+            },
+            "08132": {
+              "name": "Mutuyu Primary School."
+            },
+            "08133": {
+              "name": "Kalama Primary School."
+            },
+            "08134": {
+              "name": "Kwa Kavoo Primary School"
+            },
+            "08135": {
+              "name": "Mulaani Primary School"
+            },
+            "08136": {
+              "name": "Kinoi Primary School"
+            }
+          }
+        },
+        "0399": {
+          "name": "Mua",
+          "pollingStations": {
+            "08137": {
+              "name": "Mua Farm Primary School"
+            },
+            "08138": {
+              "name": "Kathome Trading Centre"
+            },
+            "08139": {
+              "name": "Medical Training Centre"
+            },
+            "08140": {
+              "name": "Kimua Primary School."
+            },
+            "08141": {
+              "name": "Katelembu Primary School ."
+            },
+            "08142": {
+              "name": "Kyanda Primary School."
+            },
+            "08143": {
+              "name": "Kathimani Primary School."
+            },
+            "08144": {
+              "name": "Kitanga Primary School."
+            },
+            "08145": {
+              "name": "Makyau Primary School."
+            },
+            "08146": {
+              "name": "Vota Primary School."
+            },
+            "08147": {
+              "name": "Mikuyu Primary School."
+            },
+            "08148": {
+              "name": "Katheka Kai Primary School."
+            },
+            "08149": {
+              "name": "Katheka Kai Secondary School."
+            },
+            "08150": {
+              "name": "Kyaani Primary School."
+            },
+            "08151": {
+              "name": "Kyasila Primary School."
+            },
+            "08152": {
+              "name": "St. Francis Kavovi Primary School"
+            },
+            "08153": {
+              "name": "Kivani Primary School"
+            },
+            "08154": {
+              "name": "Katelembu Centre Of Excellence Boys High School"
+            }
+          }
+        },
+        "0400": {
+          "name": "Mutituni",
+          "pollingStations": {
+            "08155": {
+              "name": "Kasaini Primary School."
+            },
+            "08156": {
+              "name": "Ngelani Primary School."
+            },
+            "08157": {
+              "name": "Metuma Primary School."
+            },
+            "08158": {
+              "name": "Kithima Primary School."
+            },
+            "08159": {
+              "name": "Kamuthanga S.A Primary School."
+            },
+            "08160": {
+              "name": "Mutituni Primary School."
+            },
+            "08161": {
+              "name": "Kiteini Primary School."
+            },
+            "08162": {
+              "name": "Mbukoni Primary School."
+            },
+            "08163": {
+              "name": "Kivutini Primary School."
+            },
+            "08164": {
+              "name": "Keaa Primary School"
+            },
+            "08165": {
+              "name": "Kisekini Salvation Army Church"
+            },
+            "08166": {
+              "name": "Kwa Kitaa Primary School"
+            },
+            "08167": {
+              "name": "Yumbani Open Grounds"
+            }
+          }
+        },
+        "0401": {
+          "name": "Machakos Central",
+          "pollingStations": {
+            "08168": {
+              "name": "Ikokani Primary School."
+            },
+            "08169": {
+              "name": "Kusyomuomo Primary School."
+            },
+            "08170": {
+              "name": "Baptist Primary School."
+            },
+            "08171": {
+              "name": "Kithaayoni Youth Polytechnic"
+            },
+            "08172": {
+              "name": "Mukalala Nursery School."
+            },
+            "08173": {
+              "name": "Machakos Teachers Training College"
+            },
+            "08174": {
+              "name": "Kyumba Primary School"
+            },
+            "08175": {
+              "name": "Misakwani Primary School"
+            },
+            "08176": {
+              "name": "Kyambuko Primary School"
+            },
+            "08177": {
+              "name": "St.Mary'S Girls Primary School"
+            },
+            "08178": {
+              "name": "Muslim Primary School."
+            },
+            "08179": {
+              "name": "Machakos School For The Deaf."
+            },
+            "08180": {
+              "name": "St.Mary'S Boys Primary School"
+            },
+            "08181": {
+              "name": "Eastleigh Nursery School."
+            },
+            "08182": {
+              "name": "Machakos Primary School."
+            },
+            "08183": {
+              "name": "Machakos Recreational Park"
+            },
+            "08184": {
+              "name": "Mumbuni Primary School."
+            },
+            "08185": {
+              "name": "Kenyatta Stadium Machakos"
+            },
+            "08186": {
+              "name": "Machakos Level 5 General Hospital."
+            },
+            "08187": {
+              "name": "Public Works Open Ground"
+            }
+          }
+        },
+        "0402": {
+          "name": "Mumbuni North",
+          "pollingStations": {
+            "08188": {
+              "name": "Manza Primary School."
+            },
+            "08189": {
+              "name": "Kasinga Primary School."
+            },
+            "08190": {
+              "name": "Kiangini Primary School."
+            },
+            "08191": {
+              "name": "Ivumbuni Primary School."
+            },
+            "08192": {
+              "name": "Miwongoni Primary School."
+            },
+            "08193": {
+              "name": "Kyanguli Primary School."
+            },
+            "08194": {
+              "name": "Kathese Primary School."
+            },
+            "08195": {
+              "name": "Mung'Ala Primary School"
+            },
+            "08196": {
+              "name": "Aic Manza Hekima Academy"
+            },
+            "08197": {
+              "name": "Aic Jerusalem Miwani"
+            },
+            "08198": {
+              "name": "Aic Ng'Eng'Eta"
+            }
+          }
+        },
+        "0403": {
+          "name": "Muvuti/Kiima-Kimwe",
+          "pollingStations": {
+            "08199": {
+              "name": "Kyeni Primary School."
+            },
+            "08200": {
+              "name": "Muthini Primary School."
+            },
+            "08201": {
+              "name": "Mikuini Primary School."
+            },
+            "08202": {
+              "name": "Machakos University"
+            },
+            "08203": {
+              "name": "Kakinduni Primary School."
+            },
+            "08204": {
+              "name": "Kiima Kimwe Primary School."
+            },
+            "08205": {
+              "name": "Machakos Girls Rescue Centre."
+            },
+            "08206": {
+              "name": "Kaseve Primary School."
+            },
+            "08207": {
+              "name": "Moi Primary School."
+            },
+            "08208": {
+              "name": "Kivandini Primary School."
+            },
+            "08209": {
+              "name": "Kitulu Primary School."
+            },
+            "08210": {
+              "name": "Iluvya Primary School."
+            },
+            "08211": {
+              "name": "Kathaayoni Primary School."
+            },
+            "08212": {
+              "name": "Mwanyani Primary School."
+            },
+            "08213": {
+              "name": "Katoloni Primary School."
+            },
+            "08214": {
+              "name": "Kyasoo Nursery School."
+            },
+            "08215": {
+              "name": "Kalumoni Youth Polytechnic."
+            },
+            "08216": {
+              "name": "Muvuti Secondary School"
+            }
+          }
+        },
+        "0404": {
+          "name": "Kola",
+          "pollingStations": {
+            "08217": {
+              "name": "Mbuani Primary School"
+            },
+            "08218": {
+              "name": "Katanga Primary School"
+            },
+            "08219": {
+              "name": "Minyaalala Primary School"
+            },
+            "08220": {
+              "name": "Mikono Primary School"
+            },
+            "08221": {
+              "name": "Kombuni Primary School"
+            },
+            "08222": {
+              "name": "Muumandu Primary School"
+            },
+            "08223": {
+              "name": "Ianzoni Primary School"
+            },
+            "08224": {
+              "name": "St.John Academy Primary School"
+            },
+            "08225": {
+              "name": "Kikumbo Primary School"
+            },
+            "08226": {
+              "name": "Kyanguli Primary School"
+            },
+            "08227": {
+              "name": "Kitonyini Primary School"
+            },
+            "08228": {
+              "name": "Kola Primary School"
+            },
+            "08229": {
+              "name": "Iiyuni Primary School"
+            },
+            "08230": {
+              "name": "Kyamuthinza Primary School"
+            },
+            "08231": {
+              "name": "Kiuu Primary School"
+            },
+            "08232": {
+              "name": "Kavyuni Primary School"
+            },
+            "08233": {
+              "name": "Kyamunyuu Primary School"
+            },
+            "08234": {
+              "name": "Mbusyani Primary School"
+            }
+          }
+        }
+      }
+    },
+    "082": {
+      "name": "Mwala",
+      "wards": {
+        "0405": {
+          "name": "Mbiuni",
+          "pollingStations": {
+            "08235": {
+              "name": "Kathama Primary School"
+            },
+            "08236": {
+              "name": "Ulaani Primary School"
+            },
+            "08237": {
+              "name": "Kwa Mutula Primary School"
+            },
+            "08238": {
+              "name": "Muthwani Primary School"
+            },
+            "08239": {
+              "name": "Katitu Primary School"
+            },
+            "08240": {
+              "name": "Mbiuni Primary School"
+            },
+            "08241": {
+              "name": "Kunikila Primary School"
+            },
+            "08242": {
+              "name": "Utithini Primary School"
+            },
+            "08243": {
+              "name": "Kabaa Primary School"
+            },
+            "08244": {
+              "name": "Nyanyaa Primary School"
+            },
+            "08245": {
+              "name": "Kundu Primary School"
+            },
+            "08246": {
+              "name": "Mumbuni Primary School"
+            },
+            "08247": {
+              "name": "Nzololo Primary School"
+            },
+            "08248": {
+              "name": "Kombe Primary School"
+            },
+            "08249": {
+              "name": "Etikoni Primary School"
+            },
+            "08250": {
+              "name": "Ngunyumu Primary School"
+            },
+            "08251": {
+              "name": "Kathyoli Primary School"
+            },
+            "08252": {
+              "name": "Kitwamba Primary School"
+            },
+            "08253": {
+              "name": "Kamuya Primary School"
+            },
+            "08254": {
+              "name": "Kwa Mutia Primary School"
+            },
+            "08255": {
+              "name": "Makiliva Primary School"
+            },
+            "08256": {
+              "name": "Kalau Primary School"
+            },
+            "08257": {
+              "name": "Kimuuni Primary School"
+            },
+            "08258": {
+              "name": "Kikuuni Primary School"
+            },
+            "08259": {
+              "name": "Masaw'A Primary School"
+            },
+            "08260": {
+              "name": "Miseleni Primary School"
+            }
+          }
+        },
+        "0406": {
+          "name": "Makutano/ Mwala",
+          "pollingStations": {
+            "08261": {
+              "name": "Musaalani Primary School"
+            },
+            "08262": {
+              "name": "Ikumini Primary School"
+            },
+            "08263": {
+              "name": "Kyawango Primary School"
+            },
+            "08264": {
+              "name": "Kangii Primary School."
+            },
+            "08265": {
+              "name": "Mwala D.E.B. Primary School"
+            },
+            "08266": {
+              "name": "Utithi A.I.C. Primary School"
+            },
+            "08267": {
+              "name": "Kyuluni Primary School"
+            },
+            "08268": {
+              "name": "Kavunyu Primary School"
+            },
+            "08269": {
+              "name": "Kivulusa Primary School"
+            },
+            "08270": {
+              "name": "Mathunthini Primary School"
+            },
+            "08271": {
+              "name": "Itumbini Primary School"
+            },
+            "08272": {
+              "name": "Maweli Primary School"
+            },
+            "08273": {
+              "name": "Ngoluni Nursery School"
+            },
+            "08274": {
+              "name": "Kwa Venge Primary School"
+            },
+            "08275": {
+              "name": "Kyanganga Primary School"
+            },
+            "08276": {
+              "name": "Mango Primary School"
+            },
+            "08277": {
+              "name": "Muvw'Ana Primary School"
+            },
+            "08278": {
+              "name": "Kandumbu Primary School"
+            },
+            "08279": {
+              "name": "Myanyani Primary School"
+            },
+            "08280": {
+              "name": "Kitange Primary School"
+            },
+            "08281": {
+              "name": "Kyamwei Primary School"
+            },
+            "08282": {
+              "name": "Kyamutwii Primary School"
+            },
+            "08283": {
+              "name": "Kwa Katunge Primary School"
+            },
+            "08284": {
+              "name": "Kwa Mwonga Primary School"
+            },
+            "08285": {
+              "name": "Kibau Primary School"
+            },
+            "08286": {
+              "name": "Kwandoo Primary School"
+            },
+            "08287": {
+              "name": "Kisaani Primary School"
+            },
+            "08288": {
+              "name": "Kwa Kisau Primary School"
+            }
+          }
+        },
+        "0407": {
+          "name": "Masii",
+          "pollingStations": {
+            "08289": {
+              "name": "Makutano Deb Primary School"
+            },
+            "08290": {
+              "name": "Uvaini Primary School"
+            },
+            "08291": {
+              "name": "Yikiatine Primary School"
+            },
+            "08292": {
+              "name": "King'Atuani Primary School"
+            },
+            "08293": {
+              "name": "Muthei Primary School"
+            },
+            "08294": {
+              "name": "Yoani Primary School"
+            },
+            "08295": {
+              "name": "Masii Township Primary School"
+            },
+            "08296": {
+              "name": "Kawaa Primary School"
+            },
+            "08297": {
+              "name": "Kikelenzu Primary School"
+            },
+            "08298": {
+              "name": "Muumoni Primary School"
+            },
+            "08299": {
+              "name": "Kyaitha Primary School"
+            },
+            "08300": {
+              "name": "Masii D.E.B. Primary School"
+            },
+            "08301": {
+              "name": "Kasolongo Primary School"
+            },
+            "08302": {
+              "name": "Kithangaini Primary School"
+            },
+            "08303": {
+              "name": "Kavumbu Primary School"
+            },
+            "08304": {
+              "name": "Vyulya Primary School"
+            },
+            "08305": {
+              "name": "Katheka B Primary School"
+            },
+            "08306": {
+              "name": "Mithanga Primary School"
+            },
+            "08307": {
+              "name": "Muusini Primary School"
+            },
+            "08308": {
+              "name": "Kangondi Primary School"
+            },
+            "08309": {
+              "name": "Embui Primary School"
+            },
+            "08310": {
+              "name": "Ilinge Primary School"
+            },
+            "08311": {
+              "name": "Mikuyuni Primary School"
+            },
+            "08312": {
+              "name": "Mamiloki Primary School."
+            },
+            "08313": {
+              "name": "Kwa Kaluu Primary School"
+            },
+            "08314": {
+              "name": "Katheka A.I.C. Primary School"
+            },
+            "08315": {
+              "name": "Katithi Primary School"
+            },
+            "08316": {
+              "name": "Kathuki Primary School"
+            },
+            "08317": {
+              "name": "St. Mary'S Primary School"
+            },
+            "08318": {
+              "name": "Maiani Primary School"
+            }
+          }
+        },
+        "0408": {
+          "name": "Muthetheni",
+          "pollingStations": {
+            "08319": {
+              "name": "Kaliambeu Primary School"
+            },
+            "08320": {
+              "name": "Mbaani Primary School"
+            },
+            "08321": {
+              "name": "Kyaani Primary School"
+            },
+            "08322": {
+              "name": "Mutendeu Primary School"
+            },
+            "08323": {
+              "name": "Kyethivo Primary School"
+            },
+            "08324": {
+              "name": "Ngamba Primary School"
+            },
+            "08325": {
+              "name": "Kionyweni Primary School"
+            },
+            "08326": {
+              "name": "Ukalani Primary School"
+            },
+            "08327": {
+              "name": "Muthetheni Mixed Day Secondary School"
+            },
+            "08328": {
+              "name": "Kithianio Primary School"
+            },
+            "08329": {
+              "name": "Kyambusya  Primary School"
+            },
+            "08330": {
+              "name": "Ithemboni Primary School"
+            },
+            "08331": {
+              "name": "St. Martin'S Utithini Primary School"
+            },
+            "08332": {
+              "name": "Iiani Primary School"
+            },
+            "08333": {
+              "name": "Miu D.E.B. Primary School"
+            },
+            "08334": {
+              "name": "Kyaimu Primary School"
+            },
+            "08335": {
+              "name": "Mavitini Primary School"
+            },
+            "08336": {
+              "name": "Kikulumi Primary School"
+            },
+            "08337": {
+              "name": "Mithuluni Primary School"
+            },
+            "08338": {
+              "name": "Kiuukuni Primary School"
+            },
+            "08339": {
+              "name": "Malaani Primary School"
+            },
+            "08340": {
+              "name": "Nthuluni Primary School."
+            },
+            "08341": {
+              "name": "Kisola Primary School"
+            },
+            "08342": {
+              "name": "Ngelesi Nursery School"
+            },
+            "08343": {
+              "name": "Iia Ikya Nursery School"
+            },
+            "08344": {
+              "name": "Itithini Nursery School"
+            },
+            "08345": {
+              "name": "Kithuia  Primary School"
+            },
+            "08346": {
+              "name": "Kang'Ethe Nursery School"
+            },
+            "08347": {
+              "name": "Matuu Primary School"
+            },
+            "08348": {
+              "name": "Makulumu Nursery School"
+            },
+            "08349": {
+              "name": "Kiaoni Nursery School"
+            },
+            "08350": {
+              "name": "Abc Miu Nursery School"
+            }
+          }
+        },
+        "0409": {
+          "name": "Wamunyu",
+          "pollingStations": {
+            "08351": {
+              "name": "Ndeini Primary School"
+            },
+            "08352": {
+              "name": "Mutyangoi Primary School"
+            },
+            "08353": {
+              "name": "Maanzoni Primary School"
+            },
+            "08354": {
+              "name": "Kaitha Primary School"
+            },
+            "08355": {
+              "name": "Mwaasua Primary School"
+            },
+            "08356": {
+              "name": "Wamunyu Abc Primary School"
+            },
+            "08357": {
+              "name": "Sofia Primary School"
+            },
+            "08358": {
+              "name": "Kilaatu Primary School"
+            },
+            "08359": {
+              "name": "Kambiti Primary School"
+            },
+            "08360": {
+              "name": "Wakaela Primary School"
+            },
+            "08361": {
+              "name": "Kisinzini Primary School"
+            },
+            "08362": {
+              "name": "Kituiu Primary School"
+            },
+            "08363": {
+              "name": "Kithiiani Primary School"
+            },
+            "08364": {
+              "name": "Makaalu Primary School"
+            },
+            "08365": {
+              "name": "Ngangani Primary School"
+            },
+            "08366": {
+              "name": "Miondoni Primary School"
+            },
+            "08367": {
+              "name": "Mulu Secondary School"
+            },
+            "08368": {
+              "name": "Ngului Primary School"
+            },
+            "08369": {
+              "name": "Kikaso Primary School"
+            },
+            "08370": {
+              "name": "Kyamatula Primary School"
+            },
+            "08371": {
+              "name": "Kyeengai Primary School"
+            },
+            "08372": {
+              "name": "Lema Girls Secondary School"
+            },
+            "08373": {
+              "name": "Nduluku Primary School"
+            },
+            "08374": {
+              "name": "Mbaikini Primary School"
+            },
+            "08375": {
+              "name": "Miini Primary School"
+            },
+            "08376": {
+              "name": "Miondoni Market Community Hall"
+            },
+            "08377": {
+              "name": "A.I.C. Syuuni Nursery School"
+            },
+            "08378": {
+              "name": "Ngomano Primary School"
+            },
+            "08379": {
+              "name": "Itunduni Primary School"
+            },
+            "08380": {
+              "name": "Kilembwa Secondary School"
+            },
+            "08381": {
+              "name": "Nyaani Primary School"
+            },
+            "08382": {
+              "name": "Nunga Primary School"
+            },
+            "08383": {
+              "name": "Mavindini Primary School"
+            },
+            "08384": {
+              "name": "Mang'Olota Primary School"
+            }
+          }
+        },
+        "0410": {
+          "name": "Kibauni",
+          "pollingStations": {
+            "08385": {
+              "name": "Kivauni Primary School"
+            },
+            "08386": {
+              "name": "Kathiiani Primary School"
+            },
+            "08387": {
+              "name": "Kitile Primary School"
+            },
+            "08388": {
+              "name": "Yamalwa Primary School"
+            },
+            "08389": {
+              "name": "Mukuyuni Primary School"
+            },
+            "08390": {
+              "name": "Kiundwani Primary School"
+            },
+            "08391": {
+              "name": "Kyalavo Primary School"
+            },
+            "08392": {
+              "name": "Kilala Primary School"
+            },
+            "08393": {
+              "name": "Mutula Primary School"
+            },
+            "08394": {
+              "name": "Kivalani Primary School"
+            },
+            "08395": {
+              "name": "Tulila Primary School"
+            },
+            "08396": {
+              "name": "Konza Primary School"
+            },
+            "08397": {
+              "name": "Matulani Primary School"
+            },
+            "08398": {
+              "name": "Uvanga Primary School"
+            },
+            "08399": {
+              "name": "Syoumbu Nursery School"
+            },
+            "08400": {
+              "name": "Ikalaasa Primary School"
+            },
+            "08401": {
+              "name": "Muangoni Primary School"
+            },
+            "08402": {
+              "name": "Kivani Primary School"
+            },
+            "08403": {
+              "name": "Kyeni Primary School"
+            },
+            "08404": {
+              "name": "Ngumbau Primary School"
+            },
+            "08405": {
+              "name": "Itooni Nursery School"
+            },
+            "08406": {
+              "name": "Kyowani Primary School"
+            },
+            "08407": {
+              "name": "Kiteteni Primary School"
+            },
+            "08408": {
+              "name": "Kasengela Primary School"
+            },
+            "08409": {
+              "name": "Kenze Nursery School"
+            },
+            "08410": {
+              "name": "Katulani Primary School"
+            },
+            "08411": {
+              "name": "Kibauni Polytechnic"
+            },
+            "08412": {
+              "name": "Nthwa Nguu Nursery School"
+            },
+            "08413": {
+              "name": "Kikumini Primary School"
+            },
+            "08414": {
+              "name": "Kwa Kulu Nursery School"
+            },
+            "08415": {
+              "name": "Kiuukuni Primary School"
+            },
+            "08416": {
+              "name": "Ikuuni Pre School"
+            },
+            "08417": {
+              "name": "Mutithi  Pre School"
+            },
+            "08418": {
+              "name": "Nthangathini Pre School"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Athi River",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Kalama",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Kangundo",
+      "type": "Subcounty"
+    },
+    "004": {
+      "name": "Kathiani",
+      "type": "Subcounty"
+    },
+    "005": {
+      "name": "Machakos",
+      "type": "Subcounty"
+    },
+    "006": {
+      "name": "Masinga",
+      "type": "Subcounty"
+    },
+    "007": {
+      "name": "Matungulu",
+      "type": "Subcounty"
+    },
+    "008": {
+      "name": "Mwala",
+      "type": "Subcounty"
+    },
+    "009": {
+      "name": "Yatta",
+      "type": "Subcounty"
+    }
+  }
+}

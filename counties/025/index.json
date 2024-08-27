@@ -1,0 +1,1038 @@
+{
+  "name": "Samburu",
+  "type": "County",
+  "code": "025",
+  "constituencies": {
+    "133": {
+      "name": "Samburu West",
+      "wards": {
+        "0661": {
+          "name": "Lodokejek",
+          "pollingStations": {
+            "13238": {
+              "name": "Lolua Village (Mobile)"
+            },
+            "13239": {
+              "name": "Mugur Primary School"
+            },
+            "13240": {
+              "name": "Lmisigiyoi Primary School"
+            },
+            "13241": {
+              "name": "Lariak Orok  Nursery School"
+            },
+            "13242": {
+              "name": "Daraja Nursery School"
+            },
+            "13243": {
+              "name": "Kisima Primary School"
+            },
+            "13244": {
+              "name": "Lalaing'Ok Nursery School"
+            },
+            "13245": {
+              "name": "Naiborkeju Primary School"
+            },
+            "13246": {
+              "name": "Lpetpet Primary School"
+            },
+            "13247": {
+              "name": "Loltulelei Primary School"
+            },
+            "13248": {
+              "name": "Lkiloriti Primary School"
+            },
+            "13249": {
+              "name": "Lodokejek Primary School"
+            },
+            "13250": {
+              "name": "Locho Nursery School"
+            },
+            "13251": {
+              "name": "Sura Adoru Primary School"
+            },
+            "13252": {
+              "name": "Kirimun Primary School"
+            },
+            "13253": {
+              "name": "Kirimun Nursery School"
+            },
+            "13254": {
+              "name": "Garma Nursery School"
+            },
+            "13255": {
+              "name": "Kelele Primary School"
+            },
+            "13256": {
+              "name": "Nenker'Pus Primary School"
+            },
+            "13257": {
+              "name": "Ng'Amata Primary School"
+            },
+            "13258": {
+              "name": "Louku Ecd Pre School"
+            },
+            "13259": {
+              "name": "Mpogani Ecd Pre School"
+            },
+            "13260": {
+              "name": "Lbaa Lesukuta Pre School"
+            },
+            "13261": {
+              "name": "Lkichaki Pre School"
+            }
+          }
+        },
+        "0662": {
+          "name": "Suguta Marmar",
+          "pollingStations": {
+            "13262": {
+              "name": "Kitabor Primary School"
+            },
+            "13263": {
+              "name": "Lolmolog Primary School"
+            },
+            "13264": {
+              "name": "Lorukoti Primary School"
+            },
+            "13265": {
+              "name": "Lmari Nursery School"
+            },
+            "13266": {
+              "name": "Logorate Primary School"
+            },
+            "13267": {
+              "name": "Angata Rongai Primary School"
+            },
+            "13268": {
+              "name": "Nkutoto Primary School"
+            },
+            "13269": {
+              "name": "Lchoro Lelerai Primary School"
+            },
+            "13270": {
+              "name": "Suguta Marmar Primary School"
+            },
+            "13271": {
+              "name": "Suguta Marmar Nursery School"
+            },
+            "13272": {
+              "name": "Nasur Primary School"
+            },
+            "13273": {
+              "name": "Amaiya Primary School"
+            },
+            "13274": {
+              "name": "Longewan Primary School"
+            },
+            "13275": {
+              "name": "Lolgese Primary School"
+            },
+            "13276": {
+              "name": "Lolmolok Day Mixed Secondary School"
+            },
+            "13277": {
+              "name": "Lowa Mara Ecd Pre School"
+            },
+            "13278": {
+              "name": "Lariak Orok Primary School"
+            }
+          }
+        },
+        "0663": {
+          "name": "Maralal",
+          "pollingStations": {
+            "13279": {
+              "name": "Nomotio Primary School"
+            },
+            "13280": {
+              "name": "Lgos Primary School"
+            },
+            "13281": {
+              "name": "Lpartuk Primary School"
+            },
+            "13282": {
+              "name": "Lkuroto Primary School"
+            },
+            "13283": {
+              "name": "Maralal Equity(Open)"
+            },
+            "13284": {
+              "name": "Samburu Teachers Sacco(Open)"
+            },
+            "13285": {
+              "name": "Ap Line I (Open)"
+            },
+            "13286": {
+              "name": "Highway Maralal (Open)"
+            },
+            "13287": {
+              "name": "Luma Morr Nursery School"
+            },
+            "13288": {
+              "name": "Maralal D.E.B. Primary School"
+            },
+            "13289": {
+              "name": "Soitpus Nursery School"
+            },
+            "13290": {
+              "name": "Kirisia Cereals Board"
+            },
+            "13291": {
+              "name": "Shabaa Primary School"
+            },
+            "13292": {
+              "name": "Tamiyoi Nursery School"
+            },
+            "13293": {
+              "name": "Ng'Ari Primary School"
+            },
+            "13294": {
+              "name": "Barabara Nursery School"
+            },
+            "13295": {
+              "name": "Milimani Primary School"
+            },
+            "13296": {
+              "name": "Yamoo Nursery School"
+            },
+            "13297": {
+              "name": "Lporos Primary School"
+            },
+            "13298": {
+              "name": "Lmutaro Primary School"
+            },
+            "13299": {
+              "name": "Yare Nursery School"
+            },
+            "13300": {
+              "name": "Lankarn Nursery School"
+            },
+            "13301": {
+              "name": "Loikas Primary School"
+            },
+            "13302": {
+              "name": "Maralal Allamano Nursery"
+            },
+            "13303": {
+              "name": "Kenyatta Stadium"
+            },
+            "13304": {
+              "name": "P.C.E.A Maralal Primary School"
+            },
+            "13305": {
+              "name": "Mbukiwa Maralal(Open)"
+            },
+            "13306": {
+              "name": "Maralal Social Hall(Open)"
+            },
+            "13307": {
+              "name": "Allamano Nursery School"
+            },
+            "13308": {
+              "name": "Madrasa Nursery School"
+            },
+            "13309": {
+              "name": "Pcea Nursery School Maralal"
+            },
+            "13310": {
+              "name": "Morijoi Primary School"
+            },
+            "13311": {
+              "name": "Ledero Primary School"
+            },
+            "13312": {
+              "name": "Muslim Primary School"
+            },
+            "13313": {
+              "name": "Maralal Deb Nursery School"
+            },
+            "13314": {
+              "name": "Madrasa Primary School"
+            },
+            "13315": {
+              "name": "Prison Nursery School"
+            },
+            "13316": {
+              "name": "Lakira Primary School"
+            },
+            "13317": {
+              "name": "Loikas Nursery School"
+            },
+            "13318": {
+              "name": "St. Paul Primary School"
+            },
+            "13319": {
+              "name": "Glory Ecd Pre School"
+            }
+          }
+        },
+        "0664": {
+          "name": "Loosuk",
+          "pollingStations": {
+            "13320": {
+              "name": "Loiborngare Primary School"
+            },
+            "13321": {
+              "name": "Lolmisigiyoi Nursery School"
+            },
+            "13322": {
+              "name": "Loosuk Primary School"
+            },
+            "13323": {
+              "name": "Pura Primary School"
+            },
+            "13324": {
+              "name": "Lolkunono Primary School"
+            },
+            "13325": {
+              "name": "Nkopeliani Primary School"
+            },
+            "13326": {
+              "name": "Lchinge'I Primary School"
+            },
+            "13327": {
+              "name": "Lorosoit Nursery School"
+            },
+            "13328": {
+              "name": "Lesidai Primary School"
+            },
+            "13329": {
+              "name": "Lorrian Nursery School"
+            },
+            "13330": {
+              "name": "Loisukutan Primary School"
+            },
+            "13331": {
+              "name": "Lkeek Sapuki Primary School"
+            },
+            "13332": {
+              "name": "Loiragai Primary School"
+            }
+          }
+        },
+        "0665": {
+          "name": "Poro",
+          "pollingStations": {
+            "13333": {
+              "name": "Sirata Oirobi Primary School"
+            },
+            "13334": {
+              "name": "Lemisigiyo Primary School"
+            },
+            "13335": {
+              "name": "Seketet Primary School"
+            },
+            "13336": {
+              "name": "Sawan Nursery School"
+            },
+            "13337": {
+              "name": "Loiting Primary School"
+            },
+            "13338": {
+              "name": "Siambu Primary School"
+            },
+            "13339": {
+              "name": "Lorrok Primary School"
+            },
+            "13340": {
+              "name": "Ntachata Nursery School"
+            },
+            "13341": {
+              "name": "Ngano Primary School"
+            },
+            "13342": {
+              "name": "Nkejumuny Primary School"
+            },
+            "13343": {
+              "name": "Nauneri Primary School"
+            },
+            "13344": {
+              "name": "Ladala Nursery School"
+            },
+            "13345": {
+              "name": "Lamayaina Primary School"
+            },
+            "13346": {
+              "name": "Lkurum Primary School"
+            }
+          }
+        }
+      }
+    },
+    "134": {
+      "name": "Samburu North",
+      "wards": {
+        "0666": {
+          "name": "El-Barta",
+          "pollingStations": {
+            "13347": {
+              "name": "Ng'Ilai Primary School"
+            },
+            "13348": {
+              "name": "Lorokonyekie Nursery School"
+            },
+            "13349": {
+              "name": "Bendera Primary School"
+            },
+            "13350": {
+              "name": "Baragoi Primary School"
+            },
+            "13351": {
+              "name": "Munanda Nursery School"
+            },
+            "13352": {
+              "name": "Bendera Nursery School"
+            },
+            "13353": {
+              "name": "Huruma Nursery School"
+            },
+            "13354": {
+              "name": "Naling'Agor Nursery School"
+            },
+            "13355": {
+              "name": "Suyan Nursery (Mobile)"
+            },
+            "13356": {
+              "name": "Soito Ng'Iron Nursery School"
+            },
+            "13357": {
+              "name": "Sulubei  Nursery (Mobile)"
+            },
+            "13358": {
+              "name": "Masikita Primary School"
+            },
+            "13359": {
+              "name": "Nakuakui Village ( Mobile)"
+            },
+            "13360": {
+              "name": "Lekairab Village (Mobile)"
+            },
+            "13361": {
+              "name": "Mbukoi Nursery (Mobile)"
+            },
+            "13362": {
+              "name": "Nteremka Village"
+            },
+            "13363": {
+              "name": "Soit Ngiro Nursery School"
+            },
+            "13364": {
+              "name": "Nalingangor Primary School"
+            }
+          }
+        },
+        "0667": {
+          "name": "Nachola",
+          "pollingStations": {
+            "13365": {
+              "name": "Natiir Primary School"
+            },
+            "13366": {
+              "name": "Natiti Primary School"
+            },
+            "13367": {
+              "name": "Lomirok Dam (Mobile)"
+            },
+            "13368": {
+              "name": "Suguta Valley Primary School"
+            },
+            "13369": {
+              "name": "Nachola Primary School"
+            },
+            "13370": {
+              "name": "Nayana-Atiir Village (Mobile)"
+            },
+            "13371": {
+              "name": "Natrukan Terter (Mobile)"
+            },
+            "13372": {
+              "name": "Morua-Ngibuin ( Mobile)"
+            },
+            "13373": {
+              "name": "Natiti Nursery School"
+            },
+            "13374": {
+              "name": "Marti Primary School"
+            },
+            "13375": {
+              "name": "Katowana Nursery School"
+            },
+            "13376": {
+              "name": "Charda Nursery School"
+            },
+            "13377": {
+              "name": "Lochotom Village Mobile"
+            },
+            "13378": {
+              "name": "Kakulodak Nursery School"
+            },
+            "13379": {
+              "name": "Lokoricheria Village Mobile"
+            },
+            "13380": {
+              "name": "Ngipurio Village Mobile"
+            }
+          }
+        },
+        "0668": {
+          "name": "Ndoto",
+          "pollingStations": {
+            "13381": {
+              "name": "Latakweny Primary School"
+            },
+            "13382": {
+              "name": "Loindong'O Nursery School"
+            },
+            "13383": {
+              "name": "Ndonyo-Wuas Village"
+            },
+            "13384": {
+              "name": "Keno Village Nursery"
+            },
+            "13385": {
+              "name": "Loikumkum Primary School"
+            },
+            "13386": {
+              "name": "Sererit Primary School"
+            },
+            "13387": {
+              "name": "Simiti Primary School"
+            },
+            "13388": {
+              "name": "Ura Primary School"
+            },
+            "13389": {
+              "name": "Tangar Primary School"
+            },
+            "13390": {
+              "name": "Loodua Primary School"
+            },
+            "13391": {
+              "name": "Lesirkan Primary School"
+            },
+            "13392": {
+              "name": "Lesirkan Nursery School"
+            },
+            "13393": {
+              "name": "Arsim Primary School"
+            },
+            "13394": {
+              "name": "Illaut Primary School"
+            },
+            "13395": {
+              "name": "Siang'An Nursery School"
+            },
+            "13396": {
+              "name": "Ng'Uronit Research Station"
+            },
+            "13397": {
+              "name": "Kelesua Primary School"
+            },
+            "13398": {
+              "name": "Seren Primary School"
+            }
+          }
+        },
+        "0669": {
+          "name": "Nyiro",
+          "pollingStations": {
+            "13399": {
+              "name": "Naingasiai  Mobile"
+            },
+            "13400": {
+              "name": "Uaso Rongai Primary School"
+            },
+            "13401": {
+              "name": "Lokuto Village (Mobile)"
+            },
+            "13402": {
+              "name": "Kawap Primary School"
+            },
+            "13403": {
+              "name": "Sumuruai Primary School"
+            },
+            "13404": {
+              "name": "Loruko Nursery School"
+            },
+            "13405": {
+              "name": "Lmerim Nursery School"
+            },
+            "13406": {
+              "name": "South Horr Primary School"
+            },
+            "13407": {
+              "name": "Losurkoi Nursery School"
+            },
+            "13408": {
+              "name": "Tuum Forest Station"
+            },
+            "13409": {
+              "name": "Tuum Primary School"
+            },
+            "13410": {
+              "name": "Nakeor Manyatta (Mobile)"
+            },
+            "13411": {
+              "name": "Parkati Primary School"
+            },
+            "13412": {
+              "name": "Lareorok Primary School"
+            },
+            "13413": {
+              "name": "Loonjorin Primary School"
+            },
+            "13414": {
+              "name": "Anderi Primary School"
+            },
+            "13415": {
+              "name": "Keree Primary School"
+            },
+            "13416": {
+              "name": "Consollata Nursery School"
+            },
+            "13417": {
+              "name": "Sarima Village (Mobile)"
+            },
+            "13418": {
+              "name": "Ltaletiani Nursery School"
+            },
+            "13419": {
+              "name": "Laparaan Village Nursery"
+            },
+            "13420": {
+              "name": "Simale Village Mobile"
+            },
+            "13421": {
+              "name": "Kilepoi Nursery School"
+            },
+            "13422": {
+              "name": "Sengenge Village Mobile"
+            },
+            "13423": {
+              "name": "Loporoto Ethekon Nursery Mobile"
+            },
+            "13424": {
+              "name": "Namalia Village Mobbile"
+            }
+          }
+        },
+        "0670": {
+          "name": "Angata Nanyokie",
+          "pollingStations": {
+            "13425": {
+              "name": "Loltulelei Nursery School"
+            },
+            "13426": {
+              "name": "Soit Pus Primary School"
+            },
+            "13427": {
+              "name": "Sunoni Primary School"
+            },
+            "13428": {
+              "name": "Angata Nanyokie Primary School"
+            },
+            "13429": {
+              "name": "Lonkutukie Forest (Mobile)"
+            },
+            "13430": {
+              "name": "Nkorika Primary School"
+            },
+            "13431": {
+              "name": "Barsaloi Primary School"
+            },
+            "13432": {
+              "name": "Lpusi Primary School"
+            },
+            "13433": {
+              "name": "Morijo Primary School"
+            },
+            "13434": {
+              "name": "Lulu Primary School"
+            },
+            "13435": {
+              "name": "Ngavai Nursery School"
+            },
+            "13436": {
+              "name": "Lulu Forest Station"
+            },
+            "13437": {
+              "name": "Ntarakwai Nursery School"
+            },
+            "13438": {
+              "name": "Lkujita Village Nursery School"
+            }
+          }
+        },
+        "0671": {
+          "name": "Baawa",
+          "pollingStations": {
+            "13439": {
+              "name": "Muruankai Primary School"
+            },
+            "13440": {
+              "name": "Lchakwai Primary School"
+            },
+            "13441": {
+              "name": "Nonkeek Primary School"
+            },
+            "13442": {
+              "name": "Lorok-Lolmongo Nursery School"
+            },
+            "13443": {
+              "name": "Opiroi Primary School"
+            },
+            "13444": {
+              "name": "Nomboroi  Primary School"
+            },
+            "13445": {
+              "name": "Nomboroi Nursery School"
+            },
+            "13446": {
+              "name": "Naimarlal Primary School"
+            },
+            "13447": {
+              "name": "Laililai Nursery School"
+            },
+            "13448": {
+              "name": "Leiir Primary School"
+            },
+            "13449": {
+              "name": "Baawa Primary School"
+            },
+            "13450": {
+              "name": "Baawa Nursery School"
+            }
+          }
+        }
+      }
+    },
+    "135": {
+      "name": "Samburu East",
+      "wards": {
+        "0672": {
+          "name": "Waso",
+          "pollingStations": {
+            "13451": {
+              "name": "Santait Well Mobile"
+            },
+            "13452": {
+              "name": "Kinya Village Mobile"
+            },
+            "13453": {
+              "name": "Sere-Olipi Primary School"
+            },
+            "13454": {
+              "name": "Kauro Mobile"
+            },
+            "13455": {
+              "name": "Kaing'Os Nursery School"
+            },
+            "13456": {
+              "name": "Losesia Mobile"
+            },
+            "13457": {
+              "name": "Laresoro Primary School"
+            },
+            "13458": {
+              "name": "Nakwamoru Mobile"
+            },
+            "13459": {
+              "name": "Lerata Primary School"
+            },
+            "13460": {
+              "name": "Kalama Primary School"
+            },
+            "13461": {
+              "name": "Girgir Primary School-Upper"
+            },
+            "13462": {
+              "name": "Girgir Primary School-Lower"
+            },
+            "13463": {
+              "name": "Lorubai Primary School"
+            },
+            "13464": {
+              "name": "Ndonyo Wuasin Primary School"
+            },
+            "13465": {
+              "name": "Lndume Nursery School"
+            },
+            "13466": {
+              "name": "Lerrapanga Mobile"
+            },
+            "13467": {
+              "name": "Kirish Nursery School"
+            },
+            "13468": {
+              "name": "Lderkesi Primary School"
+            },
+            "13469": {
+              "name": "Lentasim Nursery School"
+            }
+          }
+        },
+        "0673": {
+          "name": "Wamba West",
+          "pollingStations": {
+            "13470": {
+              "name": "Resim Primary School"
+            },
+            "13471": {
+              "name": "Lopesiwo Primary School"
+            },
+            "13472": {
+              "name": "Ngaroni Primary School"
+            },
+            "13473": {
+              "name": "Lpus Primary School"
+            },
+            "13474": {
+              "name": "Lodung'Okwe Primary School"
+            },
+            "13475": {
+              "name": "Lantare Village"
+            },
+            "13476": {
+              "name": "Ndonyo Werrikon Nursery"
+            },
+            "13477": {
+              "name": "Mpasion Nursery School"
+            },
+            "13478": {
+              "name": "Silango Nanyokie Primary School"
+            },
+            "13479": {
+              "name": "Nenterit Village"
+            },
+            "13480": {
+              "name": "Lekiji Nursery School"
+            },
+            "13481": {
+              "name": "Ngutuk Elmulget Primary School"
+            },
+            "13482": {
+              "name": "Naisunyai Primary School"
+            },
+            "13483": {
+              "name": "Lempaute Nursery School"
+            },
+            "13484": {
+              "name": "Remot Primary School"
+            },
+            "13485": {
+              "name": "Sukuroi Nursery School"
+            },
+            "13486": {
+              "name": "Ngutuk Ong'Iron Primary School"
+            },
+            "13487": {
+              "name": "Sasaab Nursery School"
+            },
+            "13488": {
+              "name": "Kiltamany Primary School"
+            },
+            "13489": {
+              "name": "Lpus Leluai Primary School"
+            },
+            "13490": {
+              "name": "Samburu Lodge"
+            },
+            "13491": {
+              "name": "Interpid Samburu Club"
+            },
+            "13492": {
+              "name": "Lauragi Nursery School"
+            },
+            "13493": {
+              "name": "Sopa Lodge"
+            },
+            "13494": {
+              "name": "Nkiseu Nursery School"
+            },
+            "13495": {
+              "name": "Kurseinie Nursery School"
+            },
+            "13496": {
+              "name": "Mugur Loturo Well"
+            },
+            "13497": {
+              "name": "Nalepo Boo Primary School"
+            },
+            "13498": {
+              "name": "Lbaa Onyekie Pre - School"
+            }
+          }
+        },
+        "0674": {
+          "name": "Wamba East",
+          "pollingStations": {
+            "13499": {
+              "name": "Leng'Arde Primary School"
+            },
+            "13500": {
+              "name": "Loolkuniyani Primary School"
+            },
+            "13501": {
+              "name": "Lkisin Primary School"
+            },
+            "13502": {
+              "name": "Golgoltim Primary School"
+            },
+            "13503": {
+              "name": "Ntepes Primary School"
+            },
+            "13504": {
+              "name": "Sarara Namunyak"
+            },
+            "13505": {
+              "name": "Wamba Women Club"
+            },
+            "13506": {
+              "name": "Wamba D.E.B Primary School"
+            },
+            "13507": {
+              "name": "Lekat Nursery School"
+            },
+            "13508": {
+              "name": "Sionta Primary School"
+            },
+            "13509": {
+              "name": "Larata Primary School"
+            },
+            "13510": {
+              "name": "Lempuranai Primary School"
+            },
+            "13511": {
+              "name": "Mpagas Nursery School"
+            },
+            "13512": {
+              "name": "Matakwani Nursery School"
+            },
+            "13513": {
+              "name": "Milimani Nursery School"
+            },
+            "13514": {
+              "name": "Ldupai Nursery School"
+            },
+            "13515": {
+              "name": "Loipi Nursery School"
+            },
+            "13516": {
+              "name": "Wamba Ccm Primary School-Lower"
+            },
+            "13517": {
+              "name": "Wamba Ccm Primary School-Upper"
+            },
+            "13518": {
+              "name": "Reteti Primary School"
+            }
+          }
+        },
+        "0675": {
+          "name": "Wamba North",
+          "pollingStations": {
+            "13519": {
+              "name": "Raraiti Primary School"
+            },
+            "13520": {
+              "name": "Lorrok-Onyokie Nursery School"
+            },
+            "13521": {
+              "name": "Nairimirimo Primary School"
+            },
+            "13522": {
+              "name": "Swari Primary School"
+            },
+            "13523": {
+              "name": "Nolwao Primary School"
+            },
+            "13524": {
+              "name": "Ngare Narok Nursery School"
+            },
+            "13525": {
+              "name": "Ndikir Nanyokie Nursery School"
+            },
+            "13526": {
+              "name": "Kibartare Nursery School"
+            },
+            "13527": {
+              "name": "Oromodei Primary School"
+            },
+            "13528": {
+              "name": "Nolotoro Primary School"
+            },
+            "13529": {
+              "name": "Ngilai Primary School"
+            },
+            "13530": {
+              "name": "Naweniekoon Village"
+            },
+            "13531": {
+              "name": "Nchok Nursery School"
+            },
+            "13532": {
+              "name": "Mewua Village"
+            },
+            "13533": {
+              "name": "Ngilati Mobile"
+            },
+            "13534": {
+              "name": "Ndonyo Nasipa Primary School"
+            },
+            "13535": {
+              "name": "Tepele Nursery School"
+            },
+            "13536": {
+              "name": "Raraiti Nursery School"
+            },
+            "13537": {
+              "name": "Milgis Primary School"
+            },
+            "13538": {
+              "name": "Lkuasi Nursery School"
+            },
+            "13539": {
+              "name": "Nkokoyoi Nursery School"
+            },
+            "13540": {
+              "name": "Ngilai Lturoto Well"
+            },
+            "13541": {
+              "name": "Sirata Nursery School"
+            },
+            "13542": {
+              "name": "Marti Epareu Nursery School"
+            },
+            "13543": {
+              "name": "Leiroyia Primary School"
+            },
+            "13544": {
+              "name": "Lesikiya Pre - School"
+            },
+            "13545": {
+              "name": "Lteroi Pre - School"
+            },
+            "13546": {
+              "name": "Loosilale Pre - School"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Samburu Central",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Samburu East",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Samburu North",
+      "type": "Subcounty"
+    }
+  }
+}

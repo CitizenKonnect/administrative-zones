@@ -1,0 +1,1543 @@
+{
+  "name": "Garissa",
+  "type": "County",
+  "code": "007",
+  "constituencies": {
+    "027": {
+      "name": "Garissa Township",
+      "wards": {
+        "0131": {
+          "name": "Waberi",
+          "pollingStations": {
+            "02016": {
+              "name": "Garissa Secondary School"
+            },
+            "02017": {
+              "name": "Nasib Primary School"
+            },
+            "02018": {
+              "name": "Bulla College Primary School"
+            },
+            "02019": {
+              "name": "Bulla Mzuri  Market Centre"
+            },
+            "02020": {
+              "name": "Boystown Primary School"
+            },
+            "02021": {
+              "name": "Bulla Mzuri Primary School"
+            },
+            "02022": {
+              "name": "Bashaal Market Centre"
+            },
+            "02023": {
+              "name": "Bulla Masalani Market Centre"
+            },
+            "02024": {
+              "name": "Kunaso Centre"
+            },
+            "02025": {
+              "name": "Garissa School For The Deaf"
+            },
+            "02026": {
+              "name": "Abdilugey  Primary School"
+            }
+          }
+        },
+        "0132": {
+          "name": "Galbet",
+          "pollingStations": {
+            "02027": {
+              "name": "Tumaini Primary School"
+            },
+            "02028": {
+              "name": "Adc Primary School"
+            },
+            "02029": {
+              "name": "Jamuhuri Club"
+            },
+            "02030": {
+              "name": "Tetu Primary School"
+            },
+            "02031": {
+              "name": "Kazuko Primary School"
+            },
+            "02032": {
+              "name": "Hyuga Girls Primary School"
+            },
+            "02033": {
+              "name": "Kefri Centre"
+            },
+            "02034": {
+              "name": "Garissa Youth Polytechnic"
+            },
+            "02035": {
+              "name": "Garissa Medical Training College"
+            },
+            "02036": {
+              "name": "Yathrib Primary School"
+            },
+            "02037": {
+              "name": "Jaribu Primary School"
+            },
+            "02038": {
+              "name": "Ask Show Ground"
+            },
+            "02039": {
+              "name": "Bulla Makka Market Centre"
+            },
+            "02040": {
+              "name": "Umu Salama Girls Sec School"
+            },
+            "02041": {
+              "name": "Chief Medina  Office Centre"
+            },
+            "02042": {
+              "name": "Madina Health Centre"
+            },
+            "02043": {
+              "name": "Tetu Secondary School"
+            },
+            "02044": {
+              "name": "Yathrib Secondary School"
+            },
+            "02045": {
+              "name": "Tumaini Secondary School"
+            }
+          }
+        },
+        "0133": {
+          "name": "Township",
+          "pollingStations": {
+            "02046": {
+              "name": "Nep Girls' Secondary"
+            },
+            "02047": {
+              "name": "Garissa Ndogo Open Grounds"
+            },
+            "02048": {
+              "name": "Chief Township Office Centre"
+            },
+            "02049": {
+              "name": "Kenya National Library Centre."
+            },
+            "02050": {
+              "name": "Chief Camp"
+            },
+            "02051": {
+              "name": "Garissa Cultural Centre"
+            },
+            "02052": {
+              "name": "Children Rescue Center"
+            }
+          }
+        },
+        "0134": {
+          "name": "Iftin",
+          "pollingStations": {
+            "02053": {
+              "name": "County High School"
+            },
+            "02054": {
+              "name": "Sambul Primary School"
+            },
+            "02055": {
+              "name": "Garissa Primary School"
+            },
+            "02056": {
+              "name": "Guest House"
+            },
+            "02057": {
+              "name": "Iftin Primary School"
+            },
+            "02058": {
+              "name": "Young Muslim Primary School"
+            },
+            "02059": {
+              "name": "Korakora Primary School"
+            },
+            "02060": {
+              "name": "Eldert Village Centre"
+            },
+            "02061": {
+              "name": "Bolargy Primary School"
+            },
+            "02062": {
+              "name": "Jarirot Primary School"
+            },
+            "02063": {
+              "name": "Al-Fatah Primary School"
+            },
+            "02064": {
+              "name": "Rahma Village Centre"
+            },
+            "02065": {
+              "name": "Bulla Nur Primary School"
+            },
+            "02066": {
+              "name": "Najah Primary School"
+            },
+            "02067": {
+              "name": "Iftin Girls Secondary  School"
+            },
+            "02068": {
+              "name": "Kiwanja Bure Market Centre"
+            },
+            "02069": {
+              "name": "Mikono Vocation Centre"
+            },
+            "02070": {
+              "name": "Sariraha Village"
+            },
+            "02071": {
+              "name": "Bulla Adey"
+            }
+          }
+        }
+      }
+    },
+    "028": {
+      "name": "Balambala",
+      "wards": {
+        "0135": {
+          "name": "Balambala",
+          "pollingStations": {
+            "02072": {
+              "name": "Balambala Primary School"
+            },
+            "02073": {
+              "name": "Ohio Primary School"
+            },
+            "02074": {
+              "name": "Dujis Primary School"
+            },
+            "02075": {
+              "name": "Reithab Village Dam"
+            },
+            "02076": {
+              "name": "Ashadin Centre"
+            },
+            "02077": {
+              "name": "Kuno Primary School"
+            },
+            "02078": {
+              "name": "Bura Dansa Primary School"
+            },
+            "02079": {
+              "name": "Abdigab Village Centre"
+            },
+            "02080": {
+              "name": "Shebtaad Centre"
+            },
+            "02081": {
+              "name": "Balambala Secondary School"
+            },
+            "02082": {
+              "name": "Balambala Market"
+            },
+            "02083": {
+              "name": "Labiley Ecd"
+            },
+            "02084": {
+              "name": "Rahole Girls Secondary School"
+            },
+            "02085": {
+              "name": "Aaqal Aar Centre"
+            }
+          }
+        },
+        "0136": {
+          "name": "Danyere",
+          "pollingStations": {
+            "02086": {
+              "name": "Danyere Primary School"
+            },
+            "02087": {
+              "name": "Sikley Centre"
+            },
+            "02088": {
+              "name": "Godir Village Centre"
+            },
+            "02089": {
+              "name": "Qorahey Primary School"
+            },
+            "02090": {
+              "name": "Mudey Primary School"
+            },
+            "02091": {
+              "name": "Dogob  Ecd Centre."
+            },
+            "02092": {
+              "name": "Libahlow Primary School"
+            },
+            "02093": {
+              "name": "Hifow Village Centre"
+            },
+            "02094": {
+              "name": "Karbuna Primary School"
+            },
+            "02095": {
+              "name": "Bulla Mobile"
+            },
+            "02096": {
+              "name": "Hagar Jarer Primary School"
+            },
+            "02097": {
+              "name": "El Sheleti Village"
+            },
+            "02098": {
+              "name": "Danyere Secodary School"
+            },
+            "02099": {
+              "name": "Junfat Mobile"
+            },
+            "02100": {
+              "name": "Jerey Mobile"
+            },
+            "02101": {
+              "name": "Robdon Dam"
+            }
+          }
+        },
+        "0137": {
+          "name": "Jara Jara",
+          "pollingStations": {
+            "02102": {
+              "name": "Jara Jara Primary School"
+            },
+            "02103": {
+              "name": "Kone  Ecd Centre"
+            },
+            "02104": {
+              "name": "Abaq Halol Ecd"
+            },
+            "02105": {
+              "name": "Isak Jirba Mobile"
+            },
+            "02106": {
+              "name": "Lamaan Saaman"
+            },
+            "02107": {
+              "name": "Karbadere Centre"
+            },
+            "02108": {
+              "name": "Ilanley Village"
+            },
+            "02109": {
+              "name": "Laheley Village"
+            }
+          }
+        },
+        "0138": {
+          "name": "Saka",
+          "pollingStations": {
+            "02110": {
+              "name": "Kasha Primary School."
+            },
+            "02111": {
+              "name": "Saka Primary School"
+            },
+            "02112": {
+              "name": "Daley Primary School"
+            },
+            "02113": {
+              "name": "Hatley Primary School"
+            },
+            "02114": {
+              "name": "Junction Ecd Centre"
+            },
+            "02115": {
+              "name": "Hirbaiy Market Centre."
+            },
+            "02116": {
+              "name": "Mathah Libah Ecd Centre"
+            },
+            "02117": {
+              "name": "Dhedherey Ecd Centre"
+            },
+            "02118": {
+              "name": "Dabeley Ecd Centre"
+            },
+            "02119": {
+              "name": "Magado Ecd"
+            },
+            "02120": {
+              "name": "Qabobey Village"
+            },
+            "02121": {
+              "name": "Fatuma Golicha Village"
+            },
+            "02122": {
+              "name": "Ohio Dam"
+            },
+            "02123": {
+              "name": "El Dorr Village"
+            },
+            "02124": {
+              "name": "Butali Village"
+            },
+            "02125": {
+              "name": "Bulla Jari"
+            },
+            "02126": {
+              "name": "Bulla Ero Village"
+            },
+            "02127": {
+              "name": "Bulla Dos Uro Dam"
+            },
+            "02128": {
+              "name": "Cilanley Mobile Centre"
+            },
+            "02129": {
+              "name": "Laheley Mobile Centre"
+            }
+          }
+        },
+        "0139": {
+          "name": "Sankuri",
+          "pollingStations": {
+            "02130": {
+              "name": "Balich Primary School"
+            },
+            "02131": {
+              "name": "Sankuri Primary School"
+            },
+            "02132": {
+              "name": "Shimbirey Primary School"
+            },
+            "02133": {
+              "name": "Raya Primary School"
+            },
+            "02134": {
+              "name": "Atheyley Primary School"
+            },
+            "02135": {
+              "name": "Shabaha Primary School"
+            },
+            "02136": {
+              "name": "Dololo Weyn Primary School"
+            },
+            "02137": {
+              "name": "Nunow Primary School"
+            },
+            "02138": {
+              "name": "Dalolo  Midi Ecd"
+            },
+            "02139": {
+              "name": "Modika Primary School"
+            },
+            "02140": {
+              "name": "Laago Mobile"
+            },
+            "02141": {
+              "name": "Auliye Mobile"
+            },
+            "02142": {
+              "name": "Abdisamet Dam Mobile"
+            },
+            "02143": {
+              "name": "Shidle Dam"
+            },
+            "02144": {
+              "name": "Aden Eley Mobile"
+            },
+            "02145": {
+              "name": "Mathah Gesi Mobile"
+            },
+            "02146": {
+              "name": "Ture Ecd"
+            },
+            "02147": {
+              "name": "Qabobey Centre"
+            },
+            "02148": {
+              "name": "Bulla Hodan"
+            },
+            "02149": {
+              "name": "Laheley Village"
+            },
+            "02150": {
+              "name": "Labi Reb Mobile"
+            },
+            "02151": {
+              "name": "Wel Aathey Mobile"
+            },
+            "02152": {
+              "name": "Far Yar Village"
+            }
+          }
+        }
+      }
+    },
+    "029": {
+      "name": "Lagdera",
+      "wards": {
+        "0140": {
+          "name": "Modogashe",
+          "pollingStations": {
+            "02153": {
+              "name": "Modogashe Primary School"
+            },
+            "02154": {
+              "name": "Ama Prmary School"
+            },
+            "02155": {
+              "name": "Janju Water Wells"
+            },
+            "02156": {
+              "name": "Jilango Center"
+            },
+            "02157": {
+              "name": "Barkuke Primary School"
+            },
+            "02158": {
+              "name": "Barfin Centre"
+            },
+            "02159": {
+              "name": "Geylab Centre"
+            },
+            "02160": {
+              "name": "Eldera Market Center"
+            },
+            "02161": {
+              "name": "Medina Primary School"
+            },
+            "02162": {
+              "name": "Modogashe Livestock Market"
+            },
+            "02163": {
+              "name": "Baraza Park"
+            },
+            "02164": {
+              "name": "Elanle Primary School"
+            },
+            "02165": {
+              "name": "Eldin Wells"
+            },
+            "02166": {
+              "name": "Barkuke Health Centre"
+            },
+            "02167": {
+              "name": "Sarta Primary School"
+            },
+            "02168": {
+              "name": "Shabel Dula Primary School"
+            },
+            "02169": {
+              "name": "Ali Sagar Primary School"
+            },
+            "02170": {
+              "name": "Denka Ecd Centre"
+            },
+            "02171": {
+              "name": "Hagare Village Ecd Centre"
+            },
+            "02172": {
+              "name": "Faryar Ecd Centre"
+            },
+            "02173": {
+              "name": "Modogashe Secondary School"
+            },
+            "02174": {
+              "name": "Modogashe Girls Secondary School"
+            }
+          }
+        },
+        "0141": {
+          "name": "Benane",
+          "pollingStations": {
+            "02175": {
+              "name": "Benane Primary School"
+            },
+            "02176": {
+              "name": "Tokojo Center Molbile"
+            },
+            "02177": {
+              "name": "Lafageri Dam"
+            },
+            "02178": {
+              "name": "Haduni Water Pan"
+            },
+            "02179": {
+              "name": "Benane Secndary School"
+            },
+            "02180": {
+              "name": "Bullo Centre"
+            },
+            "02181": {
+              "name": "Kampi Samaki"
+            },
+            "02182": {
+              "name": "Madina Village"
+            },
+            "02183": {
+              "name": "Moulid Village"
+            },
+            "02184": {
+              "name": "Kampi Samaki Dispensary"
+            }
+          }
+        },
+        "0142": {
+          "name": "Goreale",
+          "pollingStations": {
+            "02185": {
+              "name": "Gutale Wells"
+            },
+            "02186": {
+              "name": "Shanta-Abak Center"
+            },
+            "02187": {
+              "name": "Ahmed Tukale Centre"
+            },
+            "02188": {
+              "name": "Agalaar Centre"
+            },
+            "02189": {
+              "name": "Barsaben Village Centre"
+            }
+          }
+        },
+        "0143": {
+          "name": "Maalimin",
+          "pollingStations": {
+            "02190": {
+              "name": "Maalimin Primary School"
+            },
+            "02191": {
+              "name": "Dihle Nursery School"
+            },
+            "02192": {
+              "name": "Ilan Primary School"
+            },
+            "02193": {
+              "name": "Riig Dam"
+            },
+            "02194": {
+              "name": "Garse Village"
+            },
+            "02195": {
+              "name": "Skanska Centre"
+            },
+            "02196": {
+              "name": "Togdub Primary School"
+            },
+            "02197": {
+              "name": "Sheikh Hajir Primary School"
+            },
+            "02198": {
+              "name": "Tinass Ecd Centre"
+            },
+            "02199": {
+              "name": "Wayama Jibril Primary School"
+            },
+            "02200": {
+              "name": "Dalehele Primary School"
+            },
+            "02201": {
+              "name": "Hagar Jarer Primary School"
+            },
+            "02202": {
+              "name": "Kiwanja Primary School"
+            },
+            "02203": {
+              "name": "Cross Bobay Borehole"
+            },
+            "02204": {
+              "name": "Tubere Village Centre"
+            }
+          }
+        },
+        "0144": {
+          "name": "Sabena",
+          "pollingStations": {
+            "02205": {
+              "name": "Garufa Primary School"
+            },
+            "02206": {
+              "name": "Charon Nursery School"
+            },
+            "02207": {
+              "name": "Garufa Borehole"
+            },
+            "02208": {
+              "name": "Hagar Village Centre"
+            },
+            "02209": {
+              "name": "Qorwa Borehole"
+            }
+          }
+        },
+        "0145": {
+          "name": "Baraki",
+          "pollingStations": {
+            "02210": {
+              "name": "Baraki Center"
+            },
+            "02211": {
+              "name": "Afweyn Center"
+            },
+            "02212": {
+              "name": "Afweine Chiefs Office"
+            },
+            "02213": {
+              "name": "Bombi Borehole"
+            },
+            "02214": {
+              "name": "Languyato Village Borehole"
+            },
+            "02215": {
+              "name": "Baraki Primary School"
+            },
+            "02216": {
+              "name": "Baraki Dispensary"
+            },
+            "02217": {
+              "name": "Darusalam Primary School"
+            },
+            "02218": {
+              "name": "Afweine Primary School"
+            },
+            "02219": {
+              "name": "Afweine Dispensary"
+            },
+            "02220": {
+              "name": "Afweine Secondary School"
+            },
+            "02221": {
+              "name": "Togdub Water Pan"
+            }
+          }
+        }
+      }
+    },
+    "030": {
+      "name": "Dadaab",
+      "wards": {
+        "0146": {
+          "name": "Dertu",
+          "pollingStations": {
+            "02222": {
+              "name": "Dertu Village Center"
+            },
+            "02223": {
+              "name": "Faf Kalala Dam"
+            },
+            "02224": {
+              "name": "Bahuri Primary School"
+            },
+            "02225": {
+              "name": "Alango Arba Post Office"
+            },
+            "02226": {
+              "name": "Kabobei Dam"
+            },
+            "02227": {
+              "name": "Boransis"
+            },
+            "02228": {
+              "name": "Alango Primary School"
+            },
+            "02229": {
+              "name": "Laago Borehole"
+            },
+            "02230": {
+              "name": "Udhole Primary School"
+            },
+            "02231": {
+              "name": "Kamuthe Primary School"
+            },
+            "02232": {
+              "name": "Dertu Girls Secondary School"
+            },
+            "02233": {
+              "name": "Dertu Primary School"
+            },
+            "02234": {
+              "name": "Alango Arba Cheif Office"
+            },
+            "02235": {
+              "name": "Dertu Ict Center"
+            }
+          }
+        },
+        "0147": {
+          "name": "Dadaab",
+          "pollingStations": {
+            "02236": {
+              "name": "Dadaab Primary School"
+            },
+            "02237": {
+              "name": "Ifo Borehole"
+            },
+            "02238": {
+              "name": "Dadaab Secondary School"
+            },
+            "02239": {
+              "name": "Daydey Primary School"
+            },
+            "02240": {
+              "name": "Kiwanja Primary School"
+            },
+            "02241": {
+              "name": "Bogyar Primary School"
+            },
+            "02242": {
+              "name": "Haji Idris Girls Secondary School"
+            },
+            "02243": {
+              "name": "Bula Kheir Primary School"
+            },
+            "02244": {
+              "name": "Dadaab Multipurpose Hall"
+            }
+          }
+        },
+        "0148": {
+          "name": "Labasigale",
+          "pollingStations": {
+            "02245": {
+              "name": "Lebisigale Center"
+            },
+            "02246": {
+              "name": "Lander Wells"
+            },
+            "02247": {
+              "name": "Borehole 5 (Lebisigale)"
+            },
+            "02248": {
+              "name": "Welhar Centre"
+            },
+            "02249": {
+              "name": "Labasigale Chief Office"
+            },
+            "02250": {
+              "name": "Landiig Borehole"
+            }
+          }
+        },
+        "0149": {
+          "name": "Damajale",
+          "pollingStations": {
+            "02251": {
+              "name": "Dagahley Center"
+            },
+            "02252": {
+              "name": "Kokar Primary School"
+            },
+            "02253": {
+              "name": "Damajale Primary School"
+            },
+            "02254": {
+              "name": "Madahgesi Wells"
+            },
+            "02255": {
+              "name": "Damajale Abak Water Pan"
+            },
+            "02256": {
+              "name": "Daryoley Dam"
+            },
+            "02257": {
+              "name": "Borehole 2"
+            },
+            "02258": {
+              "name": "Hamey Borehole"
+            },
+            "02259": {
+              "name": "Malaylay Primary School"
+            },
+            "02260": {
+              "name": "Maguto Primary School"
+            },
+            "02261": {
+              "name": "Barkin Primary School"
+            },
+            "02262": {
+              "name": "Kiwanja Yarey Primary School"
+            },
+            "02263": {
+              "name": "Leheley Primary School"
+            },
+            "02264": {
+              "name": "Igal Primary School"
+            },
+            "02265": {
+              "name": "Bulla Yanya Primary School"
+            },
+            "02266": {
+              "name": "Hamey Primary School"
+            },
+            "02267": {
+              "name": "Madahgesi Primary School"
+            },
+            "02268": {
+              "name": "Hamajo Borehole"
+            },
+            "02269": {
+              "name": "Qot Qot Borehole"
+            },
+            "02270": {
+              "name": "Dalsan Borehole"
+            },
+            "02271": {
+              "name": "Damajaley Ict Center"
+            },
+            "02272": {
+              "name": "Towfiq Borehole"
+            },
+            "02273": {
+              "name": "Weldoni Primary School"
+            }
+          }
+        },
+        "0150": {
+          "name": "Liboi",
+          "pollingStations": {
+            "02274": {
+              "name": "Kulan Primary School"
+            },
+            "02275": {
+              "name": "Liboi Primary School"
+            },
+            "02276": {
+              "name": "Harahara Post Office"
+            },
+            "02277": {
+              "name": "Kadakso Wells"
+            },
+            "02278": {
+              "name": "Indadada Dams"
+            },
+            "02279": {
+              "name": "Wardeglow Dam"
+            },
+            "02280": {
+              "name": "Malaylay Centre"
+            },
+            "02281": {
+              "name": "Dek Elema Centre"
+            },
+            "02282": {
+              "name": "Shebta Aad Borehole"
+            },
+            "02283": {
+              "name": "Lebi Ato Water Pan"
+            },
+            "02284": {
+              "name": "Liboi Secondary School"
+            },
+            "02285": {
+              "name": "Liboi Ict Center"
+            },
+            "02286": {
+              "name": "Kulan Secondary School"
+            }
+          }
+        },
+        "0151": {
+          "name": "Abakaile",
+          "pollingStations": {
+            "02287": {
+              "name": "Abakaile Center"
+            },
+            "02288": {
+              "name": "Kumahumato Center"
+            },
+            "02289": {
+              "name": "Ahmed-Qalow Dam"
+            },
+            "02290": {
+              "name": "Libahlow Village"
+            },
+            "02291": {
+              "name": "Saretho Primary School"
+            },
+            "02292": {
+              "name": "Alikune Primary School"
+            },
+            "02293": {
+              "name": "Marothiley Primary School"
+            },
+            "02294": {
+              "name": "Lih Shell Primary School"
+            },
+            "02295": {
+              "name": "Maslah Primary School"
+            },
+            "02296": {
+              "name": "Alikune Dispesary"
+            },
+            "02297": {
+              "name": "Libahlow Primary School"
+            },
+            "02298": {
+              "name": "Saretho Borehole"
+            },
+            "02299": {
+              "name": "Kumahumato Chief Office"
+            },
+            "02300": {
+              "name": "Darusalam Center"
+            },
+            "02301": {
+              "name": "Haji Adan Village"
+            },
+            "02302": {
+              "name": "Gurro Primary School"
+            }
+          }
+        }
+      }
+    },
+    "031": {
+      "name": "Fafi",
+      "wards": {
+        "0152": {
+          "name": "Bura",
+          "pollingStations": {
+            "02303": {
+              "name": "Ali-Emij Primary School"
+            },
+            "02304": {
+              "name": "Bura Primary School"
+            },
+            "02305": {
+              "name": "Hawajot Village"
+            },
+            "02306": {
+              "name": "Mathahgesi Moble School"
+            },
+            "02307": {
+              "name": "Arbdabolo Community Water Pan"
+            },
+            "02308": {
+              "name": "Dagega Dam"
+            },
+            "02309": {
+              "name": "Fafi Girls Secondary School"
+            },
+            "02310": {
+              "name": "Bura Bazara Park"
+            },
+            "02311": {
+              "name": "Jambele Primary School"
+            },
+            "02312": {
+              "name": "Dagwardey Community Pan"
+            },
+            "02313": {
+              "name": "Garasweino Primary School"
+            },
+            "02314": {
+              "name": "Mansabubu Primary School"
+            },
+            "02315": {
+              "name": "Daresalam Village"
+            },
+            "02316": {
+              "name": "Bulla Rahma"
+            }
+          }
+        },
+        "0153": {
+          "name": "Dekaharia",
+          "pollingStations": {
+            "02317": {
+              "name": "Uftis Village Centre"
+            },
+            "02318": {
+              "name": "Muftu Ecd"
+            },
+            "02319": {
+              "name": "Katama Mobile Centre"
+            },
+            "02320": {
+              "name": "Harerah Dams"
+            },
+            "02321": {
+              "name": "Gubis Primary School"
+            },
+            "02322": {
+              "name": "Eda Ecd"
+            },
+            "02323": {
+              "name": "Dertu Ecd"
+            },
+            "02324": {
+              "name": "Bulagolol Primary School"
+            },
+            "02325": {
+              "name": "Tumtish Village Centre"
+            },
+            "02326": {
+              "name": "Marerkader Dam"
+            },
+            "02327": {
+              "name": "Ilmabanta Water Pan"
+            },
+            "02328": {
+              "name": "Hajijimy Ecd"
+            },
+            "02329": {
+              "name": "Gamagala Primary School"
+            },
+            "02330": {
+              "name": "Doi Ecd"
+            },
+            "02331": {
+              "name": "Dekaharja Primary School"
+            },
+            "02332": {
+              "name": "Hadees"
+            },
+            "02333": {
+              "name": "Deg Bon Water Pan"
+            },
+            "02334": {
+              "name": "Marerey Water Pan"
+            },
+            "02335": {
+              "name": "Diniq Water Pan"
+            },
+            "02336": {
+              "name": "Galmagala Ict"
+            },
+            "02337": {
+              "name": "Farah Durwa Borehole"
+            }
+          }
+        },
+        "0154": {
+          "name": "Jarajila",
+          "pollingStations": {
+            "02338": {
+              "name": "Alinjugur Primary School"
+            },
+            "02339": {
+              "name": "Amuma Primary School"
+            },
+            "02340": {
+              "name": "Jarajila Ecd"
+            },
+            "02341": {
+              "name": "Sadeh Gose Water Pan"
+            },
+            "02342": {
+              "name": "Welmerer Primary School"
+            },
+            "02343": {
+              "name": "Jikole Water Pan"
+            },
+            "02344": {
+              "name": "Darken Kosar Dam"
+            },
+            "02345": {
+              "name": "Elin Centre"
+            },
+            "02346": {
+              "name": "Alinjugur Secondary"
+            }
+          }
+        },
+        "0155": {
+          "name": "Fafi",
+          "pollingStations": {
+            "02347": {
+              "name": "Yumbis Primary School"
+            },
+            "02348": {
+              "name": "Hagardera Community Water Pan"
+            },
+            "02349": {
+              "name": "Fafi Primary School"
+            },
+            "02350": {
+              "name": "Mathahmarub Primary School"
+            },
+            "02351": {
+              "name": "Hagarbul Community Centre"
+            },
+            "02352": {
+              "name": "Elhumo Ecd"
+            },
+            "02353": {
+              "name": "Bohole 5 Mobile Centre"
+            },
+            "02354": {
+              "name": "Diiso Primary"
+            },
+            "02355": {
+              "name": "Laago Primary School"
+            },
+            "02356": {
+              "name": "Daddera Primary School"
+            },
+            "02357": {
+              "name": "Fafahjin Primary School"
+            },
+            "02358": {
+              "name": "Iftin Primary School"
+            },
+            "02359": {
+              "name": "Upendo Primary"
+            },
+            "02360": {
+              "name": "Dela Sagaar"
+            },
+            "02361": {
+              "name": "Diiso Ict Centre"
+            }
+          }
+        },
+        "0156": {
+          "name": "Nanighi",
+          "pollingStations": {
+            "02362": {
+              "name": "Abaqdera Primary School"
+            },
+            "02363": {
+              "name": "Guyo Primary School"
+            },
+            "02364": {
+              "name": "Kamuthe Primary"
+            },
+            "02365": {
+              "name": "Nanighi Primary School"
+            },
+            "02366": {
+              "name": "Harajabs Ecd"
+            },
+            "02367": {
+              "name": "Nadir Primary School"
+            },
+            "02368": {
+              "name": "Warable Primary School"
+            },
+            "02369": {
+              "name": "Nanighi Secondary School"
+            },
+            "02370": {
+              "name": "Tagal Primary School"
+            },
+            "02371": {
+              "name": "Gora Ecd"
+            },
+            "02372": {
+              "name": "Dab Bulle Dam"
+            },
+            "02373": {
+              "name": "Warable Madrasa"
+            },
+            "02374": {
+              "name": "Kamuthe Women Centre"
+            },
+            "02375": {
+              "name": "Sheikh Hassan Centre"
+            }
+          }
+        }
+      }
+    },
+    "032": {
+      "name": "Ijara",
+      "wards": {
+        "0157": {
+          "name": "Hulugho",
+          "pollingStations": {
+            "02376": {
+              "name": "Koranhindi Primary School"
+            },
+            "02377": {
+              "name": "Garabey Primary School"
+            },
+            "02378": {
+              "name": "Elkambere Primary School"
+            },
+            "02379": {
+              "name": "Sarirah Early Child Center"
+            },
+            "02380": {
+              "name": "Hulugho Primary School"
+            },
+            "02381": {
+              "name": "Muftu Primary School"
+            },
+            "02382": {
+              "name": "Wardeijab Primary School"
+            },
+            "02383": {
+              "name": "Ire Garwan Village Dam"
+            },
+            "02384": {
+              "name": "Haitagan Village Dam"
+            },
+            "02385": {
+              "name": "Jilo Mata Primary School"
+            },
+            "02386": {
+              "name": "Hadi Primary School"
+            },
+            "02387": {
+              "name": "Sinai Primary School"
+            },
+            "02388": {
+              "name": "Doi Mobile"
+            },
+            "02389": {
+              "name": "Gesireb Primary School"
+            },
+            "02390": {
+              "name": "Hareridero Village Dam"
+            },
+            "02391": {
+              "name": "Tumtish Village Dam"
+            },
+            "02392": {
+              "name": "Doomi Ecd"
+            },
+            "02393": {
+              "name": "Boma Primary School"
+            },
+            "02394": {
+              "name": "Bulla Khardas Ict Centre"
+            },
+            "02395": {
+              "name": "Kurde Village Dam"
+            },
+            "02396": {
+              "name": "Garasbul Village Dam"
+            }
+          }
+        },
+        "0158": {
+          "name": "Sangailu",
+          "pollingStations": {
+            "02397": {
+              "name": "Handaro Primary School"
+            },
+            "02398": {
+              "name": "Gediluun Primary School"
+            },
+            "02399": {
+              "name": "Sangailu Primary School"
+            },
+            "02400": {
+              "name": "Mata Arba Early Child Center"
+            },
+            "02401": {
+              "name": "Mareh Early Child Center"
+            },
+            "02402": {
+              "name": "Wakab Harey Early Child Center"
+            },
+            "02403": {
+              "name": "Ege Early Child Center"
+            },
+            "02404": {
+              "name": "Daarow Ecd"
+            },
+            "02405": {
+              "name": "Maderto Mobile"
+            },
+            "02406": {
+              "name": "Sangailu Ict Centre"
+            }
+          }
+        },
+        "0159": {
+          "name": "Ijara",
+          "pollingStations": {
+            "02407": {
+              "name": "Gerille Primary School"
+            },
+            "02408": {
+              "name": "Shebo Village Dam"
+            },
+            "02409": {
+              "name": "Rugha Primary School"
+            },
+            "02410": {
+              "name": "Warsame Village Dam"
+            },
+            "02411": {
+              "name": "Ijara Primary School"
+            },
+            "02412": {
+              "name": "Hussein Katalo Village Dam"
+            },
+            "02413": {
+              "name": "Dabel Weyne Village Dam"
+            },
+            "02414": {
+              "name": "Waranweine Primary School"
+            },
+            "02415": {
+              "name": "Bulla Gogon Village Dam"
+            },
+            "02416": {
+              "name": "Bultohama Primary School"
+            },
+            "02417": {
+              "name": "Dibayu Cattle Crush"
+            },
+            "02418": {
+              "name": "Bothai Primary School"
+            },
+            "02419": {
+              "name": "Jalish Primary School"
+            },
+            "02420": {
+              "name": "Dololo Primary School"
+            },
+            "02421": {
+              "name": "Elmaan Primary School"
+            },
+            "02422": {
+              "name": "Hamora Village Dam"
+            },
+            "02423": {
+              "name": "Bulla Wacha Early Child Center"
+            },
+            "02424": {
+              "name": "Ijara Livestock Market"
+            },
+            "02425": {
+              "name": "Maah Village Dam"
+            },
+            "02426": {
+              "name": "Sagar Village Dam"
+            },
+            "02427": {
+              "name": "Wardegoga Primary School"
+            },
+            "02428": {
+              "name": "Bulla Ap Dispensary"
+            },
+            "02429": {
+              "name": "Falama Primary School"
+            },
+            "02430": {
+              "name": "Golol Dere Village Dam"
+            },
+            "02431": {
+              "name": "Walmare Village Dam"
+            }
+          }
+        },
+        "0160": {
+          "name": "Masalani",
+          "pollingStations": {
+            "02432": {
+              "name": "Gababa Primary School"
+            },
+            "02433": {
+              "name": "Abdigure Dam"
+            },
+            "02434": {
+              "name": "Masalani Primary School"
+            },
+            "02435": {
+              "name": "Masalani Baraza Park"
+            },
+            "02436": {
+              "name": "Hara Primary School"
+            },
+            "02437": {
+              "name": "Turkata Primary School"
+            },
+            "02438": {
+              "name": "Rahma Primary School"
+            },
+            "02439": {
+              "name": "Korissa Primary School"
+            },
+            "02440": {
+              "name": "Korisa Dispensary"
+            },
+            "02441": {
+              "name": "Kotile Early Child Center"
+            },
+            "02442": {
+              "name": "Kotile Primary School"
+            },
+            "02443": {
+              "name": "Ali Jarire Early Child Center"
+            },
+            "02444": {
+              "name": "Shurie Secondary School"
+            },
+            "02445": {
+              "name": "Dahir Primary School"
+            },
+            "02446": {
+              "name": "Sufi Bashir Dam"
+            },
+            "02447": {
+              "name": "Mai Primary School"
+            },
+            "02448": {
+              "name": "Hadama Jarri Village Dam"
+            },
+            "02449": {
+              "name": "Gumarey Primary School"
+            },
+            "02450": {
+              "name": "Hidaya Primary School"
+            },
+            "02451": {
+              "name": "Khalankhal Derow"
+            },
+            "02452": {
+              "name": "Qundi Village Dam"
+            },
+            "02453": {
+              "name": "Torabora Primary School"
+            },
+            "02454": {
+              "name": "Dahir Dispensary"
+            },
+            "02455": {
+              "name": "Ijara County Council"
+            },
+            "02456": {
+              "name": "Taqwa Primary School"
+            },
+            "02457": {
+              "name": "County Council Mixed Secondary School"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Balambala",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Dadaab",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Fafi",
+      "type": "Subcounty"
+    },
+    "004": {
+      "name": "Garissa",
+      "type": "Subcounty"
+    },
+    "005": {
+      "name": "Hulugho",
+      "type": "Subcounty"
+    },
+    "006": {
+      "name": "Ijara",
+      "type": "Subcounty"
+    },
+    "007": {
+      "name": "Lagdera",
+      "type": "Subcounty"
+    }
+  }
+}

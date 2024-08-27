@@ -1,0 +1,969 @@
+{
+  "name": "Tana River",
+  "type": "County",
+  "code": "004",
+  "constituencies": {
+    "018": {
+      "name": "Garsen",
+      "wards": {
+        "0086": {
+          "name": "Kipini East",
+          "pollingStations": {
+            "01312": {
+              "name": "Kipini Primary School"
+            },
+            "01313": {
+              "name": "Ziwani  Primary School"
+            },
+            "01314": {
+              "name": "Shauri Moyo  Primary School"
+            },
+            "01315": {
+              "name": "Kizuiliyani Nursery School"
+            },
+            "01316": {
+              "name": "Mchelelo  Primary School"
+            },
+            "01317": {
+              "name": "Matangeni  Primary School"
+            },
+            "01318": {
+              "name": "Gatundu  Primary School"
+            },
+            "01319": {
+              "name": "Majiweni  Primary School"
+            },
+            "01320": {
+              "name": "Mapunga Primary School"
+            },
+            "01321": {
+              "name": "Kilelengwani  Primary School"
+            },
+            "01322": {
+              "name": "Kau  Primary School"
+            },
+            "01323": {
+              "name": "Reketa  Primary School"
+            },
+            "01324": {
+              "name": "Ozi  Primary School"
+            },
+            "01325": {
+              "name": "Mpeketoni Nursery School"
+            },
+            "01326": {
+              "name": "Kipini Secondary School"
+            },
+            "01327": {
+              "name": "Kaloleni Nursery School"
+            },
+            "01328": {
+              "name": "Kibaoni Nursery School"
+            }
+          }
+        },
+        "0087": {
+          "name": "Garsen South",
+          "pollingStations": {
+            "01329": {
+              "name": "Idsowe  Primary School"
+            },
+            "01330": {
+              "name": "Minjila Nursery School"
+            },
+            "01331": {
+              "name": "Didaade  Primary School"
+            },
+            "01332": {
+              "name": "Kibusu  Primary School"
+            },
+            "01333": {
+              "name": "Dalu  Primary School"
+            },
+            "01334": {
+              "name": "Tarasaa Secondary School"
+            },
+            "01335": {
+              "name": "Tarasaa  Primary School"
+            },
+            "01336": {
+              "name": "Hiari Community Hall"
+            },
+            "01337": {
+              "name": "Arap Moi  Primary School"
+            },
+            "01338": {
+              "name": "Ngao Social Hall"
+            },
+            "01339": {
+              "name": "Golbanti  Primary School"
+            },
+            "01340": {
+              "name": "Furaha  Primary School"
+            },
+            "01341": {
+              "name": "Bura Kofira  Primary School"
+            },
+            "01342": {
+              "name": "On-Wardei Primary School"
+            },
+            "01343": {
+              "name": "Gubani Nursery School"
+            },
+            "01344": {
+              "name": "Oda Secondary School"
+            },
+            "01345": {
+              "name": "Dalu Secondary School"
+            },
+            "01346": {
+              "name": "Ushindi Primary School"
+            },
+            "01347": {
+              "name": "Ramada Primary School"
+            }
+          }
+        },
+        "0088": {
+          "name": "Kipini West",
+          "pollingStations": {
+            "01348": {
+              "name": "Handaraku  Primary School"
+            },
+            "01349": {
+              "name": "Tara Koshoro Centre"
+            },
+            "01350": {
+              "name": "Kikomo  Primary School"
+            },
+            "01351": {
+              "name": "Nduru  Primary School"
+            },
+            "01352": {
+              "name": "Semikaro  Primary School"
+            },
+            "01353": {
+              "name": "Chamwanamuma  Primary School"
+            },
+            "01354": {
+              "name": "Shirikisho  Primary School"
+            },
+            "01355": {
+              "name": "Darga Galge Nursery School"
+            },
+            "01356": {
+              "name": "Odole Nursery School"
+            },
+            "01357": {
+              "name": "Muanja Centre"
+            },
+            "01358": {
+              "name": "Reketa Centre"
+            },
+            "01359": {
+              "name": "Tana Salt Nursery School"
+            },
+            "01360": {
+              "name": "Hurara  Primary School"
+            },
+            "01361": {
+              "name": "Katsangani  Primary School"
+            },
+            "01362": {
+              "name": "Meticharaka Primary School"
+            },
+            "01363": {
+              "name": "Mnarani Ecd Centre"
+            },
+            "01364": {
+              "name": "Hashaka Secondary School"
+            },
+            "01365": {
+              "name": "Mto Kilifi Ecd Centre"
+            },
+            "01366": {
+              "name": "Msurujani Ecd Centre"
+            }
+          }
+        },
+        "0089": {
+          "name": "Garsen Central",
+          "pollingStations": {
+            "01367": {
+              "name": "Imani  Primary School"
+            },
+            "01368": {
+              "name": "Dumi Nursery School"
+            },
+            "01369": {
+              "name": "Gamba  Primary School"
+            },
+            "01370": {
+              "name": "Danisa  Primary School"
+            },
+            "01371": {
+              "name": "Onkolde  Primary School"
+            },
+            "01372": {
+              "name": "Kone Mamo Center"
+            },
+            "01373": {
+              "name": "Galili  Primary School"
+            },
+            "01374": {
+              "name": "Gomesa Village"
+            },
+            "01375": {
+              "name": "Dibe Primary School"
+            },
+            "01376": {
+              "name": "Kipao  Primary School"
+            },
+            "01377": {
+              "name": "Mswakini Nursery  School"
+            },
+            "01378": {
+              "name": "Walkon Village"
+            },
+            "01379": {
+              "name": "Kipao Secondary School"
+            },
+            "01380": {
+              "name": "Kijo Nursery School"
+            },
+            "01381": {
+              "name": "Balo Nursery School"
+            }
+          }
+        },
+        "0090": {
+          "name": "Garsen West",
+          "pollingStations": {
+            "01382": {
+              "name": "Garsen  Primary School"
+            },
+            "01383": {
+              "name": "Maua  Primary School"
+            },
+            "01384": {
+              "name": "Sheli Abe Centre"
+            },
+            "01385": {
+              "name": "Konkona Nursery School"
+            },
+            "01386": {
+              "name": "Bilisa  Primary School"
+            },
+            "01387": {
+              "name": "Korlabe Village"
+            },
+            "01388": {
+              "name": "Assa  Primary School"
+            },
+            "01389": {
+              "name": "Baridi Centre (Mobile)"
+            },
+            "01390": {
+              "name": "Onjila Centre"
+            },
+            "01391": {
+              "name": "Odoganda Centre"
+            },
+            "01392": {
+              "name": "Tank E Centre"
+            },
+            "01393": {
+              "name": "Iddi Centre"
+            },
+            "01394": {
+              "name": "Kone  Primary School (Mobile)"
+            },
+            "01395": {
+              "name": "Sheli Primary School"
+            },
+            "01396": {
+              "name": "Sane Girls Secondsry School"
+            },
+            "01397": {
+              "name": "Tulu Nursery School"
+            },
+            "01398": {
+              "name": "Garsen High School"
+            },
+            "01399": {
+              "name": "Ramada Primary School"
+            },
+            "01400": {
+              "name": "Ananotu"
+            }
+          }
+        },
+        "0091": {
+          "name": "Garsen North",
+          "pollingStations": {
+            "01401": {
+              "name": "Gadeni  Primary School"
+            },
+            "01402": {
+              "name": "Reuben Mwewe  Primary School"
+            },
+            "01403": {
+              "name": "Kulesa  Primary School"
+            },
+            "01404": {
+              "name": "Maziwa  Primary School"
+            },
+            "01405": {
+              "name": "Marembo  Primary School"
+            },
+            "01406": {
+              "name": "Lazima  Primary School"
+            },
+            "01407": {
+              "name": "Sera  Primary School"
+            },
+            "01408": {
+              "name": "Kurole Centre"
+            },
+            "01409": {
+              "name": "Mwina  Primary School"
+            },
+            "01410": {
+              "name": "Ngumu Nursery School"
+            },
+            "01411": {
+              "name": "Bubesa  Primary School"
+            },
+            "01412": {
+              "name": "Kinyadu  Primary School"
+            },
+            "01413": {
+              "name": "Mmbuji  Primary School"
+            },
+            "01414": {
+              "name": "Mnazini  Primary School"
+            },
+            "01415": {
+              "name": "Mnazini Sign Post Centre"
+            },
+            "01416": {
+              "name": "Kitere  Primary School"
+            },
+            "01417": {
+              "name": "Choa Nursery School"
+            },
+            "01418": {
+              "name": "Baomo Primary School"
+            },
+            "01419": {
+              "name": "Galma Primary School"
+            },
+            "01420": {
+              "name": "Kitere Secondary School"
+            },
+            "01421": {
+              "name": "Gadeni Secondsry School"
+            }
+          }
+        }
+      }
+    },
+    "019": {
+      "name": "Galole",
+      "wards": {
+        "0092": {
+          "name": "Kinakomba",
+          "pollingStations": {
+            "01422": {
+              "name": "Haroresa Primary School"
+            },
+            "01423": {
+              "name": "Jara Mobile Centre"
+            },
+            "01424": {
+              "name": "Hara Primary School"
+            },
+            "01425": {
+              "name": "Bakisano Primary School"
+            },
+            "01426": {
+              "name": "Maroni Primary School"
+            },
+            "01427": {
+              "name": "Wenje Primary School"
+            },
+            "01428": {
+              "name": "Vukoni Primary School"
+            },
+            "01429": {
+              "name": "Bububu Primary School"
+            },
+            "01430": {
+              "name": "Duwayo Primary School"
+            },
+            "01431": {
+              "name": "Boji Nursery School"
+            },
+            "01432": {
+              "name": "Maweni Primary School"
+            },
+            "01433": {
+              "name": "Gafuru Primary School"
+            },
+            "01434": {
+              "name": "Harambee Mobile Centre"
+            },
+            "01435": {
+              "name": "Mkomani Primary School"
+            },
+            "01436": {
+              "name": "Fanjua Primary School"
+            },
+            "01437": {
+              "name": "Majengo Primari School"
+            },
+            "01438": {
+              "name": "Gubani Primary School"
+            },
+            "01439": {
+              "name": "Jarirodi Primary School"
+            },
+            "01440": {
+              "name": "Gubani Village Centre"
+            },
+            "01441": {
+              "name": "Masalani Primary School"
+            }
+          }
+        },
+        "0093": {
+          "name": "Mikinduni",
+          "pollingStations": {
+            "01442": {
+              "name": "Bondeni Primary School"
+            },
+            "01443": {
+              "name": "Lenda Primary School"
+            },
+            "01444": {
+              "name": "Handampia Primary School"
+            },
+            "01445": {
+              "name": "Chanani Primary School"
+            },
+            "01446": {
+              "name": "Mikinduni Primary School"
+            },
+            "01447": {
+              "name": "Kone Primary School"
+            },
+            "01448": {
+              "name": "Kalkacha Primary School"
+            },
+            "01449": {
+              "name": "Chamari Wells Mobile Centre"
+            },
+            "01450": {
+              "name": "Ingile Mobile Centre"
+            },
+            "01451": {
+              "name": "Kalkalcha Ecd"
+            },
+            "01452": {
+              "name": "Hola Polytechnic"
+            }
+          }
+        },
+        "0094": {
+          "name": "Chewani",
+          "pollingStations": {
+            "01453": {
+              "name": "Forest Training School"
+            },
+            "01454": {
+              "name": "Kiarukungu Primary School"
+            },
+            "01455": {
+              "name": "Bahati Primary School"
+            },
+            "01456": {
+              "name": "Chewani Primary School"
+            },
+            "01457": {
+              "name": "Riabai Village Centre"
+            },
+            "01458": {
+              "name": "Daku Primary School"
+            },
+            "01459": {
+              "name": "Daku Nursery School"
+            },
+            "01460": {
+              "name": "Kumbi Primary School"
+            },
+            "01461": {
+              "name": "Rhoka Primary School"
+            },
+            "01462": {
+              "name": "Hanasa Village Centre"
+            },
+            "01463": {
+              "name": "Makere Primary School"
+            },
+            "01464": {
+              "name": "Ovo Pri School"
+            },
+            "01465": {
+              "name": "Laini Primary School"
+            },
+            "01466": {
+              "name": "Bohoni Primary School"
+            },
+            "01467": {
+              "name": "Ghalamani Primary School"
+            },
+            "01468": {
+              "name": "Nyangwani Pr.Sch"
+            },
+            "01469": {
+              "name": "Rafiki Primary School"
+            },
+            "01470": {
+              "name": "Mau Mau Secondary School"
+            },
+            "01471": {
+              "name": "Hola Secondary School"
+            },
+            "01472": {
+              "name": "Laza Primary School"
+            },
+            "01473": {
+              "name": "Hola School For Mentally Handcapped"
+            },
+            "01474": {
+              "name": "Hola Primary School"
+            },
+            "01475": {
+              "name": "Wacha Kone Primary School"
+            },
+            "01476": {
+              "name": "Laza Nursery School"
+            },
+            "01477": {
+              "name": "Bula Secondary Ecd"
+            },
+            "01478": {
+              "name": "Laza Nursery School"
+            }
+          }
+        },
+        "0095": {
+          "name": "Wayu",
+          "pollingStations": {
+            "01479": {
+              "name": "Dayate Nursery School"
+            },
+            "01480": {
+              "name": "Gururi Primary School"
+            },
+            "01481": {
+              "name": "Malka Dende Nursery School"
+            },
+            "01482": {
+              "name": "Daba Primary School"
+            },
+            "01483": {
+              "name": "Gofisa Village Centre"
+            },
+            "01484": {
+              "name": "Kitole Dado Mobile Centre"
+            },
+            "01485": {
+              "name": "Komoli Mobile Centre"
+            },
+            "01486": {
+              "name": "Wayu Boru Primary School"
+            },
+            "01487": {
+              "name": "Wayu Primary School"
+            },
+            "01488": {
+              "name": "Koticha Primary School"
+            },
+            "01489": {
+              "name": "Bakaye Mobile Centre"
+            },
+            "01490": {
+              "name": "Moti Boka Centre (Mobile)"
+            },
+            "01491": {
+              "name": "Ongola Centre (Mobile)"
+            },
+            "01492": {
+              "name": "Titila Primary School"
+            },
+            "01493": {
+              "name": "Kurundu Centre (Mobile)"
+            },
+            "01494": {
+              "name": "Chifiri Primary School"
+            },
+            "01495": {
+              "name": "Hakoka Primary School"
+            },
+            "01496": {
+              "name": "Kesi Nursery School (Mobile)"
+            },
+            "01497": {
+              "name": "Lakole Nursery School"
+            },
+            "01498": {
+              "name": "Maro Wells Centre (Mobile)"
+            },
+            "01499": {
+              "name": "Aboye Nursery School (Mobile)"
+            },
+            "01500": {
+              "name": "Waldena Primary School"
+            },
+            "01501": {
+              "name": "Saware Nursery School (Mobile)"
+            },
+            "01502": {
+              "name": "Anabu Nursery School (Mobile)"
+            },
+            "01503": {
+              "name": "Kone Kaliti Nursery School (Mobile)"
+            },
+            "01504": {
+              "name": "Bulto Mulitu Village"
+            },
+            "01505": {
+              "name": "El Wachu Nursery School"
+            },
+            "01506": {
+              "name": "Mata Gala Ecd"
+            }
+          }
+        }
+      }
+    },
+    "020": {
+      "name": "Bura",
+      "wards": {
+        "0096": {
+          "name": "Chewele",
+          "pollingStations": {
+            "01507": {
+              "name": "Chewele Primary School"
+            },
+            "01508": {
+              "name": "Shika Adabu Primary School"
+            },
+            "01509": {
+              "name": "Bilbil Primary School"
+            },
+            "01510": {
+              "name": "Ghamano Primary School"
+            },
+            "01511": {
+              "name": "Nanighi Primary School"
+            },
+            "01512": {
+              "name": "Jajabo Primary School"
+            },
+            "01513": {
+              "name": "Bawama Nursery"
+            },
+            "01514": {
+              "name": "Subo Primary School"
+            },
+            "01515": {
+              "name": "Dukanotu Primary School"
+            },
+            "01516": {
+              "name": "Wekoye Primary School"
+            },
+            "01517": {
+              "name": "Gelmad Centre - Mobile"
+            },
+            "01518": {
+              "name": "Wadesa Primary School"
+            },
+            "01519": {
+              "name": "Ngomeni Nursery School"
+            },
+            "01520": {
+              "name": "Tune Primary School"
+            },
+            "01521": {
+              "name": "Shabaha Nursery School"
+            },
+            "01522": {
+              "name": "Jaribu Mobile"
+            },
+            "01523": {
+              "name": "Guyo Village"
+            },
+            "01524": {
+              "name": "Matagala Primary School"
+            },
+            "01525": {
+              "name": "Komor Dukub - Mobile"
+            },
+            "01526": {
+              "name": "Darime Primary School"
+            },
+            "01527": {
+              "name": "Charidende Primary School"
+            }
+          }
+        },
+        "0097": {
+          "name": "Hirimani",
+          "pollingStations": {
+            "01528": {
+              "name": "Meti Primary School"
+            },
+            "01529": {
+              "name": "Huruma Primary School"
+            },
+            "01530": {
+              "name": "Hirimani Secondary School"
+            },
+            "01531": {
+              "name": "Shirikisho Primary School"
+            },
+            "01532": {
+              "name": "Baraka Primary School"
+            },
+            "01533": {
+              "name": "Amani Primary School"
+            },
+            "01534": {
+              "name": "Fahari Primary School"
+            },
+            "01535": {
+              "name": "Kaba Wells - Mobile"
+            },
+            "01536": {
+              "name": "Sabukia Primary School"
+            },
+            "01537": {
+              "name": "El Tutu Wells - Mobile"
+            },
+            "01538": {
+              "name": "Walesorhea Primary School"
+            },
+            "01539": {
+              "name": "Hosingo Primary School"
+            },
+            "01540": {
+              "name": "Bula Rig Primary School"
+            },
+            "01541": {
+              "name": "Godia Primary School"
+            },
+            "01542": {
+              "name": "Magura Primary School"
+            },
+            "01543": {
+              "name": "Makini Primary School"
+            },
+            "01544": {
+              "name": "Village Five Nursery School"
+            },
+            "01545": {
+              "name": "Shora Gafo - Mobile"
+            },
+            "01546": {
+              "name": "Woles Tokocha - Mobile"
+            },
+            "01547": {
+              "name": "Kaniki Centre - Mobile"
+            },
+            "01548": {
+              "name": "Fayya Technical Institute"
+            },
+            "01549": {
+              "name": "Fayya Technical Institute"
+            }
+          }
+        },
+        "0098": {
+          "name": "Bangale",
+          "pollingStations": {
+            "01550": {
+              "name": "Bangale Primary School"
+            },
+            "01551": {
+              "name": "Miti Boma Centre - Mobile"
+            },
+            "01552": {
+              "name": "Tula Primary School"
+            },
+            "01553": {
+              "name": "El Rar Primary School"
+            },
+            "01554": {
+              "name": "Kamaguru Primary School"
+            },
+            "01555": {
+              "name": "Boka Primary School"
+            },
+            "01556": {
+              "name": "Yaqrit Centre"
+            },
+            "01557": {
+              "name": "Basahargesa Nursery School"
+            },
+            "01558": {
+              "name": "Bultobanta Village"
+            },
+            "01559": {
+              "name": "Kuriti Primary School"
+            },
+            "01560": {
+              "name": "Bangale Secondary School"
+            },
+            "01561": {
+              "name": "Labile Primary School"
+            }
+          }
+        },
+        "0099": {
+          "name": "Sala",
+          "pollingStations": {
+            "01562": {
+              "name": "Maramtu Primary School"
+            },
+            "01563": {
+              "name": "Abakik Village"
+            },
+            "01564": {
+              "name": "Mororo Madrasa"
+            },
+            "01565": {
+              "name": "Anole Primary School"
+            },
+            "01566": {
+              "name": "Ziwani Nursery"
+            },
+            "01567": {
+              "name": "Sala Primary School"
+            },
+            "01568": {
+              "name": "Hamaresa Village"
+            },
+            "01569": {
+              "name": "Sombo Primary School"
+            },
+            "01570": {
+              "name": "Gubatu Centre"
+            },
+            "01571": {
+              "name": "Bakuyu Nursery"
+            },
+            "01572": {
+              "name": "Hatata Primary School"
+            },
+            "01573": {
+              "name": "Taleo Nursery School"
+            },
+            "01574": {
+              "name": "Kaabso Village"
+            },
+            "01575": {
+              "name": "Ziwani Vango Primary"
+            },
+            "01576": {
+              "name": "Diid Village Dam"
+            },
+            "01577": {
+              "name": "Kaabso Village"
+            },
+            "01578": {
+              "name": "Ziwani Vango Primary"
+            },
+            "01579": {
+              "name": "Diid Village Dam"
+            }
+          }
+        },
+        "0100": {
+          "name": "Madogo",
+          "pollingStations": {
+            "01580": {
+              "name": "Kaba Village"
+            },
+            "01581": {
+              "name": "Pamba Nursery School"
+            },
+            "01582": {
+              "name": "Asako Primary School"
+            },
+            "01583": {
+              "name": "Ruko Primary School"
+            },
+            "01584": {
+              "name": "Korati Primary School"
+            },
+            "01585": {
+              "name": "Malka Mansa Primary School"
+            },
+            "01586": {
+              "name": "Mulanjo Primary School"
+            },
+            "01587": {
+              "name": "Konoramadha Primary School"
+            },
+            "01588": {
+              "name": "Lag Badana Nursery School"
+            },
+            "01589": {
+              "name": "Mororo Primary School"
+            },
+            "01590": {
+              "name": "Adele Primary School"
+            },
+            "01591": {
+              "name": "Bara Nursery School"
+            },
+            "01592": {
+              "name": "Butuma Nursery"
+            },
+            "01593": {
+              "name": "Maderte Centre"
+            },
+            "01594": {
+              "name": "Boji Nursery"
+            },
+            "01595": {
+              "name": "Baraka Village"
+            },
+            "01596": {
+              "name": "Madogo Secondari School"
+            },
+            "01597": {
+              "name": "Madogo Secondari School"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Tana Delta",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Tana North",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Tana River",
+      "type": "Subcounty"
+    }
+  }
+}

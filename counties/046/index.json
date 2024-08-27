@@ -1,0 +1,1217 @@
+{
+  "name": "Nyamira",
+  "type": "County",
+  "code": "046",
+  "constituencies": {
+    "270": {
+      "name": "Kitutu Masaba",
+      "wards": {
+        "1346": {
+          "name": "Rigoma",
+          "pollingStations": {
+            "26544": {
+              "name": "Rikenye D.E.B Primary School."
+            },
+            "26545": {
+              "name": "Embaro D.O.K Primary School"
+            },
+            "26546": {
+              "name": "Keroka Farmers Co-Op Society"
+            },
+            "26547": {
+              "name": "Nyasore S.D.A Primary School."
+            },
+            "26548": {
+              "name": "Bocharia P.A.G Primary School."
+            },
+            "26549": {
+              "name": "Kierira Dok Primary School."
+            },
+            "26550": {
+              "name": "Nyanchonori Dok Primary School."
+            },
+            "26551": {
+              "name": "Mong'Oni D.E.B Primary School."
+            },
+            "26552": {
+              "name": "Nyankoba Sda Primary School"
+            },
+            "26553": {
+              "name": "Biticha D.O.K Primary School."
+            },
+            "26554": {
+              "name": "Kenyerere Dok Primary School"
+            },
+            "26555": {
+              "name": "Borabu D.E.B Primary School."
+            },
+            "26556": {
+              "name": "Mobamba Tea Buying Centre"
+            },
+            "26557": {
+              "name": "Riabore D.O.K Primary School"
+            },
+            "26558": {
+              "name": "Kegogi P.A.G Primary School."
+            },
+            "26559": {
+              "name": "Matangi D.O.K Primary School."
+            },
+            "26560": {
+              "name": "Riyabe D.E.B Primary School."
+            },
+            "26561": {
+              "name": "Botana D.O.K Primary School."
+            },
+            "26562": {
+              "name": "Nyaigesa D.O.K Primary School"
+            },
+            "26563": {
+              "name": "Eronge D.O.K Priimary School"
+            },
+            "26564": {
+              "name": "Metamaywa Primary School"
+            },
+            "26565": {
+              "name": "Itongo  Sengera D.E.B Primary School."
+            }
+          }
+        },
+        "1347": {
+          "name": "Gachuba",
+          "pollingStations": {
+            "26566": {
+              "name": "Bonyunyu D.O.K Primary School."
+            },
+            "26567": {
+              "name": "Nyagancha D.E.B Primary School."
+            },
+            "26568": {
+              "name": "Rigoma D.E.B Primary School."
+            },
+            "26569": {
+              "name": "Miriri D.O.K Primary School."
+            },
+            "26570": {
+              "name": "Sengereri D.E.B Primary School."
+            },
+            "26571": {
+              "name": "Guja D.O.K Primary School."
+            },
+            "26572": {
+              "name": "Kebirichi D.E.B Primary School."
+            },
+            "26573": {
+              "name": "Girango D.O.K Primary School."
+            },
+            "26574": {
+              "name": "Geteni D.O.K Primary School."
+            },
+            "26575": {
+              "name": "Kiamogiti Primary School."
+            },
+            "26576": {
+              "name": "Kiomonso Primary School."
+            },
+            "26577": {
+              "name": "Nyasumi D.O.K Primary School."
+            },
+            "26578": {
+              "name": "Nyabigege D.O.K Primary School."
+            },
+            "26579": {
+              "name": "Girango Farmers' Co-Operative  Society"
+            },
+            "26580": {
+              "name": "Nyaibasa D.O.K Primary School."
+            },
+            "26581": {
+              "name": "Riamisi Tea Buying Centre"
+            },
+            "26582": {
+              "name": "Nyariacho D.E.B Primary School."
+            },
+            "26583": {
+              "name": "Nyangorora Deb Primary School"
+            },
+            "26584": {
+              "name": "Kegogi D.O.K Primary School"
+            }
+          }
+        },
+        "1348": {
+          "name": "Kemera",
+          "pollingStations": {
+            "26585": {
+              "name": "Kerora D.O.K Primary School."
+            },
+            "26586": {
+              "name": "Kiomakondo D.O.K Primary School."
+            },
+            "26587": {
+              "name": "Kiabiraa D.E.B Primary School"
+            },
+            "26588": {
+              "name": "Kerongo D.O.K Primary School."
+            },
+            "26589": {
+              "name": "Mokorongosi Primary School."
+            },
+            "26590": {
+              "name": "Nyachichi D.O.K Primary School"
+            },
+            "26591": {
+              "name": "Kiendege D.E.B Primary School"
+            },
+            "26592": {
+              "name": "Irianyi D.E.B Primary School"
+            },
+            "26593": {
+              "name": "Ikonge S.D.A Primary School"
+            },
+            "26594": {
+              "name": "Nyagechenche D.O.K Primary School"
+            },
+            "26595": {
+              "name": "Ekerubo D.O.K Primary School."
+            },
+            "26596": {
+              "name": "Moitunya S.D.A Primary School."
+            },
+            "26597": {
+              "name": "Mokwerero D.E.B Primary School."
+            },
+            "26598": {
+              "name": "Motembe Dok Primary School"
+            },
+            "26599": {
+              "name": "Riomoro Dok Primary School"
+            },
+            "26600": {
+              "name": "Nyangena D.O.K. Primary School"
+            },
+            "26601": {
+              "name": "Amaiga Tea Buying Centre"
+            },
+            "26602": {
+              "name": "Entanda D.E.B Primary School."
+            },
+            "26603": {
+              "name": "Kebogora D.O.K Primary School"
+            }
+          }
+        },
+        "1349": {
+          "name": "Magombo",
+          "pollingStations": {
+            "26604": {
+              "name": "Riong'Uti D.O.K Primary School."
+            },
+            "26605": {
+              "name": "Sirate D.O.K Primary School."
+            },
+            "26606": {
+              "name": "Nyamwanga D.O.K Primary School."
+            },
+            "26607": {
+              "name": "Riogoro P.A.G Primary School."
+            },
+            "26608": {
+              "name": "Bogwendo P.A.G Primary School."
+            },
+            "26609": {
+              "name": "Nyambogo S.D.A Primaryschool"
+            },
+            "26610": {
+              "name": "Nyambaria D.E.B Primary School."
+            },
+            "26611": {
+              "name": "Riaranga D.O.K Primary School."
+            },
+            "26612": {
+              "name": "Riamachana D.E.B Primary School."
+            },
+            "26613": {
+              "name": "Kenyerere P.A.G Primary School."
+            },
+            "26614": {
+              "name": "Nyamanagu Tea Buying Centre"
+            },
+            "26615": {
+              "name": "Sirate Tea Buying Centre (Tombe)"
+            },
+            "26616": {
+              "name": "Kenyamware D.E.B Primary School"
+            },
+            "26617": {
+              "name": "Gekano D.O.K Primary School."
+            },
+            "26618": {
+              "name": "Riegechure D.E.B Primary School."
+            },
+            "26619": {
+              "name": "Nyaguku D.O.K Primary School."
+            },
+            "26620": {
+              "name": "Chitago Tea Buying Centre"
+            },
+            "26621": {
+              "name": "Kiamarita Tea Buying Centre"
+            }
+          }
+        },
+        "1350": {
+          "name": "Manga",
+          "pollingStations": {
+            "26622": {
+              "name": "Irianyi Tea Buying Centre"
+            },
+            "26623": {
+              "name": "Gesure E.L.C.K Primary School."
+            },
+            "26624": {
+              "name": "Nyakongo D.O.K Primary. School."
+            },
+            "26625": {
+              "name": "Ogango D.E.B Primary School."
+            },
+            "26626": {
+              "name": "Morako D.E.B Primary School."
+            },
+            "26627": {
+              "name": "Kiogutwa S.D.A Primary School."
+            },
+            "26628": {
+              "name": "Tombe S.D.A Primary School"
+            },
+            "26629": {
+              "name": "Ikobe D.E.B Primary School."
+            },
+            "26630": {
+              "name": "Sengera D.E.B Primary School."
+            },
+            "26631": {
+              "name": "Nyaisa S.D.A Primary School."
+            },
+            "26632": {
+              "name": "Nyamare S.D.A Primary School."
+            },
+            "26633": {
+              "name": "Iringa Tea Buying Centre"
+            },
+            "26634": {
+              "name": "Nyabioto Tea Buying Centre"
+            },
+            "26635": {
+              "name": "Manga Tea Collection Centre"
+            },
+            "26636": {
+              "name": "Nyamache Mange S.D.A Primary School"
+            },
+            "26637": {
+              "name": "Gesonso Coffee Factory"
+            },
+            "26638": {
+              "name": "Nyaikuro D.E.B Primary School."
+            }
+          }
+        },
+        "1351": {
+          "name": "Gesima",
+          "pollingStations": {
+            "26639": {
+              "name": "Gesima Primary School"
+            },
+            "26640": {
+              "name": "Riamoni D.E.B Primary School"
+            },
+            "26641": {
+              "name": "Ritibo D.E.B Primary School"
+            },
+            "26642": {
+              "name": "Nyatieno D.E.B Primary School"
+            },
+            "26643": {
+              "name": "Nyamakoroto D.O.K Primary School"
+            },
+            "26644": {
+              "name": "Iranya P.A.G Primary School"
+            },
+            "26645": {
+              "name": "Mosobeti D.O.K Primary School."
+            },
+            "26646": {
+              "name": "Esani D.E.B Primary School."
+            },
+            "26647": {
+              "name": "Mochenwa D.E.B Primary School."
+            },
+            "26648": {
+              "name": "Karantini S.D.A Primary School"
+            },
+            "26649": {
+              "name": "Machururiati Primary School."
+            },
+            "26650": {
+              "name": "Risa D.E.B Primary School."
+            },
+            "26651": {
+              "name": "Matongo Tea Buying Centre"
+            },
+            "26652": {
+              "name": "Nyabiosi (K) D.O.K Primary School"
+            },
+            "26653": {
+              "name": "Riakworo S.D.A Primary School."
+            },
+            "26654": {
+              "name": "Nyakongo D.E.B Primary School"
+            },
+            "26655": {
+              "name": "Nyabuya D.E.B Primary School"
+            },
+            "26656": {
+              "name": "Sungututa Primary School"
+            },
+            "26657": {
+              "name": "Enchoro  Primary School"
+            },
+            "26658": {
+              "name": "Matutu P.A.G Primary School"
+            },
+            "26659": {
+              "name": "Nyabogoye  D.O.K. Primary School"
+            },
+            "26660": {
+              "name": "Kebuko D.O.K Primary School"
+            }
+          }
+        }
+      }
+    },
+    "271": {
+      "name": "West Mugirango",
+      "wards": {
+        "1352": {
+          "name": "Nyamaiya",
+          "pollingStations": {
+            "26661": {
+              "name": "Tonga Deb Pri Sch"
+            },
+            "26662": {
+              "name": "Matierio Deb Pri Sch"
+            },
+            "26663": {
+              "name": "Gekomoni Deb Pri Sch"
+            },
+            "26664": {
+              "name": "Marara Sda Pri Sch"
+            },
+            "26665": {
+              "name": "Getaari Deb Pri Sch"
+            },
+            "26666": {
+              "name": "Rangenyo Dok Pri Sch"
+            },
+            "26667": {
+              "name": "Bondeka Elck Pri Sch"
+            },
+            "26668": {
+              "name": "Egesieri Dok Pri Sch"
+            },
+            "26669": {
+              "name": "Kemasare Dok Pri Sch"
+            },
+            "26670": {
+              "name": "Omokonge Deb Pri Sch"
+            },
+            "26671": {
+              "name": "Ratandi Deb Pri Sch"
+            },
+            "26672": {
+              "name": "Miruka Market"
+            },
+            "26673": {
+              "name": "Masosa Aic Pri Sch"
+            },
+            "26674": {
+              "name": "Bugo Dok Pri Sch"
+            },
+            "26675": {
+              "name": "Bonyaiguba Dok Pri Sch"
+            },
+            "26676": {
+              "name": "Rateti Dok Pri Sch"
+            },
+            "26677": {
+              "name": "Nyaigesa Elck Pri Sch"
+            },
+            "26678": {
+              "name": "Mang'Ong'O Elck Pri Sch"
+            },
+            "26679": {
+              "name": "Nyasore Market"
+            }
+          }
+        },
+        "1353": {
+          "name": "Bogichora",
+          "pollingStations": {
+            "26680": {
+              "name": "Bosiango Elck Pri Sch"
+            },
+            "26681": {
+              "name": "Makairo Deb Pri Sch"
+            },
+            "26682": {
+              "name": "Ibucha Deb Pri Sch"
+            },
+            "26683": {
+              "name": "Sironga Deb Pri Sch"
+            },
+            "26684": {
+              "name": "Kenyambi Deb Pri Sch"
+            },
+            "26685": {
+              "name": "Otanyore Elck Pri Sch"
+            },
+            "26686": {
+              "name": "Etono Dok Pri Sch"
+            },
+            "26687": {
+              "name": "Nyamotentemi Dok Pri Sch"
+            },
+            "26688": {
+              "name": "Gianchore Pag Pri Sch"
+            },
+            "26689": {
+              "name": "Nyaisa Dok Pri Sch"
+            },
+            "26690": {
+              "name": "Bomorito Pag Pri Sch"
+            },
+            "26691": {
+              "name": "Embonga Dok Pri Sch"
+            },
+            "26692": {
+              "name": "Bonyunyu Sda Pri Sch"
+            },
+            "26693": {
+              "name": "Nyameru Deb Pri Sch"
+            },
+            "26694": {
+              "name": "Ikurucha Dok Pri Sch"
+            },
+            "26695": {
+              "name": "Ikonge Deb Pri Sch"
+            },
+            "26696": {
+              "name": "Omosasa Deb Pri Sch"
+            },
+            "26697": {
+              "name": "Getare  Tbc (Tea Buying Centre)"
+            },
+            "26698": {
+              "name": "Geta Pag Pri Sch"
+            },
+            "26699": {
+              "name": "Mongorisia Dok Pri Sch"
+            },
+            "26700": {
+              "name": "Kiambere Deb Pri Sch"
+            },
+            "26701": {
+              "name": "Ekerama Deb Pri Sch"
+            },
+            "26702": {
+              "name": "Ramba Elck Pri Sch"
+            },
+            "26703": {
+              "name": "Marindi Deb Pri Sch"
+            }
+          }
+        },
+        "1354": {
+          "name": "Bosamaro",
+          "pollingStations": {
+            "26704": {
+              "name": "Nyantaro Dok Pri Sch"
+            },
+            "26705": {
+              "name": "Kianyabao Deb Pri Sch"
+            },
+            "26706": {
+              "name": "Kiang'Inda Deb  Pri Sch"
+            },
+            "26707": {
+              "name": "Riamandere Deb Pri Sch"
+            },
+            "26708": {
+              "name": "Nyakoria Deb Pri Sch"
+            },
+            "26709": {
+              "name": "Nyachogochogo Deb Pri Sch"
+            },
+            "26710": {
+              "name": "Gucha Sda Pri Sch"
+            },
+            "26711": {
+              "name": "Moruga Elck Pri Sch"
+            },
+            "26712": {
+              "name": "Kianungu Pag Pri Sch"
+            },
+            "26713": {
+              "name": "Tinga Dok Pri Sch"
+            },
+            "26714": {
+              "name": "Gesiaga Deb Pri Sch"
+            },
+            "26715": {
+              "name": "Kuura Deb Pri Sch"
+            },
+            "26716": {
+              "name": "Girigiri Deb Pri Sch"
+            },
+            "26717": {
+              "name": "Nyangena Tbc (Tea Buying Centre)"
+            },
+            "26718": {
+              "name": "Ekoro Pag Pri Sch"
+            },
+            "26719": {
+              "name": "Riakimai Deb Pri Sch"
+            },
+            "26720": {
+              "name": "Kegogi Deb Pri Sch"
+            },
+            "26721": {
+              "name": "Igenaitambe Deb Pri Sch"
+            },
+            "26722": {
+              "name": "Nyagachi Deb Primary School"
+            },
+            "26723": {
+              "name": "Motagara Deb Primary School"
+            },
+            "26724": {
+              "name": "Enchoro Dok Primary School"
+            },
+            "26725": {
+              "name": "Nyanturago Primary School"
+            },
+            "26726": {
+              "name": "Ikobe Tea Buying Centre"
+            }
+          }
+        },
+        "1355": {
+          "name": "Bonyamatuta",
+          "pollingStations": {
+            "26727": {
+              "name": "Kebirigo Sda Pri Sch"
+            },
+            "26728": {
+              "name": "Nyakeore Deb Pri Sch"
+            },
+            "26729": {
+              "name": "Mobamba Dok Pri Sch"
+            },
+            "26730": {
+              "name": "Riasindani Deb Pri Sch"
+            },
+            "26731": {
+              "name": "Kianyabongere Pag Pri Sch"
+            },
+            "26732": {
+              "name": "Kabatia Deb Pri Sch"
+            },
+            "26733": {
+              "name": "Nyainogu Deb Pri Sch"
+            },
+            "26734": {
+              "name": "Rirumi Sda Pri Sch"
+            },
+            "26735": {
+              "name": "Ekenyoro Deb Pri Sch"
+            },
+            "26736": {
+              "name": "Kenyenya Sda Pri Sch"
+            },
+            "26737": {
+              "name": "Nyakemincha D.O.K Pri. Sch."
+            },
+            "26738": {
+              "name": "Nyabisimba Deb Pri Sch"
+            },
+            "26739": {
+              "name": "Nyamwetureko Dok Pri Sch"
+            },
+            "26740": {
+              "name": "Bosose Elck Pri Sch"
+            }
+          }
+        },
+        "1356": {
+          "name": "Township",
+          "pollingStations": {
+            "26741": {
+              "name": "Bomondo C.O.G Pri Sch"
+            },
+            "26742": {
+              "name": "Nyairicha Deb Pri Sch"
+            },
+            "26743": {
+              "name": "Gesore Pag Pri Sch"
+            },
+            "26744": {
+              "name": "Nyamira Deb Pri Sch"
+            },
+            "26745": {
+              "name": "Tente Cog Pri Sch"
+            },
+            "26746": {
+              "name": "Nyangoso Deb Pri Sch"
+            },
+            "26747": {
+              "name": "Bundo Dok Pri Sch"
+            }
+          }
+        }
+      }
+    },
+    "272": {
+      "name": "North Mugirango",
+      "wards": {
+        "1357": {
+          "name": "Itibo",
+          "pollingStations": {
+            "26748": {
+              "name": "Tombe Primary School"
+            },
+            "26749": {
+              "name": "Iteresi Primary School"
+            },
+            "26750": {
+              "name": "Nyagokiani Primary School"
+            },
+            "26751": {
+              "name": "Chaina Primary School"
+            },
+            "26752": {
+              "name": "Nyamauro Primary School"
+            },
+            "26753": {
+              "name": "Nyasio Primary School"
+            },
+            "26754": {
+              "name": "Omokirondo Pri. Sch"
+            },
+            "26755": {
+              "name": "Kiangombe Pri. Sch"
+            },
+            "26756": {
+              "name": "Matierio Pri. Sch"
+            },
+            "26757": {
+              "name": "Kebabe Pri. Sch"
+            },
+            "26758": {
+              "name": "Nyamwanchania Pri. Sch"
+            },
+            "26759": {
+              "name": "Enkinda Pri. Sch"
+            },
+            "26760": {
+              "name": "Getengereirie Pri. Sch"
+            },
+            "26761": {
+              "name": "Getangwa Pri. Sch"
+            },
+            "26762": {
+              "name": "Kenyoro Pri. Sch"
+            },
+            "26763": {
+              "name": "Ekerubo Pri. Sch"
+            }
+          }
+        },
+        "1358": {
+          "name": "Bomwagamo",
+          "pollingStations": {
+            "26764": {
+              "name": "Mageri Pri. Sch"
+            },
+            "26765": {
+              "name": "Monga Pri. Sch"
+            },
+            "26766": {
+              "name": "Nyanchoka Pri. Sch"
+            },
+            "26767": {
+              "name": "Eronge Pri. Sch"
+            },
+            "26768": {
+              "name": "Kiabiraa Pri. Sch"
+            },
+            "26769": {
+              "name": "Itibo Pri. Sch"
+            },
+            "26770": {
+              "name": "Etono Pri. Sch"
+            },
+            "26771": {
+              "name": "Kebariga Pri. Sch"
+            },
+            "26772": {
+              "name": "Nyakenimo Pri. Sch."
+            },
+            "26773": {
+              "name": "Kiomachingi Pri. Sch"
+            },
+            "26774": {
+              "name": "Monyara Pri. Sch"
+            },
+            "26775": {
+              "name": "Ntana Pri. Sch"
+            },
+            "26776": {
+              "name": "Nyamonuri Deb Primary School"
+            },
+            "26777": {
+              "name": "Kegogi Deb Primary School"
+            }
+          }
+        },
+        "1359": {
+          "name": "Bokeira",
+          "pollingStations": {
+            "26778": {
+              "name": "Nyaututu Pri. Sch"
+            },
+            "26779": {
+              "name": "Matongo Pri. Sch"
+            },
+            "26780": {
+              "name": "Sakwa Pri. Sch"
+            },
+            "26781": {
+              "name": "Orwaki Pri. Sch"
+            },
+            "26782": {
+              "name": "Nyamonge Pri. Sch"
+            },
+            "26783": {
+              "name": "Gesura Pri. Sch"
+            },
+            "26784": {
+              "name": "Omobiro Pri. Sch"
+            },
+            "26785": {
+              "name": "Kiomanga Pri. Sch"
+            },
+            "26786": {
+              "name": "Gekonge Pri. Sch."
+            },
+            "26787": {
+              "name": "Giosoya Pri. Sch."
+            },
+            "26788": {
+              "name": "Nyaobe Pri. Sch"
+            },
+            "26789": {
+              "name": "Nyabione Pri. Sch."
+            },
+            "26790": {
+              "name": "Egetonto Pri. Sch"
+            },
+            "26791": {
+              "name": "Kiabora Pri. Sch"
+            },
+            "26792": {
+              "name": "Nyamusi Pri. Sch"
+            },
+            "26793": {
+              "name": "Riomooria Pri. Sch"
+            },
+            "26794": {
+              "name": "Ongera Deb Primary School"
+            },
+            "26795": {
+              "name": "Engoto Primary School"
+            }
+          }
+        },
+        "1360": {
+          "name": "Magwagwa",
+          "pollingStations": {
+            "26796": {
+              "name": "Esanige Pri. Sch."
+            },
+            "26797": {
+              "name": "Gitwebe Pri. Sch"
+            },
+            "26798": {
+              "name": "Nyakenyomisia Pri. Sch"
+            },
+            "26799": {
+              "name": "Misambi Pri. Sch"
+            },
+            "26800": {
+              "name": "Mogongo Pri. Sch."
+            },
+            "26801": {
+              "name": "Getare Pri. Sch"
+            },
+            "26802": {
+              "name": "Esamba Pag Pri. Sch"
+            },
+            "26803": {
+              "name": "Riomego Pag Pri. Sch"
+            },
+            "26804": {
+              "name": "Rianyamage Pri. Sch"
+            },
+            "26805": {
+              "name": "Geturi Pri. Sch"
+            },
+            "26806": {
+              "name": "Nyamatuta Pri. Sch"
+            },
+            "26807": {
+              "name": "Nyabwororo Pri. Sch"
+            },
+            "26808": {
+              "name": "Kenyerere Pri. Sch"
+            },
+            "26809": {
+              "name": "Mesobwa Pri. Sch"
+            },
+            "26810": {
+              "name": "Magwagwa Deb Primary School"
+            },
+            "26811": {
+              "name": "Morembe Primary School"
+            }
+          }
+        },
+        "1361": {
+          "name": "Ekerenyo",
+          "pollingStations": {
+            "26812": {
+              "name": "Nyamotaro Pri. Sch"
+            },
+            "26813": {
+              "name": "Maagonga Pri. Sch"
+            },
+            "26814": {
+              "name": "Omorare Pri. Sch"
+            },
+            "26815": {
+              "name": "Ekerenyo Edn Centre"
+            },
+            "26816": {
+              "name": "Kiamogake Pri. Sch"
+            },
+            "26817": {
+              "name": "Kea Deb Pri. Sch"
+            },
+            "26818": {
+              "name": "Mwancha Pri. Sch"
+            },
+            "26819": {
+              "name": "Gekendo Dok Pri. Sch"
+            },
+            "26820": {
+              "name": "Kenguso Pri. Sch"
+            },
+            "26821": {
+              "name": "Nyairang'A Pri. Sc"
+            },
+            "26822": {
+              "name": "Kiemuma Pri. Sch"
+            },
+            "26823": {
+              "name": "Nyameko Pri. Sch"
+            },
+            "26824": {
+              "name": "Gesweswe Pri. Sch"
+            },
+            "26825": {
+              "name": "Ikonge Pri. Sch"
+            },
+            "26826": {
+              "name": "Chisaaria Deb Pri. Sch."
+            }
+          }
+        }
+      }
+    },
+    "273": {
+      "name": "Borabu",
+      "wards": {
+        "1362": {
+          "name": "Mekenene",
+          "pollingStations": {
+            "26827": {
+              "name": "Mwongori Youth Polytechnic"
+            },
+            "26828": {
+              "name": "Mwongori Primary School"
+            },
+            "26829": {
+              "name": "Nyagacho Primary School"
+            },
+            "26830": {
+              "name": "Mogusii Primary School"
+            },
+            "26831": {
+              "name": "Nyaronge Primary School"
+            },
+            "26832": {
+              "name": "Mekenene Primary School"
+            },
+            "26833": {
+              "name": "Nyankono Primary School"
+            },
+            "26834": {
+              "name": "Kerito Primary School"
+            },
+            "26835": {
+              "name": "Kerumbe Tea Buying Centre"
+            },
+            "26836": {
+              "name": "Sotik Highlands Primary School"
+            },
+            "26837": {
+              "name": "Kitaru D.O.K Primary School"
+            },
+            "26838": {
+              "name": "Kiptenden Primary School"
+            },
+            "26839": {
+              "name": "Kipkebe Primary School"
+            },
+            "26840": {
+              "name": "Magura D.E.B Primary School"
+            },
+            "26841": {
+              "name": "Nyankono Tea Buying Centre"
+            },
+            "26842": {
+              "name": "Riabaruoti Market"
+            }
+          }
+        },
+        "1363": {
+          "name": "Kiabonyoru",
+          "pollingStations": {
+            "26843": {
+              "name": "Nyangoge Primary School"
+            },
+            "26844": {
+              "name": "Ibara Primary School"
+            },
+            "26845": {
+              "name": "Nyaramba Primary School"
+            },
+            "26846": {
+              "name": "Chinche Primary School"
+            },
+            "26847": {
+              "name": "Biego Primary School"
+            },
+            "26848": {
+              "name": "Endiba D.E.B Primary School"
+            },
+            "26849": {
+              "name": "Kerema Primary School"
+            },
+            "26850": {
+              "name": "Nyamiranga Primary School"
+            },
+            "26851": {
+              "name": "Mokomoni Tea Buying Centre"
+            },
+            "26852": {
+              "name": "Omonono Primary School"
+            },
+            "26853": {
+              "name": "Nyankongo Primary School"
+            },
+            "26854": {
+              "name": "Nyabikomu Primary School"
+            },
+            "26855": {
+              "name": "Amakura D.E.B Primary School"
+            },
+            "26856": {
+              "name": "Rianyakangi D.E.B. Primary School"
+            },
+            "26857": {
+              "name": "Egentubi Primary School"
+            },
+            "26858": {
+              "name": "Mokomoni D.O.K Primary School"
+            },
+            "26859": {
+              "name": "Kiabonyoru Primary School"
+            },
+            "26860": {
+              "name": "Nyanchoka Tea Buying Centre"
+            },
+            "26861": {
+              "name": "Nyageita Primary School"
+            },
+            "26862": {
+              "name": "Nyagware Primary School"
+            }
+          }
+        },
+        "1364": {
+          "name": "Nyansiongo",
+          "pollingStations": {
+            "26863": {
+              "name": "Menyenya Primary School"
+            },
+            "26864": {
+              "name": "Tinderet Primary School"
+            },
+            "26865": {
+              "name": "Nyansiongo D.O.K Primary School"
+            },
+            "26866": {
+              "name": "Keginga Primary School"
+            },
+            "26867": {
+              "name": "Riensune Primary School"
+            },
+            "26868": {
+              "name": "Gesebei Primary School"
+            },
+            "26869": {
+              "name": "Nyansiongo D.E.B Primary School"
+            },
+            "26870": {
+              "name": "Rigena Primary School"
+            },
+            "26871": {
+              "name": "Nyandoche Ibere Pri. Sch."
+            },
+            "26872": {
+              "name": "Riamanoti Primary School"
+            },
+            "26873": {
+              "name": "Nyaronde D.O.K Primary School"
+            },
+            "26874": {
+              "name": "Ribaita Primary School"
+            },
+            "26875": {
+              "name": "Kenyerere Tea Buying Centre"
+            },
+            "26876": {
+              "name": "Masige Deb Primary School"
+            }
+          }
+        },
+        "1365": {
+          "name": "Esise",
+          "pollingStations": {
+            "26877": {
+              "name": "Lietigo Primary School"
+            },
+            "26878": {
+              "name": "Magombo Primary School"
+            },
+            "26879": {
+              "name": "Memisi Deb Primary School"
+            },
+            "26880": {
+              "name": "Kebuse Primary School"
+            },
+            "26881": {
+              "name": "Saiga Ngiya D.E.B.Primary School"
+            },
+            "26882": {
+              "name": "Nderema Deb Primary School"
+            },
+            "26883": {
+              "name": "Esise Primary School"
+            },
+            "26884": {
+              "name": "Kineni Lck Primary School"
+            },
+            "26885": {
+              "name": "Kahawa Primary School"
+            },
+            "26886": {
+              "name": "Riangombe Primary School"
+            },
+            "26887": {
+              "name": "Ensoko Primary School"
+            },
+            "26888": {
+              "name": "Manga Girlsprimary School"
+            },
+            "26889": {
+              "name": "Mecheo Primary School"
+            },
+            "26890": {
+              "name": "Endemu D.E.B. Primary School"
+            },
+            "26891": {
+              "name": "Nyansakia Primary School"
+            },
+            "26892": {
+              "name": "Matunwa Primary School"
+            },
+            "26893": {
+              "name": "Gesabakwa Tea Buying Centre"
+            },
+            "26894": {
+              "name": "Ensakia Primary School"
+            },
+            "26895": {
+              "name": "Itumbe Sda Primary School"
+            },
+            "26896": {
+              "name": "Isoge Primary School"
+            },
+            "26897": {
+              "name": "Rianyaemo D.E.B. Primary School"
+            },
+            "26898": {
+              "name": "Ensinyo Primary School"
+            },
+            "26899": {
+              "name": "Isekerario Moige Tea Buying Centre"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Borabu",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Manga",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Masaba North",
+      "type": "Subcounty"
+    },
+    "004": {
+      "name": "Nyamira North",
+      "type": "Subcounty"
+    },
+    "005": {
+      "name": "Nyamira South",
+      "type": "Subcounty"
+    }
+  }
+}

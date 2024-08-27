@@ -1,0 +1,1998 @@
+{
+  "name": "Narok",
+  "type": "County",
+  "code": "033",
+  "constituencies": {
+    "177": {
+      "name": "Kilgoris",
+      "wards": {
+        "0881": {
+          "name": "Kilgoris Central",
+          "pollingStations": {
+            "17940": {
+              "name": "Shartuka Primary School"
+            },
+            "17941": {
+              "name": "Inkorienito Primary School"
+            },
+            "17942": {
+              "name": "Oronkai Primary School"
+            },
+            "17943": {
+              "name": "Tororet Primary School"
+            },
+            "17944": {
+              "name": "Kapune Primary School"
+            },
+            "17945": {
+              "name": "Romosha Primary School"
+            },
+            "17946": {
+              "name": "Meguarra Primary School"
+            },
+            "17947": {
+              "name": "Oloshaiki Primary School"
+            },
+            "17948": {
+              "name": "Osupuko Primary School"
+            },
+            "17949": {
+              "name": "Osonkoroi Primary School"
+            },
+            "17950": {
+              "name": "Naronyo Primary School"
+            },
+            "17951": {
+              "name": "Poroko Primary School"
+            },
+            "17952": {
+              "name": "Kipupu Primary School"
+            },
+            "17953": {
+              "name": "Kilgoris Township Primary School"
+            },
+            "17954": {
+              "name": "Oltanki Primary School"
+            },
+            "17955": {
+              "name": "Oloiborsoito Primary School"
+            },
+            "17956": {
+              "name": "Oldonyo Rasha Primary School"
+            },
+            "17957": {
+              "name": "Olengoloto Primary School"
+            },
+            "17958": {
+              "name": "Nailare Primary School"
+            },
+            "17959": {
+              "name": "Esaei Primary School"
+            },
+            "17960": {
+              "name": "Mutenkuarr Primary School"
+            },
+            "17961": {
+              "name": "Olesentu Primary School"
+            },
+            "17962": {
+              "name": "Kilena Primary School"
+            },
+            "17963": {
+              "name": "Enenkeshui Primary School"
+            },
+            "17964": {
+              "name": "Oloosentui Primary School"
+            },
+            "17965": {
+              "name": "Olosayiet Primary School"
+            },
+            "17966": {
+              "name": "Olorupa Primary School"
+            },
+            "17967": {
+              "name": "Gorofa Primary School"
+            },
+            "17968": {
+              "name": "Ilkujuka Primary School"
+            },
+            "17969": {
+              "name": "Nganayio Primary School"
+            },
+            "17970": {
+              "name": "Tagitech Primary School"
+            },
+            "17971": {
+              "name": "Ilchartuyiani Primary School"
+            },
+            "17972": {
+              "name": "Munke Primary School"
+            },
+            "17973": {
+              "name": "Mosiro Primary School"
+            },
+            "17974": {
+              "name": "Brainshine Primary School"
+            },
+            "17975": {
+              "name": "Olpisiai Primary School"
+            },
+            "17976": {
+              "name": "Olamuriak Primary School"
+            },
+            "17977": {
+              "name": "Intimigom Primary School"
+            },
+            "17978": {
+              "name": "Medungi Primary School"
+            },
+            "17979": {
+              "name": "Oltumaroi Primary School"
+            },
+            "17980": {
+              "name": "Kilusu Primary School"
+            },
+            "17981": {
+              "name": "Lesidai Primar School"
+            },
+            "17982": {
+              "name": "Sahrtuka Islamic Centre"
+            },
+            "17983": {
+              "name": "Sirua Aulo Primary School"
+            },
+            "17984": {
+              "name": "Olowang Primary School"
+            },
+            "17985": {
+              "name": "Mopel Primary School"
+            },
+            "17986": {
+              "name": "Naitawang Primary School"
+            }
+          }
+        },
+        "0882": {
+          "name": "Keyian",
+          "pollingStations": {
+            "17987": {
+              "name": "Ilpashire Primary School"
+            },
+            "17988": {
+              "name": "Ntuka Primary School"
+            },
+            "17989": {
+              "name": "Karda Primary School"
+            },
+            "17990": {
+              "name": "Enoosaen Primary School"
+            },
+            "17991": {
+              "name": "Enooretet Primary School"
+            },
+            "17992": {
+              "name": "Mapashi Primary School"
+            },
+            "17993": {
+              "name": "Ndoinyo Primary School"
+            },
+            "17994": {
+              "name": "Kiikat Primary School"
+            },
+            "17995": {
+              "name": "Christ The King Academy Enoosaen"
+            },
+            "17996": {
+              "name": "Isampin Primary School"
+            },
+            "17997": {
+              "name": "Ildolisho Primary School"
+            },
+            "17998": {
+              "name": "Sikawa Primary School"
+            },
+            "17999": {
+              "name": "Ogwedhi Sikawa Primary School"
+            },
+            "18000": {
+              "name": "Oldanyati Primary School"
+            },
+            "18001": {
+              "name": "Enkiloriti Primary School"
+            },
+            "18002": {
+              "name": "Olontare Primary School"
+            },
+            "18003": {
+              "name": "Empurkel Primary School"
+            },
+            "18004": {
+              "name": "Enolkipelua Primary School"
+            },
+            "18005": {
+              "name": "Enentekeny Primary School"
+            },
+            "18006": {
+              "name": "Olasenua Primary School"
+            },
+            "18007": {
+              "name": "Mumeita Primary School"
+            },
+            "18008": {
+              "name": "Enchurai Primary School"
+            }
+          }
+        },
+        "0883": {
+          "name": "Angata Barikoi",
+          "pollingStations": {
+            "18009": {
+              "name": "Mashangwa Primary School"
+            },
+            "18010": {
+              "name": "Sitet Primary School"
+            },
+            "18011": {
+              "name": "Angata Barrikoi Primary School"
+            },
+            "18012": {
+              "name": "Olaitong Primary School"
+            },
+            "18013": {
+              "name": "Loolana Nursery School"
+            },
+            "18014": {
+              "name": "Kapsinendet Primary School"
+            },
+            "18015": {
+              "name": "Burgei Primary School"
+            },
+            "18016": {
+              "name": "Nyamesangura Primary School"
+            },
+            "18017": {
+              "name": "Kiletien Primary School"
+            },
+            "18018": {
+              "name": "Oldonyo-Rok Primary School"
+            },
+            "18019": {
+              "name": "Ngendalel Primary School"
+            },
+            "18020": {
+              "name": "Magena Primary School"
+            },
+            "18021": {
+              "name": "Enkoiperiai Primary School"
+            },
+            "18022": {
+              "name": "Chelchel Primary School"
+            },
+            "18023": {
+              "name": "Kabusa Primary School"
+            },
+            "18024": {
+              "name": "Olesoilal Primary School"
+            },
+            "18025": {
+              "name": "Sungur Primary School"
+            },
+            "18026": {
+              "name": "Kaptembwo Primary School"
+            }
+          }
+        },
+        "0884": {
+          "name": "Shankoe",
+          "pollingStations": {
+            "18027": {
+              "name": "Shankoe Primary Sch"
+            },
+            "18028": {
+              "name": "Olereko Primary School"
+            },
+            "18029": {
+              "name": "Ololchani Primary School"
+            },
+            "18030": {
+              "name": "Sosio Primary School"
+            },
+            "18031": {
+              "name": "Kilgoris County Council Hall"
+            },
+            "18032": {
+              "name": "Endoinyo-Nkopit Primary School"
+            },
+            "18033": {
+              "name": "Osinoni Primary School"
+            },
+            "18034": {
+              "name": "Nyasita Primary School"
+            },
+            "18035": {
+              "name": "Ilmeshuki Primary School"
+            },
+            "18036": {
+              "name": "Olalui Primary School"
+            },
+            "18037": {
+              "name": "Entargeeti Primary School"
+            },
+            "18038": {
+              "name": "Osupukiai Primary School"
+            },
+            "18039": {
+              "name": "Mukulelta Primary School"
+            },
+            "18040": {
+              "name": "Empaash Primary School"
+            },
+            "18041": {
+              "name": "Kilgoris Deb Primary School"
+            },
+            "18042": {
+              "name": "Olng'Arua Cattle Dip"
+            },
+            "18043": {
+              "name": "Olenkii Primary School"
+            },
+            "18044": {
+              "name": "Lolionto Primary School"
+            },
+            "18045": {
+              "name": "Olosheiki Primary School"
+            },
+            "18046": {
+              "name": "Naserian Primary School"
+            },
+            "18047": {
+              "name": "Lepolosi Ecd  School"
+            },
+            "18048": {
+              "name": "Emorogi Primary School"
+            }
+          }
+        },
+        "0885": {
+          "name": "Kimintet",
+          "pollingStations": {
+            "18049": {
+              "name": "Emarti Primary School"
+            },
+            "18050": {
+              "name": "Esoit Naibor Primary School"
+            },
+            "18051": {
+              "name": "Tumpelian Primary School"
+            },
+            "18052": {
+              "name": "Pusangi Primary School"
+            },
+            "18053": {
+              "name": "Sitoka Primary School"
+            },
+            "18054": {
+              "name": "Kimintet Primary School"
+            },
+            "18055": {
+              "name": "Ilokwaya Primary School"
+            },
+            "18056": {
+              "name": "Oloololo Gate"
+            },
+            "18057": {
+              "name": "Serena Lodge Hall"
+            },
+            "18058": {
+              "name": "Olgos Sopia Primary School"
+            },
+            "18059": {
+              "name": "Sosiana Primary School"
+            },
+            "18060": {
+              "name": "Kigonnor Primary School"
+            },
+            "18061": {
+              "name": "Saparinko Primary School"
+            },
+            "18062": {
+              "name": "Enkipai Primary School"
+            },
+            "18063": {
+              "name": "Olonkolin Primary School"
+            },
+            "18064": {
+              "name": "Olmakutiani Primary School"
+            },
+            "18065": {
+              "name": "Kenyelo Primary School"
+            },
+            "18066": {
+              "name": "Olmeoshi Primary School"
+            },
+            "18067": {
+              "name": "Oloiboti Primary School"
+            },
+            "18068": {
+              "name": "Iltolish Mara Primary School"
+            }
+          }
+        },
+        "0886": {
+          "name": "Lolgorian",
+          "pollingStations": {
+            "18069": {
+              "name": "Ilkarian Primary School"
+            },
+            "18070": {
+              "name": "Olmotonyi Primary School"
+            },
+            "18071": {
+              "name": "Enkiwancha Primary School"
+            },
+            "18072": {
+              "name": "Enkurruk Primary School"
+            },
+            "18073": {
+              "name": "Olkiloriti Primary School"
+            },
+            "18074": {
+              "name": "Kerinkani Primary School"
+            },
+            "18075": {
+              "name": "Isokon Primary School"
+            },
+            "18076": {
+              "name": "Olsashire Primary School"
+            },
+            "18077": {
+              "name": "Iloopikuny Primary School"
+            },
+            "18078": {
+              "name": "Emurtoto Primary School"
+            },
+            "18079": {
+              "name": "Olopikidongoe Primary Sch"
+            },
+            "18080": {
+              "name": "Oloosinoni Primary School"
+            },
+            "18081": {
+              "name": "Kisima Primary School"
+            },
+            "18082": {
+              "name": "Olepoipoi Primary School"
+            },
+            "18083": {
+              "name": "Iroonkeni Primary School"
+            },
+            "18084": {
+              "name": "Kilae Primary School"
+            },
+            "18085": {
+              "name": "Olooltingual Primary School"
+            },
+            "18086": {
+              "name": "Olemalit Primary School"
+            },
+            "18087": {
+              "name": "Ololmongi Primary School"
+            },
+            "18088": {
+              "name": "Elerai Primary School"
+            },
+            "18089": {
+              "name": "Masurura Primary School"
+            },
+            "18090": {
+              "name": "Kinyibol Primary School"
+            },
+            "18091": {
+              "name": "Narrolong Primary School"
+            },
+            "18092": {
+              "name": "Nkararo Primary School"
+            },
+            "18093": {
+              "name": "Endoinyo Narok Primary School"
+            },
+            "18094": {
+              "name": "Ereko Primary School"
+            },
+            "18095": {
+              "name": "Moita Primary School"
+            },
+            "18096": {
+              "name": "Enemasi Primary School"
+            },
+            "18097": {
+              "name": "Ntoluo Primary School"
+            },
+            "18098": {
+              "name": "Olkireruki Primary School"
+            }
+          }
+        }
+      }
+    },
+    "178": {
+      "name": "Emurua Dikirr",
+      "wards": {
+        "0887": {
+          "name": "Ilkerin",
+          "pollingStations": {
+            "18099": {
+              "name": "Ainamoi Primary School"
+            },
+            "18100": {
+              "name": "Chilani Primary School"
+            },
+            "18101": {
+              "name": "Emurua Dikirr Primary School"
+            },
+            "18102": {
+              "name": "Ilkerin Primary School"
+            },
+            "18103": {
+              "name": "Chepkisa Primary School"
+            },
+            "18104": {
+              "name": "Kurangurik Primary School"
+            },
+            "18105": {
+              "name": "Kiptenden Primary School"
+            },
+            "18106": {
+              "name": "Murkan Primary School"
+            },
+            "18107": {
+              "name": "Lelechonik Primary School"
+            },
+            "18108": {
+              "name": "Chemurin Primary School"
+            },
+            "18109": {
+              "name": "Kamaseto Primary School"
+            },
+            "18110": {
+              "name": "Kilindani Primary School"
+            },
+            "18111": {
+              "name": "Kaptololo Primary School"
+            },
+            "18112": {
+              "name": "Changina Primary School"
+            },
+            "18113": {
+              "name": "Chepkoiyet Primary School"
+            },
+            "18114": {
+              "name": "Kurangurik Health Centre"
+            },
+            "18115": {
+              "name": "Ruandanat Primary School"
+            },
+            "18116": {
+              "name": "Kimugul Primary School"
+            }
+          }
+        },
+        "0888": {
+          "name": "Ololmasani",
+          "pollingStations": {
+            "18117": {
+              "name": "Pimbinet Primary School"
+            },
+            "18118": {
+              "name": "Abossi Primary School"
+            },
+            "18119": {
+              "name": "Ndamama Primary School"
+            },
+            "18120": {
+              "name": "Kuresiet Primary School"
+            },
+            "18121": {
+              "name": "Kapweria Primary School"
+            },
+            "18122": {
+              "name": "Chesoen Primary School"
+            },
+            "18123": {
+              "name": "Kapchumbe Primary School"
+            },
+            "18124": {
+              "name": "Simotwet Primary School"
+            },
+            "18125": {
+              "name": "Kapkoros Primary School"
+            },
+            "18126": {
+              "name": "Kelonget Primary School"
+            },
+            "18127": {
+              "name": "Kisiara Primary School"
+            },
+            "18128": {
+              "name": "Kamerumeru Primary School"
+            },
+            "18129": {
+              "name": "Njipiship Co-Op Society"
+            },
+            "18130": {
+              "name": "Angaseti Primary School"
+            },
+            "18131": {
+              "name": "Siriat Primary School"
+            },
+            "18132": {
+              "name": "Cheserton Primary School"
+            },
+            "18133": {
+              "name": "Kabuson Primary School"
+            }
+          }
+        },
+        "0889": {
+          "name": "Mogondo",
+          "pollingStations": {
+            "18134": {
+              "name": "Cheramgoi Primary School"
+            },
+            "18135": {
+              "name": "Mogor Primary School"
+            },
+            "18136": {
+              "name": "Soget Primary School"
+            },
+            "18137": {
+              "name": "Araret Primary School"
+            },
+            "18138": {
+              "name": "Motosiet Primary School"
+            },
+            "18139": {
+              "name": "Mogondo Primary School"
+            },
+            "18140": {
+              "name": "Koisagat Primary School"
+            },
+            "18141": {
+              "name": "Kibisorwet Primary School"
+            },
+            "18142": {
+              "name": "Chebaraa Primary School"
+            }
+          }
+        },
+        "0890": {
+          "name": "Kapsasian",
+          "pollingStations": {
+            "18143": {
+              "name": "Olpopong Primary School"
+            },
+            "18144": {
+              "name": "Chelemei Primary School"
+            },
+            "18145": {
+              "name": "Kapsinindet Primary School"
+            },
+            "18146": {
+              "name": "Soimingin Primary School"
+            },
+            "18147": {
+              "name": "Tumnda Nursery School"
+            },
+            "18148": {
+              "name": "Lelagoin Primary School"
+            },
+            "18149": {
+              "name": "Chebulu Primary School"
+            },
+            "18150": {
+              "name": "Kabolecho Primary School"
+            },
+            "18151": {
+              "name": "Kiribwet Primary School"
+            },
+            "18152": {
+              "name": "Chebitoik Primary School"
+            },
+            "18153": {
+              "name": "Kapsasian Primary School"
+            },
+            "18154": {
+              "name": "Chemamit Primary School"
+            }
+          }
+        }
+      }
+    },
+    "179": {
+      "name": "Narok North",
+      "wards": {
+        "0891": {
+          "name": "Olpusimoru",
+          "pollingStations": {
+            "18155": {
+              "name": "Olmariko Primary School"
+            },
+            "18156": {
+              "name": "Olepolos Primary School"
+            },
+            "18157": {
+              "name": "Kamurar Primary School"
+            },
+            "18158": {
+              "name": "Olpusimoru Primary School."
+            },
+            "18159": {
+              "name": "Oleng'Ape Primary School"
+            },
+            "18160": {
+              "name": "Shapaltarakwa Primary School"
+            },
+            "18161": {
+              "name": "Ololongoi Primary School"
+            },
+            "18162": {
+              "name": "Kukenik Primary School"
+            },
+            "18163": {
+              "name": "Oloonamuka Primary School"
+            },
+            "18164": {
+              "name": "Olopirik Primary School"
+            },
+            "18165": {
+              "name": "Olemeisi Primary School"
+            },
+            "18166": {
+              "name": "Nkokolani Primary School."
+            },
+            "18167": {
+              "name": "Enkusero Primary School"
+            },
+            "18168": {
+              "name": "Olekingara Primary School"
+            },
+            "18169": {
+              "name": "Oltiani Primary School"
+            },
+            "18170": {
+              "name": "Olesintir Primary School"
+            }
+          }
+        },
+        "0892": {
+          "name": "Olokurto",
+          "pollingStations": {
+            "18171": {
+              "name": "Olokurto Primary School"
+            },
+            "18172": {
+              "name": "Sasimuani Nursery School"
+            },
+            "18173": {
+              "name": "Olopirik Primary School."
+            },
+            "18174": {
+              "name": "Ilpolton Primary School"
+            },
+            "18175": {
+              "name": "Enarau Primary School"
+            },
+            "18176": {
+              "name": "Naituyupaki Primary School"
+            },
+            "18177": {
+              "name": "Medungi Primary School"
+            },
+            "18178": {
+              "name": "Entiyani Primary School"
+            },
+            "18179": {
+              "name": "Ilmolelian Primary School"
+            },
+            "18180": {
+              "name": "Olenoosiria Primary School"
+            },
+            "18181": {
+              "name": "Purko Primary School"
+            },
+            "18182": {
+              "name": "Olentaiya Primary School"
+            },
+            "18183": {
+              "name": "Oyarata Primary School"
+            },
+            "18184": {
+              "name": "Olekenta Primary School"
+            },
+            "18185": {
+              "name": "Lukumae Primary School"
+            }
+          }
+        },
+        "0893": {
+          "name": "Narok Town",
+          "pollingStations": {
+            "18186": {
+              "name": "Katakala Primary School. Sch"
+            },
+            "18187": {
+              "name": "Masikonde Primary School Sch"
+            },
+            "18188": {
+              "name": "St Peters Primary School."
+            },
+            "18189": {
+              "name": "Nairasirasa Primary School Sch"
+            },
+            "18190": {
+              "name": "Olooltoto Primary School"
+            },
+            "18191": {
+              "name": "Nkairamiram Primary School Sch"
+            },
+            "18192": {
+              "name": "Ilmashariani Primary School Sch"
+            },
+            "18193": {
+              "name": "Pulunga Primary School Sch"
+            },
+            "18194": {
+              "name": "Wildlife Nursery  School"
+            },
+            "18195": {
+              "name": "Limanet Primary School"
+            },
+            "18196": {
+              "name": "Empopongi Primary School"
+            },
+            "18197": {
+              "name": "Naningo Primary School"
+            },
+            "18198": {
+              "name": "E.C.D Comm. Nursery School"
+            },
+            "18199": {
+              "name": "Olesankale Primary School"
+            },
+            "18200": {
+              "name": "Lenana Primary School"
+            }
+          }
+        },
+        "0894": {
+          "name": "Nkareta",
+          "pollingStations": {
+            "18201": {
+              "name": "Nkareta Primary School"
+            },
+            "18202": {
+              "name": "Nchora Eshumata Primary School"
+            },
+            "18203": {
+              "name": "Nchura Eabori Primary School"
+            },
+            "18204": {
+              "name": "Olokuseroi Primary School"
+            },
+            "18205": {
+              "name": "Olorroito Primary School"
+            },
+            "18206": {
+              "name": "Mutenkwar Nursery School"
+            },
+            "18207": {
+              "name": "Naisoya Primary School"
+            },
+            "18208": {
+              "name": "Osongoroi Primary School"
+            },
+            "18209": {
+              "name": "Oimeru Primary School"
+            },
+            "18210": {
+              "name": "Olopito Primary School"
+            },
+            "18211": {
+              "name": "Enelerai Primary School"
+            },
+            "18212": {
+              "name": "Ilkinyie Primary School"
+            }
+          }
+        },
+        "0895": {
+          "name": "Olorropil",
+          "pollingStations": {
+            "18213": {
+              "name": "Oloikirikirai Primary School"
+            },
+            "18214": {
+              "name": "Enabelibeli Nursery School"
+            },
+            "18215": {
+              "name": "Olorupa Primary School"
+            },
+            "18216": {
+              "name": "Kisiriri Primary School"
+            },
+            "18217": {
+              "name": "Rotian Primary School"
+            },
+            "18218": {
+              "name": "Moi Primary School"
+            },
+            "18219": {
+              "name": "Enabelibeli Primary School"
+            },
+            "18220": {
+              "name": "Entepesi Nursery School"
+            },
+            "18221": {
+              "name": "Olesikoe Primary School"
+            },
+            "18222": {
+              "name": "Oloirien Le Kule Primary School"
+            },
+            "18223": {
+              "name": "Ololoiboti Primary School"
+            },
+            "18224": {
+              "name": "Empatipati Primary School"
+            },
+            "18225": {
+              "name": "Olorropil Primary School"
+            },
+            "18226": {
+              "name": "Enabatat Awuaru Primary School"
+            },
+            "18227": {
+              "name": "Kiluli Primary School"
+            },
+            "18228": {
+              "name": "Maripet Nursery School"
+            },
+            "18229": {
+              "name": "Oloisonkoyo Primary School"
+            },
+            "18230": {
+              "name": "Topoti Primary School"
+            },
+            "18231": {
+              "name": "Narianta Primary School"
+            },
+            "18232": {
+              "name": "Enengetia Primary School"
+            },
+            "18233": {
+              "name": "Oltetia Primary School"
+            },
+            "18234": {
+              "name": "Olorbuingaikop Primary School"
+            },
+            "18235": {
+              "name": "Sikinter Primary School"
+            }
+          }
+        },
+        "0896": {
+          "name": "Melili",
+          "pollingStations": {
+            "18236": {
+              "name": "Siyiapei Primary School"
+            },
+            "18237": {
+              "name": "Olkeri Primary School"
+            },
+            "18238": {
+              "name": "Murua Primary School"
+            },
+            "18239": {
+              "name": "Rokonka Primary School"
+            },
+            "18240": {
+              "name": "Sonkoro Primary School"
+            },
+            "18241": {
+              "name": "Ole Nkasurai Primary School"
+            },
+            "18242": {
+              "name": "Entiak Nursery School"
+            },
+            "18243": {
+              "name": "Sanaet Primary School"
+            },
+            "18244": {
+              "name": "Olompoori Primary School"
+            },
+            "18245": {
+              "name": "Olendeem Primary School"
+            },
+            "18246": {
+              "name": "Olchorro Primary School"
+            },
+            "18247": {
+              "name": "Ole Mwanik Primary School"
+            },
+            "18248": {
+              "name": "Iltorobo Primary School"
+            },
+            "18249": {
+              "name": "Nairenke Primary School"
+            },
+            "18250": {
+              "name": "Ole Ntimama Ridge Primary School"
+            },
+            "18251": {
+              "name": "Entontol Primary School"
+            },
+            "18252": {
+              "name": "Erusiai Primary School"
+            },
+            "18253": {
+              "name": "Olelusie Primary School"
+            },
+            "18254": {
+              "name": "Oloorten Primary School"
+            },
+            "18255": {
+              "name": "Ilkarambuni Primary School"
+            },
+            "18256": {
+              "name": "Olosho Le Ratia Primary School"
+            },
+            "18257": {
+              "name": "Kimondi Primary School"
+            },
+            "18258": {
+              "name": "Entinki Primary School"
+            },
+            "18259": {
+              "name": "Sakutiek Primary School"
+            },
+            "18260": {
+              "name": "Enesampulai Primary School"
+            },
+            "18261": {
+              "name": "Enaibor Ajijik Primary School"
+            },
+            "18262": {
+              "name": "Olturoto Primary School"
+            },
+            "18263": {
+              "name": "Mukulit Primary School"
+            },
+            "18264": {
+              "name": "Enkidikiroto Primary School"
+            }
+          }
+        }
+      }
+    },
+    "180": {
+      "name": "Narok East",
+      "wards": {
+        "0897": {
+          "name": "Mosiro",
+          "pollingStations": {
+            "18265": {
+              "name": "Mosiro Primary School"
+            },
+            "18266": {
+              "name": "Oloikumukum Primary School"
+            },
+            "18267": {
+              "name": "Oloolturot Primary School"
+            },
+            "18268": {
+              "name": "Empurkutia Nursery School"
+            },
+            "18269": {
+              "name": "Enoomparbali Primary School"
+            },
+            "18270": {
+              "name": "Munanda Primary School"
+            },
+            "18271": {
+              "name": "Ongata Naado Primary School"
+            },
+            "18272": {
+              "name": "Nturumeti Primary School"
+            },
+            "18273": {
+              "name": "Tikako Primary School"
+            },
+            "18274": {
+              "name": "Kormoto Primary School"
+            },
+            "18275": {
+              "name": "Oloika Primary School"
+            },
+            "18276": {
+              "name": "Koitiko Primary School"
+            },
+            "18277": {
+              "name": "Ole Koonyo Primary School"
+            },
+            "18278": {
+              "name": "Ntulele Primary School"
+            },
+            "18279": {
+              "name": "Ilkiremisho Primary School"
+            },
+            "18280": {
+              "name": "Ole Punyua Primary School"
+            },
+            "18281": {
+              "name": "Olaimutiai Primary School"
+            },
+            "18282": {
+              "name": "Ole Nkomeeni Primary School"
+            },
+            "18283": {
+              "name": "Kojonga Primary School"
+            },
+            "18284": {
+              "name": "Olpura Primary School"
+            },
+            "18285": {
+              "name": "Lengasamu Primary School"
+            },
+            "18286": {
+              "name": "Makutano Oloirien Primary School"
+            }
+          }
+        },
+        "0898": {
+          "name": "Ildamat",
+          "pollingStations": {
+            "18287": {
+              "name": "Enaramatishoreki Primary School"
+            },
+            "18288": {
+              "name": "Iltumutum Primary School"
+            },
+            "18289": {
+              "name": "Oletukat Primary School"
+            },
+            "18290": {
+              "name": "Eor-Ekule Primary School"
+            },
+            "18291": {
+              "name": "Olooseneto Primary School"
+            },
+            "18292": {
+              "name": "Oloombokishi Primary School"
+            },
+            "18293": {
+              "name": "Ololpironito Primary School"
+            },
+            "18294": {
+              "name": "Saleita Primary School"
+            },
+            "18295": {
+              "name": "Enooseyia Primary School"
+            },
+            "18296": {
+              "name": "Nambao Primary School"
+            },
+            "18297": {
+              "name": "Sekerot Primary School"
+            },
+            "18298": {
+              "name": "Kutenoi Primary School"
+            },
+            "18299": {
+              "name": "Illaiser Primary School"
+            },
+            "18300": {
+              "name": "Oloonkabobok Primary School"
+            },
+            "18301": {
+              "name": "Olesito Primary School"
+            },
+            "18302": {
+              "name": "Ole Kuntere Primary School"
+            },
+            "18303": {
+              "name": "Kimelok Primary School"
+            },
+            "18304": {
+              "name": "Ilpatimaro Ecd"
+            }
+          }
+        },
+        "0899": {
+          "name": "Keekonyokie",
+          "pollingStations": {
+            "18305": {
+              "name": "Entapot Primary School"
+            },
+            "18306": {
+              "name": "Nailogilog Primary School"
+            },
+            "18307": {
+              "name": "Kikuyian Primary School"
+            },
+            "18308": {
+              "name": "Nairagie Enkare Primary School"
+            },
+            "18309": {
+              "name": "Moshoro Primary School"
+            },
+            "18310": {
+              "name": "Sintakara Primary School"
+            },
+            "18311": {
+              "name": "Karuka Primary School"
+            },
+            "18312": {
+              "name": "Ole Sharo Primary School"
+            },
+            "18313": {
+              "name": "Oloikarere Primary School"
+            },
+            "18314": {
+              "name": "Loiboti Primary School"
+            },
+            "18315": {
+              "name": "Lelong'O Primary School"
+            },
+            "18316": {
+              "name": "Enkaroni Primary School"
+            }
+          }
+        },
+        "0900": {
+          "name": "Suswa",
+          "pollingStations": {
+            "18317": {
+              "name": "Oloitip Primary School"
+            },
+            "18318": {
+              "name": "Olasiti Primary School"
+            },
+            "18319": {
+              "name": "Naakurto Lukuny Primary School"
+            },
+            "18320": {
+              "name": "Enarupa Ongila Primary School"
+            },
+            "18321": {
+              "name": "Empaash Primary School"
+            },
+            "18322": {
+              "name": "Enariboo Primary School"
+            },
+            "18323": {
+              "name": "Oloirowua Primary School"
+            },
+            "18324": {
+              "name": "Ilkirragarien Primary School"
+            },
+            "18325": {
+              "name": "Nkoirienito Primary School"
+            },
+            "18326": {
+              "name": "Suswa Primary School"
+            },
+            "18327": {
+              "name": "Oltanki Primary School"
+            },
+            "18328": {
+              "name": "Oltepesi Primary School"
+            },
+            "18329": {
+              "name": "Mpeuti Primary School"
+            },
+            "18330": {
+              "name": "Olanka Primary School"
+            },
+            "18331": {
+              "name": "Ole Kaloi Primary  School"
+            }
+          }
+        }
+      }
+    },
+    "181": {
+      "name": "Narok South",
+      "wards": {
+        "0901": {
+          "name": "Majimoto/Naroosura",
+          "pollingStations": {
+            "18332": {
+              "name": "Lengina Pr Sch"
+            },
+            "18333": {
+              "name": "Engare Ngiro Pr Sch"
+            },
+            "18334": {
+              "name": "Olenkuluo Pr Sch"
+            },
+            "18335": {
+              "name": "Erupata Pr Sch"
+            },
+            "18336": {
+              "name": "Oldonyo Orasha Sda Pr Sch"
+            },
+            "18337": {
+              "name": "Enkare Nairowua Pr Sch"
+            },
+            "18338": {
+              "name": "Enkiu Pr Sch"
+            },
+            "18339": {
+              "name": "Ingoswani Pr Sch"
+            },
+            "18340": {
+              "name": "Esupetai Pr Sch"
+            },
+            "18341": {
+              "name": "Morloo Ole Kasale Pr Sch"
+            },
+            "18342": {
+              "name": "Olgilai-Osupuko Pr Sch"
+            },
+            "18343": {
+              "name": "Koseka Nur Sch"
+            },
+            "18344": {
+              "name": "Kanunka Pr Sch"
+            },
+            "18345": {
+              "name": "Osupuko Oirobi Pr Sch"
+            },
+            "18346": {
+              "name": "Nkoisusu Nur Sch"
+            },
+            "18347": {
+              "name": "Nkimpa Pr Sch"
+            },
+            "18348": {
+              "name": "Olosirua Pr Sch"
+            },
+            "18349": {
+              "name": "Olepolos Pr. Sch"
+            },
+            "18350": {
+              "name": "Isinon Pr Sch"
+            },
+            "18351": {
+              "name": "Elangata Enterit Pr Sch"
+            },
+            "18352": {
+              "name": "Ntuka Pr Sch"
+            },
+            "18353": {
+              "name": "Kideket Pr Sch"
+            },
+            "18354": {
+              "name": "Oloisuisho -Osupuko Pr Sch"
+            },
+            "18355": {
+              "name": "Kuntai Pr Sch"
+            },
+            "18356": {
+              "name": "Entiapirri Pr Sch"
+            },
+            "18357": {
+              "name": "Naserian Pr Sch"
+            },
+            "18358": {
+              "name": "Olepariata Pr Sch"
+            },
+            "18359": {
+              "name": "Enkutoto Pr Sch"
+            },
+            "18360": {
+              "name": "Iladoru Pr Sch"
+            },
+            "18361": {
+              "name": "Ilchorroi Pr Sch"
+            },
+            "18362": {
+              "name": "Olemegili  Pr Sch"
+            },
+            "18363": {
+              "name": "Iletukunyi Pr Sch"
+            },
+            "18364": {
+              "name": "Inchaishi Pry Sch"
+            },
+            "18365": {
+              "name": "Irkimati Primary School"
+            },
+            "18366": {
+              "name": "Olomorooj Primary School"
+            },
+            "18367": {
+              "name": "Ololepo Nur Sch"
+            }
+          }
+        },
+        "0902": {
+          "name": "Ololulung'A",
+          "pollingStations": {
+            "18368": {
+              "name": "Moyongo Nur Sch"
+            },
+            "18369": {
+              "name": "Olosiyoi Pr Sch"
+            },
+            "18370": {
+              "name": "Kotolian Pr Sch"
+            },
+            "18371": {
+              "name": "Eroret Pr Sch"
+            },
+            "18372": {
+              "name": "Olmusakwa Pr Sch"
+            },
+            "18373": {
+              "name": "Oloisuisho Pr Sch"
+            },
+            "18374": {
+              "name": "Osotua Pr Sch"
+            },
+            "18375": {
+              "name": "Nkoben Pr.Sch"
+            },
+            "18376": {
+              "name": "Ololulunga Pr Sch"
+            },
+            "18377": {
+              "name": "Masaantare Pr Sch"
+            },
+            "18378": {
+              "name": "Oloirien Pr.Sch"
+            },
+            "18379": {
+              "name": "Eor Ewuaso Pr Sch"
+            },
+            "18380": {
+              "name": "Ololoipangi Pr.Sch"
+            },
+            "18381": {
+              "name": "Iltirben Pr Sch"
+            },
+            "18382": {
+              "name": "Olonini Pr Sch"
+            },
+            "18383": {
+              "name": "Olgilai-Ololulunga Pr Sch"
+            },
+            "18384": {
+              "name": "Oloshapani Pr.Sch"
+            }
+          }
+        },
+        "0903": {
+          "name": "Melelo",
+          "pollingStations": {
+            "18385": {
+              "name": "Olmekenyu Nur Sch"
+            },
+            "18386": {
+              "name": "Olmekenyu Pr Sch"
+            },
+            "18387": {
+              "name": "Enoosokon Pr Sch"
+            },
+            "18388": {
+              "name": "Ilubi Pr Sch"
+            },
+            "18389": {
+              "name": "Olengajinabo Pr Sch"
+            },
+            "18390": {
+              "name": "Olpukoti Pr Sch"
+            },
+            "18391": {
+              "name": "Melelo Pr Sch"
+            },
+            "18392": {
+              "name": "Enosagami Wuas Pr Sch"
+            },
+            "18393": {
+              "name": "Ole Nkanai Pr Sch"
+            },
+            "18394": {
+              "name": "Isinantet Pr Sch"
+            },
+            "18395": {
+              "name": "Ololua Pr Sch"
+            },
+            "18396": {
+              "name": "Olengapune Pr Sch"
+            },
+            "18397": {
+              "name": "Olmukonge Pr Sch"
+            },
+            "18398": {
+              "name": "Letaari Primary School"
+            },
+            "18399": {
+              "name": "Leleshwani Primary School"
+            },
+            "18400": {
+              "name": "Chepkut Bei Primary School"
+            },
+            "18401": {
+              "name": "Chepares Primary School"
+            },
+            "18402": {
+              "name": "Oloolaiser Primary School"
+            },
+            "18403": {
+              "name": "Oloretet Primary School"
+            }
+          }
+        },
+        "0904": {
+          "name": "Loita",
+          "pollingStations": {
+            "18404": {
+              "name": "Oltarakwai Pr Sch"
+            },
+            "18405": {
+              "name": "Ilkujuka Pr Sch"
+            },
+            "18406": {
+              "name": "Emorogi Pr Sch"
+            },
+            "18407": {
+              "name": "Olpusare Pr Sch"
+            },
+            "18408": {
+              "name": "Mausa Pr Sch"
+            },
+            "18409": {
+              "name": "Nkosesia Pr Sch"
+            },
+            "18410": {
+              "name": "Olmesutie Pr Sch"
+            },
+            "18411": {
+              "name": "Empurputia Pr Sch"
+            },
+            "18412": {
+              "name": "Entasekera Pr Sch"
+            },
+            "18413": {
+              "name": "Osinantei Pr Sch"
+            },
+            "18414": {
+              "name": "Morijo Loita Pr Sch"
+            },
+            "18415": {
+              "name": "Nkokirdinga Nur Sch"
+            },
+            "18416": {
+              "name": "Iltumaro Pr Sch"
+            },
+            "18417": {
+              "name": "Nkopon Pr Sch"
+            },
+            "18418": {
+              "name": "Ilkerin Pr Sch"
+            },
+            "18419": {
+              "name": "Osugunua Nur Sch"
+            },
+            "18420": {
+              "name": "Olorte Pr Sch"
+            },
+            "18421": {
+              "name": "Nairebuk Nur Sch"
+            },
+            "18422": {
+              "name": "Kone Pr Sch"
+            },
+            "18423": {
+              "name": "Naapolosa Primary School"
+            }
+          }
+        },
+        "0905": {
+          "name": "Sogoo",
+          "pollingStations": {
+            "18424": {
+              "name": "Enkaroni Pr Sch"
+            },
+            "18425": {
+              "name": "Naisudori Pr Sch"
+            },
+            "18426": {
+              "name": "Sogoo Pr Sch"
+            },
+            "18427": {
+              "name": "Kichapa Pr Sch"
+            },
+            "18428": {
+              "name": "Kapkatet Pr Sch"
+            },
+            "18429": {
+              "name": "Siwot Pr Sch"
+            },
+            "18430": {
+              "name": "Marinua Pr Sch"
+            },
+            "18431": {
+              "name": "Tumuyot Pr Sch"
+            },
+            "18432": {
+              "name": "Minet Pr. Sch"
+            },
+            "18433": {
+              "name": "Kewet Pr Sch"
+            },
+            "18434": {
+              "name": "Turitapangwan Primary School"
+            },
+            "18435": {
+              "name": "Emitik Primary School"
+            },
+            "18436": {
+              "name": "Tengecha Primary School"
+            }
+          }
+        },
+        "0906": {
+          "name": "Sagamian",
+          "pollingStations": {
+            "18437": {
+              "name": "Bondet Pr Sch"
+            },
+            "18438": {
+              "name": "Sitotwet Pr Sch"
+            },
+            "18439": {
+              "name": "Tendwet Pr Sch"
+            },
+            "18440": {
+              "name": "Choronok Pr Sch"
+            },
+            "18441": {
+              "name": "Kebenet Pr Sch"
+            },
+            "18442": {
+              "name": "Kalyet Pr Sch"
+            },
+            "18443": {
+              "name": "Saire Pr Sch"
+            },
+            "18444": {
+              "name": "Sagamian Pr Sch"
+            },
+            "18445": {
+              "name": "Botoret Primary School"
+            },
+            "18446": {
+              "name": "Kapsinendet Primary School"
+            },
+            "18447": {
+              "name": "Muteldo Ecde Centre"
+            }
+          }
+        }
+      }
+    },
+    "182": {
+      "name": "Narok West",
+      "wards": {
+        "0907": {
+          "name": "Ilmotiok",
+          "pollingStations": {
+            "18448": {
+              "name": "Nkorkori Pry Sch"
+            },
+            "18449": {
+              "name": "Esinoni Pry Sch"
+            },
+            "18450": {
+              "name": "Oloonkerin Pry Sch"
+            },
+            "18451": {
+              "name": "Ngiito Pry Sch"
+            },
+            "18452": {
+              "name": "Laluk Pry Sch"
+            },
+            "18453": {
+              "name": "Chepinyiny Pry Sch"
+            },
+            "18454": {
+              "name": "Oldany Pry Sch"
+            },
+            "18455": {
+              "name": "Milimani Pry Sch"
+            },
+            "18456": {
+              "name": "Koitamugul Pry Sch"
+            },
+            "18457": {
+              "name": "Kilusu Pry Sch"
+            },
+            "18458": {
+              "name": "Kutete Pry Sch"
+            },
+            "18459": {
+              "name": "Olerai Pry Sch"
+            },
+            "18460": {
+              "name": "Chemwokter Pry Sch"
+            },
+            "18461": {
+              "name": "Olchorro-Irowua Pry Sch"
+            },
+            "18462": {
+              "name": "Olereyut Pry Sch"
+            },
+            "18463": {
+              "name": "Kaproret Pry Sch"
+            },
+            "18464": {
+              "name": "Ilmotiook Pry Sch"
+            },
+            "18465": {
+              "name": "Lepolos Pry Sch"
+            },
+            "18466": {
+              "name": "Osega Pry Sch"
+            },
+            "18467": {
+              "name": "Kiptenden Pry Sch"
+            },
+            "18468": {
+              "name": "Mogoyuet Pry Sch"
+            },
+            "18469": {
+              "name": "Kuto Pry Sch"
+            },
+            "18470": {
+              "name": "Kipsongol Pry Sch"
+            },
+            "18471": {
+              "name": "Sikirrar  Pry Sch"
+            },
+            "18472": {
+              "name": "St. Antony Pry Sch"
+            },
+            "18473": {
+              "name": "Aganga Pry Sch"
+            }
+          }
+        },
+        "0908": {
+          "name": "Mara",
+          "pollingStations": {
+            "18474": {
+              "name": "Salabwek Pry Sch"
+            },
+            "18475": {
+              "name": "Rongena Pry Sch"
+            },
+            "18476": {
+              "name": "Enelerai Pry Sch"
+            },
+            "18477": {
+              "name": "Laila Pry Sch"
+            },
+            "18478": {
+              "name": "Keneti Pry Sch"
+            },
+            "18479": {
+              "name": "Pimbiniet Pry Sch"
+            },
+            "18480": {
+              "name": "Ngosuani Pry Sch"
+            },
+            "18481": {
+              "name": "Aitong Pry Sch"
+            },
+            "18482": {
+              "name": "Mararianda Pry Sch"
+            },
+            "18483": {
+              "name": "Olare Orok Pry Sch"
+            },
+            "18484": {
+              "name": "Olmuseregi Pry Sch"
+            },
+            "18485": {
+              "name": "Lemek Pry Sch"
+            },
+            "18486": {
+              "name": "Oloosokon Pry Sch"
+            },
+            "18487": {
+              "name": "Endoinyo Erinka Pry Sch"
+            },
+            "18488": {
+              "name": "Olngoswa Pry Sch"
+            },
+            "18489": {
+              "name": "Olemoncho Pry Sch"
+            }
+          }
+        },
+        "0909": {
+          "name": "Siana",
+          "pollingStations": {
+            "18490": {
+              "name": "Talek Pry Sch"
+            },
+            "18491": {
+              "name": "Olesere Pry Sch"
+            },
+            "18492": {
+              "name": "Olkinyei Pry Sch"
+            },
+            "18493": {
+              "name": "Osenetoi Nur Sch"
+            },
+            "18494": {
+              "name": "Pardamat Pry Sch"
+            },
+            "18495": {
+              "name": "Endonyo Narasha Pry Sch"
+            },
+            "18496": {
+              "name": "Oloibormurt Pry Sch"
+            },
+            "18497": {
+              "name": "Kishermoruak Pry Sch"
+            },
+            "18498": {
+              "name": "Nkasioki Pry Sch"
+            },
+            "18499": {
+              "name": "Ildungisho Pry Sch"
+            },
+            "18500": {
+              "name": "Losho Pry Sch"
+            },
+            "18501": {
+              "name": "Nkineji Pry Sch"
+            },
+            "18502": {
+              "name": "Empopongi Pry Sch"
+            },
+            "18503": {
+              "name": "Nkoilale Pry Sch"
+            },
+            "18504": {
+              "name": "Emarti Pry Sch"
+            },
+            "18505": {
+              "name": "Oloolaimutia Pry Sch"
+            },
+            "18506": {
+              "name": "Siana Boarding Pry Sch"
+            },
+            "18507": {
+              "name": "Sekenani Pry Sch"
+            },
+            "18508": {
+              "name": "Olomanira Pry Sch"
+            },
+            "18509": {
+              "name": "Olkiloriti Nur Sch"
+            },
+            "18510": {
+              "name": "Ololchurra Pry Sch"
+            },
+            "18511": {
+              "name": "Lekanga Hills Pry Sch"
+            },
+            "18512": {
+              "name": "Ilbaan Pry Sch"
+            },
+            "18513": {
+              "name": "Olkurroto  Pry Sch"
+            },
+            "18514": {
+              "name": "Oloigero Pry School"
+            },
+            "18515": {
+              "name": "Nkairowuani Pry School"
+            }
+          }
+        },
+        "0910": {
+          "name": "Naikarra",
+          "pollingStations": {
+            "18516": {
+              "name": "Nkosuash Pry Sch"
+            },
+            "18517": {
+              "name": "Olderkesi Pry Sch"
+            },
+            "18518": {
+              "name": "Olpalagilagi Pry Sch"
+            },
+            "18519": {
+              "name": "Esoit Pry Sch"
+            },
+            "18520": {
+              "name": "Oldisare Pry Sch"
+            },
+            "18521": {
+              "name": "Enasoretet Pry Sch"
+            },
+            "18522": {
+              "name": "Ositeti Pry Sch"
+            },
+            "18523": {
+              "name": "Kotel Pry. Sch"
+            },
+            "18524": {
+              "name": "Olkoroi Pry Sch"
+            },
+            "18525": {
+              "name": "Osarara Pry Sch"
+            },
+            "18526": {
+              "name": "Iretet Pry Sch"
+            },
+            "18527": {
+              "name": "Enturoto Pry Sch"
+            },
+            "18528": {
+              "name": "Leshuta Pry Sch"
+            },
+            "18529": {
+              "name": "Ole Tuya Pry Sch"
+            },
+            "18530": {
+              "name": "Elerai Pry Sch"
+            },
+            "18531": {
+              "name": "Naikarra Pry Sch"
+            },
+            "18532": {
+              "name": "Ole Nkuya Pry Sch"
+            },
+            "18533": {
+              "name": "Mpiro Pry Sch"
+            },
+            "18534": {
+              "name": "Kiboitai Pry. Sch"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Narok East",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Narok North(incl. Mau Forest)",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Narok South",
+      "type": "Subcounty"
+    },
+    "004": {
+      "name": "Narok West",
+      "type": "Subcounty"
+    },
+    "005": {
+      "name": "Trans Mara East",
+      "type": "Subcounty"
+    },
+    "006": {
+      "name": "Trans Mara West",
+      "type": "Subcounty"
+    }
+  }
+}

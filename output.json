@@ -868,32 +868,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Changamwe",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Jomvu",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kisauni",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Likoni",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Mvita",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Nyali",
-                "type": "Subcounty"
-            }
         }
     },
     "002": {
@@ -2523,28 +2497,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Kinango",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Lunga Lunga",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Matuga",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Msambweni",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Samburu-Kwale",
-                "type": "Subcounty"
             }
         }
     },
@@ -4509,44 +4461,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Chonyi",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Ganze",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kaloleni",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Kauma",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Kilifi North",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Kilifi South",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Magarini",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Malindi",
-                "type": "Subcounty"
-            },
-            "009": {
-                "name": "Rabai",
-                "type": "Subcounty"
-            }
         }
     },
     "004": {
@@ -5502,20 +5416,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Tana Delta",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Tana North",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Tana River",
-                "type": "Subcounty"
-            }
         }
     },
     "005": {
@@ -5981,16 +5881,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Lamu East",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Lamu West",
-                "type": "Subcounty"
             }
         }
     },
@@ -6973,24 +6863,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Mwatate",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Taita",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Taveta",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Voi",
-                "type": "Subcounty"
             }
         }
     },
@@ -8504,36 +8376,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Balambala",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Dadaab",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Fafi",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Garissa",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Hulugho",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Ijara",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Lagdera",
-                "type": "Subcounty"
             }
         }
     },
@@ -10261,40 +10103,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Buna",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Eldas",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Habaswein",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Tarbaj",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Wajir East",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Wajir North",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Wajir South",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Wajir West",
-                "type": "Subcounty"
-            }
         }
     },
     "009": {
@@ -11697,36 +11505,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Banisa",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Kotulo",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Lafey",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Mandera Central",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Mandera East",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Mandera North",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Mandera West",
-                "type": "Subcounty"
-            }
         }
     },
     "010": {
@@ -12892,36 +12670,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Loiyangalani",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Marsabit Central",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Marsabit North",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Marsabit South",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Moyale",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "North Horr",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Sololo",
-                "type": "Subcounty"
-            }
         }
     },
     "011": {
@@ -13462,20 +13210,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Garbatulla",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Isiolo",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Merti",
-                "type": "Subcounty"
             }
         }
     },
@@ -16883,52 +16617,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Buuri East",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Buuri West",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Igembe Central",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Igembe North",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Igembe South",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Imenti North",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Imenti South",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Meru Central",
-                "type": "Subcounty"
-            },
-            "009": {
-                "name": "Tigania Central",
-                "type": "Subcounty"
-            },
-            "010": {
-                "name": "Tigania East",
-                "type": "Subcounty"
-            },
-            "011": {
-                "name": "Tigania West",
-                "type": "Subcounty"
-            }
         }
     },
     "013": {
@@ -18814,28 +18502,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Igambang'ombe",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Maara",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Meru South",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Tharaka North",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Tharaka South",
-                "type": "Subcounty"
-            }
         }
     },
     "014": {
@@ -20564,28 +20230,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Embu East",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Embu North",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Embu West",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Mbeere North",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Mbeere South",
-                "type": "Subcounty"
             }
         }
     },
@@ -25076,80 +24720,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Ikutha",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Katulani",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kisasi",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Kitui Central",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Kitui West",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Kyuso",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Lower Yatta",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Matinyani",
-                "type": "Subcounty"
-            },
-            "009": {
-                "name": "Migwani",
-                "type": "Subcounty"
-            },
-            "010": {
-                "name": "Mumoni",
-                "type": "Subcounty"
-            },
-            "011": {
-                "name": "Mutitu",
-                "type": "Subcounty"
-            },
-            "012": {
-                "name": "Mutitu North",
-                "type": "Subcounty"
-            },
-            "013": {
-                "name": "Mutomo",
-                "type": "Subcounty"
-            },
-            "014": {
-                "name": "Mwingi Central",
-                "type": "Subcounty"
-            },
-            "015": {
-                "name": "Mwingi East",
-                "type": "Subcounty"
-            },
-            "016": {
-                "name": "Nzambani",
-                "type": "Subcounty"
-            },
-            "017": {
-                "name": "Thagicu",
-                "type": "Subcounty"
-            },
-            "018": {
-                "name": "Tseikuru",
-                "type": "Subcounty"
-            }
         }
     },
     "016": {
@@ -28253,44 +27823,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Athi River",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Kalama",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kangundo",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Kathiani",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Machakos",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Masinga",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Matungulu",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Mwala",
-                "type": "Subcounty"
-            },
-            "009": {
-                "name": "Yatta",
-                "type": "Subcounty"
-            }
         }
     },
     "017": {
@@ -31109,44 +30641,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Kathonzweni",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Kibwezi",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kilungu",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Makindu",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Makueni",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Mbooni East",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Mbooni West",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Mukaa",
-                "type": "Subcounty"
-            },
-            "009": {
-                "name": "Nzaui",
-                "type": "Subcounty"
-            }
         }
     },
     "018": {
@@ -32512,36 +32006,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Kinangop",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Kipipiri",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Mirangine",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Nyandarua Central",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Nyandarua North",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Nyandarua South",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Nyandarua West",
-                "type": "Subcounty"
             }
         }
     },
@@ -34449,40 +33913,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Kieni East",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Kieni West",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Mathira East",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Mathira West",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Mukurweini",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Nyeri Central",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Nyeri South",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Tetu",
-                "type": "Subcounty"
-            }
         }
     },
     "020": {
@@ -35566,28 +34996,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Kirinyaga Central",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Kirinyaga East",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kirinyaga West",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Mwea East",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Mwea West",
-                "type": "Subcounty"
             }
         }
     },
@@ -37596,40 +37004,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Gatanga",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Kahuro",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kandara",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Kangema",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Kigumo",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Mathioya",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Murang'a East",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Murang'a South",
-                "type": "Subcounty"
             }
         }
     },
@@ -39692,60 +39066,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Gatundu North",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Gatundu South",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Githunguri",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Juja",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Kabete",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Kiambaa",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Kiambu",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Kikuyu",
-                "type": "Subcounty"
-            },
-            "009": {
-                "name": "Lari",
-                "type": "Subcounty"
-            },
-            "010": {
-                "name": "Limuru",
-                "type": "Subcounty"
-            },
-            "011": {
-                "name": "Ruiru",
-                "type": "Subcounty"
-            },
-            "012": {
-                "name": "Thika East",
-                "type": "Subcounty"
-            },
-            "013": {
-                "name": "Thika West",
-                "type": "Subcounty"
             }
         }
     },
@@ -41982,36 +41302,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Kibish",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Loima",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Turkana Central",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Turkana East",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Turkana North",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Turkana South",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Turkana West",
-                "type": "Subcounty"
             }
         }
     },
@@ -44546,28 +43836,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Kipkomo",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Pokot Central",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Pokot North",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Pokot South",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "West Pokot",
-                "type": "Subcounty"
-            }
         }
     },
     "025": {
@@ -45591,20 +44859,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Samburu Central",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Samburu East",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Samburu North",
-                "type": "Subcounty"
             }
         }
     },
@@ -46866,28 +46120,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Endebess",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Kiminini",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kwanza",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Trans Nzoia East",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Trans Nzoia West",
-                "type": "Subcounty"
             }
         }
     },
@@ -48528,32 +47760,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Ainabkoi",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Kapseret",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kesses",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Moiben",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Soy",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Turbo",
-                "type": "Subcounty"
-            }
         }
     },
     "028": {
@@ -50156,24 +49362,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Keiyo North",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Keiyo South",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Marakwet East",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Marakwet West",
-                "type": "Subcounty"
             }
         }
     },
@@ -52407,32 +51595,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Chesumei",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Nandi Central",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Nandi East",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Nandi North",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Nandi South",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Tinderet",
-                "type": "Subcounty"
             }
         }
     },
@@ -55546,36 +54708,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Baringo Central",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Baringo North",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "East Pokot",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Koibatek",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Marigat(incl. Lake Baringo)",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Mogotio",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Tiaty East",
-                "type": "Subcounty"
-            }
         }
     },
     "031": {
@@ -56716,28 +55848,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Laikipia Central",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Laikipia East",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Laikipia North",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Laikipia West",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Nyahururu",
-                "type": "Subcounty"
             }
         }
     },
@@ -60208,52 +59318,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Gilgil",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Kuresoi North",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kuresoi South",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Molo",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Naivasha",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Nakuru East",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Nakuru North",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Nakuru West",
-                "type": "Subcounty"
-            },
-            "009": {
-                "name": "Njoro",
-                "type": "Subcounty"
-            },
-            "010": {
-                "name": "Rongai",
-                "type": "Subcounty"
-            },
-            "011": {
-                "name": "Subukia",
-                "type": "Subcounty"
-            }
         }
     },
     "033": {
@@ -62226,32 +61290,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Narok East",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Narok North(incl. Mau Forest)",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Narok South",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Narok West",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Trans Mara East",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Trans Mara West",
-                "type": "Subcounty"
-            }
         }
     },
     "034": {
@@ -63734,32 +62772,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Isinya",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Kajiado Central",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kajiado North",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Kajiado West",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Loitokitok",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Mashuuru",
-                "type": "Subcounty"
             }
         }
     },
@@ -65744,32 +64756,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Belgut",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Bureti",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kericho East",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Kipkelion",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Londiani(incl. Mau Forest, Tinderet\n                    Forest)",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Soin Sigowet",
-                "type": "Subcounty"
             }
         }
     },
@@ -67835,28 +66821,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Bomet Central",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Bomet East",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Chepalungu",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Konoin(incl. Mau Forest)",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Sotik",
-                "type": "Subcounty"
             }
         }
     },
@@ -71132,60 +70096,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Butere",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Kakamega Central",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kakamega East",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Kakamega North",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Kakamega South",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Khwisero",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Likuyani",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Lugari",
-                "type": "Subcounty"
-            },
-            "009": {
-                "name": "Matete",
-                "type": "Subcounty"
-            },
-            "010": {
-                "name": "Matungu",
-                "type": "Subcounty"
-            },
-            "011": {
-                "name": "Mumias East",
-                "type": "Subcounty"
-            },
-            "012": {
-                "name": "Mumias West",
-                "type": "Subcounty"
-            },
-            "013": {
-                "name": "Navakholo",
-                "type": "Subcounty"
-            }
         }
     },
     "038": {
@@ -72425,28 +71335,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Emuhaya",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Hamisi(incl. Kakamega Forest)",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Luanda",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Sabatia",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Vihiga",
-                "type": "Subcounty"
             }
         }
     },
@@ -75401,52 +74289,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Bumula",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Bungoma Central",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Bungoma East",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Bungoma North",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Bungoma South",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Bungoma West",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Cheptais",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Kimilili-Bungoma",
-                "type": "Subcounty"
-            },
-            "009": {
-                "name": "Mount Elgon",
-                "type": "Subcounty"
-            },
-            "010": {
-                "name": "Tongaren",
-                "type": "Subcounty"
-            },
-            "011": {
-                "name": "Webuye West",
-                "type": "Subcounty"
-            }
         }
     },
     "040": {
@@ -77271,36 +76113,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Bunyala",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Busia",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Butula",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Nambale",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Samia",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Teso North",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Teso South",
-                "type": "Subcounty"
             }
         }
     },
@@ -79222,32 +78034,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Bondo",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Gem",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Rarieda",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Siaya",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Ugenya",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Ugunja",
-                "type": "Subcounty"
             }
         }
     },
@@ -81208,36 +79994,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Kisumu Central",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Kisumu East",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kisumu West",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Muhoroni",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Nyakach",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Nyando",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Seme",
-                "type": "Subcounty"
             }
         }
     },
@@ -84192,40 +82948,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Homa Bay",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Ndhiwa",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Rachuonyo East",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Rachuonyo North",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Rachuonyo South",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Rangwe",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Suba North",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Suba South",
-                "type": "Subcounty"
-            }
         }
     },
     "044": {
@@ -86611,40 +85333,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Awendo",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Kuria East",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kuria West",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Nyatike",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Rongo",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Suna East",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Suna West",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Uriri",
-                "type": "Subcounty"
             }
         }
     },
@@ -89323,52 +88011,6 @@
                     }
                 }
             }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Etago",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Gucha",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Gucha South",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Kenyenya",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Kisii Central",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Kisii South",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Kitutu Central",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Marani",
-                "type": "Subcounty"
-            },
-            "009": {
-                "name": "Masaba South",
-                "type": "Subcounty"
-            },
-            "010": {
-                "name": "Nyamache",
-                "type": "Subcounty"
-            },
-            "011": {
-                "name": "Sameta",
-                "type": "Subcounty"
-            }
         }
     },
     "046": {
@@ -90563,28 +89205,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Borabu",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Manga",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Masaba North",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Nyamira North",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Nyamira South",
-                "type": "Subcounty"
             }
         }
     },
@@ -92236,52 +90856,6 @@
                         }
                     }
                 }
-            }
-        },
-        "subcounties": {
-            "001": {
-                "name": "Dagoretti",
-                "type": "Subcounty"
-            },
-            "002": {
-                "name": "Embakasi",
-                "type": "Subcounty"
-            },
-            "003": {
-                "name": "Kamukunji",
-                "type": "Subcounty"
-            },
-            "004": {
-                "name": "Kasarani",
-                "type": "Subcounty"
-            },
-            "005": {
-                "name": "Kibra",
-                "type": "Subcounty"
-            },
-            "006": {
-                "name": "Lang'ata",
-                "type": "Subcounty"
-            },
-            "007": {
-                "name": "Makadara",
-                "type": "Subcounty"
-            },
-            "008": {
-                "name": "Mathare",
-                "type": "Subcounty"
-            },
-            "009": {
-                "name": "Njiru",
-                "type": "Subcounty"
-            },
-            "010": {
-                "name": "Starehe",
-                "type": "Subcounty"
-            },
-            "011": {
-                "name": "Westlands",
-                "type": "Subcounty"
             }
         }
     }

@@ -1,0 +1,3328 @@
+{
+  "name": "Kakamega",
+  "type": "County",
+  "code": "037",
+  "constituencies": {
+    "199": {
+      "name": "Lugari",
+      "wards": {
+        "0991": {
+          "name": "Mautuma",
+          "pollingStations": {
+            "20212": {
+              "name": "Mlimani Primary School"
+            },
+            "20213": {
+              "name": "Mukuyu Primary School"
+            },
+            "20214": {
+              "name": "Mautuma D.E.B Primary School"
+            },
+            "20215": {
+              "name": "St. Mary'S Boarding Primary School"
+            },
+            "20216": {
+              "name": "Mbagara Primary School"
+            },
+            "20217": {
+              "name": "St. Kizito Primary School"
+            },
+            "20218": {
+              "name": "Macho Primary School"
+            },
+            "20219": {
+              "name": "Mukonge Primary School"
+            },
+            "20220": {
+              "name": "Nabemo Primary School"
+            },
+            "20221": {
+              "name": "St. Louis Saisi Primary  School"
+            },
+            "20222": {
+              "name": "Sipande Primary School"
+            },
+            "20223": {
+              "name": "Mahiga Nursery School"
+            },
+            "20224": {
+              "name": "Ivona East Nursery School"
+            },
+            "20225": {
+              "name": "Milembe Nursery School"
+            },
+            "20226": {
+              "name": "Schemeline Nursery School"
+            },
+            "20227": {
+              "name": "Musunzu Nursery School"
+            },
+            "20228": {
+              "name": "Minyali Water Point"
+            }
+          }
+        },
+        "0992": {
+          "name": "Lugari",
+          "pollingStations": {
+            "20229": {
+              "name": "Savala Primary School"
+            },
+            "20230": {
+              "name": "Marula Primary School"
+            },
+            "20231": {
+              "name": "Manyonyi Primary School"
+            },
+            "20232": {
+              "name": "Lugari Primary School"
+            },
+            "20233": {
+              "name": "Mufutu Primary School"
+            },
+            "20234": {
+              "name": "Lwanda Lugari Primary School"
+            },
+            "20235": {
+              "name": "Sirende Primary School"
+            },
+            "20236": {
+              "name": "Lumama Primary School"
+            },
+            "20237": {
+              "name": "Marakusi Primary School"
+            },
+            "20238": {
+              "name": "Lugari Station Primary School"
+            },
+            "20239": {
+              "name": "Mugumu Primary School"
+            },
+            "20240": {
+              "name": "Mahemas Primary School"
+            },
+            "20241": {
+              "name": "Kiwanja Ndege Primary School"
+            },
+            "20242": {
+              "name": "Frank Primary School"
+            }
+          }
+        },
+        "0993": {
+          "name": "Lumakanda",
+          "pollingStations": {
+            "20243": {
+              "name": "Lumakanda  Township Primary School"
+            },
+            "20244": {
+              "name": "Munyuki Primary School"
+            },
+            "20245": {
+              "name": "Mwamba Primary School"
+            },
+            "20246": {
+              "name": "Majengo Primary School"
+            },
+            "20247": {
+              "name": "Bahati Primary School"
+            },
+            "20248": {
+              "name": "Mbaya Primary School"
+            },
+            "20249": {
+              "name": "Lumakanda D.E.B. Primary  School"
+            },
+            "20250": {
+              "name": "Lumakanda Boys Secondary School"
+            },
+            "20251": {
+              "name": "Forestal Primary School"
+            },
+            "20252": {
+              "name": "Bandari Nursery School"
+            },
+            "20253": {
+              "name": "Ex-Rasa Water Point"
+            },
+            "20254": {
+              "name": "Murram Primary School"
+            },
+            "20255": {
+              "name": "Jirongo D.E.B. Primary School"
+            },
+            "20256": {
+              "name": "Sosiani Adc Nursery School"
+            },
+            "20257": {
+              "name": "Tekoa Primary School"
+            }
+          }
+        },
+        "0994": {
+          "name": "Chekalini",
+          "pollingStations": {
+            "20258": {
+              "name": "Mapengo Primary School"
+            },
+            "20259": {
+              "name": "Koromaiti Primary School"
+            },
+            "20260": {
+              "name": "Chekalini Primary School"
+            },
+            "20261": {
+              "name": "Mbajo Primary School"
+            },
+            "20262": {
+              "name": "Mwivona Primary School"
+            },
+            "20263": {
+              "name": "Angayu Primary School"
+            },
+            "20264": {
+              "name": "Musembe Primary School"
+            },
+            "20265": {
+              "name": "Baharini Primary School"
+            },
+            "20266": {
+              "name": "Itumbu Primary School"
+            },
+            "20267": {
+              "name": "Kipkaren L. C.C. Hall"
+            },
+            "20268": {
+              "name": "Bondeni 'B' Primary School"
+            }
+          }
+        },
+        "0995": {
+          "name": "Chevaywa",
+          "pollingStations": {
+            "20269": {
+              "name": "Makonge Primary School"
+            },
+            "20270": {
+              "name": "Vuyika Primary School"
+            },
+            "20271": {
+              "name": "Chepusai Primary School"
+            },
+            "20272": {
+              "name": "Nambilima Primary  School"
+            },
+            "20273": {
+              "name": "Kiliboti Primary School"
+            },
+            "20274": {
+              "name": "Lumani Primary School"
+            },
+            "20275": {
+              "name": "Chenjeni Primary School"
+            },
+            "20276": {
+              "name": "Makhwabuye Primary School"
+            },
+            "20277": {
+              "name": "Muhomo Primary School"
+            },
+            "20278": {
+              "name": "Makhukhuni Primary School"
+            },
+            "20279": {
+              "name": "Kivaywa Primary School"
+            },
+            "20280": {
+              "name": "Mukhalanya Primary School"
+            },
+            "20281": {
+              "name": "Kulumbeni Primary School"
+            },
+            "20282": {
+              "name": "Maungu Primary School"
+            },
+            "20283": {
+              "name": "Lukova Primary School"
+            },
+            "20284": {
+              "name": "Misemwa Primary School"
+            }
+          }
+        },
+        "0996": {
+          "name": "Lwandeti",
+          "pollingStations": {
+            "20285": {
+              "name": "Mahanga Primary School"
+            },
+            "20286": {
+              "name": "Lukhokho Primary School"
+            },
+            "20287": {
+              "name": "Maturu Primary School"
+            },
+            "20288": {
+              "name": "Mayoyo M.H.M Primary School"
+            },
+            "20289": {
+              "name": "Lwandeti Primary School"
+            },
+            "20290": {
+              "name": "Mutua Primary School"
+            },
+            "20291": {
+              "name": "Nzoia Primary School"
+            },
+            "20292": {
+              "name": "Chimoi Primary School"
+            },
+            "20293": {
+              "name": "Mutenyo Primary School"
+            },
+            "20294": {
+              "name": "Makina Primary School"
+            },
+            "20295": {
+              "name": "Mabuye Primary School"
+            },
+            "20296": {
+              "name": "Kwambu Primary School"
+            },
+            "20297": {
+              "name": "Chetambe Primary School"
+            },
+            "20298": {
+              "name": "Mawa Primary School"
+            },
+            "20299": {
+              "name": "Masasuli Primary School"
+            },
+            "20300": {
+              "name": "Kewa Primary School"
+            },
+            "20301": {
+              "name": "Chamavele Primary School"
+            },
+            "20302": {
+              "name": "Navalayo Primary School"
+            },
+            "20303": {
+              "name": "Kafusi Primary School"
+            }
+          }
+        }
+      }
+    },
+    "200": {
+      "name": "Likuyani",
+      "wards": {
+        "0997": {
+          "name": "Likuyani",
+          "pollingStations": {
+            "20304": {
+              "name": "Likuyani Primary School"
+            },
+            "20305": {
+              "name": "Ivugwi Primary School"
+            },
+            "20306": {
+              "name": "Lumino Primary School"
+            },
+            "20307": {
+              "name": "Mary Lusweti Primary School"
+            },
+            "20308": {
+              "name": "Everest Primary School"
+            },
+            "20309": {
+              "name": "Seregeya Primary School"
+            },
+            "20310": {
+              "name": "Kilimani Primary School"
+            },
+            "20311": {
+              "name": "Aligula Primary School"
+            },
+            "20312": {
+              "name": "Siyenga Primary School"
+            },
+            "20313": {
+              "name": "St. Monica Primary School"
+            },
+            "20314": {
+              "name": "Kampi Mapesa Primary  School"
+            },
+            "20315": {
+              "name": "Chief Banda Primary School"
+            },
+            "20316": {
+              "name": "Turbo Water Supply"
+            },
+            "20317": {
+              "name": "Kambi Mawe Primary School"
+            }
+          }
+        },
+        "0998": {
+          "name": "Sango",
+          "pollingStations": {
+            "20318": {
+              "name": "Sango Primary School"
+            },
+            "20319": {
+              "name": "Sikhendu Primary School"
+            },
+            "20320": {
+              "name": "St. Francis Milima Primary School"
+            },
+            "20321": {
+              "name": "Lukusi Primary School"
+            },
+            "20322": {
+              "name": "Makutano Primary School"
+            },
+            "20323": {
+              "name": "Soy Sambu Primary School"
+            },
+            "20324": {
+              "name": "L Ugulu Primary School"
+            },
+            "20325": {
+              "name": "Mapera Primary School"
+            },
+            "20326": {
+              "name": "Mawe Tatu Primary School"
+            },
+            "20327": {
+              "name": "Nganga Primary School"
+            }
+          }
+        },
+        "0999": {
+          "name": "Kongoni",
+          "pollingStations": {
+            "20328": {
+              "name": "Kongoni Primary School"
+            },
+            "20329": {
+              "name": "St. Teresa Primary School"
+            },
+            "20330": {
+              "name": "Nasianda Primary School"
+            },
+            "20331": {
+              "name": "Nangili Primary School"
+            },
+            "20332": {
+              "name": "Mirembe Primary School"
+            },
+            "20333": {
+              "name": "Sikulu Primary School"
+            },
+            "20334": {
+              "name": "Kosoki Primary School"
+            },
+            "20335": {
+              "name": "Kisigame Primary School"
+            },
+            "20336": {
+              "name": "Mukunga Primary School"
+            }
+          }
+        },
+        "1000": {
+          "name": "Nzoia",
+          "pollingStations": {
+            "20337": {
+              "name": "Mbururu Primary School"
+            },
+            "20338": {
+              "name": "Musemwa Primary School"
+            },
+            "20339": {
+              "name": "Matisi Primary School"
+            },
+            "20340": {
+              "name": "Luanda Primary School"
+            },
+            "20341": {
+              "name": "St. Joseph Nyorotis"
+            },
+            "20342": {
+              "name": "Matunda Primary School"
+            },
+            "20343": {
+              "name": "Mutoni Primary School"
+            },
+            "20344": {
+              "name": "Patrice Primary School"
+            },
+            "20345": {
+              "name": "Godown Primary School"
+            },
+            "20346": {
+              "name": "Musemwa Fcs"
+            },
+            "20347": {
+              "name": "Mumonyonzo Fcs"
+            },
+            "20348": {
+              "name": "Kona Primary School"
+            },
+            "20349": {
+              "name": "Matunda Secondary School"
+            },
+            "20350": {
+              "name": "Albert Maloba Water Spring"
+            },
+            "20351": {
+              "name": "Ngao Primary School"
+            },
+            "20352": {
+              "name": "Mururi Primary School"
+            }
+          }
+        },
+        "1001": {
+          "name": "Sinoko",
+          "pollingStations": {
+            "20353": {
+              "name": "Mwiba Primary School"
+            },
+            "20354": {
+              "name": "Sinoko Primary School"
+            },
+            "20355": {
+              "name": "Moi'S Bridge Primary School"
+            },
+            "20356": {
+              "name": "Ludodo Primary School"
+            },
+            "20357": {
+              "name": "Namunyiri Primary School"
+            },
+            "20358": {
+              "name": "Kware Primary School"
+            },
+            "20359": {
+              "name": "Machine Fcs"
+            },
+            "20360": {
+              "name": "Bondeni Primary School"
+            },
+            "20361": {
+              "name": "St. Henry'S Saisi Secondary School"
+            },
+            "20362": {
+              "name": "Eshikulu Secondary School"
+            },
+            "20363": {
+              "name": "Milimani Health Centre"
+            },
+            "20364": {
+              "name": "St Peters Secondary  School"
+            },
+            "20365": {
+              "name": "Dr. Elesha Wakube Primary School"
+            }
+          }
+        }
+      }
+    },
+    "201": {
+      "name": "Malava",
+      "wards": {
+        "1002": {
+          "name": "West Kabras",
+          "pollingStations": {
+            "20366": {
+              "name": "Mutsuma Primary School"
+            },
+            "20367": {
+              "name": "Bukhakunga Primary School"
+            },
+            "20368": {
+              "name": "Burundu Primary School"
+            },
+            "20369": {
+              "name": "Lukume Primary School"
+            },
+            "20370": {
+              "name": "Mayuge Primary School"
+            },
+            "20371": {
+              "name": "Bulupi Primary School"
+            },
+            "20372": {
+              "name": "Ingwe Primary School"
+            },
+            "20373": {
+              "name": "Mukongolo Primary School"
+            },
+            "20374": {
+              "name": "Sawawa Primary School"
+            },
+            "20375": {
+              "name": "Kamuchisu Primary School"
+            },
+            "20376": {
+              "name": "Imbiakalo Primary School"
+            },
+            "20377": {
+              "name": "Musidi Primary School"
+            },
+            "20378": {
+              "name": "Mwikhupo Primary School"
+            },
+            "20379": {
+              "name": "Mukoko Primary School"
+            },
+            "20380": {
+              "name": "Indulusia Primary School"
+            }
+          }
+        },
+        "1003": {
+          "name": "Chemuche",
+          "pollingStations": {
+            "20381": {
+              "name": "Muting'Ong'O Primary School"
+            },
+            "20382": {
+              "name": "Mukhonje Primary School"
+            },
+            "20383": {
+              "name": "Shitirira Primary School"
+            },
+            "20384": {
+              "name": "Tumbeni Primary School"
+            },
+            "20385": {
+              "name": "Kimang'Eti Primary School"
+            },
+            "20386": {
+              "name": "Chimoroni Primary School"
+            },
+            "20387": {
+              "name": "Shivikhwa Primary School"
+            },
+            "20388": {
+              "name": "Malichi Primary School"
+            },
+            "20389": {
+              "name": "Mache Primary School"
+            },
+            "20390": {
+              "name": "Lugusi Primary School"
+            },
+            "20391": {
+              "name": "Isanjiro Primary School"
+            },
+            "20392": {
+              "name": "Machemo Primary School"
+            },
+            "20393": {
+              "name": "Malava Bus/Matatu Park/Terminus"
+            },
+            "20394": {
+              "name": "Shirulo Primary School"
+            },
+            "20395": {
+              "name": "Kokoyo Primary School"
+            },
+            "20396": {
+              "name": "Lukhokho Primary School"
+            },
+            "20397": {
+              "name": "Mazungutsa Primary School"
+            }
+          }
+        },
+        "1004": {
+          "name": "East Kabras",
+          "pollingStations": {
+            "20398": {
+              "name": "Lwanda Kabras  Primary School"
+            },
+            "20399": {
+              "name": "Shianda Primary School"
+            },
+            "20400": {
+              "name": "Manguliro Primary School"
+            },
+            "20401": {
+              "name": "Ikoli Primary School"
+            },
+            "20402": {
+              "name": "Kuvasali Primary School"
+            },
+            "20403": {
+              "name": "Bunuku Primary School"
+            },
+            "20404": {
+              "name": "Nguvuli Primary School"
+            },
+            "20405": {
+              "name": "Chiveli Primary School"
+            },
+            "20406": {
+              "name": "Fuvale Primary School"
+            },
+            "20407": {
+              "name": "Kakoyi Primary School"
+            },
+            "20408": {
+              "name": "Chesero Primary School"
+            },
+            "20409": {
+              "name": "Mukhuyu Primary School"
+            },
+            "20410": {
+              "name": "Mukangu Primary School"
+            },
+            "20411": {
+              "name": "Misimo Primary School"
+            }
+          }
+        },
+        "1005": {
+          "name": "Butali/Chegulo",
+          "pollingStations": {
+            "20412": {
+              "name": "Matsakha Primary School"
+            },
+            "20413": {
+              "name": "Timbito Primary School"
+            },
+            "20414": {
+              "name": "Chegulo Primary School"
+            },
+            "20415": {
+              "name": "Makuche Primary School"
+            },
+            "20416": {
+              "name": "Tande Primary School"
+            },
+            "20417": {
+              "name": "Matioli Primary School"
+            },
+            "20418": {
+              "name": "Mukavakava Primary School"
+            },
+            "20419": {
+              "name": "Mavusi Primary School"
+            },
+            "20420": {
+              "name": "Vashele Primary School"
+            },
+            "20421": {
+              "name": "Manyonje Primary School"
+            },
+            "20422": {
+              "name": "Namanja Primary School"
+            },
+            "20423": {
+              "name": "Sharambatsa Primary School"
+            },
+            "20424": {
+              "name": "Wavoka Primary School"
+            },
+            "20425": {
+              "name": "Shipala Primary School"
+            },
+            "20426": {
+              "name": "Shilongo Primary School"
+            },
+            "20427": {
+              "name": "Mahusi Primary School"
+            },
+            "20428": {
+              "name": "Namushiya Primary School"
+            },
+            "20429": {
+              "name": "Makale Primary School"
+            },
+            "20430": {
+              "name": "St. Martin Primary School"
+            }
+          }
+        },
+        "1006": {
+          "name": "Manda-Shivanga",
+          "pollingStations": {
+            "20431": {
+              "name": "Manda Kabras Primary School"
+            },
+            "20432": {
+              "name": "Silungai Primary  School"
+            },
+            "20433": {
+              "name": "Lurale Primary School"
+            },
+            "20434": {
+              "name": "Tombo Primary School"
+            },
+            "20435": {
+              "name": "Matete Primary School"
+            },
+            "20436": {
+              "name": "Namagara Primary School"
+            },
+            "20437": {
+              "name": "Fuvuye Primary School"
+            },
+            "20438": {
+              "name": "Teresia Primary School"
+            },
+            "20439": {
+              "name": "Bisunu Primary School"
+            },
+            "20440": {
+              "name": "Shivanga Primary School"
+            },
+            "20441": {
+              "name": "Mukhungula Primary School"
+            },
+            "20442": {
+              "name": "St. Joseph Lunyu K Primary School"
+            },
+            "20443": {
+              "name": "Cheptuli Primary School"
+            },
+            "20444": {
+              "name": "Hamutua Primary  School"
+            },
+            "20445": {
+              "name": "Shiandiche Primary School"
+            },
+            "20446": {
+              "name": "Namatala Primary School"
+            },
+            "20447": {
+              "name": "Bwanga Primary School"
+            },
+            "20448": {
+              "name": "Muriola Primary School"
+            },
+            "20449": {
+              "name": "Munanga Primary School"
+            },
+            "20450": {
+              "name": "Mutoto Primary School"
+            }
+          }
+        },
+        "1007": {
+          "name": "Shirugu-Mugai",
+          "pollingStations": {
+            "20451": {
+              "name": "Kalenda Primary School"
+            },
+            "20452": {
+              "name": "Samitsi Primary School"
+            },
+            "20453": {
+              "name": "Shirugu Primary School"
+            },
+            "20454": {
+              "name": "Malekha Primary School"
+            },
+            "20455": {
+              "name": "Malava Primary School"
+            },
+            "20456": {
+              "name": "Mugai Primary School"
+            },
+            "20457": {
+              "name": "Sheywe Primary School"
+            },
+            "20458": {
+              "name": "Lutali Primary School"
+            },
+            "20459": {
+              "name": "Luyeshe Primary School"
+            },
+            "20460": {
+              "name": "Lukala Kabras  Primary  School"
+            },
+            "20461": {
+              "name": "Muchanja Primary School"
+            },
+            "20462": {
+              "name": "Musungu Primary School"
+            },
+            "20463": {
+              "name": "Sambuli Primary School"
+            },
+            "20464": {
+              "name": "Shikokhwe Primary School"
+            },
+            "20465": {
+              "name": "Malava Town Market"
+            },
+            "20466": {
+              "name": "Makhwabuye Primary School"
+            }
+          }
+        },
+        "1008": {
+          "name": "South Kabras",
+          "pollingStations": {
+            "20467": {
+              "name": "Kakunga Primary School"
+            },
+            "20468": {
+              "name": "Shamberere Primary School"
+            },
+            "20469": {
+              "name": "Chevoso Primary School"
+            },
+            "20470": {
+              "name": "Chombeli Primary School"
+            },
+            "20471": {
+              "name": "Shamoni Primary School"
+            },
+            "20472": {
+              "name": "Lunyinya Primary School"
+            },
+            "20473": {
+              "name": "Mahira Primary School"
+            },
+            "20474": {
+              "name": "Lusumu Primary School"
+            },
+            "20475": {
+              "name": "Shihome Primary School"
+            },
+            "20476": {
+              "name": "Malimali Primary School"
+            },
+            "20477": {
+              "name": "Ingavira Primary School"
+            },
+            "20478": {
+              "name": "St. Gerald Sasala School"
+            },
+            "20479": {
+              "name": "Emusali Primary School"
+            },
+            "20480": {
+              "name": "Matende Primary School"
+            },
+            "20481": {
+              "name": "Chiliva Primary School"
+            },
+            "20482": {
+              "name": "Ifwetere Primary School"
+            }
+          }
+        }
+      }
+    },
+    "202": {
+      "name": "Lurambi",
+      "wards": {
+        "1009": {
+          "name": "Butsotso East",
+          "pollingStations": {
+            "20483": {
+              "name": "Emusala Primary School"
+            },
+            "20484": {
+              "name": "Indangalasia Primary School"
+            },
+            "20485": {
+              "name": "Emukaba Primary School"
+            },
+            "20486": {
+              "name": "Ebung'Aya Primary School"
+            },
+            "20487": {
+              "name": "Elufafwa Primary School"
+            },
+            "20488": {
+              "name": "Elukho Primary School"
+            },
+            "20489": {
+              "name": "Emakusi Nursery School"
+            },
+            "20490": {
+              "name": "Afcea Faithville Secondary School"
+            },
+            "20491": {
+              "name": "J.P.C Nursery School"
+            },
+            "20492": {
+              "name": "Shikoti Mixed Primary School"
+            },
+            "20493": {
+              "name": "Emasera Primary School"
+            },
+            "20494": {
+              "name": "Mungulu Primary School"
+            },
+            "20495": {
+              "name": "Emachembe Nursery School"
+            },
+            "20496": {
+              "name": "Shitungu Nursery School"
+            },
+            "20497": {
+              "name": "Shitoto Pefa Church"
+            },
+            "20498": {
+              "name": "New Apostolic Nursery School"
+            },
+            "20499": {
+              "name": "Isanjiro Nursery School"
+            },
+            "20500": {
+              "name": "Elwanda Kag Nursery School"
+            }
+          }
+        },
+        "1010": {
+          "name": "Butsotso South",
+          "pollingStations": {
+            "20501": {
+              "name": "Eshibeye Primary School"
+            },
+            "20502": {
+              "name": "Eshimichini Nursery School"
+            },
+            "20503": {
+              "name": "Esokone Primary School"
+            },
+            "20504": {
+              "name": "Emachina Nursery School"
+            },
+            "20505": {
+              "name": "Emuraka Nursery School"
+            },
+            "20506": {
+              "name": "Eshiandukusi Primary School"
+            },
+            "20507": {
+              "name": "Kilimo Primary School"
+            },
+            "20508": {
+              "name": "Ekapwonje Primary School"
+            },
+            "20509": {
+              "name": "Eshirumba Primary School"
+            },
+            "20510": {
+              "name": "Emulundu Primary School"
+            },
+            "20511": {
+              "name": "Matioli Primary School"
+            },
+            "20512": {
+              "name": "Mwiyenga Primary School"
+            },
+            "20513": {
+              "name": "Eshisango Primary School"
+            },
+            "20514": {
+              "name": "Eshilibo Primary School"
+            },
+            "20515": {
+              "name": "Isumba Nursery School"
+            }
+          }
+        },
+        "1011": {
+          "name": "Butsotso Central",
+          "pollingStations": {
+            "20516": {
+              "name": "Ebuchinga Primary School"
+            },
+            "20517": {
+              "name": "Ibinzo Primary School"
+            },
+            "20518": {
+              "name": "Ematetie Primary School"
+            },
+            "20519": {
+              "name": "Eshikhuyu Primary School"
+            },
+            "20520": {
+              "name": "Eshiamboko Church Of God School"
+            },
+            "20521": {
+              "name": "Ikonyero Primary School"
+            },
+            "20522": {
+              "name": "Eshiyunzu Primary School"
+            },
+            "20523": {
+              "name": "Emurumba Primary School"
+            },
+            "20524": {
+              "name": "Ebuchira Primary School"
+            },
+            "20525": {
+              "name": "Munzeywe Nursery School"
+            },
+            "20526": {
+              "name": "Eshisiru Primary School"
+            },
+            "20527": {
+              "name": "Ebuhai Nursery School"
+            },
+            "20528": {
+              "name": "Emusanda Primary School"
+            },
+            "20529": {
+              "name": "Ambani New Apostolic Church-Nurs. School"
+            },
+            "20530": {
+              "name": "Iyala Nursery School"
+            },
+            "20531": {
+              "name": "Emiere S.D.A Nursery School"
+            },
+            "20532": {
+              "name": "Emuhangu Primary School"
+            },
+            "20533": {
+              "name": "Elwaminyi Nursery School"
+            },
+            "20534": {
+              "name": "Baraka Primary School"
+            },
+            "20535": {
+              "name": "Emabanga Nursery School"
+            },
+            "20536": {
+              "name": "Eshibembe Primary School"
+            },
+            "20537": {
+              "name": "Pag Nursery School"
+            }
+          }
+        },
+        "1012": {
+          "name": "Sheywe",
+          "pollingStations": {
+            "20538": {
+              "name": "Bondeni Primary School"
+            },
+            "20539": {
+              "name": "Kakamega Muslim Pri. School"
+            },
+            "20540": {
+              "name": "M.O.P.W Chilpark"
+            },
+            "20541": {
+              "name": "Nabongo Primary School"
+            },
+            "20542": {
+              "name": "Kakamega Approved School"
+            },
+            "20543": {
+              "name": "Kakamega Primary School"
+            },
+            "20544": {
+              "name": "Jamia Mosque Nursery School"
+            },
+            "20545": {
+              "name": "Daisy Special School"
+            },
+            "20546": {
+              "name": "Ebwambwa Primary School"
+            },
+            "20547": {
+              "name": "Snr. Chief Mutsembi Pri. School"
+            },
+            "20548": {
+              "name": "Maraba Primary School"
+            },
+            "20549": {
+              "name": "Lurambi Primary School"
+            },
+            "20550": {
+              "name": "Mount Kenya University"
+            },
+            "20551": {
+              "name": "Sichirayi Market"
+            },
+            "20552": {
+              "name": "Kakamega Municipal Social Hall"
+            },
+            "20553": {
+              "name": "S.D.A Academy Primary School"
+            },
+            "20554": {
+              "name": "Vision Academy Primary School"
+            },
+            "20555": {
+              "name": "Shimalabandu Market"
+            },
+            "20556": {
+              "name": "Kakamega School For The Deaf"
+            },
+            "20557": {
+              "name": "Overcoming Faith Pri. School"
+            },
+            "20558": {
+              "name": "Lwesero Healthe Centre"
+            },
+            "20559": {
+              "name": "U.P.C Nursery School"
+            },
+            "20560": {
+              "name": "Kati Academy Pri. School"
+            }
+          }
+        },
+        "1013": {
+          "name": "Mahiakalo",
+          "pollingStations": {
+            "20561": {
+              "name": "Mwiyala Primary School"
+            },
+            "20562": {
+              "name": "Anglican Nursery School"
+            },
+            "20563": {
+              "name": "Nyayo Tea Zone Pri School"
+            },
+            "20564": {
+              "name": "Ichina Primary School"
+            },
+            "20565": {
+              "name": "Sheywe Secondary School"
+            },
+            "20566": {
+              "name": "Bukhungu Stadium"
+            },
+            "20567": {
+              "name": "Lyanungu Primary School"
+            }
+          }
+        },
+        "1014": {
+          "name": "Shirere",
+          "pollingStations": {
+            "20568": {
+              "name": "Musaa Primary School"
+            },
+            "20569": {
+              "name": "Matende Primary School"
+            },
+            "20570": {
+              "name": "Apostolic Faith Nursery School"
+            },
+            "20571": {
+              "name": "Bukhulunya Primary School"
+            },
+            "20572": {
+              "name": "Shisasari Primary School"
+            },
+            "20573": {
+              "name": "Shitaho Primary School"
+            },
+            "20574": {
+              "name": "Kakamega Township Pri School"
+            },
+            "20575": {
+              "name": "Bishop Sulumeti Secondary School"
+            },
+            "20576": {
+              "name": "Amalemba Primary School"
+            },
+            "20577": {
+              "name": "Shivakala Pri. School"
+            },
+            "20578": {
+              "name": "Hirumbi Primary School"
+            },
+            "20579": {
+              "name": "Roosterman Primary School"
+            },
+            "20580": {
+              "name": "Kakamega High School"
+            }
+          }
+        }
+      }
+    },
+    "203": {
+      "name": "Navakholo",
+      "wards": {
+        "1015": {
+          "name": "Ingostse-Mathia",
+          "pollingStations": {
+            "20581": {
+              "name": "Bushili Primary  School"
+            },
+            "20582": {
+              "name": "Ingotse Primary  School"
+            },
+            "20583": {
+              "name": "Eshilakwe Primary  School"
+            },
+            "20584": {
+              "name": "Ematiha Primary  School"
+            },
+            "20585": {
+              "name": "Emulama Primary  School"
+            },
+            "20586": {
+              "name": "Ewamakhumbi Primary  School"
+            },
+            "20587": {
+              "name": "Emulakha Primary  School"
+            },
+            "20588": {
+              "name": "Ingotse Market"
+            },
+            "20589": {
+              "name": "Tumaini Community Primary School"
+            },
+            "20590": {
+              "name": "Shiambitsi Salvation Army Church"
+            }
+          }
+        },
+        "1016": {
+          "name": "Shinoyi-Shikomari-Esumeyia",
+          "pollingStations": {
+            "20591": {
+              "name": "Shinoyi Primary  School"
+            },
+            "20592": {
+              "name": "Naluchira Primary  School"
+            },
+            "20593": {
+              "name": "Shikomari Primary  School"
+            },
+            "20594": {
+              "name": "Shing'Oto Primary  School"
+            },
+            "20595": {
+              "name": "Esumeyia Primary  School"
+            },
+            "20596": {
+              "name": "Ebutenje Primary  School"
+            },
+            "20597": {
+              "name": "Eshikhoni Primary  School"
+            },
+            "20598": {
+              "name": "Shibembe S.A Nursery  School"
+            },
+            "20599": {
+              "name": "Bumamu Primary  School"
+            },
+            "20600": {
+              "name": "Life Spring Academy School"
+            },
+            "20601": {
+              "name": "Ebushibo Primary  School"
+            },
+            "20602": {
+              "name": "Mushililie Child Development Center"
+            },
+            "20603": {
+              "name": "Eshiyenga Primary  School"
+            },
+            "20604": {
+              "name": "Ebumangale Ecd School"
+            },
+            "20605": {
+              "name": "Mwikoli Primary School"
+            },
+            "20606": {
+              "name": "Eburenga Primary School"
+            },
+            "20607": {
+              "name": "Namung'Oma Mulembe Church"
+            }
+          }
+        },
+        "1017": {
+          "name": "Bunyala West",
+          "pollingStations": {
+            "20608": {
+              "name": "Budonga Primary  School"
+            },
+            "20609": {
+              "name": "Namundera Primary School"
+            },
+            "20610": {
+              "name": "Nderema Primary  School"
+            },
+            "20611": {
+              "name": "Buhayi Primary  School"
+            },
+            "20612": {
+              "name": "Sisokhe Primary  School"
+            },
+            "20613": {
+              "name": "Kamuli Primary  School"
+            },
+            "20614": {
+              "name": "Sidikho Primary  School"
+            },
+            "20615": {
+              "name": "Kisembe Primary  School"
+            },
+            "20616": {
+              "name": "Kochwa Primary  School"
+            },
+            "20617": {
+              "name": "Bukhubalo Primary  School"
+            },
+            "20618": {
+              "name": "Nang'Anda Primary  School"
+            },
+            "20619": {
+              "name": "Lusumu Primary  School"
+            },
+            "20620": {
+              "name": "Mukama Primary  School"
+            },
+            "20621": {
+              "name": "Burangasi Primary  School"
+            },
+            "20622": {
+              "name": "Kharanda Primary  School"
+            },
+            "20623": {
+              "name": "Mungakha Primary  School"
+            },
+            "20624": {
+              "name": "Kaunda Market"
+            },
+            "20625": {
+              "name": "Simakina Primary  School"
+            },
+            "20626": {
+              "name": "Namakoye Primary  School"
+            },
+            "20627": {
+              "name": "Butingo Dispensary"
+            },
+            "20628": {
+              "name": "Sipanga Catholic Nursery  School"
+            },
+            "20629": {
+              "name": "Muyiyi Nursery  School"
+            },
+            "20630": {
+              "name": "Mayuke Muslim Nursery School"
+            },
+            "20631": {
+              "name": "Butieri Friends Nursery School"
+            },
+            "20632": {
+              "name": "St. Bridgits Situkhumi Nursery School"
+            },
+            "20633": {
+              "name": "St. Margaret Wadingo Primary School"
+            }
+          }
+        },
+        "1018": {
+          "name": "Bunyala East",
+          "pollingStations": {
+            "20634": {
+              "name": "Sivilie Primary School"
+            },
+            "20635": {
+              "name": "Musaga Primary School"
+            },
+            "20636": {
+              "name": "Namirama Primary School"
+            },
+            "20637": {
+              "name": "Siyombe Primary School"
+            },
+            "20638": {
+              "name": "Lutaso Primary School"
+            },
+            "20639": {
+              "name": "Chekata Primary School"
+            },
+            "20640": {
+              "name": "Sikubale Primary  School"
+            },
+            "20641": {
+              "name": "Makhima Primary  School"
+            },
+            "20642": {
+              "name": "Weremba Primary  School"
+            },
+            "20643": {
+              "name": "Muregu Market"
+            },
+            "20644": {
+              "name": "Buheri Water Point"
+            },
+            "20645": {
+              "name": "Konyero Nursery School"
+            },
+            "20646": {
+              "name": "Tanga Primary School"
+            },
+            "20647": {
+              "name": "Lutaso Cca Nursery School"
+            }
+          }
+        },
+        "1019": {
+          "name": "Bunyala Central",
+          "pollingStations": {
+            "20648": {
+              "name": "Buchangu Primary  School"
+            },
+            "20649": {
+              "name": "Naulu Primary  School"
+            },
+            "20650": {
+              "name": "Navakholo Primary  School"
+            },
+            "20651": {
+              "name": "Mukangu Primary  School"
+            },
+            "20652": {
+              "name": "Sirigoi Primary  School"
+            },
+            "20653": {
+              "name": "Simuli Primary  School"
+            },
+            "20654": {
+              "name": "Nambacha Primary  School"
+            },
+            "20655": {
+              "name": "Sihanikha Primary  School"
+            },
+            "20656": {
+              "name": "Emuhuni Primary  School"
+            },
+            "20657": {
+              "name": "Lwakhupa Primary  School"
+            },
+            "20658": {
+              "name": "Musabale Primary  School"
+            },
+            "20659": {
+              "name": "Chebuyusi Primary  School"
+            },
+            "20660": {
+              "name": "Siyenga Primary  School"
+            },
+            "20661": {
+              "name": "Matoi  Primary School"
+            },
+            "20662": {
+              "name": "New Life Academy  School"
+            },
+            "20663": {
+              "name": "Good Sheperd Academy Primary School"
+            },
+            "20664": {
+              "name": "Adc Church Academy Primary School"
+            },
+            "20665": {
+              "name": "Nancy Academy Primary School"
+            },
+            "20666": {
+              "name": "St. Philips Lukhuna Primary School"
+            }
+          }
+        }
+      }
+    },
+    "204": {
+      "name": "Mumias West",
+      "wards": {
+        "1020": {
+          "name": "Mumias Central",
+          "pollingStations": {
+            "20667": {
+              "name": "Ebubaka Primary School"
+            },
+            "20668": {
+              "name": "Ekambara Primary School"
+            },
+            "20669": {
+              "name": "Khungema Market"
+            },
+            "20670": {
+              "name": "Matawa Primary School"
+            },
+            "20671": {
+              "name": "St Pauls Lureko Primary School"
+            },
+            "20672": {
+              "name": "St.Elizabeth Lureko Girls Secondary"
+            },
+            "20673": {
+              "name": "Mumias Muslim Primary"
+            },
+            "20674": {
+              "name": "Nyapora Primary School"
+            },
+            "20675": {
+              "name": "St. Peters Boys Boarding  Primary School"
+            },
+            "20676": {
+              "name": "Mumias Township Primary School"
+            },
+            "20677": {
+              "name": "St. Annes Nursery"
+            },
+            "20678": {
+              "name": "St. Josephs Mixed Secondary School"
+            },
+            "20679": {
+              "name": "Shibale Primary School"
+            },
+            "20680": {
+              "name": "St.Mary'S Girls Secondary"
+            },
+            "20681": {
+              "name": "St. Annes Primary School"
+            },
+            "20682": {
+              "name": "St. Martins Deaf School"
+            },
+            "20683": {
+              "name": "Emuchimi Health Centre"
+            },
+            "20684": {
+              "name": "St. Romanos Matawa Secondary School"
+            },
+            "20685": {
+              "name": "Nyakwaka Primary School"
+            },
+            "20686": {
+              "name": "Ebuyeshera Primary School"
+            },
+            "20687": {
+              "name": "Nyapora Secondary School"
+            }
+          }
+        },
+        "1021": {
+          "name": "Mumias North",
+          "pollingStations": {
+            "20688": {
+              "name": "Mumias Complex Primary"
+            },
+            "20689": {
+              "name": "Ichinga Primary School"
+            },
+            "20690": {
+              "name": "Sheikh Khalifa Primary"
+            },
+            "20691": {
+              "name": "Emasanga Mosque"
+            },
+            "20692": {
+              "name": "Mumias Central Primary School"
+            },
+            "20693": {
+              "name": "Ichinga Health Centre"
+            },
+            "20694": {
+              "name": "Bumanyi Primary School"
+            }
+          }
+        },
+        "1022": {
+          "name": "Etenje",
+          "pollingStations": {
+            "20695": {
+              "name": "Iyabo Primary School"
+            },
+            "20696": {
+              "name": "Nyapeta Primary School"
+            },
+            "20697": {
+              "name": "Ihonje Primary School"
+            },
+            "20698": {
+              "name": "Butobe Primary School"
+            },
+            "20699": {
+              "name": "Emaungu Primary School"
+            },
+            "20700": {
+              "name": "Buchitu Primary School"
+            },
+            "20701": {
+              "name": "Buchifi Primary School"
+            },
+            "20702": {
+              "name": "Bumia Primary School"
+            },
+            "20703": {
+              "name": "Wang'Nyang' Primary School"
+            },
+            "20704": {
+              "name": "Emukhuwa Primary School"
+            },
+            "20705": {
+              "name": "Lukongo Primary School"
+            },
+            "20706": {
+              "name": "Bukaya Primary School"
+            },
+            "20707": {
+              "name": "Etenje Primary School"
+            },
+            "20708": {
+              "name": "Emuberi Primary School"
+            },
+            "20709": {
+              "name": "Ebuyenjere Primary School"
+            },
+            "20710": {
+              "name": "Khungwani Primary School"
+            },
+            "20711": {
+              "name": "Elukala Primary  School"
+            },
+            "20712": {
+              "name": "Emulaka Primary School"
+            }
+          }
+        },
+        "1023": {
+          "name": "Musanda",
+          "pollingStations": {
+            "20713": {
+              "name": "Bumala Primary School"
+            },
+            "20714": {
+              "name": "Buyundo Primary School"
+            },
+            "20715": {
+              "name": "St. Joseph Ugana Primary School"
+            },
+            "20716": {
+              "name": "Utende Primary School"
+            },
+            "20717": {
+              "name": "St. Patricks Lusheya Primary"
+            },
+            "20718": {
+              "name": "Milimani Primary School"
+            },
+            "20719": {
+              "name": "Musanda Primary School"
+            },
+            "20720": {
+              "name": "Eshikalame Primary"
+            },
+            "20721": {
+              "name": "Eshihaka Primary School"
+            },
+            "20722": {
+              "name": "Ahong'Injo Primary Schoool"
+            },
+            "20723": {
+              "name": "Ingusi Primary School"
+            },
+            "20724": {
+              "name": "Musanda Secondary School"
+            },
+            "20725": {
+              "name": "Buchirinya Primary School"
+            },
+            "20726": {
+              "name": "Eshibina Primary School"
+            },
+            "20727": {
+              "name": "Ebubala Primary School"
+            },
+            "20728": {
+              "name": "Iranda Primary School"
+            },
+            "20729": {
+              "name": "Mumias West Vocational Training College"
+            },
+            "20730": {
+              "name": "Bungasi Health Centre"
+            },
+            "20731": {
+              "name": "Eburiya Primary School"
+            },
+            "20732": {
+              "name": "Emulembwa Primary School"
+            }
+          }
+        }
+      }
+    },
+    "205": {
+      "name": "Mumias East",
+      "wards": {
+        "1024": {
+          "name": "Lusheya/Lubinu",
+          "pollingStations": {
+            "20733": {
+              "name": "Bumwende Primary School"
+            },
+            "20734": {
+              "name": "Shitoto Primary School"
+            },
+            "20735": {
+              "name": "Lubinu Primary School"
+            },
+            "20736": {
+              "name": "Shibinga West  Primary School"
+            },
+            "20737": {
+              "name": "Indangalasia Primary School"
+            },
+            "20738": {
+              "name": "Emachina Primary School"
+            },
+            "20739": {
+              "name": "Ekero Market Centre"
+            },
+            "20740": {
+              "name": "Kamashia Primary School"
+            },
+            "20741": {
+              "name": "Ebwaliro Primary School"
+            },
+            "20742": {
+              "name": "Ebubole Primary"
+            },
+            "20743": {
+              "name": "Mwichina Primary School"
+            },
+            "20744": {
+              "name": "Shianderema Primary School"
+            },
+            "20745": {
+              "name": "Emakhwale Primary School"
+            },
+            "20746": {
+              "name": "Eshikufu Primary School"
+            },
+            "20747": {
+              "name": "Lusheya Health Centre"
+            },
+            "20748": {
+              "name": "Ekero Pag Nursery School"
+            },
+            "20749": {
+              "name": "Elwasambi Primary School"
+            }
+          }
+        },
+        "1025": {
+          "name": "Malaha/Isongo/Makunga",
+          "pollingStations": {
+            "20750": {
+              "name": "Maraba Primary School"
+            },
+            "20751": {
+              "name": "Musango Primary School"
+            },
+            "20752": {
+              "name": "Makunga Primary School"
+            },
+            "20753": {
+              "name": "Muroni Primary School"
+            },
+            "20754": {
+              "name": "Epanja Primary School"
+            },
+            "20755": {
+              "name": "Mabanga Primary School"
+            },
+            "20756": {
+              "name": "Khaimba Primary School"
+            },
+            "20757": {
+              "name": "Isongo Primary School"
+            },
+            "20758": {
+              "name": "Petros Primary School"
+            },
+            "20759": {
+              "name": "Eshiakhulo Primary School"
+            },
+            "20760": {
+              "name": "Isango Primary School"
+            },
+            "20761": {
+              "name": "Mutono Primary School"
+            },
+            "20762": {
+              "name": "Emutetemo Primary School"
+            },
+            "20763": {
+              "name": "Malaha Primary School"
+            },
+            "20764": {
+              "name": "Emukhalari Primary School"
+            },
+            "20765": {
+              "name": "Shisenye Primary School"
+            },
+            "20766": {
+              "name": "Malaha Youth Polytechnic"
+            },
+            "20767": {
+              "name": "Makunga Health Centre"
+            },
+            "20768": {
+              "name": "Maraba Secondary School"
+            }
+          }
+        },
+        "1026": {
+          "name": "East Wanga",
+          "pollingStations": {
+            "20769": {
+              "name": "Khaunga Primary School"
+            },
+            "20770": {
+              "name": "Mahola Primary School"
+            },
+            "20771": {
+              "name": "Khabondi Primary School"
+            },
+            "20772": {
+              "name": "Ebubere Primary School"
+            },
+            "20773": {
+              "name": "Mung'Ang'A Primary School"
+            },
+            "20774": {
+              "name": "Mungabira Primary School"
+            },
+            "20775": {
+              "name": "Bumini Primary"
+            },
+            "20776": {
+              "name": "Mukambi Primary School"
+            },
+            "20777": {
+              "name": "Khabakaya Primary School"
+            },
+            "20778": {
+              "name": "Eluche Primary School"
+            },
+            "20779": {
+              "name": "Mwitoti Primary School"
+            },
+            "20780": {
+              "name": "Rise And Shine Pry School For Disabled"
+            },
+            "20781": {
+              "name": "Bumini Secondary"
+            },
+            "20782": {
+              "name": "Mung'Ang'A Health Centre"
+            },
+            "20783": {
+              "name": "Malaha Market"
+            },
+            "20784": {
+              "name": "Booker Academy Primary"
+            }
+          }
+        }
+      }
+    },
+    "206": {
+      "name": "Matungu",
+      "wards": {
+        "1027": {
+          "name": "Koyonzo",
+          "pollingStations": {
+            "20785": {
+              "name": "Eshikhondi Primary School"
+            },
+            "20786": {
+              "name": "St. Paul'S Ejinja Primary School"
+            },
+            "20787": {
+              "name": "Koyonzo Primary School"
+            },
+            "20788": {
+              "name": "Ngairwe Primary School"
+            },
+            "20789": {
+              "name": "Ejinja Primary School"
+            },
+            "20790": {
+              "name": "Sayangwe Primary School"
+            },
+            "20791": {
+              "name": "Itete Primary School"
+            },
+            "20792": {
+              "name": "Indangalasia Primary School"
+            },
+            "20793": {
+              "name": "Eshirumbwe Primary School"
+            },
+            "20794": {
+              "name": "Ebutaliko Primary School"
+            },
+            "20795": {
+              "name": "Nanyeni Primary School"
+            },
+            "20796": {
+              "name": "Nyapora Primary School"
+            },
+            "20797": {
+              "name": "Emuberi Primary School"
+            },
+            "20798": {
+              "name": "Nyambula Primary School"
+            },
+            "20799": {
+              "name": "Ogalo Market"
+            },
+            "20800": {
+              "name": "Ikulumwoyo Primary School"
+            },
+            "20801": {
+              "name": "Koyonzo Special School For The Visually Impaired"
+            }
+          }
+        },
+        "1028": {
+          "name": "Kholera",
+          "pollingStations": {
+            "20802": {
+              "name": "Makunda Primary School"
+            },
+            "20803": {
+              "name": "Bulimbo Primary School"
+            },
+            "20804": {
+              "name": "Eshibanze Primary School"
+            },
+            "20805": {
+              "name": "Shiyabo Primary School"
+            },
+            "20806": {
+              "name": "Khabukoshe Primary School"
+            },
+            "20807": {
+              "name": "Mukhweya Primary School"
+            },
+            "20808": {
+              "name": "Namulungu Ac Primary School"
+            },
+            "20809": {
+              "name": "Namulungu Muslim Primary School"
+            },
+            "20810": {
+              "name": "Namalenge Primary School"
+            },
+            "20811": {
+              "name": "Namasanda Primary School"
+            },
+            "20812": {
+              "name": "Wamukoya Muslim Primary School"
+            },
+            "20813": {
+              "name": "St. Ambrose Eshikhonesi Primary School"
+            },
+            "20814": {
+              "name": "Musango Primary School"
+            }
+          }
+        },
+        "1029": {
+          "name": "Khalaba",
+          "pollingStations": {
+            "20815": {
+              "name": "Khalaba Primary School"
+            },
+            "20816": {
+              "name": "Busombi Primary School"
+            },
+            "20817": {
+              "name": "Namamba Primary School"
+            },
+            "20818": {
+              "name": "Makokhwe Primary School"
+            },
+            "20819": {
+              "name": "Busambe Primary School"
+            },
+            "20820": {
+              "name": "Bulonga Primary School"
+            },
+            "20821": {
+              "name": "Lutasio Primary School"
+            },
+            "20822": {
+              "name": "Kandai Primary School"
+            },
+            "20823": {
+              "name": "Ack Malanga Primary School"
+            },
+            "20824": {
+              "name": "Mabolo Primary School"
+            }
+          }
+        },
+        "1030": {
+          "name": "Mayoni",
+          "pollingStations": {
+            "20825": {
+              "name": "Kholera Primary School"
+            },
+            "20826": {
+              "name": "Marinda Primary School"
+            },
+            "20827": {
+              "name": "Mayoni Primary School"
+            },
+            "20828": {
+              "name": "Mwira Primary School"
+            },
+            "20829": {
+              "name": "Emanani Primary School"
+            },
+            "20830": {
+              "name": "Emakale Primary School"
+            },
+            "20831": {
+              "name": "Matungu Primary School"
+            },
+            "20832": {
+              "name": "Emurabe Primary School"
+            },
+            "20833": {
+              "name": "Ebubambula Primary School"
+            },
+            "20834": {
+              "name": "Munanga Primary School"
+            },
+            "20835": {
+              "name": "Chibanga Primary School"
+            },
+            "20836": {
+              "name": "Bukosia Primary School"
+            },
+            "20837": {
+              "name": "St. Benedict Buloma Primary School"
+            }
+          }
+        },
+        "1031": {
+          "name": "Namamali",
+          "pollingStations": {
+            "20838": {
+              "name": "Kadima Ack Primary School"
+            },
+            "20839": {
+              "name": "Lung'Anyiro Primary School"
+            },
+            "20840": {
+              "name": "Lubanga Primary School"
+            },
+            "20841": {
+              "name": "Munami Primary School"
+            },
+            "20842": {
+              "name": "Mungore Primary School"
+            },
+            "20843": {
+              "name": "Namberekeya Primary School"
+            },
+            "20844": {
+              "name": "Nyapwaka Primary School"
+            },
+            "20845": {
+              "name": "Namayiakalo Primary School"
+            },
+            "20846": {
+              "name": "Namalasire Primary School"
+            },
+            "20847": {
+              "name": "Mukunyuku Primary School"
+            },
+            "20848": {
+              "name": "Mirere Primary School"
+            },
+            "20849": {
+              "name": "Mungakha Primary School"
+            },
+            "20850": {
+              "name": "Namamali Muslim Primary School"
+            },
+            "20851": {
+              "name": "Namanga Primary School"
+            },
+            "20852": {
+              "name": "Bulanda Primary School"
+            },
+            "20853": {
+              "name": "Suwo Primary School"
+            }
+          }
+        }
+      }
+    },
+    "207": {
+      "name": "Butere",
+      "wards": {
+        "1032": {
+          "name": "Marama West",
+          "pollingStations": {
+            "20854": {
+              "name": "Ematende Primary School"
+            },
+            "20855": {
+              "name": "Eshitari Primary School"
+            },
+            "20856": {
+              "name": "Iranda Primary School"
+            },
+            "20857": {
+              "name": "Ituti Primary School"
+            },
+            "20858": {
+              "name": "Emunuku Primary School"
+            },
+            "20859": {
+              "name": "Shitoyi Muslim Primary School"
+            },
+            "20860": {
+              "name": "Eshikangu Primary School"
+            },
+            "20861": {
+              "name": "Bumamu Primary School"
+            },
+            "20862": {
+              "name": "Lunza Primary School"
+            },
+            "20863": {
+              "name": "Imanga Primary School"
+            },
+            "20864": {
+              "name": "Eshilunyire Primary School"
+            },
+            "20865": {
+              "name": "Imanyika Primary School"
+            },
+            "20866": {
+              "name": "Muluwa Primary School"
+            },
+            "20867": {
+              "name": "Buchenya Primary School"
+            },
+            "20868": {
+              "name": "Emukangu Primary School"
+            },
+            "20869": {
+              "name": "Bululwe Primary School"
+            },
+            "20870": {
+              "name": "Emutondo Primary School"
+            },
+            "20871": {
+              "name": "Matibila Primary School"
+            }
+          }
+        },
+        "1033": {
+          "name": "Marama Central",
+          "pollingStations": {
+            "20872": {
+              "name": "Eshirembe Primary School"
+            },
+            "20873": {
+              "name": "Butere Primary School"
+            },
+            "20874": {
+              "name": "Butere County Poltechnic"
+            },
+            "20875": {
+              "name": "Shiyiro Primary School"
+            },
+            "20876": {
+              "name": "Bukolwe Primary  School"
+            },
+            "20877": {
+              "name": "Mutoma Primary School"
+            },
+            "20878": {
+              "name": "Shinamwenyuli Prmary. School"
+            },
+            "20879": {
+              "name": "Shibuche Primary School"
+            },
+            "20880": {
+              "name": "Musere Primary School"
+            },
+            "20881": {
+              "name": "Ebulafu Primary School"
+            },
+            "20882": {
+              "name": "Eshiyanza Primary School"
+            },
+            "20883": {
+              "name": "Bulanda A.C Primary School"
+            },
+            "20884": {
+              "name": "Nyenyesi Primary School"
+            },
+            "20885": {
+              "name": "Shitswitswi Primary School"
+            },
+            "20886": {
+              "name": "Ematawa Primary  School"
+            },
+            "20887": {
+              "name": "Ibokolo Primary  School"
+            },
+            "20888": {
+              "name": "Shibanga Primaruy School"
+            },
+            "20889": {
+              "name": "Elukokho Primary School"
+            },
+            "20890": {
+              "name": "Eshianini Primary School"
+            },
+            "20891": {
+              "name": "Buyoka Muslim Primary School"
+            }
+          }
+        },
+        "1034": {
+          "name": "Marenyo - Shianda",
+          "pollingStations": {
+            "20892": {
+              "name": "Shikunga Primary School"
+            },
+            "20893": {
+              "name": "Shinyulu Primary School"
+            },
+            "20894": {
+              "name": "Eshisisia Primary School"
+            },
+            "20895": {
+              "name": "Ebuboko Primary School"
+            },
+            "20896": {
+              "name": "Emarenyo Primary School"
+            },
+            "20897": {
+              "name": "Muyundi Primary  School"
+            },
+            "20898": {
+              "name": "Ebutsetse Primary School"
+            },
+            "20899": {
+              "name": "Eshirumba Primary School"
+            },
+            "20900": {
+              "name": "Manyulia Primary School"
+            },
+            "20901": {
+              "name": "Shianda Primary School"
+            },
+            "20902": {
+              "name": "Ikokwa Primary School"
+            },
+            "20903": {
+              "name": "Mabole Primary School"
+            },
+            "20904": {
+              "name": "Ebubala Primary School"
+            },
+            "20905": {
+              "name": "Eshitsakha Primary School"
+            }
+          }
+        },
+        "1035": {
+          "name": "Marama North",
+          "pollingStations": {
+            "20906": {
+              "name": "Emusunguri Primary School"
+            },
+            "20907": {
+              "name": "Shirakalu Primary School"
+            },
+            "20908": {
+              "name": "Shiraha Primary  School"
+            },
+            "20909": {
+              "name": "Ebutunyi Primary School"
+            },
+            "20910": {
+              "name": "Bulanda R.C Primary  School"
+            },
+            "20911": {
+              "name": "Inaya Primary School"
+            },
+            "20912": {
+              "name": "Lufumbo Primary School"
+            },
+            "20913": {
+              "name": "Ebutayi Primary School"
+            },
+            "20914": {
+              "name": "Emashere Primary School"
+            },
+            "20915": {
+              "name": "Lukohe Primary School"
+            },
+            "20916": {
+              "name": "Mwilala Primary School"
+            },
+            "20917": {
+              "name": "Eshikomere Primary School"
+            },
+            "20918": {
+              "name": "Eshikholobe Primary School"
+            },
+            "20919": {
+              "name": "Eshibimbi Primary School"
+            },
+            "20920": {
+              "name": "Bukura Primary School"
+            }
+          }
+        },
+        "1036": {
+          "name": "Marama South",
+          "pollingStations": {
+            "20921": {
+              "name": "Emauko Primaty School"
+            },
+            "20922": {
+              "name": "Ebukuti Primary School"
+            },
+            "20923": {
+              "name": "Manyala Primary School"
+            },
+            "20924": {
+              "name": "Ekendero Primary School"
+            },
+            "20925": {
+              "name": "Etatira Primary School"
+            },
+            "20926": {
+              "name": "Mukoye Primary School"
+            },
+            "20927": {
+              "name": "Shikulu Primary School"
+            },
+            "20928": {
+              "name": "Ebukhokoro Primary School"
+            },
+            "20929": {
+              "name": "Shiatsala Primary School"
+            },
+            "20930": {
+              "name": "Mahondo Primary School"
+            },
+            "20931": {
+              "name": "Masaba Primary School"
+            },
+            "20932": {
+              "name": "Shibembe Primary School"
+            },
+            "20933": {
+              "name": "Shishebu Primary School"
+            }
+          }
+        }
+      }
+    },
+    "208": {
+      "name": "Khwisero",
+      "wards": {
+        "1037": {
+          "name": "Kisa North",
+          "pollingStations": {
+            "20934": {
+              "name": "Mwihila Hospital"
+            },
+            "20935": {
+              "name": "Mundobelwa Health Centre"
+            },
+            "20936": {
+              "name": "Eshirongo Primary School"
+            },
+            "20937": {
+              "name": "Mushinaka Nursery School"
+            },
+            "20938": {
+              "name": "Emulunya Primary School"
+            },
+            "20939": {
+              "name": "Emuruba Primary  School"
+            },
+            "20940": {
+              "name": "Mwibelenya Primary School"
+            },
+            "20941": {
+              "name": "Mwikalikha Primary School"
+            },
+            "20942": {
+              "name": "Eshiakhondo Primary School"
+            },
+            "20943": {
+              "name": "Emwiru Primary School"
+            },
+            "20944": {
+              "name": "Mulufu  Primary School"
+            },
+            "20945": {
+              "name": "Khwisero Primary School"
+            },
+            "20946": {
+              "name": "Buhili Primary School"
+            },
+            "20947": {
+              "name": "Mushinaka Primary School"
+            },
+            "20948": {
+              "name": "Elukanji Primary School"
+            },
+            "20949": {
+              "name": "Elukari Primary School"
+            },
+            "20950": {
+              "name": "Emulole Primary School"
+            }
+          }
+        },
+        "1038": {
+          "name": "Kisa East",
+          "pollingStations": {
+            "20951": {
+              "name": "Munjiti Primary School"
+            },
+            "20952": {
+              "name": "Mushichibulu Primary School"
+            },
+            "20953": {
+              "name": "Elwangale Primary School"
+            },
+            "20954": {
+              "name": "Emulanda Primary School"
+            },
+            "20955": {
+              "name": "Ekatsombero Primary School"
+            },
+            "20956": {
+              "name": "Eshinutsa  Primary School"
+            },
+            "20957": {
+              "name": "Emalindi Primary School"
+            },
+            "20958": {
+              "name": "Eshibinga Primary School"
+            },
+            "20959": {
+              "name": "Emakuche Primary School"
+            },
+            "20960": {
+              "name": "Mushikongolo Primary School"
+            },
+            "20961": {
+              "name": "Mundaha Primary School"
+            },
+            "20962": {
+              "name": "Eshiruli Primary School"
+            },
+            "20963": {
+              "name": "Mwirembe Primary School"
+            },
+            "20964": {
+              "name": "St.Mary'S Child Dev. Centre"
+            },
+            "20965": {
+              "name": "Emanyata Tea Buying Centre"
+            },
+            "20966": {
+              "name": "Mwisena Primary School"
+            }
+          }
+        },
+        "1039": {
+          "name": "Kisa West",
+          "pollingStations": {
+            "20967": {
+              "name": "Nyamboga Primary School"
+            },
+            "20968": {
+              "name": "Dudi Township Primary School"
+            },
+            "20969": {
+              "name": "Muhaka Primary School"
+            },
+            "20970": {
+              "name": "Khuluwinu Primary School"
+            },
+            "20971": {
+              "name": "Luanda Ac Primary School"
+            },
+            "20972": {
+              "name": "Luanda Sda Primary School"
+            },
+            "20973": {
+              "name": "Munjeche Primary School"
+            },
+            "20974": {
+              "name": "Shirombe Social Hall"
+            },
+            "20975": {
+              "name": "Ikomero Primary School"
+            },
+            "20976": {
+              "name": "Ikoko Nursery School"
+            },
+            "20977": {
+              "name": "Shirotsa Primary School"
+            },
+            "20978": {
+              "name": "Ebukutenga Primary School"
+            },
+            "20979": {
+              "name": "Dairy Goat Plant - Khusukuti (Ebuhala)"
+            },
+            "20980": {
+              "name": "Enyanya Primary School"
+            },
+            "20981": {
+              "name": "Ebushibungo Primary School"
+            }
+          }
+        },
+        "1040": {
+          "name": "Kisa Central",
+          "pollingStations": {
+            "20982": {
+              "name": "Eshikhungula Primary School"
+            },
+            "20983": {
+              "name": "Namasoli Primary School"
+            },
+            "20984": {
+              "name": "Emutali  Nursery School"
+            },
+            "20985": {
+              "name": "Ebuyonga Primary School"
+            },
+            "20986": {
+              "name": "Emutsasa Primary School"
+            },
+            "20987": {
+              "name": "Emwaniro Primary School"
+            },
+            "20988": {
+              "name": "Ebukwala Primary School"
+            },
+            "20989": {
+              "name": "Ematundu Primary School"
+            },
+            "20990": {
+              "name": "Shiongo Primary School"
+            },
+            "20991": {
+              "name": "Ibinda Primary School"
+            },
+            "20992": {
+              "name": "Emaene Nursery School"
+            },
+            "20993": {
+              "name": "Emako Primary School"
+            },
+            "20994": {
+              "name": "Mundeku Primary School"
+            },
+            "20995": {
+              "name": "Ebukanga Primary School"
+            },
+            "20996": {
+              "name": "Mulwanda Primary School"
+            },
+            "20997": {
+              "name": "Mushiangubu Primary School"
+            },
+            "20998": {
+              "name": "Khumusalaba Market"
+            },
+            "20999": {
+              "name": "Mundoli Primary School"
+            },
+            "21000": {
+              "name": "Mukhunzulu Primary School"
+            },
+            "21001": {
+              "name": "Khushiku Market"
+            },
+            "21002": {
+              "name": "Ekambuli Primary School"
+            },
+            "21003": {
+              "name": "Ebuhonga Primary School"
+            },
+            "21004": {
+              "name": "Munyanza Primary School"
+            },
+            "21005": {
+              "name": "Shirali Primary School"
+            },
+            "21006": {
+              "name": "Emung'Weso Market"
+            },
+            "21007": {
+              "name": "Namasoli Borehole"
+            },
+            "21008": {
+              "name": "Ebulali Borehole"
+            },
+            "21009": {
+              "name": "Emung'Abo Primary School"
+            }
+          }
+        }
+      }
+    },
+    "209": {
+      "name": "Shinyalu",
+      "wards": {
+        "1041": {
+          "name": "Isukha North",
+          "pollingStations": {
+            "21010": {
+              "name": "Bukhaywa Primary School"
+            },
+            "21011": {
+              "name": "Lubao Primary School"
+            },
+            "21012": {
+              "name": "Shanderema Primary School"
+            },
+            "21013": {
+              "name": "Ivakale Primary School"
+            },
+            "21014": {
+              "name": "Bulovi Primary School"
+            },
+            "21015": {
+              "name": "Ingolomosio Primary School"
+            },
+            "21016": {
+              "name": "Handidi Primary School"
+            },
+            "21017": {
+              "name": "Buyangu Primary School"
+            },
+            "21018": {
+              "name": "St. Kizito Shihingo Primary School"
+            },
+            "21019": {
+              "name": "Mashindu Primary School"
+            },
+            "21020": {
+              "name": "Magale Primary School"
+            },
+            "21021": {
+              "name": "Kambiri Market"
+            },
+            "21022": {
+              "name": "Shianda Pre. Primary School"
+            },
+            "21023": {
+              "name": "Magakha Nursery School"
+            }
+          }
+        },
+        "1042": {
+          "name": "Murhanda",
+          "pollingStations": {
+            "21024": {
+              "name": "Mukulusu Primary School"
+            },
+            "21025": {
+              "name": "Shamiloli Primary School"
+            },
+            "21026": {
+              "name": "Injira Primary School"
+            },
+            "21027": {
+              "name": "Senyende Primary School"
+            },
+            "21028": {
+              "name": "Lirhanda G.B Primary School"
+            },
+            "21029": {
+              "name": "Muranda Primary School"
+            },
+            "21030": {
+              "name": "Itenyi Primary School"
+            },
+            "21031": {
+              "name": "Shivakala New Primary School"
+            },
+            "21032": {
+              "name": "Madioli Primary School"
+            },
+            "21033": {
+              "name": "Shiswa Primary School"
+            },
+            "21034": {
+              "name": "Navangala  Primary School"
+            },
+            "21035": {
+              "name": "Munyanda Primary School"
+            },
+            "21036": {
+              "name": "Shamakhubu Health Centre"
+            },
+            "21037": {
+              "name": "Shavirotsi Primary School"
+            }
+          }
+        },
+        "1043": {
+          "name": "Isukha Central",
+          "pollingStations": {
+            "21038": {
+              "name": "Shabwali Primary School"
+            },
+            "21039": {
+              "name": "Lugala Primary School"
+            },
+            "21040": {
+              "name": "Solyo Primary School"
+            },
+            "21041": {
+              "name": "Iloro Primary School"
+            },
+            "21042": {
+              "name": "Shagungu Primary School"
+            },
+            "21043": {
+              "name": "Wanzalala Primary School"
+            },
+            "21044": {
+              "name": "Ivuyi Primary School"
+            },
+            "21045": {
+              "name": "Shibuye Mixed Primary School"
+            },
+            "21046": {
+              "name": "Mwilitsa Primary School"
+            },
+            "21047": {
+              "name": "Muleche Primary School"
+            },
+            "21048": {
+              "name": "Isecheno Primary School"
+            },
+            "21049": {
+              "name": "Madala Primary School"
+            },
+            "21050": {
+              "name": "Shikulu Primary School"
+            },
+            "21051": {
+              "name": "Likhovero Primary School"
+            },
+            "21052": {
+              "name": "Kisaina Primary School"
+            },
+            "21053": {
+              "name": "Mukango Nursery/  Primary School"
+            },
+            "21054": {
+              "name": "Shilolavakhali Youth Polytechnic"
+            },
+            "21055": {
+              "name": "Shianjero Primary School"
+            },
+            "21056": {
+              "name": "Shitsava Nursery School"
+            },
+            "21057": {
+              "name": "Virhembe Market"
+            },
+            "21058": {
+              "name": "Shinyalu Market"
+            }
+          }
+        },
+        "1044": {
+          "name": "Isukha South",
+          "pollingStations": {
+            "21059": {
+              "name": "Shidodo Primary School"
+            },
+            "21060": {
+              "name": "Khayega Primary School"
+            },
+            "21061": {
+              "name": "Mukumu G.B Primary School"
+            },
+            "21062": {
+              "name": "Sigalagala Primary School"
+            },
+            "21063": {
+              "name": "Museno Primary School"
+            },
+            "21064": {
+              "name": "Irobo Primary School"
+            },
+            "21065": {
+              "name": "Shihuli Primary School"
+            },
+            "21066": {
+              "name": "Kwirenyi Primary School"
+            },
+            "21067": {
+              "name": "Shirulu Primary School"
+            },
+            "21068": {
+              "name": "Shanyinya  Primary School"
+            },
+            "21069": {
+              "name": "Shilalyo Primary School"
+            },
+            "21070": {
+              "name": "Mundulu Primary School"
+            },
+            "21071": {
+              "name": "Shipalo Primary School"
+            },
+            "21072": {
+              "name": "Lugose Primary School"
+            },
+            "21073": {
+              "name": "Lukango Primary School"
+            },
+            "21074": {
+              "name": "Shitochi Primary School"
+            },
+            "21075": {
+              "name": "Mukumu Boys Primary School"
+            },
+            "21076": {
+              "name": "Shikusi Health Centre"
+            }
+          }
+        },
+        "1045": {
+          "name": "Isukha East",
+          "pollingStations": {
+            "21077": {
+              "name": "Ikuywa Primary School"
+            },
+            "21078": {
+              "name": "Lunyu Primary School"
+            },
+            "21079": {
+              "name": "Ileho Primary School"
+            },
+            "21080": {
+              "name": "Lukusi Primary Shool"
+            },
+            "21081": {
+              "name": "St. Philips Mukomari Primary School"
+            },
+            "21082": {
+              "name": "Vikutsa Primary School"
+            },
+            "21083": {
+              "name": "Cherobani Primary School"
+            },
+            "21084": {
+              "name": "Singila Primary School"
+            },
+            "21085": {
+              "name": "Kisia Market"
+            },
+            "21086": {
+              "name": "Mukhonje Ileho Primary School"
+            },
+            "21087": {
+              "name": "Musanyi Primary School"
+            },
+            "21088": {
+              "name": "Mukhuru Primary School"
+            },
+            "21089": {
+              "name": "Maluna Primary School"
+            },
+            "21090": {
+              "name": "Mukhuyu Pre Primary School"
+            }
+          }
+        },
+        "1046": {
+          "name": "Isukha West",
+          "pollingStations": {
+            "21091": {
+              "name": "Mukhonje Primary School"
+            },
+            "21092": {
+              "name": "Iyenga Primary School"
+            },
+            "21093": {
+              "name": "Mugomari Primary School"
+            },
+            "21094": {
+              "name": "Bukusi Primary School"
+            },
+            "21095": {
+              "name": "Munasio Primary School"
+            },
+            "21096": {
+              "name": "Musingu Primary School"
+            },
+            "21097": {
+              "name": "Busulwa Primary School"
+            },
+            "21098": {
+              "name": "Shina Primary School"
+            },
+            "21099": {
+              "name": "Muraka Primary School"
+            },
+            "21100": {
+              "name": "Vihulu Primary School"
+            },
+            "21101": {
+              "name": "Irenji Primary School"
+            },
+            "21102": {
+              "name": "Ivono Primary School"
+            }
+          }
+        }
+      }
+    },
+    "210": {
+      "name": "Ikolomani",
+      "wards": {
+        "1047": {
+          "name": "Idakho South",
+          "pollingStations": {
+            "21103": {
+              "name": "Madivini Primary School"
+            },
+            "21104": {
+              "name": "Kaluni Primary School"
+            },
+            "21105": {
+              "name": "Lubambo Primary School"
+            },
+            "21106": {
+              "name": "Imalaba Primary School"
+            },
+            "21107": {
+              "name": "Shijiko Primary School"
+            },
+            "21108": {
+              "name": "Shianjetso Primary School"
+            },
+            "21109": {
+              "name": "Ikhulili Primary School"
+            },
+            "21110": {
+              "name": "Lwanaswa Primary School"
+            },
+            "21111": {
+              "name": "Ishieywe Primary School"
+            },
+            "21112": {
+              "name": "Eregi Mixed Primary School"
+            },
+            "21113": {
+              "name": "Iremere Primary School"
+            },
+            "21114": {
+              "name": "Lusiola Primary School"
+            },
+            "21115": {
+              "name": "Ituluvini Primary School"
+            },
+            "21116": {
+              "name": "Shisejeri Tea Buying Centre"
+            },
+            "21117": {
+              "name": "Shikumu Tea Buying Centre"
+            },
+            "21118": {
+              "name": "Milimani Primary School"
+            }
+          }
+        },
+        "1048": {
+          "name": "Idakho East",
+          "pollingStations": {
+            "21119": {
+              "name": "Makhokho Primary School"
+            },
+            "21120": {
+              "name": "Ivonda Pri. School"
+            },
+            "21121": {
+              "name": "Imuliru Pri. School"
+            },
+            "21122": {
+              "name": "Savane Pri. School"
+            },
+            "21123": {
+              "name": "Kimingini Primary School"
+            },
+            "21124": {
+              "name": "Shiveye Pri. School"
+            },
+            "21125": {
+              "name": "Lwenya Pri. School"
+            },
+            "21126": {
+              "name": "Shitoli Primary School"
+            },
+            "21127": {
+              "name": "Lirhembe Primary School"
+            },
+            "21128": {
+              "name": "Shikokho Primary School"
+            },
+            "21129": {
+              "name": "Shavihiga Primary School"
+            },
+            "21130": {
+              "name": "Iluya Primary School"
+            },
+            "21131": {
+              "name": "Shikondi Primary School"
+            },
+            "21132": {
+              "name": "Lusui Pri School"
+            },
+            "21133": {
+              "name": "Masiyenze Primary School"
+            },
+            "21134": {
+              "name": "Musasa Pri School"
+            },
+            "21135": {
+              "name": "Shiseno Primary School"
+            },
+            "21136": {
+              "name": "Ivole Pri. School"
+            },
+            "21137": {
+              "name": "Mbaka Market"
+            },
+            "21138": {
+              "name": "Iguhu Primary School"
+            },
+            "21139": {
+              "name": "Kasavayi Primary School"
+            },
+            "21140": {
+              "name": "Ikuywa Primary School"
+            },
+            "21141": {
+              "name": "Naliava Primary School"
+            },
+            "21142": {
+              "name": "Shisesya Primary School"
+            },
+            "21143": {
+              "name": "Ishianji Primary School"
+            }
+          }
+        },
+        "1049": {
+          "name": "Idakho North",
+          "pollingStations": {
+            "21144": {
+              "name": "Burendwa Primary School"
+            },
+            "21145": {
+              "name": "Sichinji Primary School"
+            },
+            "21146": {
+              "name": "Mutaho Primary School"
+            },
+            "21147": {
+              "name": "Imbale Primary School"
+            },
+            "21148": {
+              "name": "Shiduha Primary School"
+            },
+            "21149": {
+              "name": "Shamusinjiri Primary School"
+            },
+            "21150": {
+              "name": "Shimanyiro Primary School"
+            },
+            "21151": {
+              "name": "Imulama Primary School"
+            },
+            "21152": {
+              "name": "Shisere Primary School"
+            },
+            "21153": {
+              "name": "Mukoyani Primary School"
+            },
+            "21154": {
+              "name": "Ibwali Primary School"
+            },
+            "21155": {
+              "name": "Shikhombero Primary School"
+            },
+            "21156": {
+              "name": "Mwikhomo Primary School"
+            },
+            "21157": {
+              "name": "Mumbetsa Primary School"
+            },
+            "21158": {
+              "name": "Mukangu Primary School"
+            },
+            "21159": {
+              "name": "Munyanza Primary School"
+            },
+            "21160": {
+              "name": "Shinyikha Primary School"
+            }
+          }
+        },
+        "1050": {
+          "name": "Idakho Central",
+          "pollingStations": {
+            "21161": {
+              "name": "Musoli Girls Primary School"
+            },
+            "21162": {
+              "name": "Bushiangala Primary School"
+            },
+            "21163": {
+              "name": "Matundu Primary School"
+            },
+            "21164": {
+              "name": "Ichina Primary School"
+            },
+            "21165": {
+              "name": "Malinya Primary School"
+            },
+            "21166": {
+              "name": "Shirumba Primary School"
+            },
+            "21167": {
+              "name": "Isulu Primary School"
+            },
+            "21168": {
+              "name": "Shibuname Primary School"
+            },
+            "21169": {
+              "name": "Shikumu Primary School"
+            },
+            "21170": {
+              "name": "Shitechia Primary School"
+            },
+            "21171": {
+              "name": "Busilwa Primary School"
+            },
+            "21172": {
+              "name": "Shirandalo Primary School"
+            },
+            "21173": {
+              "name": "Shihalia Primary School"
+            },
+            "21174": {
+              "name": "Shivagala Primary School"
+            },
+            "21175": {
+              "name": "Irechero Primary School"
+            },
+            "21176": {
+              "name": "Ibuka Primary School"
+            },
+            "21177": {
+              "name": "Shibwe Sub-District Hospital"
+            },
+            "21178": {
+              "name": "Musingu High School"
+            },
+            "21179": {
+              "name": "Musoli Mixed Primary School"
+            },
+            "21180": {
+              "name": "Malinya Market"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Butere",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Kakamega Central",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Kakamega East",
+      "type": "Subcounty"
+    },
+    "004": {
+      "name": "Kakamega North",
+      "type": "Subcounty"
+    },
+    "005": {
+      "name": "Kakamega South",
+      "type": "Subcounty"
+    },
+    "006": {
+      "name": "Khwisero",
+      "type": "Subcounty"
+    },
+    "007": {
+      "name": "Likuyani",
+      "type": "Subcounty"
+    },
+    "008": {
+      "name": "Lugari",
+      "type": "Subcounty"
+    },
+    "009": {
+      "name": "Matete",
+      "type": "Subcounty"
+    },
+    "010": {
+      "name": "Matungu",
+      "type": "Subcounty"
+    },
+    "011": {
+      "name": "Mumias East",
+      "type": "Subcounty"
+    },
+    "012": {
+      "name": "Mumias West",
+      "type": "Subcounty"
+    },
+    "013": {
+      "name": "Navakholo",
+      "type": "Subcounty"
+    }
+  }
+}

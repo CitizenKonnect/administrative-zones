@@ -1,0 +1,897 @@
+{
+  "name": "Mombasa",
+  "type": "County",
+  "code": "001",
+  "constituencies": {
+    "001": {
+      "name": "Changamwe",
+      "wards": {
+        "0001": {
+          "name": "Port Reitz",
+          "pollingStations": {
+            "00001": {
+              "name": "Bomu Primary School"
+            },
+            "00002": {
+              "name": "Mwijabu Primary School"
+            },
+            "00003": {
+              "name": "Lilongwe Garden"
+            },
+            "00004": {
+              "name": "Bomu Stadium"
+            },
+            "00005": {
+              "name": "Bomu Secondary School"
+            },
+            "00006": {
+              "name": "Full Gospel Church Ground"
+            }
+          }
+        },
+        "0002": {
+          "name": "Kipevu",
+          "pollingStations": {
+            "00007": {
+              "name": "Umoja Primary School"
+            },
+            "00008": {
+              "name": "Kisumu Ndogo Ground"
+            },
+            "00009": {
+              "name": "Kwa Hola Primary School"
+            },
+            "00010": {
+              "name": "Cape Town Ground"
+            },
+            "00011": {
+              "name": "Kaloleni Ground"
+            },
+            "00012": {
+              "name": "Akamba Handcraft Coop. Society Hall"
+            }
+          }
+        },
+        "0003": {
+          "name": "Airport",
+          "pollingStations": {
+            "00013": {
+              "name": "Bokole Nursery School"
+            },
+            "00014": {
+              "name": "Baraka Village"
+            },
+            "00015": {
+              "name": "Al-Irshadi Nursery School"
+            },
+            "00016": {
+              "name": "Mwidani Social Hall"
+            },
+            "00017": {
+              "name": "Portreitz Nursery School"
+            }
+          }
+        },
+        "0004": {
+          "name": "Changamwe",
+          "pollingStations": {
+            "00018": {
+              "name": "Changamwe Social Hall"
+            },
+            "00019": {
+              "name": "Changamwe Primary School"
+            },
+            "00020": {
+              "name": "St. Lwanga Primary School"
+            },
+            "00021": {
+              "name": "Changamwe Secondary School"
+            },
+            "00022": {
+              "name": "Gome Primary School"
+            },
+            "00023": {
+              "name": "Magongo Primary School"
+            },
+            "00024": {
+              "name": "Baptist Church Primary School"
+            },
+            "00025": {
+              "name": "Bishop Mkala Academy"
+            },
+            "00026": {
+              "name": "Kimbilio Academy"
+            },
+            "00027": {
+              "name": "Aic Church Hall"
+            }
+          }
+        },
+        "0005": {
+          "name": "Chaani",
+          "pollingStations": {
+            "00028": {
+              "name": "Chaani Social Hall"
+            },
+            "00029": {
+              "name": "Kipevu Primary School"
+            },
+            "00030": {
+              "name": "Mikadini Primary School"
+            },
+            "00031": {
+              "name": "Chaani Primary School"
+            },
+            "00032": {
+              "name": "Chaani Secondary School"
+            },
+            "00033": {
+              "name": "Chaani Chief'S Office"
+            },
+            "00034": {
+              "name": "Kasarani Grounds"
+            }
+          }
+        }
+      }
+    },
+    "002": {
+      "name": "Jomvu",
+      "wards": {
+        "0006": {
+          "name": "Jomvu Kuu",
+          "pollingStations": {
+            "00035": {
+              "name": "Miritini World Bank Primary School"
+            },
+            "00036": {
+              "name": "Jomvu Kuu Primary School"
+            },
+            "00037": {
+              "name": "Taratibu Social Hall"
+            },
+            "00038": {
+              "name": "Mirironi Primary School"
+            },
+            "00039": {
+              "name": "Jomvu Narcol Nursery School"
+            },
+            "00040": {
+              "name": "Swaleh Khalid Social Hall"
+            },
+            "00041": {
+              "name": "Nuru Community Based Rehabilitation School"
+            },
+            "00042": {
+              "name": "Badi Twalib Primary School"
+            },
+            "00043": {
+              "name": "Aldinnah Open Grounds"
+            },
+            "00044": {
+              "name": "Misufini Open Grounds"
+            }
+          }
+        },
+        "0007": {
+          "name": "Miritini",
+          "pollingStations": {
+            "00045": {
+              "name": "Abu-Ubaida Primary School"
+            },
+            "00046": {
+              "name": "Miritini Primary School"
+            },
+            "00047": {
+              "name": "Bamako Innitiative Miritini"
+            },
+            "00048": {
+              "name": "Railway Station Hall"
+            },
+            "00049": {
+              "name": "Mwamlai Primary School"
+            },
+            "00050": {
+              "name": "Chabeat Open Ground - Chamunyu"
+            },
+            "00051": {
+              "name": "Maganda Primary School"
+            }
+          }
+        },
+        "0008": {
+          "name": "Mikindani",
+          "pollingStations": {
+            "00052": {
+              "name": "Ministry Of Water Tanks"
+            },
+            "00053": {
+              "name": "Owino Uhuru Nursery School"
+            },
+            "00054": {
+              "name": "Kwa Shee Primary School"
+            },
+            "00055": {
+              "name": "Amani Primary School"
+            },
+            "00056": {
+              "name": "St. Mary'S Bangladesh Primary School"
+            },
+            "00057": {
+              "name": "Mikindani Primary School"
+            },
+            "00058": {
+              "name": "New Kibarani Primary School"
+            },
+            "00059": {
+              "name": "Kajembe High School"
+            },
+            "00060": {
+              "name": "Nazarene Nursery School"
+            },
+            "00061": {
+              "name": "Mwembeni Open Grounds"
+            }
+          }
+        }
+      }
+    },
+    "003": {
+      "name": "Kisauni",
+      "wards": {
+        "0009": {
+          "name": "Mjambere",
+          "pollingStations": {
+            "00062": {
+              "name": "Kisauni Baptist Primary School"
+            },
+            "00063": {
+              "name": "Kisauni Water & Sewerage Offices"
+            },
+            "00064": {
+              "name": "Kadongo Grounds - Mishomoroni"
+            },
+            "00065": {
+              "name": "Palani Grounds"
+            }
+          }
+        },
+        "0010": {
+          "name": "Junda",
+          "pollingStations": {
+            "00066": {
+              "name": "Manyani Grounds"
+            },
+            "00067": {
+              "name": "Ifc Church"
+            },
+            "00068": {
+              "name": "Emmas Academy"
+            },
+            "00069": {
+              "name": "New Hope Secondary School - Makumba"
+            },
+            "00070": {
+              "name": "Assistant Chief'S Camp - Machafuko"
+            },
+            "00071": {
+              "name": "Junda Assistant Chief'S Camp-Wangwani"
+            }
+          }
+        },
+        "0011": {
+          "name": "Bamburi",
+          "pollingStations": {
+            "00072": {
+              "name": "Kashani Primary School"
+            },
+            "00073": {
+              "name": "Majaoni Primary School"
+            },
+            "00074": {
+              "name": "Kiembeni Primary School"
+            },
+            "00075": {
+              "name": "St. Elizabeth Academy"
+            },
+            "00076": {
+              "name": "Mdengerekeni Primary School"
+            }
+          }
+        },
+        "0012": {
+          "name": "Mwakirunge",
+          "pollingStations": {
+            "00077": {
+              "name": "Marimani Primary School"
+            },
+            "00078": {
+              "name": "Colorado Primary School"
+            },
+            "00079": {
+              "name": "Voroni Community Primary School"
+            },
+            "00080": {
+              "name": "Maunguja Primary School"
+            },
+            "00081": {
+              "name": "Mwakirunge Primary School"
+            }
+          }
+        },
+        "0013": {
+          "name": "Mtopanga",
+          "pollingStations": {
+            "00082": {
+              "name": "Kiembeni Baptist Primary School"
+            },
+            "00083": {
+              "name": "Mtopanga Primary School"
+            },
+            "00084": {
+              "name": "Concordia Primary School"
+            },
+            "00085": {
+              "name": "Community Of Christ Church-Mtopanga"
+            },
+            "00086": {
+              "name": "St.Josephs Herman Primary School"
+            },
+            "00087": {
+              "name": "Perma Sharp Grounds"
+            }
+          }
+        },
+        "0014": {
+          "name": "Magogoni",
+          "pollingStations": {
+            "00088": {
+              "name": "Mishomoroni Junior Academy"
+            },
+            "00089": {
+              "name": "Mwandoni (Kishada) Play Grounds"
+            },
+            "00090": {
+              "name": "Barsheba Sokoni Grounds"
+            },
+            "00091": {
+              "name": "Mwandoni Blue Bench Grounds"
+            },
+            "00092": {
+              "name": "Mwandoni Kwa Mtumwa Grounds"
+            },
+            "00093": {
+              "name": "Mjahidina Muslim School"
+            }
+          }
+        },
+        "0015": {
+          "name": "Shanzu",
+          "pollingStations": {
+            "00094": {
+              "name": "Mikoroshoni Primary School"
+            },
+            "00095": {
+              "name": "Utange Primary School"
+            },
+            "00096": {
+              "name": "Zimlat Primary School"
+            },
+            "00097": {
+              "name": "Bamburi Primary School"
+            },
+            "00098": {
+              "name": "Shanzu Teachers Training College"
+            },
+            "00099": {
+              "name": "Shimo La Tewa Primary School"
+            },
+            "00100": {
+              "name": "Mwembelegeza Primary School"
+            }
+          }
+        }
+      }
+    },
+    "004": {
+      "name": "Nyali",
+      "wards": {
+        "0016": {
+          "name": "Frere Town",
+          "pollingStations": {
+            "00101": {
+              "name": "Khadija Primary School"
+            },
+            "00102": {
+              "name": "Fadhil-Adhym Primary School"
+            },
+            "00103": {
+              "name": "Mlaleo Primary School"
+            },
+            "00104": {
+              "name": "Frere Town Primary School"
+            },
+            "00105": {
+              "name": "Mwandoni Kadiria Grounds"
+            },
+            "00106": {
+              "name": "Victoria Baptist Primary School"
+            },
+            "00107": {
+              "name": "Sarajevo Grounds"
+            },
+            "00108": {
+              "name": "Freretown Secondary School"
+            },
+            "00109": {
+              "name": "Khadija Secondary School"
+            }
+          }
+        },
+        "0017": {
+          "name": "Ziwa La Ng'Ombe",
+          "pollingStations": {
+            "00110": {
+              "name": "National Industrial Training Authority- Mombasa"
+            },
+            "00111": {
+              "name": "Ziwa La Ng'Ombe Primary School"
+            },
+            "00112": {
+              "name": "Olive Rehabilitation Centre - Mkunguni"
+            },
+            "00113": {
+              "name": "Tumaini Academy/Church Of Christ"
+            },
+            "00114": {
+              "name": "Kicodep Hall"
+            },
+            "00115": {
+              "name": "Azhar Primary School"
+            }
+          }
+        },
+        "0018": {
+          "name": "Mkomani",
+          "pollingStations": {
+            "00116": {
+              "name": "Maweni Primary School"
+            },
+            "00117": {
+              "name": "Ask Ground - Gate 'A'"
+            },
+            "00118": {
+              "name": "Mkomani Grounds"
+            },
+            "00119": {
+              "name": "Pentrose Community Primary School"
+            },
+            "00120": {
+              "name": "Maweni Mixed Secondary School"
+            }
+          }
+        },
+        "0019": {
+          "name": "Kongowea",
+          "pollingStations": {
+            "00121": {
+              "name": "Kongowea Primary School"
+            },
+            "00122": {
+              "name": "Kwa Karama Grounds"
+            },
+            "00123": {
+              "name": "Kengeleni Primary School"
+            },
+            "00124": {
+              "name": "Municipal Social Hall - Kongowea"
+            },
+            "00125": {
+              "name": "Methodist Church - Kongowea"
+            },
+            "00126": {
+              "name": "Kongowea Secondary School"
+            }
+          }
+        },
+        "0020": {
+          "name": "Kadzandani",
+          "pollingStations": {
+            "00127": {
+              "name": "Bombolulu Cultural Centre Workshop Hall"
+            },
+            "00128": {
+              "name": "Bahawani Primary School"
+            },
+            "00129": {
+              "name": "Bashir Primary School"
+            },
+            "00130": {
+              "name": "Kadzandani Primary School"
+            },
+            "00131": {
+              "name": "Marianist Polytechnic"
+            },
+            "00132": {
+              "name": "Soweto Grounds"
+            },
+            "00133": {
+              "name": "Mwatamba Grounds"
+            },
+            "00134": {
+              "name": "Kwa Bullo Primary/Secondary School"
+            },
+            "00135": {
+              "name": "Teman Junior Academy"
+            }
+          }
+        }
+      }
+    },
+    "005": {
+      "name": "Likoni",
+      "wards": {
+        "0021": {
+          "name": "Mtongwe",
+          "pollingStations": {
+            "00136": {
+              "name": "Mtongwe Primary School"
+            },
+            "00137": {
+              "name": "Longo Primary School"
+            },
+            "00138": {
+              "name": "Mtongwe Social Hall"
+            },
+            "00139": {
+              "name": "Vijiweni Primary School"
+            },
+            "00140": {
+              "name": "Mwangala Primary School"
+            },
+            "00141": {
+              "name": "Mweza Primary School"
+            },
+            "00142": {
+              "name": "Mkwajuni Market"
+            },
+            "00143": {
+              "name": "St. Joseph Nursery School"
+            },
+            "00144": {
+              "name": "Mtongwe Vocational Training Center"
+            }
+          }
+        },
+        "0022": {
+          "name": "Shika Adabu",
+          "pollingStations": {
+            "00145": {
+              "name": "Shika Adabu Primary School"
+            },
+            "00146": {
+              "name": "Consolata Primary School"
+            },
+            "00147": {
+              "name": "Vyemani Primary School"
+            },
+            "00148": {
+              "name": "Vijiweni Grounds"
+            },
+            "00149": {
+              "name": "Ujamaa Grounds"
+            },
+            "00150": {
+              "name": "Mishi Mboko Girls Secondary School"
+            },
+            "00151": {
+              "name": "Inspirations Primary School"
+            },
+            "00152": {
+              "name": "Shika Adabu Secondary School"
+            }
+          }
+        },
+        "0023": {
+          "name": "Bofu",
+          "pollingStations": {
+            "00153": {
+              "name": "Daru Ulum Madrasa"
+            },
+            "00154": {
+              "name": "Jamvi La Wageni Primary School"
+            },
+            "00155": {
+              "name": "Peleleza Primary School"
+            },
+            "00156": {
+              "name": "Likoni Muslim Primary School"
+            },
+            "00157": {
+              "name": "Bomani Football Ground"
+            }
+          }
+        },
+        "0024": {
+          "name": "Likoni",
+          "pollingStations": {
+            "00158": {
+              "name": "Likoni Primary School"
+            },
+            "00159": {
+              "name": "Jesus Celebration Center (Soweto)"
+            },
+            "00160": {
+              "name": "Likoni Secondary School"
+            }
+          }
+        },
+        "0025": {
+          "name": "Timbwani",
+          "pollingStations": {
+            "00161": {
+              "name": "Likoni Flats Social Hall"
+            },
+            "00162": {
+              "name": "Consolata Nursery School"
+            },
+            "00163": {
+              "name": "Timbwani Primary School"
+            },
+            "00164": {
+              "name": "Mrima Primary School"
+            },
+            "00165": {
+              "name": "Ushindi Baptist Primary School"
+            },
+            "00166": {
+              "name": "Maji Safi Primary School"
+            },
+            "00167": {
+              "name": "Licodep"
+            },
+            "00168": {
+              "name": "Timbwani Secondary School"
+            },
+            "00169": {
+              "name": "Caltex Grounds"
+            },
+            "00170": {
+              "name": "Timbwani Babtist Primary School"
+            }
+          }
+        }
+      }
+    },
+    "006": {
+      "name": "Mvita",
+      "wards": {
+        "0026": {
+          "name": "Mji Wa Kale/Makadara",
+          "pollingStations": {
+            "00171": {
+              "name": "Kaderbhoy Old Town Dispensary"
+            },
+            "00172": {
+              "name": "Fort Jesus Museum"
+            },
+            "00173": {
+              "name": "Coast Girls Secondary School"
+            },
+            "00174": {
+              "name": "Star Of The Sea Primary School"
+            },
+            "00175": {
+              "name": "Mbaraki Primary School"
+            },
+            "00176": {
+              "name": "Sonara Social Hall"
+            },
+            "00177": {
+              "name": "Allidina Visram High School"
+            },
+            "00178": {
+              "name": "Hajam Jamaat Hall"
+            },
+            "00179": {
+              "name": "Serani Primary  School"
+            },
+            "00180": {
+              "name": "Mombasa Primary School"
+            },
+            "00181": {
+              "name": "Kenya School Of Government"
+            },
+            "00182": {
+              "name": "Tijara Gardens"
+            }
+          }
+        },
+        "0027": {
+          "name": "Tudor",
+          "pollingStations": {
+            "00183": {
+              "name": "Tudor Village Hall"
+            },
+            "00184": {
+              "name": "St. Augustine Primary School"
+            },
+            "00185": {
+              "name": "Tudor Primary School"
+            },
+            "00186": {
+              "name": "R. G. Ngala Primary School"
+            },
+            "00187": {
+              "name": "Fahari Primary School"
+            },
+            "00188": {
+              "name": "Sparki Primary School"
+            },
+            "00189": {
+              "name": "Burhania Primary School"
+            },
+            "00190": {
+              "name": "Municipal Inspectorate Offices"
+            },
+            "00191": {
+              "name": "Tudor Day Secondary School"
+            },
+            "00192": {
+              "name": "Kpa Hall Makande"
+            },
+            "00193": {
+              "name": "Khamisi Secondary School"
+            }
+          }
+        },
+        "0028": {
+          "name": "Tononoka",
+          "pollingStations": {
+            "00194": {
+              "name": "Mwembe-Tayari Public Health Clinic (Phc)"
+            },
+            "00195": {
+              "name": "Kumbar Primary School"
+            },
+            "00196": {
+              "name": "Al-Amani Social Hall - Floringi"
+            },
+            "00197": {
+              "name": "Shariff Nassir Secondary School"
+            },
+            "00198": {
+              "name": "Chandaria Hall"
+            },
+            "00199": {
+              "name": "Kikowani Primary School"
+            },
+            "00200": {
+              "name": "Tononoka Social Hall"
+            },
+            "00201": {
+              "name": "Tononoka Nursery School"
+            },
+            "00202": {
+              "name": "Municipal Stadium"
+            },
+            "00203": {
+              "name": "Central Girls Primary School"
+            },
+            "00204": {
+              "name": "Buxton Estate Hall"
+            }
+          }
+        },
+        "0029": {
+          "name": "Shimanzi/Ganjoni",
+          "pollingStations": {
+            "00205": {
+              "name": "Public Works Offices"
+            },
+            "00206": {
+              "name": "Makande Kpa Nursery School"
+            },
+            "00207": {
+              "name": "Makupa Primary School"
+            },
+            "00208": {
+              "name": "Makande Primary School"
+            },
+            "00209": {
+              "name": "Shimanzi Kpa Nursery School"
+            },
+            "00210": {
+              "name": "Kpa Hall High Level"
+            },
+            "00211": {
+              "name": "Little Theatre Club"
+            },
+            "00212": {
+              "name": "Sacred Heart Primary School"
+            },
+            "00213": {
+              "name": "Kpa Social Hall"
+            },
+            "00214": {
+              "name": "Bandari College"
+            },
+            "00215": {
+              "name": "Ganjoni Municipal Clinic"
+            },
+            "00216": {
+              "name": "Majengo Primary School"
+            },
+            "00217": {
+              "name": "King'Orani Prison (Jela Baridi)"
+            }
+          }
+        },
+        "0030": {
+          "name": "Majengo",
+          "pollingStations": {
+            "00218": {
+              "name": "Patel Samaj Hall"
+            },
+            "00219": {
+              "name": "Guru Nanak Primary School"
+            },
+            "00220": {
+              "name": "Mwembe-Tayari Public Health Department (Phd)"
+            },
+            "00221": {
+              "name": "Koblenz Hall"
+            },
+            "00222": {
+              "name": "Uhuru Gardens"
+            },
+            "00223": {
+              "name": "Lohana Hall"
+            },
+            "00224": {
+              "name": "Lasco Social Hall (Kpa)"
+            },
+            "00225": {
+              "name": "Majengo Village Hall"
+            },
+            "00226": {
+              "name": "Sakina Hall"
+            },
+            "00227": {
+              "name": "Mvita Primary School"
+            },
+            "00228": {
+              "name": "Mvita Boys Secondary School"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subcounties": {
+    "001": {
+      "name": "Changamwe",
+      "type": "Subcounty"
+    },
+    "002": {
+      "name": "Jomvu",
+      "type": "Subcounty"
+    },
+    "003": {
+      "name": "Kisauni",
+      "type": "Subcounty"
+    },
+    "004": {
+      "name": "Likoni",
+      "type": "Subcounty"
+    },
+    "005": {
+      "name": "Mvita",
+      "type": "Subcounty"
+    },
+    "006": {
+      "name": "Nyali",
+      "type": "Subcounty"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Nyeri",
+  "type": "County",
+  "code": "19",
+  "subcounties": {
+    "0": {
+      "name": "Aberdare National Park",
+      "type": "National Park"
+    },
+    "1": {
+      "name": "Kieni East",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kieni West",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Mathira East",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Mathira West",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Mount Kenya National Park",
+      "type": "National Park"
+    },
+    "6": {
+      "name": "Mukurweini",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Nyeri Central",
+      "type": "Subcounty"
+    },
+    "8": {
+      "name": "Nyeri South",
+      "type": "Subcounty"
+    },
+    "9": {
+      "name": "Tetu",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "94": {
+      "name": "Tetu"
+    },
+    "95": {
+      "name": "Kieni"
+    },
+    "96": {
+      "name": "Mathira"
+    },
+    "97": {
+      "name": "Othaya"
+    },
+    "98": {
+      "name": "Mukurweini"
+    },
+    "99": {
+      "name": "Nyeri-Town"
+    }
+  }
+}

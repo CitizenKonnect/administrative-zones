@@ -1,0 +1,86 @@
+{
+  "name": "Nakuru",
+  "type": "County",
+  "code": "32",
+  "subcounties": {
+    "0": {
+      "name": "Gilgil",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Kuresoi North",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kuresoi South",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Molo",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Naivasha",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Nakuru East",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Nakuru North",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Nakuru West",
+      "type": "Subcounty"
+    },
+    "8": {
+      "name": "Njoro",
+      "type": "Subcounty"
+    },
+    "9": {
+      "name": "Rongai",
+      "type": "Subcounty"
+    },
+    "10": {
+      "name": "Subukia",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "166": {
+      "name": "Molo"
+    },
+    "167": {
+      "name": "Njoro"
+    },
+    "168": {
+      "name": "Naivasha"
+    },
+    "169": {
+      "name": "Gilgil"
+    },
+    "170": {
+      "name": "Kuresoi-South"
+    },
+    "171": {
+      "name": "Kuresoi-North"
+    },
+    "172": {
+      "name": "Subukia"
+    },
+    "173": {
+      "name": "Rongai"
+    },
+    "174": {
+      "name": "Bahati"
+    },
+    "175": {
+      "name": "NakuruTown-West"
+    },
+    "176": {
+      "name": "NakuruTown-East"
+    }
+  }
+}

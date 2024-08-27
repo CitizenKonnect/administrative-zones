@@ -1,0 +1,41 @@
+{
+  "name": "Nyamira",
+  "type": "County",
+  "code": "46",
+  "subcounties": {
+    "0": {
+      "name": "Borabu",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Manga",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Masaba North",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Nyamira North",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Nyamira South",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "270": {
+      "name": "Kitutu-Masaba"
+    },
+    "271": {
+      "name": "West-Mugirango"
+    },
+    "272": {
+      "name": "North-Mugirango"
+    },
+    "273": {
+      "name": "Borabu"
+    }
+  }
+}

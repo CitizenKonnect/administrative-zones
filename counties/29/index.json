@@ -1,0 +1,51 @@
+{
+  "name": "Nandi",
+  "type": "County",
+  "code": "29",
+  "subcounties": {
+    "0": {
+      "name": "Chesumei",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Nandi Central",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Nandi East",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Nandi North",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Nandi South",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Tinderet",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "151": {
+      "name": "Tinderet"
+    },
+    "152": {
+      "name": "Aldai"
+    },
+    "153": {
+      "name": "Nandi-Hills"
+    },
+    "154": {
+      "name": "Chesumei"
+    },
+    "155": {
+      "name": "Emgwen"
+    },
+    "156": {
+      "name": "Mosop"
+    }
+  }
+}

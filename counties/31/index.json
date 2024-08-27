@@ -1,0 +1,38 @@
+{
+  "name": "Laikipia",
+  "type": "County",
+  "code": "31",
+  "subcounties": {
+    "0": {
+      "name": "Laikipia Central",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Laikipia East",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Laikipia North",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Laikipia West",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Nyahururu",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "163": {
+      "name": "Laikipia-West"
+    },
+    "164": {
+      "name": "Laikipia-East"
+    },
+    "165": {
+      "name": "Laikipia-North"
+    }
+  }
+}

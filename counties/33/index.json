@@ -1,0 +1,51 @@
+{
+  "name": "Narok",
+  "type": "County",
+  "code": "33",
+  "subcounties": {
+    "0": {
+      "name": "Narok East",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Narok North(incl. Mau Forest)",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Narok South",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Narok West",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Trans Mara East",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Trans Mara West",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "177": {
+      "name": "Kilgoris"
+    },
+    "178": {
+      "name": "Emuria-Dikirr"
+    },
+    "179": {
+      "name": "Narok-North"
+    },
+    "180": {
+      "name": "Narok-East"
+    },
+    "181": {
+      "name": "Narok-South"
+    },
+    "182": {
+      "name": "Narok-West"
+    }
+  }
+}

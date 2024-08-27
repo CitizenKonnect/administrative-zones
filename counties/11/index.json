@@ -1,0 +1,27 @@
+{
+  "name": "Isiolo",
+  "type": "County",
+  "code": "11",
+  "subcounties": {
+    "0": {
+      "name": "Garbatulla",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Isiolo",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Merti",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "49": {
+      "name": "Isiolo-North"
+    },
+    "50": {
+      "name": "Isiolo-South"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Makueni",
+  "type": "County",
+  "code": "17",
+  "subcounties": {
+    "0": {
+      "name": "Kathonzweni",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Kibwezi",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kilungu",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Makindu",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Makueni",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Mbooni East",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Mbooni West",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Mukaa",
+      "type": "Subcounty"
+    },
+    "8": {
+      "name": "Nzaui",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "83": {
+      "name": "Mbooni"
+    },
+    "84": {
+      "name": "Kilome"
+    },
+    "85": {
+      "name": "Kaiti"
+    },
+    "86": {
+      "name": "Makueni"
+    },
+    "87": {
+      "name": "Kibwezi-West"
+    },
+    "88": {
+      "name": "Kibwezi-East"
+    }
+  }
+}

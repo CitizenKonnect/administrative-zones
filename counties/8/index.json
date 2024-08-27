@@ -1,0 +1,59 @@
+{
+  "name": "Wajir",
+  "type": "County",
+  "code": "8",
+  "subcounties": {
+    "0": {
+      "name": "Buna",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Eldas",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Habaswein",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Tarbaj",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Wajir East",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Wajir North",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Wajir South",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Wajir West",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "33": {
+      "name": "Wajir-North"
+    },
+    "34": {
+      "name": "Wajir-East"
+    },
+    "35": {
+      "name": "Tarbaj"
+    },
+    "36": {
+      "name": "Wajir-West"
+    },
+    "37": {
+      "name": "Eldas"
+    },
+    "38": {
+      "name": "Wajir-South"
+    }
+  }
+}

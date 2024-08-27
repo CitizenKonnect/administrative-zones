@@ -1,0 +1,45 @@
+{
+  "name": "Kirinyaga",
+  "type": "County",
+  "code": "20",
+  "subcounties": {
+    "0": {
+      "name": "Kirinyaga Central",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Kirinyaga East",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kirinyaga West",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Mount Kenya National Park",
+      "type": "National Park"
+    },
+    "4": {
+      "name": "Mwea East",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Mwea West",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "100": {
+      "name": "Mwea"
+    },
+    "101": {
+      "name": "Gichugu"
+    },
+    "102": {
+      "name": "Ndia"
+    },
+    "103": {
+      "name": "Kirinyaga-Central"
+    }
+  }
+}

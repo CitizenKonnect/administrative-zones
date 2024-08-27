@@ -1,0 +1,37 @@
+{
+  "name": "Elgeyo-Marakwet",
+  "type": "County",
+  "code": "28",
+  "subcounties": {
+    "0": {
+      "name": "Keiyo North",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Keiyo South",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Marakwet East",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Marakwet West",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "147": {
+      "name": "Marakwet-East"
+    },
+    "148": {
+      "name": "Marakwet-West"
+    },
+    "149": {
+      "name": "Keiyo-North"
+    },
+    "150": {
+      "name": "Keiyo-South"
+    }
+  }
+}

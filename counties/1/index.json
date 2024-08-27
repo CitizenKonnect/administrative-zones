@@ -1,0 +1,51 @@
+{
+  "name": "Mombasa",
+  "type": "County",
+  "code": "1",
+  "subcounties": {
+    "0": {
+      "name": "Changamwe",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Jomvu",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kisauni",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Likoni",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Mvita",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Nyali",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "1": {
+      "name": "Changamwe"
+    },
+    "2": {
+      "name": "Jomvu"
+    },
+    "3": {
+      "name": "Kisauni"
+    },
+    "4": {
+      "name": "Nyali"
+    },
+    "5": {
+      "name": "Likoni"
+    },
+    "6": {
+      "name": "Mvita"
+    }
+  }
+}

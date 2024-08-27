@@ -1,0 +1,69 @@
+{
+  "name": "Machakos",
+  "type": "County",
+  "code": "16",
+  "subcounties": {
+    "0": {
+      "name": "Athi River",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Kalama",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kangundo",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Kathiani",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Machakos",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Masinga",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Matungulu",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Mwala",
+      "type": "Subcounty"
+    },
+    "8": {
+      "name": "Yatta",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "75": {
+      "name": "Masinga"
+    },
+    "76": {
+      "name": "Yatta"
+    },
+    "77": {
+      "name": "Kangundo"
+    },
+    "78": {
+      "name": "Matungulu"
+    },
+    "79": {
+      "name": "Kathiani"
+    },
+    "80": {
+      "name": "Mavoko"
+    },
+    "81": {
+      "name": "Machakos-Town"
+    },
+    "82": {
+      "name": "Mwala"
+    }
+  }
+}

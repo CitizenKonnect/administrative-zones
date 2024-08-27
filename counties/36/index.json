@@ -1,0 +1,44 @@
+{
+  "name": "Bomet",
+  "type": "County",
+  "code": "36",
+  "subcounties": {
+    "0": {
+      "name": "Bomet Central",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Bomet East",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Chepalungu",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Konoin(incl. Mau Forest)",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Sotik",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "194": {
+      "name": "Sotik"
+    },
+    "195": {
+      "name": "Chepalungu"
+    },
+    "196": {
+      "name": "Bomet-East"
+    },
+    "197": {
+      "name": "Bomet-Central"
+    },
+    "198": {
+      "name": "Konoin"
+    }
+  }
+}

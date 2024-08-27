@@ -1,0 +1,55 @@
+{
+  "name": "Baringo",
+  "type": "County",
+  "code": "30",
+  "subcounties": {
+    "0": {
+      "name": "Baringo Central",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Baringo North",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "East Pokot",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Koibatek",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Marigat(incl. Lake Baringo)",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Mogotio",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Tiaty East",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "157": {
+      "name": "Tiaty"
+    },
+    "158": {
+      "name": "Baringo-North"
+    },
+    "159": {
+      "name": "Baringo-Central"
+    },
+    "160": {
+      "name": "Baringo-South"
+    },
+    "161": {
+      "name": "Mogotio"
+    },
+    "162": {
+      "name": "Eldama-Ravine"
+    }
+  }
+}

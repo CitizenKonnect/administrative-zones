@@ -1,0 +1,37 @@
+{
+  "name": "Taita-Taveta",
+  "type": "County",
+  "code": "6",
+  "subcounties": {
+    "0": {
+      "name": "Mwatate",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Taita",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Taveta",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Voi",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "23": {
+      "name": "Taveta"
+    },
+    "24": {
+      "name": "Wundanyi"
+    },
+    "25": {
+      "name": "Mwatate"
+    },
+    "26": {
+      "name": "Voi"
+    }
+  }
+}

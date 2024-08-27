@@ -1,0 +1,105 @@
+{
+  "name": "Kitui",
+  "type": "County",
+  "code": "15",
+  "subcounties": {
+    "0": {
+      "name": "Ikutha",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Katulani",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kisasi",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Kitui Central",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Kitui West",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Kyuso",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Lower Yatta",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Matinyani",
+      "type": "Subcounty"
+    },
+    "8": {
+      "name": "Migwani",
+      "type": "Subcounty"
+    },
+    "9": {
+      "name": "Mumoni",
+      "type": "Subcounty"
+    },
+    "10": {
+      "name": "Mutitu",
+      "type": "Subcounty"
+    },
+    "11": {
+      "name": "Mutitu North",
+      "type": "Subcounty"
+    },
+    "12": {
+      "name": "Mutomo",
+      "type": "Subcounty"
+    },
+    "13": {
+      "name": "Mwingi Central",
+      "type": "Subcounty"
+    },
+    "14": {
+      "name": "Mwingi East",
+      "type": "Subcounty"
+    },
+    "15": {
+      "name": "Nzambani",
+      "type": "Subcounty"
+    },
+    "16": {
+      "name": "Thagicu",
+      "type": "Subcounty"
+    },
+    "17": {
+      "name": "Tseikuru",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "67": {
+      "name": "Mwingi-North"
+    },
+    "68": {
+      "name": "Mwingi-West"
+    },
+    "69": {
+      "name": "Mwingi-Central"
+    },
+    "70": {
+      "name": "Kitui-West"
+    },
+    "71": {
+      "name": "Kitui-Rural"
+    },
+    "72": {
+      "name": "Kitui-Central"
+    },
+    "73": {
+      "name": "Kitui-East"
+    },
+    "74": {
+      "name": "Kitui-South"
+    }
+  }
+}

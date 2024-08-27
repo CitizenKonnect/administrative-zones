@@ -1,0 +1,65 @@
+{
+  "name": "Homa Bay",
+  "type": "County",
+  "code": "43",
+  "subcounties": {
+    "0": {
+      "name": "Homa Bay",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Ndhiwa",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Rachuonyo East",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Rachuonyo North",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Rachuonyo South",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Rangwe",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Suba North",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Suba South",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "245": {
+      "name": "Kasipul"
+    },
+    "246": {
+      "name": "Kabondo-Kasipul"
+    },
+    "247": {
+      "name": "Karachuonyo"
+    },
+    "248": {
+      "name": "Rangwe"
+    },
+    "249": {
+      "name": "Homabay-Town"
+    },
+    "250": {
+      "name": "Ndhiwa"
+    },
+    "251": {
+      "name": "Suba-North"
+    },
+    "252": {
+      "name": "Suba-South"
+    }
+  }
+}

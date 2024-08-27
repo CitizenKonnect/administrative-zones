@@ -1,0 +1,58 @@
+{
+  "name": "Busia",
+  "type": "County",
+  "code": "40",
+  "subcounties": {
+    "0": {
+      "name": "Bunyala",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Busia",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Butula",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Nambale",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Samia",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Teso North",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Teso South",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "225": {
+      "name": "Teso-North"
+    },
+    "226": {
+      "name": "Teso-South"
+    },
+    "227": {
+      "name": "Nambale"
+    },
+    "228": {
+      "name": "Matayos"
+    },
+    "229": {
+      "name": "Butula"
+    },
+    "230": {
+      "name": "Funyula"
+    },
+    "231": {
+      "name": "Budalangi"
+    }
+  }
+}

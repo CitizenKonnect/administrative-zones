@@ -1,0 +1,44 @@
+{
+  "name": "Trans Nzoia",
+  "type": "County",
+  "code": "26",
+  "subcounties": {
+    "0": {
+      "name": "Endebess",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Kiminini",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kwanza",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Trans Nzoia East",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Trans Nzoia West",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "136": {
+      "name": "Kwanza"
+    },
+    "137": {
+      "name": "Endebess"
+    },
+    "138": {
+      "name": "Saboti"
+    },
+    "139": {
+      "name": "Kiminini"
+    },
+    "140": {
+      "name": "Cherangany"
+    }
+  }
+}

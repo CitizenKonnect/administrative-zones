@@ -1,0 +1,48 @@
+{
+  "name": "Kajiado",
+  "type": "County",
+  "code": "34",
+  "subcounties": {
+    "0": {
+      "name": "Isinya",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Kajiado Central",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kajiado North",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Kajiado West",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Loitokitok",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Mashuuru",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "183": {
+      "name": "Kajiado-North"
+    },
+    "184": {
+      "name": "Kajiado-Central"
+    },
+    "185": {
+      "name": "Kajiado-East"
+    },
+    "186": {
+      "name": "Kajiado-West"
+    },
+    "187": {
+      "name": "Kajiado-South"
+    }
+  }
+}

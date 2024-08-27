@@ -1,0 +1,66 @@
+{
+  "name": "Murang'a",
+  "type": "County",
+  "code": "21",
+  "subcounties": {
+    "0": {
+      "name": "Aberdare National Park",
+      "type": "National Park"
+    },
+    "1": {
+      "name": "Gatanga",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kahuro",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Kandara",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Kangema",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Kigumo",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Mathioya",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Murang'a East",
+      "type": "Subcounty"
+    },
+    "8": {
+      "name": "Murang'a South",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "104": {
+      "name": "Kangema"
+    },
+    "105": {
+      "name": "Mathioya"
+    },
+    "106": {
+      "name": "Kiharu"
+    },
+    "107": {
+      "name": "Kigumo"
+    },
+    "108": {
+      "name": "Maragua"
+    },
+    "109": {
+      "name": "Kandara"
+    },
+    "110": {
+      "name": "Gatanga"
+    }
+  }
+}

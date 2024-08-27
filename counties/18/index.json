@@ -1,0 +1,56 @@
+{
+  "name": "Nyandarua",
+  "type": "County",
+  "code": "18",
+  "subcounties": {
+    "0": {
+      "name": "Aberdare National Park",
+      "type": "National Park"
+    },
+    "1": {
+      "name": "Kinangop",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kipipiri",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Mirangine",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Nyandarua Central",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Nyandarua North",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Nyandarua South",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Nyandarua West",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "89": {
+      "name": "Kinangop"
+    },
+    "90": {
+      "name": "Kipipiri"
+    },
+    "91": {
+      "name": "OlKalou"
+    },
+    "92": {
+      "name": "OlJoro-Orok"
+    },
+    "93": {
+      "name": "Ndaragwa"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "name": "Kiambu",
+  "type": "County",
+  "code": "22",
+  "subcounties": {
+    "0": {
+      "name": "Gatundu North",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Gatundu South",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Githunguri",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Juja",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Kabete",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Kiambaa",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Kiambu",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Kikuyu",
+      "type": "Subcounty"
+    },
+    "8": {
+      "name": "Lari",
+      "type": "Subcounty"
+    },
+    "9": {
+      "name": "Limuru",
+      "type": "Subcounty"
+    },
+    "10": {
+      "name": "Ruiru",
+      "type": "Subcounty"
+    },
+    "11": {
+      "name": "Thika East",
+      "type": "Subcounty"
+    },
+    "12": {
+      "name": "Thika West",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "111": {
+      "name": "Gatundu-South"
+    },
+    "112": {
+      "name": "Gatundu-North"
+    },
+    "113": {
+      "name": "Juja"
+    },
+    "114": {
+      "name": "Thika-Town"
+    },
+    "115": {
+      "name": "Ruiru"
+    },
+    "116": {
+      "name": "Githunguri"
+    },
+    "117": {
+      "name": "Kiambu-Town"
+    },
+    "118": {
+      "name": "Kiambaa"
+    },
+    "119": {
+      "name": "Kabete"
+    },
+    "120": {
+      "name": "Kikuyu"
+    },
+    "121": {
+      "name": "Limuru"
+    },
+    "122": {
+      "name": "Lari"
+    }
+  }
+}

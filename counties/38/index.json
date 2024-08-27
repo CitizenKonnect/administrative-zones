@@ -1,0 +1,56 @@
+{
+  "name": "Vihiga",
+  "type": "County",
+  "code": "38",
+  "subcounties": {
+    "0": {
+      "name": "Emuhaya",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Hamisi(incl. Kakamega Forest)",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Luanda",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Sabatia",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Vihiga",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "216": {
+      "name": "Mt-Elgon"
+    },
+    "217": {
+      "name": "Sirisia"
+    },
+    "218": {
+      "name": "Kabuchai"
+    },
+    "219": {
+      "name": "Bumula"
+    },
+    "220": {
+      "name": "Kanduyi"
+    },
+    "221": {
+      "name": "Webuye-East"
+    },
+    "222": {
+      "name": "Webuye-West"
+    },
+    "223": {
+      "name": "Kimilili"
+    },
+    "224": {
+      "name": "Tongaren"
+    }
+  }
+}

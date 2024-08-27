@@ -1,0 +1,30 @@
+{
+  "name": "Samburu",
+  "type": "County",
+  "code": "25",
+  "subcounties": {
+    "0": {
+      "name": "Samburu Central",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Samburu East",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Samburu North",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "133": {
+      "name": "Samburu-West"
+    },
+    "134": {
+      "name": "Samburu-North"
+    },
+    "135": {
+      "name": "Samburu-East"
+    }
+  }
+}

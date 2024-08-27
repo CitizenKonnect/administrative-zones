@@ -1,0 +1,58 @@
+{
+  "name": "Kisumu",
+  "type": "County",
+  "code": "42",
+  "subcounties": {
+    "0": {
+      "name": "Kisumu Central",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Kisumu East",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kisumu West",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Muhoroni",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Nyakach",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Nyando",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Seme",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "238": {
+      "name": "Kisumu-East"
+    },
+    "239": {
+      "name": "Kisumu-West"
+    },
+    "240": {
+      "name": "Kisumu-Central"
+    },
+    "241": {
+      "name": "Seme"
+    },
+    "242": {
+      "name": "Nyando"
+    },
+    "243": {
+      "name": "Muhoroni"
+    },
+    "244": {
+      "name": "Nyakach"
+    }
+  }
+}

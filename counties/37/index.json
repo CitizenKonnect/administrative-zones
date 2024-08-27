@@ -1,0 +1,97 @@
+{
+  "name": "Kakamega",
+  "type": "County",
+  "code": "37",
+  "subcounties": {
+    "0": {
+      "name": "Butere",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Kakamega Central",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kakamega East",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Kakamega North",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Kakamega South",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Khwisero",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Likuyani",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Lugari",
+      "type": "Subcounty"
+    },
+    "8": {
+      "name": "Matete",
+      "type": "Subcounty"
+    },
+    "9": {
+      "name": "Matungu",
+      "type": "Subcounty"
+    },
+    "10": {
+      "name": "Mumias East",
+      "type": "Subcounty"
+    },
+    "11": {
+      "name": "Mumias West",
+      "type": "Subcounty"
+    },
+    "12": {
+      "name": "Navakholo",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "199": {
+      "name": "Lugari"
+    },
+    "200": {
+      "name": "Likuyani"
+    },
+    "201": {
+      "name": "Malava"
+    },
+    "202": {
+      "name": "Lurambi"
+    },
+    "203": {
+      "name": "Navakholo"
+    },
+    "204": {
+      "name": "Mumias-West"
+    },
+    "205": {
+      "name": "Mumias-East"
+    },
+    "206": {
+      "name": "Matungu"
+    },
+    "207": {
+      "name": "Butere"
+    },
+    "208": {
+      "name": "Khwisero"
+    },
+    "209": {
+      "name": "Shinyalu"
+    },
+    "210": {
+      "name": "Ikolomani"
+    }
+  }
+}

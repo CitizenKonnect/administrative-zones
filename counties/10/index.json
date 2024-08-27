@@ -1,0 +1,49 @@
+{
+  "name": "Marsabit",
+  "type": "County",
+  "code": "10",
+  "subcounties": {
+    "0": {
+      "name": "Loiyangalani",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Marsabit Central",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Marsabit North",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Marsabit South",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Moyale",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "North Horr",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Sololo",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "45": {
+      "name": "Moyale"
+    },
+    "46": {
+      "name": "North-Horr"
+    },
+    "47": {
+      "name": "Saku"
+    },
+    "48": {
+      "name": "Laisamis"
+    }
+  }
+}

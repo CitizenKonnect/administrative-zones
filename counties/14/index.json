@@ -1,0 +1,45 @@
+{
+  "name": "Embu",
+  "type": "County",
+  "code": "14",
+  "subcounties": {
+    "0": {
+      "name": "Embu East",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Embu North",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Embu West",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Mbeere North",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Mbeere South",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Mount Kenya National Park",
+      "type": "National Park"
+    }
+  },
+  "constituencies": {
+    "63": {
+      "name": "Manyatta"
+    },
+    "64": {
+      "name": "Runyenjes"
+    },
+    "65": {
+      "name": "Mbeere-South"
+    },
+    "66": {
+      "name": "Mbeere-North"
+    }
+  }
+}

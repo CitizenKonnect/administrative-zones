@@ -1,0 +1,55 @@
+{
+  "name": "Mandera",
+  "type": "County",
+  "code": "9",
+  "subcounties": {
+    "0": {
+      "name": "Banisa",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Kotulo",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Lafey",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Mandera Central",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Mandera East",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Mandera North",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Mandera West",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "39": {
+      "name": "Mandera-West"
+    },
+    "40": {
+      "name": "Banissa"
+    },
+    "41": {
+      "name": "Mandera-North"
+    },
+    "42": {
+      "name": "Mandera-South"
+    },
+    "43": {
+      "name": "Mandera-East"
+    },
+    "44": {
+      "name": "Lafey"
+    }
+  }
+}

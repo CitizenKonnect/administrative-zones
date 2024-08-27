@@ -1,0 +1,88 @@
+{
+  "name": "Meru",
+  "type": "County",
+  "code": "12",
+  "subcounties": {
+    "0": {
+      "name": "Buuri East",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Buuri West",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Igembe Central",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Igembe North",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Igembe South",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Imenti North",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Imenti South",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Meru Central",
+      "type": "Subcounty"
+    },
+    "8": {
+      "name": "Meru National Park",
+      "type": "National Park"
+    },
+    "9": {
+      "name": "Mount Kenya National Park",
+      "type": "National Park"
+    },
+    "10": {
+      "name": "Tigania Central",
+      "type": "Subcounty"
+    },
+    "11": {
+      "name": "Tigania East",
+      "type": "Subcounty"
+    },
+    "12": {
+      "name": "Tigania West",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "51": {
+      "name": "Igembe-South"
+    },
+    "52": {
+      "name": "Igembe-Central"
+    },
+    "53": {
+      "name": "Igembe-North"
+    },
+    "54": {
+      "name": "Tigania-West"
+    },
+    "55": {
+      "name": "Tigania-East"
+    },
+    "56": {
+      "name": "North-Imenti"
+    },
+    "57": {
+      "name": "Buuri"
+    },
+    "58": {
+      "name": "Central-Imenti"
+    },
+    "59": {
+      "name": "South-Imenti"
+    }
+  }
+}

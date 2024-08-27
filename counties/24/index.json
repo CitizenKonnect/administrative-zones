@@ -1,0 +1,41 @@
+{
+  "name": "West Pokot",
+  "type": "County",
+  "code": "24",
+  "subcounties": {
+    "0": {
+      "name": "Kipkomo",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Pokot Central",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Pokot North",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Pokot South",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "West Pokot",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "129": {
+      "name": "Kapenguria"
+    },
+    "130": {
+      "name": "Sigor"
+    },
+    "131": {
+      "name": "Kacheliba"
+    },
+    "132": {
+      "name": "Pokot-South"
+    }
+  }
+}

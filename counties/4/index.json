@@ -1,0 +1,30 @@
+{
+  "name": "Tana River",
+  "type": "County",
+  "code": "4",
+  "subcounties": {
+    "0": {
+      "name": "Tana Delta",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Tana North",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Tana River",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "18": {
+      "name": "Garsen"
+    },
+    "19": {
+      "name": "Galole"
+    },
+    "20": {
+      "name": "Bura"
+    }
+  }
+}

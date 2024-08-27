@@ -1,0 +1,55 @@
+{
+  "name": "Turkana",
+  "type": "County",
+  "code": "23",
+  "subcounties": {
+    "0": {
+      "name": "Kibish",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Loima",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Turkana Central",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Turkana East",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Turkana North",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Turkana South",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Turkana West",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "123": {
+      "name": "Turkana-North"
+    },
+    "124": {
+      "name": "Turkana-West"
+    },
+    "125": {
+      "name": "Turkana-Central"
+    },
+    "126": {
+      "name": "Loima"
+    },
+    "127": {
+      "name": "Turkana-South"
+    },
+    "128": {
+      "name": "Turkana-East"
+    }
+  }
+}

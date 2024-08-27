@@ -1,0 +1,51 @@
+{
+  "name": "Siaya",
+  "type": "County",
+  "code": "41",
+  "subcounties": {
+    "0": {
+      "name": "Bondo",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Gem",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Rarieda",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Siaya",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Ugenya",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Ugunja",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "232": {
+      "name": "Ugenya"
+    },
+    "233": {
+      "name": "Ugunja"
+    },
+    "234": {
+      "name": "Alego-Usonga"
+    },
+    "235": {
+      "name": "Gem"
+    },
+    "236": {
+      "name": "Bondo"
+    },
+    "237": {
+      "name": "Rarieda"
+    }
+  }
+}

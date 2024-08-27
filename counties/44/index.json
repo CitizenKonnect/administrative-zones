@@ -1,0 +1,65 @@
+{
+  "name": "Migori",
+  "type": "County",
+  "code": "44",
+  "subcounties": {
+    "0": {
+      "name": "Awendo",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Kuria East",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kuria West",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Nyatike",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Rongo",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Suna East",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Suna West",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Uriri",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "253": {
+      "name": "Rongo"
+    },
+    "254": {
+      "name": "Awendo"
+    },
+    "255": {
+      "name": "Suna-East"
+    },
+    "256": {
+      "name": "Suna-West"
+    },
+    "257": {
+      "name": "Uriri"
+    },
+    "258": {
+      "name": "Nyatike"
+    },
+    "259": {
+      "name": "Kuria-West"
+    },
+    "260": {
+      "name": "Kuria-East"
+    }
+  }
+}

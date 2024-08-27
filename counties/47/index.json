@@ -1,0 +1,104 @@
+{
+  "name": "Nairobi",
+  "type": "County",
+  "code": "47",
+  "subcounties": {
+    "0": {
+      "name": "Dagoretti",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Embakasi",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kamukunji",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Kasarani",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Kibra",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Lang'ata",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Makadara",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Mathare",
+      "type": "Subcounty"
+    },
+    "8": {
+      "name": "Njiru",
+      "type": "Subcounty"
+    },
+    "9": {
+      "name": "Starehe",
+      "type": "Subcounty"
+    },
+    "10": {
+      "name": "Westlands",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "274": {
+      "name": "Westlands"
+    },
+    "275": {
+      "name": "Dagoretti-North"
+    },
+    "276": {
+      "name": "Dagoretti-South"
+    },
+    "277": {
+      "name": "Langata"
+    },
+    "278": {
+      "name": "Kibra"
+    },
+    "279": {
+      "name": "Roysambu"
+    },
+    "280": {
+      "name": "Kasarani"
+    },
+    "281": {
+      "name": "Ruaraka"
+    },
+    "282": {
+      "name": "Embakasi-South"
+    },
+    "283": {
+      "name": "Embakasi-North"
+    },
+    "284": {
+      "name": "Embakasi-Central"
+    },
+    "285": {
+      "name": "Embakasi-East"
+    },
+    "286": {
+      "name": "Embakasi-West"
+    },
+    "287": {
+      "name": "Makadara"
+    },
+    "288": {
+      "name": "Kamukunji"
+    },
+    "289": {
+      "name": "Starehe"
+    },
+    "290": {
+      "name": "Mathare"
+    }
+  }
+}

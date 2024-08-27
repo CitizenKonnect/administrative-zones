@@ -1,0 +1,66 @@
+{
+  "name": "Kilifi",
+  "type": "County",
+  "code": "3",
+  "subcounties": {
+    "0": {
+      "name": "Chonyi",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Ganze",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kaloleni",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Kauma",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Kilifi North",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Kilifi South",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Magarini",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Malindi",
+      "type": "Subcounty"
+    },
+    "8": {
+      "name": "Rabai",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "11": {
+      "name": "Kilifi-North"
+    },
+    "12": {
+      "name": "Kilifi-South"
+    },
+    "13": {
+      "name": "Kaloleni"
+    },
+    "14": {
+      "name": "Rabai"
+    },
+    "15": {
+      "name": "Ganze"
+    },
+    "16": {
+      "name": "Malindi"
+    },
+    "17": {
+      "name": "Magarini"
+    }
+  }
+}

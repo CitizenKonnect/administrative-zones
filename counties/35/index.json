@@ -1,0 +1,51 @@
+{
+  "name": "Kericho",
+  "type": "County",
+  "code": "35",
+  "subcounties": {
+    "0": {
+      "name": "Belgut",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Bureti",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kericho East",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Kipkelion",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Londiani(incl. Mau Forest, Tinderet\n                    Forest)",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Soin Sigowet",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "188": {
+      "name": "Kipkelion-East"
+    },
+    "189": {
+      "name": "Kipkelion-West"
+    },
+    "190": {
+      "name": "Ainamoi"
+    },
+    "191": {
+      "name": "Bureti"
+    },
+    "192": {
+      "name": "Belgut"
+    },
+    "193": {
+      "name": "Soin"
+    }
+  }
+}

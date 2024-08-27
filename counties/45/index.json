@@ -1,0 +1,80 @@
+{
+  "name": "Kisii",
+  "type": "County",
+  "code": "45",
+  "subcounties": {
+    "0": {
+      "name": "Etago",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Gucha",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Gucha South",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Kenyenya",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Kisii Central",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Kisii South",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Kitutu Central",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Marani",
+      "type": "Subcounty"
+    },
+    "8": {
+      "name": "Masaba South",
+      "type": "Subcounty"
+    },
+    "9": {
+      "name": "Nyamache",
+      "type": "Subcounty"
+    },
+    "10": {
+      "name": "Sameta",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "261": {
+      "name": "Bonchari"
+    },
+    "262": {
+      "name": "South-Mugirango"
+    },
+    "263": {
+      "name": "Bomachoge-Borabu"
+    },
+    "264": {
+      "name": "Bobasi"
+    },
+    "265": {
+      "name": "Bomachoge-Chache"
+    },
+    "266": {
+      "name": "Nyaribari-Masaba"
+    },
+    "267": {
+      "name": "Nyaribari-Chache"
+    },
+    "268": {
+      "name": "KitutuChache-North"
+    },
+    "269": {
+      "name": "KitutuChache-South"
+    }
+  }
+}

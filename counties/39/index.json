@@ -1,0 +1,72 @@
+{
+  "name": "Bungoma",
+  "type": "County",
+  "code": "39",
+  "subcounties": {
+    "0": {
+      "name": "Bumula",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Bungoma Central",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Bungoma East",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Bungoma North",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Bungoma South",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Bungoma West",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Cheptais",
+      "type": "Subcounty"
+    },
+    "7": {
+      "name": "Kimilili-Bungoma",
+      "type": "Subcounty"
+    },
+    "8": {
+      "name": "Mount Elgon",
+      "type": "Subcounty"
+    },
+    "9": {
+      "name": "Mount Elgon National Park",
+      "type": "National Park"
+    },
+    "10": {
+      "name": "Tongaren",
+      "type": "Subcounty"
+    },
+    "11": {
+      "name": "Webuye West",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "211": {
+      "name": "Vihiga"
+    },
+    "212": {
+      "name": "Sabatia"
+    },
+    "213": {
+      "name": "Hamisi"
+    },
+    "214": {
+      "name": "Luanda"
+    },
+    "215": {
+      "name": "Emuhaya"
+    }
+  }
+}

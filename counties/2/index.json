@@ -1,0 +1,41 @@
+{
+  "name": "Kwale",
+  "type": "County",
+  "code": "2",
+  "subcounties": {
+    "0": {
+      "name": "Kinango",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Lunga Lunga",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Matuga",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Msambweni",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Samburu-Kwale",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "10": {
+      "name": "Kinango"
+    },
+    "7": {
+      "name": "Msambweni"
+    },
+    "8": {
+      "name": "LungaLunga"
+    },
+    "9": {
+      "name": "Matuga"
+    }
+  }
+}

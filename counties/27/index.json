@@ -1,0 +1,51 @@
+{
+  "name": "Uasin Gishu",
+  "type": "County",
+  "code": "27",
+  "subcounties": {
+    "0": {
+      "name": "Ainabkoi",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Kapseret",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Kesses",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Moiben",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Soy",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Turbo",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "141": {
+      "name": "Soy"
+    },
+    "142": {
+      "name": "Turbo"
+    },
+    "143": {
+      "name": "Moiben"
+    },
+    "144": {
+      "name": "Ainabkoi"
+    },
+    "145": {
+      "name": "Kapseret"
+    },
+    "146": {
+      "name": "Kesses"
+    }
+  }
+}

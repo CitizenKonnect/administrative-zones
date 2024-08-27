@@ -1,0 +1,55 @@
+{
+  "name": "Garissa",
+  "type": "County",
+  "code": "7",
+  "subcounties": {
+    "0": {
+      "name": "Balambala",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Dadaab",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Fafi",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Garissa",
+      "type": "Subcounty"
+    },
+    "4": {
+      "name": "Hulugho",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Ijara",
+      "type": "Subcounty"
+    },
+    "6": {
+      "name": "Lagdera",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "27": {
+      "name": "Garissa-Township"
+    },
+    "28": {
+      "name": "Balambala"
+    },
+    "29": {
+      "name": "Lagdera"
+    },
+    "30": {
+      "name": "Dadaab"
+    },
+    "31": {
+      "name": "Fafi"
+    },
+    "32": {
+      "name": "Ijara"
+    }
+  }
+}

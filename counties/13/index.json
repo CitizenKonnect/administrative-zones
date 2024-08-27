@@ -1,0 +1,42 @@
+{
+  "name": "Tharaka-Nithi",
+  "type": "County",
+  "code": "13",
+  "subcounties": {
+    "0": {
+      "name": "Igambang'ombe",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Maara",
+      "type": "Subcounty"
+    },
+    "2": {
+      "name": "Meru South",
+      "type": "Subcounty"
+    },
+    "3": {
+      "name": "Mount Kenya National Park",
+      "type": "National Park"
+    },
+    "4": {
+      "name": "Tharaka North",
+      "type": "Subcounty"
+    },
+    "5": {
+      "name": "Tharaka South",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "60": {
+      "name": "Maara"
+    },
+    "61": {
+      "name": "Chuka-Igambangombe"
+    },
+    "62": {
+      "name": "Tharaka"
+    }
+  }
+}

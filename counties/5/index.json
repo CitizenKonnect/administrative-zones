@@ -1,0 +1,23 @@
+{
+  "name": "Lamu",
+  "type": "County",
+  "code": "5",
+  "subcounties": {
+    "0": {
+      "name": "Lamu East",
+      "type": "Subcounty"
+    },
+    "1": {
+      "name": "Lamu West",
+      "type": "Subcounty"
+    }
+  },
+  "constituencies": {
+    "21": {
+      "name": "Lamu-East"
+    },
+    "22": {
+      "name": "Lamu-West"
+    }
+  }
+}

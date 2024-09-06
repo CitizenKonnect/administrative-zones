@@ -1,0 +1,4052 @@
+[
+    {
+        "id": "4480",
+        "number": "1",
+        "key": "ABERDARE TTC",
+        "name": "ABERDARE TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1119",
+        "number": "2",
+        "key": "AIU",
+        "name": "AFRICA INTERNATIONAL UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1078",
+        "number": "3",
+        "key": "ANU",
+        "name": "AFRICA NAZARENE UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1615",
+        "number": "4",
+        "key": "ASM TTI",
+        "name": "AHMED SHAHAME MWIDANI TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1510",
+        "number": "5",
+        "key": "ALDAITTI",
+        "name": "ALDAI TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1600",
+        "number": "6",
+        "key": "AU",
+        "name": "ALUPE UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4665",
+        "number": "7",
+        "key": "ALUPE UNIVERSITY TVET INSTITUTE",
+        "name": "ALUPE UNIVERSITY TVET INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "4275",
+        "number": "8",
+        "key": "AMIU",
+        "name": "AMREF INTERNATIONAL UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "4515",
+        "number": "9",
+        "key": "ASUMBI TTC",
+        "name": "ASUMBI TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1760",
+        "number": "10",
+        "key": "BAHATI IBAS",
+        "name": "BAHATI INSTITUTE OF BUSINESS AND ADMINISTRATION STUDIES",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4290",
+        "number": "11",
+        "key": "BMA",
+        "name": "BANDARI MARITIME ACADEMY",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "1054",
+        "number": "12",
+        "key": "BARINGO TC",
+        "name": "BARINGO TECHNICAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4115",
+        "number": "13",
+        "key": "BELGUT TVC",
+        "name": "BELGUT TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4510",
+        "number": "14",
+        "key": "BISHOP MAHON TTC",
+        "name": "BISHOP MAHON TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4335",
+        "number": "15",
+        "key": "BOMET TVC",
+        "name": "BOMET TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1700",
+        "number": "16",
+        "key": "BUC",
+        "name": "BOMET UNIVERSITY COLLEGE",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4560",
+        "number": "17",
+        "key": "BONDO TTC",
+        "name": "BONDO TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1465",
+        "number": "18",
+        "key": "BONDO TTI",
+        "name": "BONDO TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4485",
+        "number": "19",
+        "key": "BORABU TTC",
+        "name": "BORABU TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3735",
+        "number": "20",
+        "key": "BORABU TVC",
+        "name": "BORABU TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1605",
+        "number": "21",
+        "key": "BAC",
+        "name": "BUKURA AGRICULTURAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "1110",
+        "number": "22",
+        "key": "BUMBE TTI",
+        "name": "BUMBE TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3975",
+        "number": "23",
+        "key": "BUNGOMA NORTH TVC",
+        "name": "BUNGOMA NORTH TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3740",
+        "number": "24",
+        "key": "BUNYALA TVC",
+        "name": "BUNYALA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4520",
+        "number": "25",
+        "key": "BUNYORE TTC",
+        "name": "BUNYORE TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1675",
+        "number": "26",
+        "key": "BURETI TTI",
+        "name": "BURETI TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1190",
+        "number": "27",
+        "key": "BUSHIANGALA TTI",
+        "name": "BUSHIANGALA TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3710",
+        "number": "28",
+        "key": "BUTERE TVC",
+        "name": "BUTERE TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5150",
+        "number": "29",
+        "key": "BUTULA TVC",
+        "name": "BUTULA TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1480",
+        "number": "30",
+        "key": "CUEA",
+        "name": "CATHOLIC UNIVERSITY OF EASTERN  AFRICA",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1780",
+        "number": "31",
+        "key": "CTTR",
+        "name": "CENTRE FOR TOURISM TRAINING AND RESEARCH",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "4055",
+        "number": "32",
+        "key": "CHAMASIRI TVC",
+        "name": "CHAMASIRI TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4270",
+        "number": "33",
+        "key": "CHANZEYWE TVC",
+        "name": "CHANZEYWE TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4220",
+        "number": "34",
+        "key": "CHEPALUNGU TTI",
+        "name": "CHEPALUNGU TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3937",
+        "number": "35",
+        "key": "CHEPSIREI TVC",
+        "name": "CHEPSIREI TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4265",
+        "number": "36",
+        "key": "CHERANGANY TVC",
+        "name": "CHERANGANY TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4440",
+        "number": "37",
+        "key": "CHESTA TTC",
+        "name": "CHESTA TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5240",
+        "number": "38",
+        "key": "CHEVAYWA TVC",
+        "name": "CHEVAYWA  TECHCHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3695",
+        "number": "39",
+        "key": "CHUKA TVC",
+        "name": "CHUKA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1105",
+        "number": "40",
+        "key": "CU",
+        "name": "CHUKA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5320",
+        "number": "41",
+        "key": "CU TVET - IGEMBE",
+        "name": "CHUKA UNIVERSITY TVET - IGEMBE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "1080",
+        "number": "42",
+        "key": "COPUK",
+        "name": "CO-OPERATIVE UNIVERSITY OF KENYA",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1067",
+        "number": "43",
+        "key": "CIT",
+        "name": "COAST INSTITUTE OF TECHNOLOGY",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3720",
+        "number": "44",
+        "key": "DAVID M WAMBULI TVC",
+        "name": "DAVID M WAMBULI TECHNICAL VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1162",
+        "number": "45",
+        "key": "DAYSTAR",
+        "name": "DAYSTAR UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1173",
+        "number": "46",
+        "key": "DKUT",
+        "name": "DEDAN KIMATHI UNIVERSITY OF TECHNOLOGY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4160",
+        "number": "47",
+        "key": "DR. DANIEL WAKO MURENDE TVC",
+        "name": "DR. DANIEL WAKO MURENDE TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1535",
+        "number": "48",
+        "key": "EASA",
+        "name": "EAST AFRICAN SCHOOL OF AVIATION",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "4100",
+        "number": "49",
+        "key": "EBUKANGA TVC",
+        "name": "EBUKANGA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1057",
+        "number": "50",
+        "key": "EU",
+        "name": "EGERTON UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4435",
+        "number": "51",
+        "key": "EGOJI TTC",
+        "name": "EGOJI TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1645",
+        "number": "52",
+        "key": "EKERUBO GIETAI TTI",
+        "name": "EKERUBO GIETAI TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3925",
+        "number": "53",
+        "key": "ELDAMA RAVINE TVC",
+        "name": "ELDAMA RAVINE TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5190",
+        "number": "54",
+        "key": "ELDAS TTC",
+        "name": "ELDAS TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1237",
+        "number": "55",
+        "key": "ELDO POLY",
+        "name": "ELDORET POLYTECHNIC",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4260",
+        "number": "56",
+        "key": "ELWAK TVC",
+        "name": "ELWAK TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4375",
+        "number": "57",
+        "key": "EMGWEN TVC",
+        "name": "EMGWEN TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1245",
+        "number": "58",
+        "key": "EMINING TTI",
+        "name": "EMINING TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3745",
+        "number": "59",
+        "key": "EMSOS TVC",
+        "name": "EMSOS TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4080",
+        "number": "60",
+        "key": "EMURUA DIKIRR TTI",
+        "name": "EMURUA DIKIRR TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3700",
+        "number": "61",
+        "key": "ENDEBESS TTI",
+        "name": "ENDEBESS TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4570",
+        "number": "62",
+        "key": "FAYYA TVC",
+        "name": "FAYYA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1051",
+        "number": "63",
+        "key": "FCK",
+        "name": "FRIENDS COLLEGE KAIMOSI",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4525",
+        "number": "64",
+        "key": "GALANA TTC",
+        "name": "GALANA TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4580",
+        "number": "65",
+        "key": "GARISSA TTC",
+        "name": "GARISSA TEACHERS TRAINING  COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1096",
+        "number": "66",
+        "key": "GU",
+        "name": "GARISSA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3730",
+        "number": "67",
+        "key": "GATANGA TVC",
+        "name": "GATANGA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3965",
+        "number": "68",
+        "key": "GATUNDU SOUTH TVC",
+        "name": "GATUNDU SOUTH TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5280",
+        "number": "69",
+        "key": "GILGIL TVC",
+        "name": "GILGIL TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5135",
+        "number": "70",
+        "key": "GITHUNGURI TVC",
+        "name": "GITHUNGURI TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3750",
+        "number": "71",
+        "key": "GITWEBE TTI",
+        "name": "GITWEBE TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1565",
+        "number": "72",
+        "key": "GODOMA TTI",
+        "name": "GODOMA TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1192",
+        "number": "73",
+        "key": "GLUK",
+        "name": "GREAT LAKES UNIVERSITY OF KISUMU",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1088",
+        "number": "74",
+        "key": "GRETSA",
+        "name": "GRETSA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "4540",
+        "number": "75",
+        "key": "HEROES TVC",
+        "name": "HEROES TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4195",
+        "number": "76",
+        "key": "IJARA TVC",
+        "name": "IJARA TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4225",
+        "number": "77",
+        "key": "IKUTHA TVC",
+        "name": "IKUTHA TECHNICAL  AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1225",
+        "number": "78",
+        "key": "ILU",
+        "name": "INTERNATIONAL LEADERSHIP UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "3895",
+        "number": "79",
+        "key": "IUK",
+        "name": "ISLAMIC UNIVERSITY OF KENYA",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1053",
+        "number": "80",
+        "key": "JOOUST",
+        "name": "JARAMOGI OGINGA ODINGA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1071",
+        "number": "81",
+        "key": "JEREMIAH NYAGAH TI",
+        "name": "JEREMIAH NYAGAH TECHNICAL INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1249",
+        "number": "82",
+        "key": "JKUAT",
+        "name": "JOMO KENYATTA UNIVERSITY OF AGRICULTURE AND TECHNOLOGY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4610",
+        "number": "83",
+        "key": "JKUAT TI",
+        "name": "JOMO KENYATTA UNIVERSITY OF AGRICULTURE AND TECHNOLOGY TVET INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "1061",
+        "number": "84",
+        "key": "KABU",
+        "name": "KABARAK UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1064",
+        "number": "85",
+        "key": "KABETE POLY",
+        "name": "KABETE NATIONAL POLYTECHNIC",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4035",
+        "number": "86",
+        "key": "KAELO TTI",
+        "name": "KAELO TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1399",
+        "number": "87",
+        "key": "KAGUMO TTC",
+        "name": "KAGUMO TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1099",
+        "number": "88",
+        "key": "KAIBOI POLY",
+        "name": "KAIBOI NATIONAL POLYTECHNIC",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1470",
+        "number": "89",
+        "key": "KAFU",
+        "name": "KAIMOSI FRIENDS UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4425",
+        "number": "90",
+        "key": "KAIMOSI TTC",
+        "name": "KAIMOSI TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4350",
+        "number": "91",
+        "key": "KAJIADO EAST TVC",
+        "name": "KAJIADO EAST TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3755",
+        "number": "92",
+        "key": "KAJIADO WEST TVC",
+        "name": "KAJIADO WEST TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4215",
+        "number": "93",
+        "key": "KAKRAO TVC",
+        "name": "KAKRAO TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5285",
+        "number": "94",
+        "key": "KALOLENI TVC",
+        "name": "KALOLENI TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4175",
+        "number": "95",
+        "key": "KAMUKUNJI TVC",
+        "name": "KAMUKUNJI TECHNICAL VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4455",
+        "number": "96",
+        "key": "KAMWENJA TTC",
+        "name": "KAMWENJA TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4505",
+        "number": "97",
+        "key": "KANDARA TVC",
+        "name": "KANDARA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4675",
+        "number": "98",
+        "key": "KAPCHEPKOR TTI",
+        "name": "KAPCHEPKOR TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "2240",
+        "number": "99",
+        "key": "KAPCHEROP TVC",
+        "name": "KAPCHEROP TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1244",
+        "number": "100",
+        "key": "KARU",
+        "name": "KARATINA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1440",
+        "number": "101",
+        "key": "KAREN TTI",
+        "name": "KAREN TECHNICAL TRAINING INSTITUTE FOR THE DEAF",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1665",
+        "number": "102",
+        "key": "KARUMO TTI",
+        "name": "KARUMO TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3760",
+        "number": "103",
+        "key": "KASARANI TVC",
+        "name": "KASARANI TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5205",
+        "number": "104",
+        "key": "KASNEB",
+        "name": "KASNEB",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "In Other Ministries"
+    },
+    {
+        "id": "1520",
+        "number": "105",
+        "key": "KATINE",
+        "name": "KATINE TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1103",
+        "number": "106",
+        "key": "KCA",
+        "name": "KCA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "3995",
+        "number": "107",
+        "key": "KENDEGE",
+        "name": "KENDEGE TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4605",
+        "number": "108",
+        "key": "KENGEN GEOTHERMAL TC",
+        "name": "KENGEN GEOTHERMAL TRAINING CENTRE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "1555",
+        "number": "109",
+        "key": "KAGEU",
+        "name": "KENYA ASSEMBLIES OF GOD EAST UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1113",
+        "number": "110",
+        "key": "KCNP",
+        "name": "KENYA COAST POLYTECHNIC",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3880",
+        "number": "111",
+        "key": "KFC",
+        "name": "KENYA FORESTRY COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "1169",
+        "number": "112",
+        "key": "KHEU",
+        "name": "KENYA HIGHLANDS EVANGELICAL UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1880",
+        "number": "113",
+        "key": "KITI",
+        "name": "KENYA INDUSTRIAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "1445",
+        "number": "114",
+        "key": "KIHBT",
+        "name": "KENYA INSTITUTE OF HIGHWAYS AND BUILDING TECHNOLOGY",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "1710",
+        "number": "115",
+        "key": "KIMC",
+        "name": "KENYA INSTITUTE OF MASS COMMUNICATION",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "1540",
+        "number": "116",
+        "key": "KISM",
+        "name": "KENYA INSTITUTE OF SURVEYING AND MAPPING",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "4720",
+        "number": "117",
+        "key": "KMTC - BOMET",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - BOMET CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4725",
+        "number": "118",
+        "key": "KMTC - BONDO",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - BONDO CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4730",
+        "number": "119",
+        "key": "KMTC - BUNGOMA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - BUNGOMA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4735",
+        "number": "120",
+        "key": "KMTC - BUSIA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - BUSIA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4740",
+        "number": "121",
+        "key": "KMTC - CHEMOLINGOT",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - CHEMOLINGOT CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4745",
+        "number": "122",
+        "key": "KMTC - CHUKA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - CHUKA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4750",
+        "number": "123",
+        "key": "KMTC - CHWELE",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - CHWELE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4755",
+        "number": "124",
+        "key": "KMTC - ELDORET",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - ELDORET CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4760",
+        "number": "125",
+        "key": "KMTC - EMBU",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - EMBU CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4765",
+        "number": "126",
+        "key": "KMTC - GARISSA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - GARISSA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4775",
+        "number": "127",
+        "key": "KMTC - GATUNDU - MUTUNGURU SATELLITE",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - GATUNDU - MUTUNGURU SATELLITE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4770",
+        "number": "128",
+        "key": "KMTC - GATUNDU",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - GATUNDU CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4780",
+        "number": "129",
+        "key": "KMTC - HOMA BAY",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - HOMA BAY CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4785",
+        "number": "130",
+        "key": "KMTC - IMENTI",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - IMENTI CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4790",
+        "number": "131",
+        "key": "KMTC - ISIOLO",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - ISIOLO CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4795",
+        "number": "132",
+        "key": "KMTC - ITEN",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - ITEN CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4800",
+        "number": "133",
+        "key": "KMTC - KABARNET",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KABARNET CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5175",
+        "number": "134",
+        "key": "KMTC - KAKAMEGA - NAVAKHOLO",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KAKAMEGA - NAVAKHOLO CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4805",
+        "number": "135",
+        "key": "KMTC - KAKAMEGA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KAKAMEGA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4810",
+        "number": "136",
+        "key": "KMTC - KANGUNDO",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KANGUNDO CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4815",
+        "number": "137",
+        "key": "KMTC - KAPENGURIA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KAPENGURIA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4820",
+        "number": "138",
+        "key": "KMTC - KAPKATET",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KAPKATET CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4825",
+        "number": "139",
+        "key": "KMTC - KAPTUMO",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KAPTUMO CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4830",
+        "number": "140",
+        "key": "KMTC - KAREN - NAIROBI",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KAREN - NAIROBI CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4835",
+        "number": "141",
+        "key": "KMTC - KARURI",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KARURI CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4840",
+        "number": "142",
+        "key": "KMTC - KILIFI",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KILIFI CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4845",
+        "number": "143",
+        "key": "KMTC - KISII",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KISII CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4850",
+        "number": "144",
+        "key": "KMTC - KISUMU",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KISUMU CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4855",
+        "number": "145",
+        "key": "KMTC - KITALE",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KITALE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5180",
+        "number": "146",
+        "key": "KMTC - KITUI - MUTOMO",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KITUI - MUTOMO CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4860",
+        "number": "147",
+        "key": "KMTC - KITUI",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KITUI CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4865",
+        "number": "148",
+        "key": "KMTC - KOMBEWA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KOMBEWA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4870",
+        "number": "149",
+        "key": "KMTC - KURIA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KURIA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4875",
+        "number": "150",
+        "key": "KMTC - KWALE",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - KWALE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4880",
+        "number": "151",
+        "key": "KMTC - LAKE VICTORIA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - LAKE VICTORIA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4885",
+        "number": "152",
+        "key": "KMTC - LAMU",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - LAMU CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4890",
+        "number": "153",
+        "key": "KMTC - LODWAR",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - LODWAR CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4895",
+        "number": "154",
+        "key": "KMTC - LOITOKITOK",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - LOITOKITOK CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4900",
+        "number": "155",
+        "key": "KMTC - LUGARI",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - LUGARI CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4905",
+        "number": "156",
+        "key": "KMTC - MACHAKOS",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MACHAKOS CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4910",
+        "number": "157",
+        "key": "KMTC - MAKINDU",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MAKINDU CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4920",
+        "number": "158",
+        "key": "KMTC - MAKUENI - MBUVO SATELLITE",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MAKUENI - MBUVO SATELLITE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4915",
+        "number": "159",
+        "key": "KMTC - MAKUENI",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MAKUENI CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4925",
+        "number": "160",
+        "key": "KMTC - MANDERA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MANDERA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4930",
+        "number": "161",
+        "key": "KMTC - MANZA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MANZA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5310",
+        "number": "162",
+        "key": "KMTC - MARSABIT",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MARSABIT CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4935",
+        "number": "163",
+        "key": "KMTC - MATHARE",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MATHARE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4940",
+        "number": "164",
+        "key": "KMTC - MBOONI",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MBOONI CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4950",
+        "number": "165",
+        "key": "KMTC - MERU - MAUA SATELLITE",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MERU - MAUA SATELLITE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4955",
+        "number": "166",
+        "key": "KMTC - MERU - MIATHENE SATELLITE",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MERU - MIATHENE SATELLITE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4945",
+        "number": "167",
+        "key": "KMTC - MERU",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MERU CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4965",
+        "number": "168",
+        "key": "KMTC - MIGORI - AWENDO SATELLITE",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MIGORI - AWENDO SATELLITE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4960",
+        "number": "169",
+        "key": "KMTC - MIGORI",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MIGORI CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4970",
+        "number": "170",
+        "key": "KMTC - MOLO",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MOLO CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4975",
+        "number": "171",
+        "key": "KMTC - MOMBASA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MOMBASA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4980",
+        "number": "172",
+        "key": "KMTC - MOSORIOT",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MOSORIOT CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4985",
+        "number": "173",
+        "key": "KMTC - MSAMBWENI",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MSAMBWENI CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5220",
+        "number": "174",
+        "key": "KMTC - MURANGA - KANGEMA SATELITE",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MURANGA - KANGEMA SATELITE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4990",
+        "number": "175",
+        "key": "KMTC - MURANGA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MURANGA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "4995",
+        "number": "176",
+        "key": "KMTC - MWINGI",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - MWINGI CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5000",
+        "number": "177",
+        "key": "KMTC - NAIROBI",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - NAIROBI CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5005",
+        "number": "178",
+        "key": "KMTC - NAKURU",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - NAKURU CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5215",
+        "number": "179",
+        "key": "KMTC - NAROK",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - NAROK CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5010",
+        "number": "180",
+        "key": "KMTC - NDHIWA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - NDHIWA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5015",
+        "number": "181",
+        "key": "KMTC - NYAHURURU",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - NYAHURURU CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5020",
+        "number": "182",
+        "key": "KMTC - NYAMACHE",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - NYAMACHE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5025",
+        "number": "183",
+        "key": "KMTC - NYAMIRA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - NYAMIRA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5035",
+        "number": "184",
+        "key": "KMTC - NYANDARUA - KINANGOP SATELLITE",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - NYANDARUA - KINANGOP SATELLITE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5030",
+        "number": "185",
+        "key": "KMTC - NYANDARUA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - NYANDARUA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5040",
+        "number": "186",
+        "key": "KMTC - NYERI",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - NYERI CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5045",
+        "number": "187",
+        "key": "KMTC - OTHAYA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - OTHAYA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5050",
+        "number": "188",
+        "key": "KMTC - PORT REITZ",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - PORT REITZ CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5055",
+        "number": "189",
+        "key": "KMTC - RACHUONYO",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - RACHUONYO CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5060",
+        "number": "190",
+        "key": "KMTC - RERA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - RERA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5065",
+        "number": "191",
+        "key": "KMTC - SHIANDA - MUMIAS",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - SHIANDA - MUMIAS CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5075",
+        "number": "192",
+        "key": "KMTC - SIAYA - UGUNJA SATELLITE",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - SIAYA - UGUNJA SATELLITE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5070",
+        "number": "193",
+        "key": "KMTC - SIAYA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - SIAYA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5080",
+        "number": "194",
+        "key": "KMTC - SIGOWET",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - SIGOWET CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5085",
+        "number": "195",
+        "key": "KMTC - TANA RIVER",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - TANA RIVER CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5090",
+        "number": "196",
+        "key": "KMTC - TAVETA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - TAVETA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5095",
+        "number": "197",
+        "key": "KMTC - TESO",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - TESO CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5100",
+        "number": "198",
+        "key": "KMTC - THIKA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - THIKA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5105",
+        "number": "199",
+        "key": "KMTC - TRANS-MARA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - TRANS MARA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5110",
+        "number": "200",
+        "key": "KMTC - UGENYA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - UGENYA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5115",
+        "number": "201",
+        "key": "KMTC - VIHIGA",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - VIHIGA CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5120",
+        "number": "202",
+        "key": "KMTC - VOI",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - VOI CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5125",
+        "number": "203",
+        "key": "KMTC - WAJIR",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - WAJIR CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "5130",
+        "number": "204",
+        "key": "KMTC - WEBUYE",
+        "name": "KENYA MEDICAL TRAINING COLLEGE - WEBUYE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Health"
+    },
+    {
+        "id": "1077",
+        "number": "205",
+        "key": "KEMU",
+        "name": "KENYA METHODIST UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "3935",
+        "number": "206",
+        "key": "KSA",
+        "name": "KENYA SCHOOL OF AGRICULTURE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "1695",
+        "number": "207",
+        "key": "KESRA",
+        "name": "KENYA SCHOOL OF REVENUE ADMINISTRATION",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "1268",
+        "number": "208",
+        "key": "KTTC",
+        "name": "KENYA TECHNICAL TRAINERS COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "1420",
+        "number": "209",
+        "key": "KEWI",
+        "name": "KENYA WATER INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "1092",
+        "number": "210",
+        "key": "KWSTI",
+        "name": "KENYA WILDLIFE SERVICE TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "1111",
+        "number": "211",
+        "key": "KU",
+        "name": "KENYATTA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1580",
+        "number": "212",
+        "key": "MNUC",
+        "name": "KENYATTA UNIVERSITY - MAMA NGINA UNIVERSITY COLLEGE",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5260",
+        "number": "213",
+        "key": "KU TVET - KITUI",
+        "name": "KENYATTA UNIVERSITY TVET - KITUI",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "5245",
+        "number": "214",
+        "key": "KU TVET - MAIN CAMPUS",
+        "name": "KENYATTA UNIVERSITY TVET - MAIN CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "5250",
+        "number": "215",
+        "key": "KU TVET - MOMBASA",
+        "name": "KENYATTA UNIVERSITY TVET - MOMBASA",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "5255",
+        "number": "216",
+        "key": "KU TVET - NAKURU",
+        "name": "KENYATTA UNIVERSITY TVET - NAKURU",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "4460",
+        "number": "217",
+        "key": "KENYENYA TTC",
+        "name": "KENYENYA TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4395",
+        "number": "218",
+        "key": "KERICHO TTC",
+        "name": "KERICHO TEACHERS' COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4110",
+        "number": "219",
+        "key": "KERICHO TOWNSHIP TVC",
+        "name": "KERICHO TOWNSHIP TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4360",
+        "number": "220",
+        "key": "KERIO VALLEY TVC",
+        "name": "KERIO VALLEY TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1227",
+        "number": "221",
+        "key": "KEROKA TTI",
+        "name": "KEROKA TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5160",
+        "number": "222",
+        "key": "KHWISERO TVC",
+        "name": "KHWISERO TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1075",
+        "number": "223",
+        "key": "KIST",
+        "name": "KIAMBU INSTITUTE OF SCIENCE AND TECHNOLOGY",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1400",
+        "number": "224",
+        "key": "KIBABII TTC",
+        "name": "KIBABII DIPLOMA TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1108",
+        "number": "225",
+        "key": "KBBU",
+        "name": "KIBABII UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4190",
+        "number": "226",
+        "key": "KIBWEZI TVC",
+        "name": "KIBWEZI TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3915",
+        "number": "227",
+        "key": "KIENI TVC",
+        "name": "KIENI TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4630",
+        "number": "228",
+        "key": "KIGUMO TTI",
+        "name": "KIGUMO TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5210",
+        "number": "229",
+        "key": "KIHARU TVC",
+        "name": "KIHARU TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1048",
+        "number": "230",
+        "key": "KIIRUA TTI",
+        "name": "KIIRUA TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5355",
+        "number": "231",
+        "key": "KILGORIS TVC",
+        "name": "KILGORIS TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3920",
+        "number": "232",
+        "key": "KIMASIAN TVC",
+        "name": "KIMASIAN TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3930",
+        "number": "233",
+        "key": "KIMININI TVC",
+        "name": "KIMININI TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3970",
+        "number": "234",
+        "key": "KINANGO TVC",
+        "name": "KINANGO TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4040",
+        "number": "235",
+        "key": "KINANGOP TVC",
+        "name": "KINANGOP TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3765",
+        "number": "236",
+        "key": "KIPIPIRI TVC",
+        "name": "KIPIPIRI TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3770",
+        "number": "237",
+        "key": "KIPKABUS TVC",
+        "name": "KIPKABUS TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3725",
+        "number": "238",
+        "key": "KIPSINENDE  TVC",
+        "name": "KIPSINENDE TECHNICAL VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3938",
+        "number": "239",
+        "key": "KIPSOEN TVC",
+        "name": "KIPSOEN TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3936",
+        "number": "240",
+        "key": "KIPTARAGONTVC",
+        "name": "KIPTARAGON TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5170",
+        "number": "241",
+        "key": "KIRINYAGA CENTRAL TVC",
+        "name": "KIRINYAGA CENTRAL TECHNICAL& VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1079",
+        "number": "242",
+        "key": "KYU",
+        "name": "KIRINYAGA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1460",
+        "number": "243",
+        "key": "KWUST",
+        "name": "KIRIRI WOMENS UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1065",
+        "number": "244",
+        "key": "KSI POLY",
+        "name": "KISII NATIONAL POLYTECHNIC",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1087",
+        "number": "245",
+        "key": "KSU",
+        "name": "KISII UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4595",
+        "number": "246",
+        "key": "KISII UNIVERSITY TI",
+        "name": "KISII UNIVERSITY TVET INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "1085",
+        "number": "247",
+        "key": "KISTVC",
+        "name": "KISIWA TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4165",
+        "number": "248",
+        "key": "KICDT",
+        "name": "KISUMU INSTITUTE OF COMMUNITY DEVELOPMENT TRAINING",
+        "category": "College",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1074",
+        "number": "249",
+        "key": "KSM POLY",
+        "name": "KISUMU POLYTECHNIC",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1101",
+        "number": "250",
+        "key": "KITALE NP",
+        "name": "KITALE NATIONAL POLYTECHNIC",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4255",
+        "number": "251",
+        "key": "KITELAKAPEL TTI",
+        "name": "KITELAKAPEL TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5345",
+        "number": "252",
+        "key": "KITUI EAST TVC",
+        "name": "KITUI EAST TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5340",
+        "number": "253",
+        "key": "KITUI TC",
+        "name": "KITUI TEACHERS TECHNICAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4550",
+        "number": "254",
+        "key": "KITUI TTC",
+        "name": "KITUI TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5200",
+        "number": "255",
+        "key": "KITUTU CHACHE  TVC",
+        "name": "KITUTU CHACHE  TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4310",
+        "number": "256",
+        "key": "KITUTU MASABA TVC",
+        "name": "KITUTU MASABA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3890",
+        "number": "257",
+        "key": "KSUC",
+        "name": "KOITALEEL SAMOEI UNIVERSITY COLLEGE",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4020",
+        "number": "258",
+        "key": "KONGONI TVC",
+        "name": "KONGONI TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1925",
+        "number": "259",
+        "key": "KONOIN TTI",
+        "name": "KONOIN TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1655",
+        "number": "260",
+        "key": "KOSHIN TTI",
+        "name": "KOSHIN TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4535",
+        "number": "261",
+        "key": "KWALE TTC",
+        "name": "KWALE TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3775",
+        "number": "262",
+        "key": "LAIKIPIA EAST TVC",
+        "name": "LAIKIPIA EAST TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3780",
+        "number": "263",
+        "key": "LAIKIPIA NORTH TVC",
+        "name": "LAIKIPIA NORTH TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1176",
+        "number": "264",
+        "key": "LU",
+        "name": "LAIKIPIA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4650",
+        "number": "265",
+        "key": "LAIKIPIA UNIVERSITY TI",
+        "name": "LAIKIPIA UNIVERSITY TVET INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "5195",
+        "number": "266",
+        "key": "LAIKIPIA WEST TVC",
+        "name": "LAIKIPIA WEST TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3705",
+        "number": "267",
+        "key": "LAISAMIS TVC",
+        "name": "LAISAMIS TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5230",
+        "number": "268",
+        "key": "LAMU EAST TVC",
+        "name": "LAMU EAST TECHCHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5140",
+        "number": "269",
+        "key": "LANGATA TVC",
+        "name": "LANGATA TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4015",
+        "number": "270",
+        "key": "LARI TVC",
+        "name": "LARI TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4590",
+        "number": "271",
+        "key": "LIKONI TVC",
+        "name": "LIKONI TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4280",
+        "number": "272",
+        "key": "LIMURU TVC",
+        "name": "LIMURU  TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3980",
+        "number": "273",
+        "key": "LODWAR TVC",
+        "name": "LODWAR TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1410",
+        "number": "274",
+        "key": "LUGARI TTC",
+        "name": "LUGARI DIPLOMA TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1495",
+        "number": "275",
+        "key": "LUKENYA",
+        "name": "LUKENYA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "4300",
+        "number": "276",
+        "key": "LUNGA LUNGA TVC",
+        "name": "LUNGA LUNGA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1625",
+        "number": "277",
+        "key": "MMTVC",
+        "name": "MAASAI MARA TECHNICAL VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1165",
+        "number": "278",
+        "key": "MMARAU",
+        "name": "MAASAI MARA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5350",
+        "number": "279",
+        "key": "MAASAI MARA UNIVERSITY TI",
+        "name": "MAASAI MARA UNIVERSITY TVET INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "3985",
+        "number": "280",
+        "key": "MABERA TVC",
+        "name": "MABERA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4475",
+        "number": "281",
+        "key": "MACHAKOS TTC",
+        "name": "MACHAKOS TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1505",
+        "number": "282",
+        "key": "MTIB",
+        "name": "MACHAKOS TECHNICAL INSTITUTE FOR THE BLIND",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5335",
+        "number": "283",
+        "key": "MACHAKOS TOWNSHIP TVC",
+        "name": "MACHAKOS TOWN TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1170",
+        "number": "284",
+        "key": "MCKU",
+        "name": "MACHAKOS UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4645",
+        "number": "285",
+        "key": "MAMA NGINA UNIVERSITY COLLEGE",
+        "name": "MAMA NGINA UNIVERSITY COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "1066",
+        "number": "286",
+        "key": "MUA",
+        "name": "MANAGEMENT UNIVERSITY OF AFRICA",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "4445",
+        "number": "287",
+        "key": "MANDERA TTC",
+        "name": "MANDERA TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3785",
+        "number": "288",
+        "key": "MANDERA TTI",
+        "name": "MANDERA TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4385",
+        "number": "289",
+        "key": "MANYATTA TVC",
+        "name": "MANYATTA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1530",
+        "number": "290",
+        "key": "MARIST",
+        "name": "MARIST INTERNATIONAL UNIVERSITY COLLEGE",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1081",
+        "number": "291",
+        "key": "MASAI TTI",
+        "name": "MASAI TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1229",
+        "number": "292",
+        "key": "MSU",
+        "name": "MASENO UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1082",
+        "number": "293",
+        "key": "MMUST",
+        "name": "MASINDE MULIRO UNIVERSITY OF SCIENCE & TECHNOLOGY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "2560",
+        "number": "294",
+        "key": "MASINGA TVC",
+        "name": "MASINGA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1072",
+        "number": "295",
+        "key": "MATHENGE TTI",
+        "name": "MATHENGE TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1950",
+        "number": "296",
+        "key": "MATHIOYA TVC",
+        "name": "MATHIOYA TECHNICAL VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3790",
+        "number": "297",
+        "key": "MATHIRA TVC",
+        "name": "MATHIRA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1307",
+        "number": "298",
+        "key": "MATILI TTI",
+        "name": "MATILI TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1560",
+        "number": "299",
+        "key": "MAWEGO TTI",
+        "name": "MAWEGO TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4700",
+        "number": "300",
+        "key": "MBEERE NORTH TVC",
+        "name": "MBEERE NORTH TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4230",
+        "number": "301",
+        "key": "MERTI TTI",
+        "name": "MERTI TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1083",
+        "number": "302",
+        "key": "MERU POLY",
+        "name": "MERU NATIONAL POLYTECHNIC",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4405",
+        "number": "303",
+        "key": "MERU TTC",
+        "name": "MERU TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1240",
+        "number": "304",
+        "key": "MUST",
+        "name": "MERU UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1382",
+        "number": "305",
+        "key": "MICHUKI TTI",
+        "name": "MICHUKI TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4555",
+        "number": "306",
+        "key": "MIGORI TTC",
+        "name": "MIGORI TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1450",
+        "number": "307",
+        "key": "MITUNGUU TTI",
+        "name": "MITUNGUU TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4070",
+        "number": "308",
+        "key": "MOCHONGOI TVC",
+        "name": "MOCHONGOI TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4495",
+        "number": "309",
+        "key": "MOI TEACHERS COLLEGE - BARINGO",
+        "name": "MOI TEACHERS COLLEGE - BARINGO",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1253",
+        "number": "310",
+        "key": "MU",
+        "name": "MOI UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5295",
+        "number": "311",
+        "key": "MU TVET INSTITUTE",
+        "name": "MOI UNIVERSITY TVET INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "1735",
+        "number": "312",
+        "key": "MOIBEN TVC",
+        "name": "MOIBEN TECHNICAL VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4330",
+        "number": "313",
+        "key": "MOLO TVC",
+        "name": "MOLO TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4365",
+        "number": "314",
+        "key": "MORENDAT",
+        "name": "MORENDAT INSTITUTE OF OIL AND GAS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "4490",
+        "number": "315",
+        "key": "MOSORIOT TTC",
+        "name": "MOSORIOT TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1279",
+        "number": "316",
+        "key": "MKU",
+        "name": "MOUNT KENYA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "4185",
+        "number": "317",
+        "key": "MSAMBWENI TVC",
+        "name": "MSAMBWENI TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1277",
+        "number": "318",
+        "key": "MUKIRIA TTI",
+        "name": "MUKIRIA TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1490",
+        "number": "319",
+        "key": "MUKURWEINI TTI",
+        "name": "MUKURWEINI TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "2660",
+        "number": "320",
+        "key": "MULANGO TVC",
+        "name": "MULANGO TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1164",
+        "number": "321",
+        "key": "MMU",
+        "name": "MULTIMEDIA UNIVERSITY OF KENYA",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3835",
+        "number": "322",
+        "key": "MUMIAS WEST TVC",
+        "name": "MUMIAS WEST TECHNICAL VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4315",
+        "number": "323",
+        "key": "MUNGATSI TVC",
+        "name": "MUNGATSI TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3795",
+        "number": "324",
+        "key": "MURAGA TVC",
+        "name": "MURAGA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4465",
+        "number": "325",
+        "key": "MURANG'A TTC",
+        "name": "MURANG'A TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4295",
+        "number": "326",
+        "key": "MURANGA TTI",
+        "name": "MURANG'A TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1246",
+        "number": "327",
+        "key": "MUT",
+        "name": "MURANG'A UNIVERSITY OF TECHNOLOGY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4585",
+        "number": "328",
+        "key": "MURANG'A UNIVERSITY TI",
+        "name": "MURANG'A UNIVERSITY OF TECHNOLOGY TVET INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "1405",
+        "number": "329",
+        "key": "MUSAKASA TTI",
+        "name": "MUSAKASA TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4325",
+        "number": "330",
+        "key": "MWALA TVC",
+        "name": "MWALA TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5275",
+        "number": "331",
+        "key": "MWATATE TVC",
+        "name": "MWATATE TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4205",
+        "number": "332",
+        "key": "MWEA TVC",
+        "name": "MWEA  TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3800",
+        "number": "333",
+        "key": "NACHU TVC",
+        "name": "NACHU TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1044",
+        "number": "334",
+        "key": "NAIROBI TTI",
+        "name": "NAIROBI TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1730",
+        "number": "335",
+        "key": "NAIVASHA TVC",
+        "name": "NAIVASHA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5325",
+        "number": "336",
+        "key": "NAROK SOUTH TVC",
+        "name": "NAROK SOUTH TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4420",
+        "number": "337",
+        "key": "NAROK TTC",
+        "name": "NAROK TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "2000",
+        "number": "338",
+        "key": "NAROK  WEST TTI",
+        "name": "NAROK WEST TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4345",
+        "number": "339",
+        "key": "NAVAKHOLO TVC",
+        "name": "NAVAKHOLO TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4250",
+        "number": "340",
+        "key": "NDARAGWA TVC",
+        "name": "NDARAGWA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3805",
+        "number": "341",
+        "key": "NDIA TVC",
+        "name": "NDIA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4060",
+        "number": "342",
+        "key": "NGONG TVC",
+        "name": "NGONG TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4670",
+        "number": "343",
+        "key": "NJORO TTI",
+        "name": "NJORO TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1052",
+        "number": "344",
+        "key": "NKABUNE TTI",
+        "name": "NKABUNE TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1230",
+        "number": "345",
+        "key": "NEPOLY",
+        "name": "NORTH EASTERN NATIONAL POLYTECHNIC",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4200",
+        "number": "346",
+        "key": "NORTH HORR TVC",
+        "name": "NORTH HORR TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5185",
+        "number": "347",
+        "key": "NORTH RIFT TVC",
+        "name": "NORTH RIFT TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "2775",
+        "number": "348",
+        "key": "NUU TVC",
+        "name": "NUU TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3950",
+        "number": "349",
+        "key": "NYAKACH TVC",
+        "name": "NYAKACH TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1228",
+        "number": "350",
+        "key": "NYANDARUA POLY",
+        "name": "NYANDARUA NATIONAL POLYTECHNIC",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1239",
+        "number": "351",
+        "key": "NYERI POLY",
+        "name": "NYERI NATIONAL POLYTECHNIC",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3810",
+        "number": "352",
+        "key": "OKAME TVC",
+        "name": "OKAME TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5300",
+        "number": "353",
+        "key": "OL KALOU TVC",
+        "name": "OL KALOU TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1104",
+        "number": "354",
+        "key": "OL'LESSOS TTI",
+        "name": "OL'LESSOS TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3960",
+        "number": "355",
+        "key": "OMUGA TVC",
+        "name": "OMUGA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5145",
+        "number": "356",
+        "key": "OUK",
+        "name": "OPEN UNIVERSITY OF KENYA",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4145",
+        "number": "357",
+        "key": "OROGARE TVC",
+        "name": "OROGARE TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1068",
+        "number": "358",
+        "key": "PAC",
+        "name": "PAN AFRICA CHRISTIAN UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1076",
+        "number": "359",
+        "key": "PCKINYANJUI TTI",
+        "name": "PC KINYANJUI TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1264",
+        "number": "360",
+        "key": "PIU",
+        "name": "PIONEER INTERNATIONAL UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1196",
+        "number": "361",
+        "key": "PUEA",
+        "name": "PRESBYTERIAN UNIVERSITY OF EAST AFRICA",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1117",
+        "number": "362",
+        "key": "PU",
+        "name": "PWANI UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4370",
+        "number": "363",
+        "key": "RACHUONYO TVC",
+        "name": "RACHUONYO TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1106",
+        "number": "364",
+        "key": "RTI",
+        "name": "RAILWAY TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "1241",
+        "number": "365",
+        "key": "RIAT",
+        "name": "RAMOGI INSTITUTE OF ADVANCE TECHNOLOGY",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3990",
+        "number": "366",
+        "key": "RANGWE TVC",
+        "name": "RANGWE TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5165",
+        "number": "367",
+        "key": "RARIEDA TVC",
+        "name": "RARIEDA TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1550",
+        "number": "368",
+        "key": "RCMRD",
+        "name": "REGIONAL CENTRE FOR MAPPING OF RESOURCES FOR DEVELOPMENT",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "4400",
+        "number": "369",
+        "key": "RIAMO TVC",
+        "name": "RIAMO TECHNICAL VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1060",
+        "number": "370",
+        "key": "RU",
+        "name": "RIARA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "4235",
+        "number": "371",
+        "key": "RIATIRIMBA TVC",
+        "name": "RIATIRIMBA TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1276",
+        "number": "372",
+        "key": "RVIST",
+        "name": "RIFT VALLEY INSTITUTE OF SCIENCE AND TECHNOLOGY",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1100",
+        "number": "373",
+        "key": "RIFT VALLEY TTI",
+        "name": "RIFT VALLEY TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4025",
+        "number": "374",
+        "key": "RIRAGIA TTI",
+        "name": "RIRAGIA TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1073",
+        "number": "375",
+        "key": "RNU",
+        "name": "RONGO UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4680",
+        "number": "376",
+        "key": "RONGO UNIVERSITY TI",
+        "name": "RONGO UNIVERSITY TECHNICAL & VOCATIONAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "4690",
+        "number": "377",
+        "key": "RUIRU TVC",
+        "name": "RUIRU TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3815",
+        "number": "378",
+        "key": "RUNYENJES TVC",
+        "name": "RUNYENJES TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3820",
+        "number": "379",
+        "key": "SABATIA TVC",
+        "name": "SABATIA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3945",
+        "number": "380",
+        "key": "SAMBURU TVC",
+        "name": "SAMBURU TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1090",
+        "number": "381",
+        "key": "SCU",
+        "name": "SCOTT CHRISTIAN UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "4705",
+        "number": "382",
+        "key": "SEKU TI",
+        "name": "SEKU DIRECTORATE OF TVET WOTE CAMPUS",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "4530",
+        "number": "383",
+        "key": "SEME TTC",
+        "name": "SEME TEACHERS COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3955",
+        "number": "384",
+        "key": "SEME TVC",
+        "name": "SEME TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1049",
+        "number": "385",
+        "key": "SHAMBERERE TTI",
+        "name": "SHAMBERERE TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4450",
+        "number": "386",
+        "key": "SHANZU TTC",
+        "name": "SHANZU TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1610",
+        "number": "387",
+        "key": "SIALA TTI",
+        "name": "SIALA TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1430",
+        "number": "388",
+        "key": "SIT",
+        "name": "SIAYA INSTITUTE OF TECHNOLOGY",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1084",
+        "number": "389",
+        "key": "SIGALAGALA POLY",
+        "name": "SIGALAGALA NATIONAL POLYTECHNIC",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "2045",
+        "number": "390",
+        "key": "SIKRI TTIBD",
+        "name": "SIKRI TECHNICAL TRAINING INSTITUTE FOR THE BLIND AND DEAF",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "2930",
+        "number": "391",
+        "key": "SIRISIA TVC",
+        "name": "SIRISIA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4210",
+        "number": "392",
+        "key": "SIRUTI TVC",
+        "name": "SIRUTI TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1705",
+        "number": "393",
+        "key": "SOT TTI",
+        "name": "SOT TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1720",
+        "number": "394",
+        "key": "SOTIK TTI",
+        "name": "SOTIK TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1166",
+        "number": "395",
+        "key": "SEKU",
+        "name": "SOUTH EASTERN KENYA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5265",
+        "number": "396",
+        "key": "SEKU TVET - MIGWANI",
+        "name": "SOUTH EASTERN KENYA UNIVERSITY TVET - MIGWANI",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "5270",
+        "number": "397",
+        "key": "SEKU TVET - MTITO ANDEI",
+        "name": "SOUTH EASTERN KENYA UNIVERSITY TVET - MTITO ANDEI",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "1380",
+        "number": "398",
+        "key": "ST.JOSEPH TI",
+        "name": "ST JOSEPH'S TECHNICAL INSTITUTE FOR THE DEAF NYANG'OMA",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1107",
+        "number": "399",
+        "key": "SPU",
+        "name": "ST PAULS UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "4415",
+        "number": "400",
+        "key": "ST. AUGUSTINE TTC - EREGI",
+        "name": "ST. AUGUSTINE TEACHERS TRAINING COLLEGE - EREGI",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4500",
+        "number": "401",
+        "key": "ST. JOHN'S TTC - KILIMAMBOGO",
+        "name": "ST. JOHN'S TEACHERS TRAINING COLLEGE - KILIMAMBOGO",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4430",
+        "number": "402",
+        "key": "ST. MARKS TTC-KIGARI",
+        "name": "ST. MARKS TEACHERS TRAINING COLLEGE-KIGARI",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1091",
+        "number": "403",
+        "key": "TTU",
+        "name": "TAITA TAVETA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4575",
+        "number": "404",
+        "key": "TAMBACH TTC",
+        "name": "TAMBACH  TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4355",
+        "number": "405",
+        "key": "TANA RIVER TVC",
+        "name": "TANA RIVER TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1475",
+        "number": "406",
+        "key": "TUC",
+        "name": "TANGAZA UNIVERSITY COLLEGE",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "5330",
+        "number": "407",
+        "key": "TARBAJ TVC",
+        "name": "TARBAJ TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3315",
+        "number": "408",
+        "key": "TAVETA TVC",
+        "name": "TAVETA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1112",
+        "number": "409",
+        "key": "TUK",
+        "name": "TECHNICAL UNIVERSITY OF KENYA",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1063",
+        "number": "410",
+        "key": "TUM",
+        "name": "TECHNICAL UNIVERSITY OF MOMBASA",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4095",
+        "number": "411",
+        "key": "TETU TVC",
+        "name": "TETU TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3825",
+        "number": "412",
+        "key": "THARAKA TVC",
+        "name": "THARAKA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1685",
+        "number": "413",
+        "key": "THRKU",
+        "name": "THARAKA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4685",
+        "number": "414",
+        "key": "THARAKA UNIVERSITY TI",
+        "name": "THARAKA UNIVERSITY TVET INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "1216",
+        "number": "415",
+        "key": "BUNGOMA  POLY",
+        "name": "THE BUNGOMA NATIONAL POLYTECHNIC",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4625",
+        "number": "416",
+        "key": "CUK NAIROBI CBD TI",
+        "name": "THE CUK NAIROBI CBD TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "1500",
+        "number": "417",
+        "key": "TEAU",
+        "name": "THE EAST AFRICAN UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "4615",
+        "number": "418",
+        "key": "UOEM TI",
+        "name": "THE UNIVERSITY OF EMBU TVET INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "1269",
+        "number": "419",
+        "key": "THIKA TTI",
+        "name": "THIKA TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4470",
+        "number": "420",
+        "key": "THOGOTO TTC",
+        "name": "THOGOTO TEACHERS TRAINING COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4155",
+        "number": "421",
+        "key": "TIGANIA EAST TVC",
+        "name": "TIGANIA EAST TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "2727",
+        "number": "422",
+        "key": "TINDIRET TVC",
+        "name": "TINDIRET TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1415",
+        "number": "423",
+        "key": "TOMBOYA LC",
+        "name": "TOM MBOYA LABOUR COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": ""
+    },
+    {
+        "id": "1515",
+        "number": "424",
+        "key": "TMU",
+        "name": "TOM MBOYA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4105",
+        "number": "425",
+        "key": "TOTAL TVC",
+        "name": "TOTAL TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1575",
+        "number": "426",
+        "key": "TSEIKURU TTI",
+        "name": "TSEIKURU TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5305",
+        "number": "427",
+        "key": "TUM TVET INSTITUTE",
+        "name": "TUM TVET INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "University TVET"
+    },
+    {
+        "id": "4170",
+        "number": "428",
+        "key": "TURBO TVC",
+        "name": "TURBO TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4045",
+        "number": "429",
+        "key": "TURKANA EAST TVC",
+        "name": "TURKANA EAST TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4565",
+        "number": "430",
+        "key": "TURKANA NORTH TVC",
+        "name": "TURKANA NORTH TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1570",
+        "number": "431",
+        "key": "TRUC",
+        "name": "TURKANA UNIVERSITY COLLEGE",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4545",
+        "number": "432",
+        "key": "UGENYA TC",
+        "name": "UGENYA TEACHERS COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "3830",
+        "number": "433",
+        "key": "UGENYA TVC",
+        "name": "UGENYA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4010",
+        "number": "434",
+        "key": "UGUNJA TVC",
+        "name": "UGUNJA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1181",
+        "number": "435",
+        "key": "BARA",
+        "name": "UNIVERSITY OF EASTERN AFRICA, BARATON",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1114",
+        "number": "436",
+        "key": "UOE",
+        "name": "UNIVERSITY OF ELDORET",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1093",
+        "number": "437",
+        "key": "UOEM",
+        "name": "UNIVERSITY OF EMBU",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1118",
+        "number": "438",
+        "key": "UOK",
+        "name": "UNIVERSITY OF KABIANGA",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1263",
+        "number": "439",
+        "key": "UON",
+        "name": "UNIVERSITY OF NAIROBI",
+        "category": "University",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4695",
+        "number": "440",
+        "key": "URIRI TVC",
+        "name": "URIRI TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1116",
+        "number": "441",
+        "key": "UZIMA",
+        "name": "UZIMA UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "4655",
+        "number": "442",
+        "key": "WAJIR EAST TVC",
+        "name": "WAJIR EAST TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4180",
+        "number": "443",
+        "key": "WANGA TVC",
+        "name": "WANGA TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4005",
+        "number": "444",
+        "key": "WEBUYE WEST TVC",
+        "name": "WEBUYE WEST TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1620",
+        "number": "445",
+        "key": "WERU TVC",
+        "name": "WERU TECHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "5235",
+        "number": "446",
+        "key": "WEST MUGIRANGO TVC",
+        "name": "WEST MUGIRANGO  TECHCHNICAL AND VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1243",
+        "number": "447",
+        "key": "WOTE TTI",
+        "name": "WOTE TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "4660",
+        "number": "448",
+        "key": "WUMINGU TVC",
+        "name": "WUMINGU TECHNICAL & VOCATIONAL COLLEGE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    },
+    {
+        "id": "1425",
+        "number": "449",
+        "key": "ZETECH",
+        "name": "ZETECH UNIVERSITY",
+        "category": "University",
+        "institution_type": "Private",
+        "parent_ministry": "Private Institution"
+    },
+    {
+        "id": "1650",
+        "number": "450",
+        "key": "ZIWA TTI",
+        "name": "ZIWA TECHNICAL TRAINING INSTITUTE",
+        "category": "College",
+        "institution_type": "Public",
+        "parent_ministry": "Ministry of Education"
+    }
+]
